@@ -1,0 +1,12 @@
+<area xOffset="0" yOffset="0" width="1" height="1" defaultTile="ground_tile">
+  <assets>
+    <asset id="290"/>
+  </assets>
+  <layers>
+    <layer name="ground" sort="false" type="diamond" tileWidth="200" tileHeight="100" maxTileLayers="4">
+      <tile asset="290,,," x="0" y="0" flags=""/>
+    </layer>
+    <layer name="road" sort="false" type="diamond" tileWidth="200" tileHeight="100" maxTileLayers="1"/>
+    <layer name="object" sort="false" type="diamond" tileWidth="100" tileHeight="50" maxTileLayers="1"/>
+  </layers>
+</area>

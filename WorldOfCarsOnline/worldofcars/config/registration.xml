@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<config>
+	<flashAPI>
+		<login>http://apps.dxd.go.com/dxd/dcom3_flash_api/login</login>
+		<createAccount>http://apps.dxd.go.com/dxd/dcom3_flash_api/createAccount</createAccount>
+		<checkUsernameAvailability>http://apps.dxd.go.com/dxd/dcom3_flash_api/checkUsernameAvailability</checkUsernameAvailability>
+		<checkUsernameApproval>http://apps.dxd.go.com/dxd/dcom3_flash_api/checkUsernameApproval</checkUsernameApproval>
+		<checkValidationStatus>http://apps.dxd.go.com/dxd/dcom3_flash_api/checkValidationStatus</checkValidationStatus>
+		<submitAliasForApproval>http://apps.dxd.go.com/dxd/dcom3_flash_api/submitAliasForApproval</submitAliasForApproval>
+		<creditCardValidation>http://register.go.com/dxd/validation/authorize</creditCardValidation>
+		<getFamilyStructure>http://apps.dxd.go.com/dxd/dcom3_flash_api/getFamilyStructure</getFamilyStructure>
+		<verifyAccountCredentials>http://apps.dxd.go.com/dxd/dcom3_flash_api/verifyAccountCredentials</verifyAccountCredentials>
+		<linkAccountToFamily>http://apps.dxd.go.com/dxd/dcom3_flash_api/linkAccountToFamily</linkAccountToFamily>
+		<removeAccountFromFamily>http://apps.dxd.go.com/dxd/dcom3_flash_api/removeAccountFromFamily</removeAccountFromFamily>
+		<updateAccount>http://apps.dxd.go.com/dxd/dcom3_flash_api/updateAccount</updateAccount>
+		<lookupAccount>http://apps.dxd.go.com/dxd/dcom3_flash_api/lookupAccount</lookupAccount>
+		<getAllNewsletterMetadata>http://apps.dxd.go.com/dxd/dcom3_flash_api/getAllNewsletterMetadata</getAllNewsletterMetadata>
+		<notifyParent>http://apps.dxd.go.com/dxd/dcom3_flash_api/notifyParent</notifyParent>
+		<authenticateAndUpdateOptins>http://apps.dxd.go.com/dxd/dcom3_flash_api/authenticateAndUpdateOptins</authenticateAndUpdateOptins>
+		<sendChatPermissionEmails>http://apps.dxd.go.com/dxd/dcom3_flash_api/sendChatPermissionEmails</sendChatPermissionEmails>
+		<getTermsOfUseText>http://apps.dxd.go.com/dxd/dcom3_flash_api/getTermsOfUseText</getTermsOfUseText>
+		<logout>http://apps.dxd.go.com/dxd/dcom3_flash_api/logout</logout>
+   </flashAPI>
+</config>

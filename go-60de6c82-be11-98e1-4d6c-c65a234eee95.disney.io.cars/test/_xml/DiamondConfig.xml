@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+<content>
+	<configUrl>http://a.dolimg.com/diamond/DCOM_Common_Views/DCOM_Common_Style_Small_Black/data/handshake.xml</configUrl>
+	<diamondUrl>http://a.dolimg.com/diamond/flash_renderer/code/diamond.swf</diamondUrl>
+	<flow>BareOverlay</flow>
+	<backupPresentationId1>DCOM_Common_Style_Small_Black</backupPresentationId1>
+	<presentationId>BareOverlay</presentationId>
+	<sequence>DCOM_BareOverlay_PassiveLoginStartSequence</sequence>
+	<promoName>Guest_Services_Lightyear_Registration</promoName>
+	<siteCode>US.EN.DIS</siteCode>
+	<templateId>1273</templateId>
+	<affiliateId>Disney_49</affiliateId>
+	<region>en-US</region>
+</content>
+</data>

@@ -1,0 +1,32 @@
+<map width="3" height="3">
+  <assets>
+    <asset id="1360"/>
+    <asset id="1189"/>
+    <asset id="1238"/>
+    <asset id="1367"/>
+    <asset id="281"/>
+    <asset id="282"/>
+    <asset id="283"/>
+  </assets>
+  <layers>
+    <layer name="ground" tileWidth="200" tileHeight="100">
+      <tile asset="1367,281" x="0" y="0" flags=""/>
+      <tile asset="1367,281" x="1" y="0" flags=""/>
+      <tile asset="1360,281" x="2" y="0" flags=""/>
+      <tile asset="1367,282" x="0" y="1" flags=""/>
+      <tile asset="1367,282" x="1" y="1" flags=""/>
+      <tile asset="1367,282" x="2" y="1" flags=""/>
+      <tile asset="1367,283" x="0" y="2" flags=""/>
+      <tile asset="1367,283" x="1" y="2" flags=""/>
+      <tile asset="1367,283" x="2" y="2" flags=""/>
+    </layer>
+    <layer name="road" tileWidth="200" tileHeight="100">
+      <tile asset="1189" x="0" y="1" flags=""/>
+      <tile asset="1189" x="2" y="1" flags=""/>
+    </layer>
+    <layer name="object" tileWidth="50" tileHeight="25">
+      <tile asset="1238" x="5" y="7" flags=""/>
+      <tile asset="1238" x="9" y="8" flags=""/>
+    </layer>
+  </layers>
+</map>

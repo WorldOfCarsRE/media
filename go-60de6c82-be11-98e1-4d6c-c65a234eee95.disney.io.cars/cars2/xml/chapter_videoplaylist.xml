@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fsp>
+	<playlist>
+		<channel name="" prettyName="" id="">
+		
+			<chapter title="Trailer" thumbnail="assets/thumbnails/cars_trailer.jpg" type="single" description="Get revved with a first look at Cars 2!" id="09174">
+				
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09174_wdpm_car_2_cars_2_trailer_hi" progurl_low="xd09174_wdpm_car_2_cars_2_trailer_sw" id="09174" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|trailer" mediaformat="flv" mediarating="off"/>
+				</clip>
+			</chapter>
+			
+			<chapter title="Teaser" thumbnail="assets/thumbnails/cars-2-teaser-lightning.jpg" type="single" description="Mater and Lightning McQueen return in Cars 2." id="08994">
+				
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd08992_wdpm_car_2_teaser_trailer_hi" progurl_low="xd08992_wdpm_car_2_teaser_trailer_sw" id="08994" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|sneak_peek" mediaformat="flv" mediarating="off"/>
+				</clip>
+			</chapter>
+			
+		</channel>
+	</playlist>
+</fsp>
+<!-- updated 101221 mw -->

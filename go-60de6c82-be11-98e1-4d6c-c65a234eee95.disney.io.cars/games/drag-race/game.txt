@@ -1,0 +1,69 @@
+﻿//!--UTF8
+
+
+/* General
+------------------------*/
+
+&txt_incinemas=In Cinemas&
+&txt_releasedate=28 July 2006&
+&txt_copyright=Ferrari elements are trademarks of Ferrari S.p.A&
+
+/* Start screen
+------------------------*/
+
+&txt_howtoplay=How to Play&
+&txt_howtoplay_copy1=So you reckon you're fast, eh? Well, stop shooting off your mouth about it and show us! I'll even time you!&
+&txt_howtoplay_copy2=Keep hitting the 'Left' and 'Right' arrow keys to rev up. Once the green light shows, hit the 'Down' arrow key to take off. But keep your revs up until you cross the finish line!&
+&txt_intro="Think you're fast enough, hot shot?"&
+
+
+/* Game screen
+------------------------*/
+
+&txt_revs=Revs&
+&txt_revup=Rev up...&
+&txt_keepgoing=Keep going!&
+&txt_time=Time:&
+&txt_record=Record:&
+&txt_rev_up=CONTROLS&
+&txt_rev_go=GO&
+&txt_ghost=GHOST&
+&txt_time=Time:&
+&txt_rev_go=GO&
+
+
+/* End screen
+------------------------*/
+
+&txt_yourtime=You did the 1/4 mile in:&
+&txt_finishline=Finish Line!&
+&txt_seconds=seconds&
+&txt_tryagain=TRY AGAIN&
+
+&end_c1=5&
+&txt_c1_1="Not bad hot-shot, but I think you could do even better"&
+&txt_c1_2="Not bad for a rookie, want to challenge again?"&
+&txt_c1_3="Keep up times like that and you could be a contender for the cup."&
+&txt_c1_4="I like your style kid, but you still have some moves to learn"&
+&txt_c1_5="Hey you're pretty good, but you'll need to keep at it to be a champion."&
+
+
+&end_c2=4&
+&txt_c2_1="Even an old Doc like me can beat you, you'd better keep practicing"&
+&txt_c2_2="Better check your handbrake, you drive like you have it on!"&
+&txt_c2_3="You'll never win the cup if you race like that, keep trying!"&
+&txt_c2_4="This isn't about style, it's about speed - so start revving it up!"&
+
+&txt_newrecord=NEW RECORD!&
+&txt_previousrecord=Previous record:&
+
+
+/* Buttons
+------------------------*/
+
+&txt_reset=RESET&
+&txt_help=HELP&
+&txt_play=PLAY&
+&txt_restart=Restart the game&
+
+&txt_LOADED=1&

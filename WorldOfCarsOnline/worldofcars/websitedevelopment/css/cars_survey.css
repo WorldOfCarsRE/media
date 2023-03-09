@@ -1,0 +1,216 @@
+/* CSS Reset ---------------------------------------------*/
+html {
+	color: #000;
+	background: #FFF;
+}
+ 
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,
+form,fieldset,legend,input,button,textarea,p,blockquote,th,td {
+	margin: 0;
+	padding: 0;
+}
+ 
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+ 
+fieldset,img {
+	border: 0;
+}
+ 
+address,caption,cite,code,dfn,em,strong,th,var,optgroup {
+	font-style: inherit;
+	font-weight: inherit;
+}
+ 
+del,ins {
+	text-decoration: none;
+}
+ 
+li {
+	list-style: none;
+}
+ 
+caption,th {
+	text-align: left;
+}
+ 
+h1,h2,h3,h4,h5,h6 {
+	font-size: 100%;
+	font-weight: normal;
+}
+ 
+q:before,q:after {
+	content: '';
+}
+ 
+abbr,acronym {
+	border: 0;
+	font-variant: normal;
+}
+ 
+sup {
+	vertical-align: baseline;
+}
+ 
+sub {
+	vertical-align: baseline;
+}
+ 
+legend {
+	color: #000;
+}
+ 
+input,button,textarea,select,optgroup,option {
+	font-family: inherit;
+	font-size: inherit;
+	font-style: inherit;
+	font-weight: inherit;
+}
+ 
+input,button,textarea,select {
+	*font-size: 100%;
+}
+/*-------------------------------------------------------*/
+
+body {
+	background: #000000;
+	font: 12px/14px 'Verdana', 'Geneva', 'sans-serif';
+	color: #434343;
+}
+
+h1 {
+	font-size: 1.6em;
+	line-height: 1.6em;
+	font-weight: bold;
+	font-family: 'Arial';
+	color: #ef5319;
+}
+
+h2 {
+	font-size: 1.3em;
+	line-height: 1.3em;
+	font-weight: bold;
+	font-family: 'Arial';
+	color: #ef5319;
+}
+
+.sys-clear {
+	font-size: 1px;
+	line-height: 1px;
+	height: 1px;
+	margin-bottom: -1px;
+	clear: both;
+}
+
+.btn-skip {
+	border: none;
+	width: 133px;
+	height: 36px;
+	background: url(../images/buttons/skip.gif) no-repeat;
+	text-indent: -9999px;
+	margin-left: 50px;
+	display: block;
+	float: left;
+}
+
+.btn-submit {
+	border: none;
+	width: 133px;
+	height: 36px;
+	background: url(../images/buttons/submit-36.gif) no-repeat;
+	text-indent: -9999px;
+	cursor: pointer;
+	display: block;
+	float: left;
+}
+
+.btn-skip:hover, .btn-submit:hover {
+	background-position: 0px -36px;
+}
+
+.svy-surveyWrapper {
+	background: url(../images/backgrounds/woc-bg-narrow.jpg) top center no-repeat;
+}
+
+.svy-surveyContainer .svy-buttonContainer {
+	margin-top: 10px;
+}
+
+.svy-surveyContainer .svy-survey {
+	background: url(../images/backgrounds/bg-surveyContainer.jpg);
+	width: 613px;
+	margin: 10px auto;
+
+}
+
+.svy-surveyContainer .svy-survey form {
+	padding: 0px 45px;
+}
+
+.svy-surveyContainer .svy-survey form .svy-dividerFlag {
+	padding: 10px 0px;
+}
+
+.svy-surveyContainer .svy-survey form .svy-instructions {
+	border-bottom: 1px solid #bfc3c7;
+	margin-bottom: 5px;
+}
+
+.svy-surveyContainer .svy-survey form .svy-surveyQuestions .svy-surveyQuestion {
+	list-style-type: decimal;
+	list-style-position: inside;
+	margin-bottom: 20px;
+}
+
+.svy-surveyContainer .svy-survey form .svy-surveyAnswerChoices {
+	margin-left: 20px;
+}
+
+.svy-surveyContainer .svy-survey form .svy-surveyAnswerChoices li {
+	margin-top: 5px;
+}
+
+.svy-surveyContainer .svy-survey form .svy-surveyAnswerChoices li input {
+	margin-right: 5px;
+}
+
+.svy-surveyContainer .svy-survey form .svy-commentsContainer h2 {
+	color: #434343;
+}
+
+.svy-surveyContainer .svy-survey form .svy-commentsContainer .svy-comments {
+	width: 490px;
+	height: 140px;
+	margin: auto;
+	border: 1px solid #434343;
+	padding: 5px;
+	margin-top: 5px;
+}
+
+.svy-surveyContainer .svy-survey .svy-errorContainer {
+	display: none;
+	margin-top: 5px;
+	font-weight: bold;
+	color: #FF0000;
+}
+
+.svy-surveyContainer .svy-survey .svy-surveyFooter {
+	background: url(../images/backgrounds/bg-surveyContainer.jpg) bottom center;
+	height: 18px;
+}
+
+.svy-surveyContainer .svy-survey .svy-surveyHeader {
+	background: url(../images/backgrounds/bg-surveyContainer.jpg);
+	height: 186px;
+}
+
+.svy-surveyContainer .form-error {
+	font-weight: bold;
+	color: #FF0000;
+}
+.svy-surveyContainer .form-error li {
+	color: #000000;
+	font-weight: normal;
+}

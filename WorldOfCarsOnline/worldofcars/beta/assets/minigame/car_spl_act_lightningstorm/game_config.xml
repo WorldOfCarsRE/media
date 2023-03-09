@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game_config>
+  <content swf="car_spl_act_lightningstorm_content.swf"/>
+  <gating level="4" souvenir="0" />
+  <GameModels>
+	<McQueenModel type="smod" model="rig/character/franchise/car_r_chr_frn_lightningStormLow.smod"/>
+	<MaterModel type="smod" model="rig/character/franchise/car_r_chr_frn_materLow.smod"/>	
+  </GameModels>
+  <GameAnimations>
+	<McQueen>
+		<Idle file="animation/character/franchise/car_a_chr_frn_lightning_idleSmall.sani"/>
+		<MoveLeft file="animation/character/franchise/car_a_chr_frn_lightning_decel.sani"/>
+		<MoveRight file="animation/character/franchise/car_a_chr_frn_lightning_accel.sani"/>
+		<MoveUp file="animation/character/franchise/car_a_chr_frn_lightning_bankLeft.sani"/>
+		<MoveDown file="animation/character/franchise/car_a_chr_frn_lightning_bankRight.sani"/>
+		<Die file="animation/character/franchise/car_a_chr_frn_lightning_nosedive.sani"/>
+		<GetHit file="animation/character/franchise/car_a_chr_frn_lightning_hit.sani"/>
+		<Fire file="animation/character/franchise/car_a_chr_frn_lightning_firing.sani"/>
+		<Wahoo file="animation/character/franchise/car_a_chr_frn_lightning_wahoo.sani"/>
+	</McQueen>
+	<Mater>
+		<Idle file="animation/character/franchise/car_a_chr_frn_mater_dance.sani"/>
+		<MoveRight file="animation/character/franchise/car_a_chr_frn_mater_dance.sani"/>
+	</Mater>	
+  </GameAnimations>
+  <Settings>
+	<DebugMode active="0" description="0 = normal release mode.  1 = use debug info and cheat codes for testing"/>
+  	<LowdetailMode active="1" description="default detail setting. 0 = Hi detail. 1 = Low detail."/>
+    <Use2DOnly active="0" description="Use 3D model or 2D artwork.  0 = 3D model. 1 = 2D artwork. 2 = both. (to test collision)"/>
+	<Piston health="20"/>
+	<Powerup health="10"/>
+	<Difficulty lives="4" />
+	<Orb numSlots="10" pixelsPerSlot="7" />
+  </Settings>
+</game_config>

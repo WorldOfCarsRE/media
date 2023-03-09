@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<fsp>
+
+	<playlist>
+
+		<channel name="" prettyName="" id="2737498">
+<chapter title="Live FLV" thumbnail="media/icons/ico_72x60_01.jpg" type="multiple" description="A promo single item" id="1">
+<clip local="false" adcat="" audioart="">
+<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="disneypictures/xd09360_wdpm_pir_ost_potc_on_stranger_tides_trailer_1_hi" progurl_low="disneypictures/xd09360_wdpm_pir_ost_potc_on_stranger_tides_trailer_1_hi" id="1" length="" start="" reportingAccount="wdgdsec" reportingAssetName="ad|dis|xd06884_wdhe_sno_fun_facts_2_na_sm" mediaformat="mp4" mediarating="TV-G" aspectRatio="16:9"/>
+</clip>
+</chapter>
+<chapter title="Mercury_Tlr1_L1_235_384.mp4" thumbnail="http://a.dolimg.com/media/en-US/dxd/bitmaps/icons/videos/ico_rtps_overview_xd07630_72.jpg" type="single" description="Discover your inner scientist at the Disney Parks!" id="2">
+<clip local="false" adcat="" audioart="">
+<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="mp4:test/Mercury_Tlr1_L1_235_384.mp4" progurl_low="mp4:test/Mercury_Tlr1_L1_235_384.mp4" id="2" length="" start="" reportingAccount="wdgdsec" reportingAssetName="ad|dis|xd06857_dol_hah_hmn_40th_history_haunted_mansion_sm" mediaformat="mp4" mediarating="off" aspectRatio="2.333:1"/>
+</clip>
+</chapter>
+<chapter title="Mercury_Tlr1_L2_235_496.mp4" thumbnail="media/icons/ico_72x60_02.jpg" type="single" description="A promo single item" id="3">
+<clip local="false" adcat="" audioart="">
+<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="mp4:test/Mercury_Tlr1_L2_235_496.mp4" progurl_low="mp4:test/Mercury_Tlr1_L2_235_496.mp4" id="3" length="" start="" reportingAccount="wdgdsec" reportingAssetName="ad|dis|xd06857_dol_hah_hmn_40th_history_haunted_mansion_sm" mediaformat="mp4" mediarating="off" aspectRatio="2.363:1"/>
+</clip>
+</chapter>
+<chapter title="Mercury_Tlr1_L3_235_652.mp4" thumbnail="media/icons/ico_72x60_03.jpg" type="single" description="A promo single item" id="4">
+<clip local="false" adcat="" audioart="">
+<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="mp4:test/Mercury_Tlr1_L3_235_652.mp4" progurl_low="mp4:test/Mercury_Tlr1_L3_235_652.mp4" id="4" length="" start="" reportingAccount="wdgdsec" reportingAssetName="ad|dis|xd06857_dol_hah_hmn_40th_history_haunted_mansion_sm" mediaformat="mp4" mediarating="off" aspectRatio="2.357:1"/>
+</clip>
+</chapter>
+<chapter title="Mercury_Tlr1_L4_235_930.mp4" thumbnail="http://a.dolimg.com/media/en-US/dxd/bitmaps/icons/videos/ico_rtps_overview_xd07630_72.jpg" type="single" description="Discover your inner scientist at the Disney Parks!" id="5">
+<clip local="false" adcat="" audioart="">
+<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="mp4:test/Mercury_Tlr1_L4_235_930.mp4" progurl_low="mp4:test/Mercury_Tlr1_L4_235_930.mp4" id="5" length="" start="" reportingAccount="wdgdsec" reportingAssetName="ad|dis|xd06857_dol_hah_hmn_40th_history_haunted_mansion_sm" mediaformat="mp4" mediarating="off" aspectRatio="2.352:1"/>
+</clip>
+</chapter>
+<chapter title="Mercury_Tlr1_L5_235_1216.mp4" thumbnail="media/icons/ico_72x60_02.jpg" type="single" description="A promo single item" id="6">
+<clip local="false" adcat="" audioart="">
+<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="mp4:test/Mercury_Tlr1_L5_235_1216.mp4" progurl_low="mp4:test/Mercury_Tlr1_L5_235_1216.mp4" id="6" length="" start="" reportingAccount="wdgdsec" reportingAssetName="ad|dis|xd06857_dol_hah_hmn_40th_history_haunted_mansion_sm" mediaformat="mp4" mediarating="off" aspectRatio="2.333:1"/>
+</clip>
+</chapter>
+<chapter title="Mercury_Tlr1_L6_235_1606.mp4" thumbnail="media/icons/ico_72x60_03.jpg" type="single" description="A promo single item" id="7">
+<clip local="false" adcat="" audioart="">
+<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="mp4:test/Mercury_Tlr1_L6_235_1606.mp4" progurl_low="mp4:test/Mercury_Tlr1_L6_235_1606.mp4" id="7" length="" start="" reportingAccount="wdgdsec" reportingAssetName="ad|dis|xd06857_dol_hah_hmn_40th_history_haunted_mansion_sm" mediaformat="mp4" mediarating="off" aspectRatio="2.346:1"/>
+</clip>
+</chapter>
+<chapter title="Mercury_Tlr1_L7_235_2078.mp4" thumbnail="http://a.dolimg.com/media/en-US/dxd/bitmaps/icons/videos/ico_rtps_overview_xd07630_72.jpg" type="single" description="Discover your inner scientist at the Disney Parks!" id="8">
+<clip local="false" adcat="" audioart="">
+<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="mp4:test/Mercury_Tlr1_L7_235_2078.mp4" progurl_low="mp4:test/Mercury_Tlr1_L7_235_2078.mp4" id="8" length="" start="" reportingAccount="wdgdsec" reportingAssetName="ad|dis|xd06857_dol_hah_hmn_40th_history_haunted_mansion_sm" mediaformat="mp4" mediarating="off" aspectRatio="2.343:1"/>
+</clip>
+</chapter>
+<chapter title="Mercury_Tlr1_L8_235_2760.mp4" thumbnail="media/icons/ico_72x60_02.jpg" type="single" description="A promo single item" id="9">
+<clip local="false" adcat="" audioart="">
+<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="mp4:test/Mercury_Tlr1_L8_235_2760.mp4" progurl_low="mp4:test/Mercury_Tlr1_L8_235_2760.mp4" id="9" length="" start="" reportingAccount="wdgdsec" reportingAssetName="ad|dis|xd06857_dol_hah_hmn_40th_history_haunted_mansion_sm" mediaformat="mp4" mediarating="off" aspectRatio=""/>
+</clip>
+</chapter>
+
+
+		</channel>
+
+	</playlist>
+
+</fsp>

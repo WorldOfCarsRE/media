@@ -1,0 +1,200 @@
+A:link {text-decoration:underline;color:#92C9E4;}
+A:visited {text-decoration:underline;color:#3A505D;}
+A:active {text-decoration:underline;color:#D1E9F3;}
+A:hover {text-decoration:underline;color:#FFFFFF;}
+
+#background {
+	background-image:url(http://a.dolimg.com/worldofcars/betasiteassets/images/background/blog.jpg);
+}
+
+#preload {
+	visibility:hidden;
+}
+
+#blogwrapper {
+	width:504px;
+	min-height: 350px;
+	height: auto !important;
+	height: 350px;
+}
+
+#blogbody {
+	background-image:url(http://a.dolimg.com/worldofcars/betasiteassets/images/blog/blogbodybackground.gif);
+	background-repeat: repeat-y;
+	width:504px;
+	min-height: 350px;
+	height: auto !important;
+	height: 350px;
+	font-family:arial, helvetica, verdana, sans-serif;
+	font-size: 10pt;
+	color: #FFFFFF;
+}
+
+#blogbottom {
+	background-image:url(http://a.dolimg.com/worldofcars/betasiteassets/images/blog/grphc_bottomChrome_blog2.jpg);
+	width:504px;
+	height:57px;
+}
+
+.commentheadleft {
+	background-image:url(http://a.dolimg.com/worldofcars/betasiteassets/images/blog/topLeft_commentBox_archive.jpg);
+	width:15px;
+	height:16px;
+}
+
+.commentheadmid {
+	background-color:#6E90A9;
+	color:#FFFFFF;
+	font-size:8pt;
+	text-align:left;
+}
+
+.commentheadright {
+	background-image:url(http://a.dolimg.com/worldofcars/betasiteassets/images/blog/topRight_commentBox_archive.jpg);
+	width:15px;
+	height:16px;
+}
+
+.commenttopleft {
+	background-image:url(http://a.dolimg.com/worldofcars/betasiteassets/images/blog/topLeft_mid_commentBox_archive.jpg);
+	width:15px;
+	height:16px;
+}
+
+.commenttopmid {
+	background-image:url(http://a.dolimg.com/worldofcars/betasiteassets/images/blog/topMiddle_mid_commentBox_archive.jpg);
+	width:366px;
+	height:16px;
+}
+
+.commenttopright {
+	background-image:url(http://a.dolimg.com/worldofcars/betasiteassets/images/blog/topRight_mid_commentBox_archive.jpg);
+	width:15px;
+	height:16px;
+}
+
+.commentmidleft {
+	background-image:url(http://a.dolimg.com/worldofcars/betasiteassets/images/blog/midLeft_commentBox_archive.jpg);
+	width:15px;
+	height:24px;
+}
+
+.commentmidcenter {
+	background-color:#39505E;
+	color:#FFFFFF;
+	font-size:8pt;
+	text-align:left;
+}
+
+.commentmidright {
+	background-image:url(http://a.dolimg.com/worldofcars/betasiteassets/images/blog/midRight_commentBox_archive.jpg);
+	width:15px;
+	height:24px;
+}
+
+.commentbottomleft {
+	background-image:url(http://a.dolimg.com/worldofcars/betasiteassets/images/blog/btmLeft_commentBox_archive.jpg);
+	width:15px;
+	height:22px;
+}
+
+.commentbottommid {
+	background-image:url(http://a.dolimg.com/worldofcars/betasiteassets/images/blog/btmMiddle_commentBox_archive.jpg);
+	width:366px;
+	height:22px;
+}
+
+.commentbottomright {
+	background-image:url(http://a.dolimg.com/worldofcars/betasiteassets/images/blog/btmRight_commentBox_archive.jpg);
+	width:15px;
+	height:22px;
+}
+
+.commentlink {
+	font-size:8pt;
+	color:#97AFBF;
+	width:366px;
+	text-align:left;
+}
+
+.commenter {
+	text-weight:bold;
+	color:#94C1DB;
+}
+
+.legalease {
+	width:366px;
+	text-align:left;
+	font-size:8pt;
+	color:#92C9E4;
+}
+
+.titleleavecomment {
+	background-image:url(http://a.dolimg.com/worldofcars/betasiteassets/images/blog/title_mid_leaveAcomment_txt.jpg);
+	width:147px;
+	height:18px;
+}
+
+.titlecarnickname {
+	background-image:url(http://a.dolimg.com/worldofcars/betasiteassets/images/blog/title_lower_CarNickname_txt.jpg);
+	width:87px;
+	height:14px;
+	width:366px;
+	text-align:left;
+	background-repeat:no-repeat;
+}
+
+.titlecommenttext {
+	background-image:url(http://a.dolimg.com/worldofcars/betasiteassets/images/blog/title_lower_Comments_txt.jpg);
+	width:87px;
+	height:15px;
+	width:366px;
+	text-align:left;
+	background-repeat:no-repeat;
+}
+
+.blogentrytitle {
+	width:366px;
+	text-align:left;
+	font-size:9pt;
+	font-weight:bold;
+	color:#94C1DB;
+}
+
+.blogentrytitlesecondary {
+	width:366px;
+	text-align:left;
+	font-size:8pt;
+	text-weight:bold;
+	color:#CEDEEA;
+}
+
+.blogentry {
+	width:366px;
+	text-align:left;
+	font-size:8pt;
+	color:#FFFFFF;
+}
+
+.blogentrydate {
+	width:366px;
+	text-align:left;
+	font-size:8pt;
+	color:#FFFFFF;
+}
+
+.commentdivider {
+	color:#CEDEEA;
+	background-color:#CEDEEA;
+	width:60%;
+	border:1px;
+}
+
+#backbutton {
+	width:366px;
+	text-align:left;
+}
+
+#backbuttonspacer {
+	height:160px;
+}

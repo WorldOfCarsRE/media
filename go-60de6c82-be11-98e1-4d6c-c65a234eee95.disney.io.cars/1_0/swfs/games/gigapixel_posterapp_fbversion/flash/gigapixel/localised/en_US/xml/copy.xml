@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<!-- ===========================
+		 SHARED
+		 =========================== -->
+	<item id="test" ><![CDATA[ABc1ÁÖüŹąęśćŻćńźÁÖüŹÅØ]]></item>
+	<item id="frame.something" ></item>
+	
+	<!-- ===========================
+		INTRO
+	=========================== -->
+	
+	
+	<item id="intro.hd" ><![CDATA[MEGA POSTER EXPLORER]]></item>
+	<item id="intro.go" ><![CDATA[Let's Go]]></item>
+	<item id="intro.loading" ><![CDATA[GENERATING MAP...]]></item>
+	
+	<!-- ===========================
+		 Trailer
+		 =========================== -->
+	<item id="trailer.seeInCinemas" ><![CDATA[On Blu-ray™ Combo Pack, DVD<br />and Movie Download Nov 1]]></item>
+	
+	<!-- ===========================
+	 FRAME
+	 =========================== -->
+	<item id="frame.take" ><![CDATA[TAKE THE QUIZ]]></item>
+	<item id="frame.found" ><![CDATA[FOUND]]></item>
+	<item id="frame.visitSite" ><![CDATA[Visit Site]]></item>
+	<item id="frame.watchTrailer" ><![CDATA[Watch Trailer]]></item>
+	<item id="frame.becomeFan" ><![CDATA[BECOME A FAN]]></item>
+	<item id="frame.onFacebook" ><![CDATA[ON FACEBOOK]]></item>
+	<item id="frame.seeInCinemas" ><![CDATA[On Blu-ray™ Combo Pack, DVD<br />and Movie Download Nov 1]]></item>
+	<item id="frame.copyrightCopy" ><![CDATA[©2011 DISNEY / PIXAR]]></item>
+	
+	<!-- Terms and privacy links are only displayed if enabled in structure.xml -->
+	<item id="frame.termsCopy" ><![CDATA[Terms and conditions]]></item>
+	<item id="frame.privacyCopy" ><![CDATA[Privacy policy]]></item>
+	
+	<item id="frame.shareThis" ><![CDATA[SHARE THIS]]></item>
+	<item id="frame.twitterShareDescription" ><![CDATA[I'm playing on the Cars 2 Mega Poster from the new Disney Pixar film Cars 2, Want to take a look?]]></item>
+	<item id="frame.facebookShareDescription" ><![CDATA[I'm playing on the Cars 2 Mega Poster from the new Disney Pixar film Cars 2, Want to take a look?]]></item>
+	<item id="frame.facebookShareTitle" ><![CDATA[Cars 2 Mega Poster ]]></item>
+	
+	
+	<!-- ===========================
+		 QUIZ
+	=========================== -->
+	<item id="quiz.start" ><![CDATA[Go!]]></item>
+	<item id="quiz.no" ><![CDATA[NO]]></item>
+	<item id="quiz.yes" ><![CDATA[YES]]></item>
+	<item id="quiz.intro" ><![CDATA[Are you ready to take the Quiz?]]></item>
+	<item id="quiz.closeTxt" ><![CDATA[Close?]]></item>
+	<item id="quiz.time" ><![CDATA[Time]]></item>
+	<item id="quiz.total" ><![CDATA[Total]]></item>
+	<item id="quiz.popupHeading" ><![CDATA[Wow! You did it ]]></item>
+	<item id="quiz.popupFeedback" ><![CDATA[Take the quiz again and try to beat your time!]]></item>
+	<item id="quiz.timeTextPopup" ><![CDATA[in]]></item>
+	<item id="quiz.correctFeedback" ><![CDATA[That's right!]]></item>
+	<item id="quiz.wrongFeedback" ><![CDATA[Try again]]></item>
+	
+	<!-- ===========================
+		 INSTRUCTIONS
+	=========================== -->
+	<item id="instructionTitle.1" ><![CDATA[Move around]]></item>
+	<item id="instructionSub.1" ><![CDATA[Or drag with your mouse]]></item>
+	<item id="instructionTitle.2" ><![CDATA[Zoom in]]></item>
+	<item id="instructionSub.2" ><![CDATA[Or double-click]]></item>
+	<item id="instructionTitle.3" ><![CDATA[Zoom out]]></item>
+	<item id="instructionSub.3" ><![CDATA[Or try the scroll wheel]]></item>
+	<item id="instructionTitle.4" ><![CDATA[Go full screen]]></item>
+	<item id="instructionSub.4" ><![CDATA[]]></item>
+	<item id="instructionTitle.5" ><![CDATA[Explore the poster]]></item>
+	<item id="instructionSub.5" ><![CDATA[]]></item>
+	<item id="instructionTitle.6" ><![CDATA[Find fun facts]]></item>
+	<item id="instructionSub.6" ><![CDATA[]]></item>
+	<item id="instructionTitle.7" ><![CDATA[Take the quiz]]></item>
+	<item id="instructionSub.7" ><![CDATA[]]></item>
+	
+	<!-- ===========================
+		 POPUPS
+	=========================== -->
+	<item id="popup.fact" ><![CDATA[FACTS]]></item>
+	<item id="popup.facebook" ><![CDATA[LIKE MY PAGE ON FACEBOOK]]></item>
+	
+	<!-- ===========================
+		 FACTS
+	=========================== -->
+	
+	<item id="fact.1" ><![CDATA[Mater. The rusty old tow truck, proprietor of Tow Mater Towing and Salvage, is grand storyteller and the heart and soul of Radiator Springs. Mater appears in this poster another 2 times.]]></item>
+	<item id="fact.2" ><![CDATA[Mater. The rusty old tow truck, proprietor of Tow Mater Towing and Salvage, is grand storyteller and the heart and soul of Radiator Springs. Here he's disguised as a Geisha. Mater appears in this poster another 2 times.]]></item>
+	<item id="fact.3" ><![CDATA[Mater. The rusty old tow truck, proprietor of Tow Mater Towing and Salvage, is grand storyteller and the heart and soul of Radiator Springs. Here he's distracting a Royal Guard. Mater appears in this poster another 2 times.]]></item>
+	<item id="fact.4" ><![CDATA[Lightning's off-season is cut short when Mater enters him into the World Grand Prix, a race that will take him to Japan, Italy and England. Competing against the fastest cars in the world tests more than his racing skills when Lightning realizes his best friend may not be the pit chief he needs to navigate the unfamiliar international terrain.]]></item>
+	<item id="fact.5" ><![CDATA[Francesco Bernoulli grew up in the shadow of the famous Monza race course in Italy. The ladies love Francesco's open wheels, youngsters look up to his winning spirit and fellow racers envy his speed. Francesco appears in this poster another 2 times.]]></item>
+	<item id="fact.6" ><![CDATA[Francesco Bernoulli grew up in the shadow of the famous Monza race course in Italy. The ladies love Francesco's open wheels, youngsters look up to his winning spirit and fellow racers envy his speed. Francesco appears in this poster another 2 times.]]></item>
+	<item id="fact.7" ><![CDATA[John Lassetire is an all-American pickup truck, serving as the pit crew chief for Jeff Gorvette in the World Grand Prix. Rumors in the pits say he's even based on the Director, John Lasseter.]]></item>
+	<item id="fact.8" ><![CDATA[International Intelligence. Finn McMissile is a master British spy. Though charmingly eloquent, it's his stealth maneuvering and years in the field that enable him to thwart unexpected attacks from bad guys.]]></item>
+	<item id="fact.9" ><![CDATA[Holley Shiftwell is a beautiful young British desk agent, turned spy-in-training who's stationed in Tokyo. She's armed with the latest state-of-the-art spy equipment imaginable.]]></item>
+	<item id="fact.10" ><![CDATA[Sally (2002 Porsche 911) from the original Cars movie. Sally, a baby blue Porsche 911 Carrera, is the proprietor of Radiator Springs' Cozy Cone and Wheel Wagon Motels and the apple of Lightning McQueen's eye.]]></item>
+	<item id="fact.11" ><![CDATA[Sheriff (1949 Mercury Police Cruiser) from the original Cars movie. Sheriff is the local law enforcement and the keeper of the peace in Radiator Springs. He takes his job very seriously.]]></item>
+	<item id="fact.12" ><![CDATA[Ramone (1959 Impala lowrider) from the original Cars movie. Ramone owns and operates Ramone's House of Body Art, Radiator Springs' custom body and paint shop.]]></item>
+	<item id="fact.13" ><![CDATA[Mack (1980's mack Super-Liner) from the original Cars movie. Mack is Lightning McQueen's trusted long-haul driver, crisscrossing the country from race to race, always with a smile on his grill.]]></item>
+	<item id="fact.14" ><![CDATA[Flo from the original Cars movie. Flo is a sassy, no-nonsense lady who runs the local diner, Flo's V-8 Café, the only gas station for miles around.]]></item>
+	<item id="fact.15" ><![CDATA[Red (mid-1960's closed cab pumper) from the original Cars movie.]]></item>
+	<item id="fact.16" ><![CDATA[Guido, the little Italian forklift, is the backbone of Luigi's Casa Della Tires. Joining Team Lightning McQueen for the World Grand Prix, Guido will get to show off his turbo-charged, pedal-to-the-metal pit stops on the global stage, and maybe, just maybe, he'll see some Ferraris!]]></item>
+	<item id="fact.17" ><![CDATA[The surrounds of the clock in London are based on the real Bentley emblem.]]></item>
+	<item id="fact.18" ><![CDATA[Neon Lotso Huggin Bear from Pixar's Toy Story 3.]]></item>
+	<item id="fact.19" ><![CDATA[Harryhausen Sushi sign chopsticks from Pixar's Monsters Inc.]]></item>
+	<item id="fact.20" ><![CDATA[The Pope-mobile is driving through Italy.]]></item>
+	<item id="fact.21" ><![CDATA[The Queen of England is driving by Tower Bridge.]]></item>
+	<item id="fact.22" ><![CDATA[To all who know her, Luigi's aunt, Mama Topolino, is a masterful cook with the best fuel in the village of Santa Ruotina, near Porto Corsa, Italy.]]></item>
+	<item id="fact.23" ><![CDATA[Darrell Cartrip is a legendary multi-Piston Cup champion turned beloved racing announcer. The Kentucky-born #17 Chevrolet Monte Carlo is known for his wild color commentary, delighting Piston Cup fans with his humor, charisma and signature catchphrase "Boogity, Boogity, Boogity!"]]></item>
+	<item id="fact.24" ><![CDATA[Sir Miles Axlerod is a former oil baron who has sold off his fortune, converted himself into an electric vehicle and has devoted his life to finding the renewable, clean-burning energy source of the future. Axlerod is also the car behind the World Grand Prix.]]></item>
+	<item id="fact.25" ><![CDATA[Luigi is a big-hearted Italian Fiat 500. A tire virtuoso and owner of Luigi's Casa Della Tires, he and sidekick Guido join Lightning and Mater on Team Lightning McQueen for the World Grand Prix.]]></item>
+	<item id="fact.26" ><![CDATA[Lewis Hamilton. With his striking metallic black and yellow paint scheme, Lewis will represent Great Britain at the World Grand Prix. His unrivalled technical skills, natural speed ability and cool, karate-inspired attitude make him a powerful contender too.]]></item>
+	<item id="fact.27" ><![CDATA[Raoul ÇaRoule. Known as the "World's Greatest Rally Car," Raoul ÇaRoule was born in Alsace, France. Raoul is confident he can use his rally experience to pull ahead of his fellow World Grand Prix racers during the three courses' touchy dirt sections.]]></item>
+	
+	<!-- ===========================
+		 QUESTIONS
+	=========================== -->
+	<item id="q.1" ><![CDATA[Can you spot Mater on his 'flying visit' through Italy?]]></item>
+	<item id="q.2" ><![CDATA[Can you see Mater dressed as a Japanese Geisha?]]></item>
+	<item id="q.3" ><![CDATA[Mater's on royal guard distracting duty. But where is he? ]]></item>
+	<item id="q.4" ><![CDATA[Can you see Lightning McQueen, leading the way in Tokyo?]]></item>
+	<item id="q.5" ><![CDATA[Can you see Francesco Bernoulli chasing the lead in Japan?]]></item>
+	<item id="q.6" ><![CDATA[Can you find Francesco Bernoulli leading the race?]]></item>
+	<item id="q.7" ><![CDATA[Can you spot John Lassetire, the all-American pickup truck?]]></item>
+	<item id="q.8" ><![CDATA[Where is Finn McMissile fending off the bad guys?]]></item>
+	<item id="q.9" ><![CDATA[Holley Shiftwell also flies well! Can you see her?]]></item>	
+	<item id="q.10" ><![CDATA[Can you find Sally from Radiator Springs?]]></item>	
+	<item id="q.11" ><![CDATA[Can you find Sheriff from Radiator Springs?]]></item>
+	<item id="q.12" ><![CDATA[Can you find the lowrider Ramone from Radiator Springs?]]></item>
+	<item id="q.13" ><![CDATA[Can you find Mack, from Radiator Springs?]]></item>
+	<item id="q.14" ><![CDATA[Can you find Flo from Radiator Springs?]]></item>
+	<item id="q.15" ><![CDATA[Can you find Red, the fire engine from Radiator Springs?]]></item>
+	<item id="q.16" ><![CDATA[Who knew Guido had a musical family? Can you spot him?]]></item>
+	<item id="q.17" ><![CDATA[It's time to find Big Bentley! Can you see it?]]></item>
+	<item id="q.18" ><![CDATA[Can you find the neon Lotso Huggin Bear from Toy Story 3?]]></item>
+	<item id="q.19" ><![CDATA[Can you find the sushi sign inspired by Monsters Inc.?]]></item>	
+	<item id="q.20" ><![CDATA[A petrol-powered Pope? Can you spot the Pope-Mobile?]]></item>		
+	<item id="q.21" ><![CDATA[Never mind the Royal Wedding, can spot the Royal Car?]]></item>
+	<item id="q.22" ><![CDATA[Can you find Luigi's aunt, Mama Topolino?]]></item>
+	<item id="q.23" ><![CDATA[Can you find Darell Cartrip, the Piston Cup commentator?]]></item>
+	<item id="q.24" ><![CDATA[Miles Alexrod is the car behind the World Grand Prix. Where is he?]]></item>
+	<item id="q.25" ><![CDATA[Luigi has a big heart for such a little car. Can you find him?]]></item>
+	<item id="q.26" ><![CDATA[Can you find Lewis Hamilton?]]></item>	
+	<item id="q.27" ><![CDATA[Can you find French rally car Raoul ÇaRoule?]]></item>	
+	
+	<!-- ===========================
+		 INTRO
+	=========================== -->
+	<item id="intro.1" ><![CDATA[Question 1]]></item>
+    <item id="intro.2" ><![CDATA[Question 2]]></item>
+	<item id="intro.3" ><![CDATA[Question 3]]></item>
+    <item id="intro.4" ><![CDATA[Question 4]]></item>
+    <item id="intro.5" ><![CDATA[Last question]]></item>
+</data>

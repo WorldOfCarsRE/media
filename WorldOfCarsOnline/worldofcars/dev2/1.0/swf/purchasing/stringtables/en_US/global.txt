@@ -1,0 +1,87 @@
+﻿PADDING
+Continue
+Go Back
+Continue
+Select an offer...
+Redeem Guest Pass
+Select payment method...
+Visa
+Mastercard
+American Express
+PayPal
+Current Subscription:
+Account ID:
+Promotional Code:
+Enter Promotional Code
+Change Subscription
+Change Account ID
+Check Code
+Payment Type:
+Credit Card Number:
+Expiration Date:
+Name on Credit Card:
+Billing Address:
+City:
+State/Province:
+Zipcode:
+Shipping address is the same as Billing Address
+Shipping Address:
+Name:
+E-mail Address:
+Exit
+Parent Account ID:
+Forgot Account ID?
+Parent Password
+Forgot Password?
+Parent's Date of Birth:
+M
+D
+Y
+Create Account ID:
+Create Password:
+Confirm Password:
+Parent's E-mail:
+I agree to the Terms of Use
+I agree to the Member Services Agreement
+Play Now
+Select from the subscription options below to upgrade your account and access special features!
+ENTER YOUR GUEST PASS OR GAME CARD
+If you have problems with your Guest Pass / Game Card, please contact World of Cars customer service @ 888.555.5555<br>Monday to Friday 6am to 7pm PST<br>Saturday and Sunday 9am to 1pm PST
+
+You need a grown-up to purchase a subscription for World of Cars Online.
+
+Parent already have a Disney Account?  Please Login Below
+Parent needs a Disney Account? Please Register Below
+CHOOSE YOUR PAYMENT TYPE BELOW
+You will not be charged until you have agreed to our Member Services Agreement and Terms of Use
+Terms of Use and Member Services Agreement for you and your child.
+YOU ARE NOW A SPONSORED RACE CAR!!
+None
+Error
+Congratulations
+Sponsor Your Car
+Guest Pass
+Oops!
+Parent Authorization
+Payment
+Terms of Use
+Diners Club
+Country:
+Day
+Month
+Year
+Discover
+
+By clicking Continue, you agree to our
+Privacy Policy
+Please fix the following errors to create an account:
+Parent's First Name
+Parent's Last Name
+Disney Rewards Visa Card
+The transaction could not be completed.<br>Please see the errors below.
+By Clicking CONTINUE, you agree that you will be taken to PayPal.com to complete this transaction. PayPal.com is a separate site, and not controlled by Disney Online and a different Privacy Policy and Terms of Use will apply.
+PLEASE NOTE:
+Exclusive Items
+By purchasing a subscription during Beta Testing, you will receive a FREE Tribal paint job and in-game collector's plate when we officially launch.
+Automatically recurring payments will begin after we officially launch.
+$

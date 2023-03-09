@@ -1,0 +1,209 @@
+/* CSS Reset ---------------------------------------------*/
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+fieldset, img {
+    border: 0;
+}
+
+address, caption, cite, code, dfn, em, strong, th, var {
+    font-style: normal;
+    font-weight: normal;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+caption, th {
+    text-align:left;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 100%;
+    font-weight: normal;
+}
+
+q:before, q:after {
+    content: '';
+}
+
+abbr,acronym {
+	border: 0;
+}
+
+a, img {
+	outline: none;
+}
+/*--------------------------------------------------------*/
+
+/* Global ------------------------------------------------*/
+body {
+	font: normal 12px/14px 'Verdana', 'Arial', 'sans-serif';
+	color: #9eb8ca;
+	text-align: center;
+}
+
+h1 {
+	margin-bottom: 10px;
+}
+
+h2 {
+	margin: 10px 0px;
+	font-size: 12px;
+	line-height: 13px;
+	color: #ffa700;
+	font-weight: bold;
+}
+
+a {
+	color: #ffa700;
+}
+
+p {
+	margin: 10px 0px;
+}
+
+hr {
+	color: #3b5a6f;
+	background-color: #3b5a6f;
+	height: 1px;
+	border: 0;
+}
+
+#chrome {
+	height: 30px;
+}
+
+.sys-clear {
+	height: 1px;
+	font-size: 1px;
+	line-height: 1px;
+	clear: both;
+}
+
+.sys-siteWrapper {
+	width: 990px;
+	height: 850px;
+	margin: auto;
+}
+
+.sys-siteWrapper .sys-contentWrapper {
+	width: 428px;
+	margin: auto;
+	padding: 185px 35px 0px 35px;
+}
+
+.frm-styledTitle {
+	padding-right: 5px;
+	color: #FFFEFE;
+}
+
+.frm-styledInput {
+	background: url( ../img/bg.input-field.gif ) no-repeat;	
+	width: 127px;
+	height: 19px;
+	border: 0px;
+	padding: 7px 7px 5px 7px;
+	line-height: 19px;
+}
+
+.frm-submitButton {
+	border: 0px;
+	background: url( ../img/btn.master.gif ) no-repeat;	
+	cursor: pointer;
+	width: 134px;
+	height: 36px;
+	text-indent: -999em;
+	overflow: hidden;
+	display: block;
+	margin: auto;
+	outline: none;
+}
+
+.frm-submitButton:hover {
+	background-position: 0px -36px;
+}
+
+#gate {
+	float: left;
+	width: 100%;
+	display: none;
+	padding: 10px 0 0;
+	background: #f5ee31 url( ../img/bg.gate-tape.gif ) left top repeat-x;
+	color: #000;
+}
+
+.l_gate {
+	padding-bottom: 10px;
+	background: url( ../img/bg.gate-tape.gif ) -10px bottom repeat-x;
+}
+
+#gate p {
+	width: 998px;
+	text-align: center;
+	font-weight: bold;
+	margin: 0em auto;
+}
+/*--------------------------------------------------------*/
+
+/* Backgrounds -------------------------------------------*/
+body.pag-flashUpgrade, body.pag-homepage {
+	background: #0D1E25 url( ../img/bg.homepage.jpg ) no-repeat center 30px;
+}
+
+body.pag-flashUpgrade .sys-siteWrapper, body.pag-homepage .sys-siteWrapper {
+	background: url( ../img/bg.homepage.jpg ) no-repeat center top;
+}
+
+body.pag-thankYou {
+	background: #0D1E25 url( ../img/bg.thank-you.jpg ) no-repeat center 30px;
+}
+
+body.pag-thankYou .sys-siteWrapper {
+	background: url( ../img/bg.thank-you.jpg ) no-repeat center top;
+}
+/*--------------------------------------------------------*/
+
+
+/* Homepage ----------------------------------------------*/
+.hpg-loginForm {
+	width: 230px;
+	margin: 10px auto 0px auto;
+}
+
+.hpg-loginForm td {
+	padding: 5px;
+}
+
+.hpg-errorMessage {
+	margin-top: 10px;
+	color: #B35152;
+	font-weight: bold;
+}
+
+.hpg-requirements {
+	margin-top: 10px;
+	font-size: 10px;
+	line-height: 12px;
+	color: #3b5a6f;
+}
+
+.hpg-requirements .hpg-requirementsTitle {
+	font-weight: bold;
+}
+
+.hpg-requirements .hpg-requirementContainer {
+	width: 194px;
+	float: left;
+	display: inline;
+	text-align: left;
+}
+/*--------------------------------------------------------*/

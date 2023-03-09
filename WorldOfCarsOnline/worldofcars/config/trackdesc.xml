@@ -1,0 +1,11 @@
+<trackdesc>
+	<track  name="Carburetor County Speedway" 
+		  shortDesc="Test your skills on the hottest track in Carburetor County!"
+		  longDesc="Carburetor County Speedway is a scorching hot venue where a blazing track eats your tires and obstacles cross your path. Avoid tractors, slip and slide around Carburetor County’s burning track, take the shortcut if you dare – this race will test your skill, nerves, and resolve. Good luck!"
+	/>
+	
+	<track name="Twistin' Tailfin Track"
+		  shortDesc="Can you handle the sharpest turns in Tailfin Pass?"
+		  longDesc="Twistin' Tailfin Track is a scenic track in the middle of a campground-filled valley near the Wheel Well Motel. Avoid dangerous obstacles, navigate treacherous turns, and see if you have what it takes to survive one of the most beautiful yet deadly tracks around!"
+	/>
+</trackdesc>

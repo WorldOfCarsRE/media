@@ -1,0 +1,429 @@
+@import 'http://a.dolimg.com/worldofcars/websitedevelopment/css/cars_buttons.css';	/* base css file to construct button */
+@import 'http://a.dolimg.com/worldofcars/websitedevelopment/css/cars_characters.css'; /* base css file to construct characters */
+
+
+/*The Big Reset.  */
+body, div, h1, h2, h3, h4, h5, h6, p, a, ul, ol, li, dl, dd, dt, blockquote, fieldset, legend, label, input, textarea, form, button {
+	margin: 0; 
+	padding: 0; 
+	list-style:none;
+	text-decoration:none;
+}
+a,button{
+	outline:none!important;
+	cursor:pointer;
+}
+fieldset{
+	border:none;
+}
+legend{
+	text-indent:-9999em;
+	line-height:0em;
+	height:0em;
+	overflow:hidden;
+}
+button{
+	border:none;
+	text-indent:-9999em;
+}
+input{
+	_position:relative;
+}
+a:hover{
+}
+a img{
+	border:none;
+}
+
+h1{font-size: 200%;}
+h2{font-size: 170%;}
+h3{font-size: 140%;}
+h4{font-size: 120%;}
+h5{font-size: 100%;}
+h6{font-size: 90%;}
+
+body {
+	/*font: 80%/130% Verdana, Arial, Helvetica, sans-serif;*/ /*Setting our body font with a % helps keep it consistent and scalable*/
+	font: 12px Verdana, Geneva, sans-serif;
+	background: #000 url(http://a.dolimg.com/worldofcars/websitedevelopment/images/backgrounds/woc_bg.jpg) center top no-repeat;
+}
+
+/*----------------------------*/
+/*------- structure ----------*/
+/*----------------------------*/
+
+#woc_container{
+	clear:left;
+	width:996px;
+	margin:0em auto;
+}
+
+#chrome{
+	float:left;
+	width:100%;
+	background: url(http://a.dolimg.com/media/en-US/globalmedia/chrome/images/lightgrey/chexplorebg.png) top left repeat-x;
+}
+#gate{
+	float:left;
+	width:100%;
+	display:none;
+	padding:10px 0 0;
+	background: #f5ee31 url(http://a.dolimg.com/worldofcars/websitedevelopment/images/ui/gate-tape.gif) left top repeat-x;
+}
+.l_gate{
+	padding-bottom:10px;
+	background: url(http://a.dolimg.com/worldofcars/websitedevelopment/images/ui/gate-tape.gif) -10px bottom repeat-x;
+}
+#gate p{
+	width:998px;
+	text-align:center;
+	font-weight:bold;
+	margin:0em auto;
+}
+#frame_wrap{
+	float:left;
+	padding:10px 0 7px;
+	background: url(http://a.dolimg.com/worldofcars/websitedevelopment/images/backgrounds/frame_top.gif) left top no-repeat;
+}
+#content_wrap{
+	position:relative;
+	float:left;
+	width:998px;
+	background-position: 5px 60px;
+	background-repeat: no-repeat;
+}
+#main_content{
+	position:relative;
+	float:left;
+	width:998px;
+	/*height:399px;
+	padding-top:10px;*/
+	background: url(http://a.dolimg.com/worldofcars/websitedevelopment/images/backgrounds/frame_repeat.gif) left top repeat-y;
+}
+#frame_footer{
+	float:left;
+	display:block;
+	width:998px;
+	height:13px;
+	background: url(http://a.dolimg.com/worldofcars/websitedevelopment/images/backgrounds/frame_footer.gif) left top no-repeat;
+}
+#woc_promotes{
+	position:relative;
+	float:left;
+	width:998px;
+	height:238px;
+}
+
+/*-------------------------------------------------------*/
+/*------------------(\__ Header __/)---------------------*/
+/*-------------------------------------------------------*/
+
+#head_bar{
+	float:left;
+	width:988px;
+	height:25px;
+	padding-right:10px;
+}
+#head_bar .left{
+	float:left;
+	width:200px;
+	padding-top:5px;
+}
+#head_bar a{
+	color: #555;
+	font-size:11px;
+	text-decoration:underline;
+}
+#head_bar .left *{
+	float:left;
+}
+#head_bar .left a{
+	margin-left:10px;
+}
+#head_bar .right{
+	float:right;
+	padding:5px 10px 0 20px;
+	background: url(http://a.dolimg.com/worldofcars/websitedevelopment/images/misc/sprocket.gif) left bottom no-repeat;
+}
+
+#woc_header{
+	position:relative;
+	float:left;
+	width:996px;
+	z-index:15;
+}
+
+#woc_logo a{
+	position:relative;
+	float:left;
+	display:block;
+	width:202px;
+	height:137px;
+	text-indent:-9999em;
+	overflow:hidden;
+	background: url(http://a.dolimg.com/worldofcars/websitedevelopment/images/world-of-cars-online-logo.png) top left no-repeat;
+	cursor:pointer;
+}
+
+/*  start navigation  */
+
+#nav{
+	margin:10px 0 0 20px;
+	float:left;
+	/*width:568px;*/
+	height:34px;
+}
+
+#nav li{
+	float:left;
+}
+#nav li a{
+	position:relative;
+	float:left;
+	display:block;
+	background: url(http://a.dolimg.com/worldofcars/websitedevelopment/images/buttons/woc_nav.gif) top left no-repeat;
+	text-indent:-9999em;
+	overflow:hidden;
+	height:34px;
+}
+#nav .nav_community a{
+	width:138px;
+	background-position: 0 0;
+}
+#nav .nav_community a:hover,.sec_community #nav .nav_community a{
+	background-position: 0 -34px;
+}
+.sec_sponsorship #nav .nav_community a:hover{
+	width:138px;
+	margin-right:-9px;
+	background-position: 0 -34px;
+	z-index:500;
+}
+/*#nav .nav_sponsorship a{
+	width:132px;
+	background-position: -142px 0;
+}
+#nav .nav_sponsorship a:hover,.sec_sponsorship #nav .nav_sponsorship a{
+	margin-left:-9px;
+	width:141px;
+	background-position: -133px -102px;
+}
+.sec_community #nav .nav_sponsorship a:hover{
+	background-position: -133px -68px;
+}*/
+#nav .nav_about a{
+	width:142px;
+	background-position: -139px 0;
+}
+#nav .nav_about a:hover,.sec_about #nav .nav_about a{
+	background-position: -139px -68px;
+}
+.sec_parents #nav .nav_about a:hover{
+	width:142px;
+	background-position: -139px -68px;
+	margin-right:-7px;
+	z-index:500;
+}
+/*#nav .nav_parents a{
+	width:112px;
+	background-position: -405px -34px;
+}
+#nav .nav_parents a:hover,.sec_parents #nav .nav_parents a{
+	margin-left:-7px;
+	width:119px;
+	background-position: -398px -238px;
+}
+.sec_about #nav .nav_parents a:hover{
+	background-position: -398px -204px;
+}
+.sec_help #nav .nav_parents a:hover{
+	width:133px;
+	margin-right:-14px;
+	background-position: -398px -272px;
+	z-index:500;
+}*/
+#nav .nav_racecode a{
+	width:139px;
+	background-position: -281px 0px;
+}
+#nav .nav_racecode a:hover,.sec_racecode #nav .nav_racecode a{
+	width:139px;
+	background-position: -281px -102px;
+}
+.sec_about #nav .nav_racecode a:hover{
+	background-position: -281px -102px;
+}
+.sec_help #nav .nav_racecode a:hover{
+	width:133px;
+	margin-right:-14px;
+	background-position: -281px -102px;
+	z-index:500;
+}
+#nav .nav_help a{
+	width:141px;
+	background-position: -420px 0;
+}
+#nav .nav_help a:hover,.sec_help #nav .nav_help a{
+	width:141px;
+	background-position: -420px -136px;
+}
+.sec_parents #nav .nav_help a:hover{
+	background-position: -420px -136px;
+}
+#subnav_bg{
+	position:absolute;
+	width:496px;
+	height:36px;
+	padding:15px 10px 0;
+	left:240px;
+	top:50px;
+	background:url(http://a.dolimg.com/worldofcars/websitedevelopment/images/backgrounds/subnav_bg.png) left top no-repeat;
+}
+.sec_community #subnav_bg{
+	width:527px;
+	left:230px;
+	background:url(http://a.dolimg.com/worldofcars/websitedevelopment/images/backgrounds/subnav_bg_comm.png) left top no-repeat;
+}
+#about_game #subnav_bg{
+	display:none;
+}
+.subnav{
+	display:none;
+	float:left;
+	margin-top:-4px;
+	padding:5px 0 0 60px;
+}
+#community_sub{
+	padding-left:35px;
+}
+#parents_sub{
+	padding-left:190px;
+}
+#help_sub,#sponsorship_sub{
+	padding-left:65px;
+}
+.sec_community #community_sub,.sec_sponsorship #sponsorship_sub,.sec_parents #parents_sub,.sec_help #help_sub{/*.sec_about #sponsorship_sub,*/
+	display:block;
+}
+.subnav li{
+	float:left;
+	padding: 0 15px;
+	line-height:1em;
+	border-right:2px solid #767676;
+}
+#community_sub li{
+	padding:0 28px;
+}
+@media screen and (-webkit-min-device-pixel-ratio:0){
+	#community_sub li{
+		padding:0 5px;
+	}
+}
+#help_sub li{
+	padding: 0 30px;
+}
+.subnav li a{
+	position:relative;
+	color:#767676;
+	font-weight:bold;
+}
+.subnav li a:hover,.subnav .selected,#purchase .sub_sponsorship{
+	color:#459bc9;
+}
+
+/* end navigation */
+
+.header_play{
+	float:left;
+	display:block;
+	width:200px;
+	height:84px;
+	margin:-20px 0 0 10px;	
+	position:relative;
+	background: url(../images/buttons/play_up.png) 10px 26px no-repeat;
+}
+
+.header_create-a-car{
+	background: url(http://a.dolimg.com/worldofcars/websitedevelopment/images/buttons/create_a_car.png) no-repeat;
+	display:block;
+	height:57px;
+	margin-left:10px;
+	margin-top:26px;
+	overflow:hidden;
+	width:174px;
+}
+.header_create-a-car:hover{
+	background-position:0px -57px;
+}
+/*-- end header --*/
+
+#content{
+	float:left;
+	padding:10px 0 0 10px;
+}
+
+/*---------------- util ----------------*/
+.form_el{
+	float:left;
+	display:block;
+	width:auto;
+	position:relative;
+}
+.error_msg{
+	position:absolute;
+	color:#ff0000;
+	left:0;
+	/*top:30px;*/
+}
+
+/*---------- footer ----------*/
+
+#footer{
+	clear:both;
+	float:left;
+	width:100%;
+	padding-top:10px;
+}
+.footlinks{
+	width:100%;
+	text-align:center;
+}
+.footlinks li{
+	display:inline;
+}
+#footer,#footer td,#footer td span{
+	color:#555!important;	
+}
+#footer a{
+	color:#555!important;
+	text-decoration:none;
+}
+#footer hr{
+	border-top-color:#555!important;
+}
+
+#blk_alpha{
+	display:none;
+	position:absolute;
+	height:100%;
+	width:100%;
+	top:0;
+	left:0;
+	background: #000;
+	z-index:999998;
+	filter:alpha(opacity=70);
+	-moz-opacity:0.7;
+	-khtml-opacity: 0.7;
+	opacity: 0.7;
+}
+
+/*---- resusables ------*/
+
+.clear{clear:both;}
+.lt_blue{color:#b9cddd;}
+.cyan{color:#53aad7;}
+.required{color:#ff0000;}
+.noborderplease{border:none!important;}
+.cars_orange{color:#ef5319;font-weight:bold;}
+.nomargin{margin:0px!important;}
+.hideme{display:none;!important}

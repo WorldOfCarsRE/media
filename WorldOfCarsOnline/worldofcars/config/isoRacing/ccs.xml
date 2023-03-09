@@ -1,0 +1,317 @@
+<?xml version="1.0" ?>
+<data>
+	<!-- (trackId overrides fileUrl) Let Jon Ross, Ling Tu, and Ben (?) know when this file changes -->
+	<map trackId="0" fileUrl="http://carsdev.online.disney.com/assets/maps/trk_ccs_10_COLL.xml">
+		<difficulty level="easy">
+			<playerCar>
+				<pos x="3270" y="1300" />
+				<face x="-1.0" y="0.5" />
+				<trumpet file="isoRacing_isoCar.xml" />
+				<CarPhysics>
+					<TopSpeed>560.0</TopSpeed>
+					<HandlingCoefficient>.60</HandlingCoefficient>
+					<AccelerationTime>3.0</AccelerationTime>
+					<DecelerationTime>25.0</DecelerationTime>
+					<DecelerationDrag>7000.0</DecelerationDrag>
+					<Mass>15</Mass>
+					<MinTurningRate>0.5</MinTurningRate>
+					<MaxTurningRate>1.25</MaxTurningRate>
+					<TurningRateSpeedCap>50.0</TurningRateSpeedCap>
+					<BaseFriction>50.0</BaseFriction>
+					<MaxFriction>9000.0</MaxFriction>
+				</CarPhysics>
+				<Sounds>
+					<TopGearPercent>0.87</TopGearPercent><!-- factor of CarPhysics.TopSpeed, % of top speed at which top gear engine sound is played -->
+					<SkidForcePercent>0.77</SkidForcePercent><!-- factor of CarPhysics.TopSpeed % of top speed at which skid sound is triggered on turn -->
+					<SkidCrossoverPercent>0.6</SkidCrossoverPercent><!-- The crossover percentage of skid intensity where we begin crossfading the higher pitched skid in-->
+				</Sounds>
+			</playerCar>
+			
+			<ai>
+				<!-- Best AI -->
+				<car>
+					<smartTurns min="150" max="225" />
+					<dropChance pickup="0.50" collide="0.50" />
+					<trumpet file="isoRacing_isoCar.xml" />
+					<TopSpeed>450.0</TopSpeed>
+					<HandlingCoefficient>.50</HandlingCoefficient>
+					<AccelerationTime>5.0</AccelerationTime>
+					<DecelerationTime>25.0</DecelerationTime>
+					<DecelerationDrag>7000.0</DecelerationDrag>
+					<Mass>15</Mass>
+					<MinTurningRate>0.5</MinTurningRate>
+					<MaxTurningRate>1.25</MaxTurningRate>
+					<TurningRateSpeedCap>50.0</TurningRateSpeedCap>
+					<BaseFriction>50.0</BaseFriction>
+					<MaxFriction>9000.0</MaxFriction>
+				</car>
+				
+				<!-- Middle AI -->
+				<car>
+					<smartTurns min="225" max="350" />
+					<dropChance pickup="0.50" collide="0.50" />
+					<trumpet file="isoRacing_isoCar.xml" />
+					<TopSpeed>385.0</TopSpeed>
+					<HandlingCoefficient>.50</HandlingCoefficient>
+					<AccelerationTime>5.0</AccelerationTime>
+					<DecelerationTime>25.0</DecelerationTime>
+					<DecelerationDrag>7000.0</DecelerationDrag>
+					<Mass>15</Mass>
+					<MinTurningRate>0.5</MinTurningRate>
+					<MaxTurningRate>1.25</MaxTurningRate>
+					<TurningRateSpeedCap>50.0</TurningRateSpeedCap>
+					<BaseFriction>50.0</BaseFriction>
+					<MaxFriction>9000.0</MaxFriction>
+				</car>
+				
+				<!-- Worst AI -->
+				<car>
+					<smartTurns min="350" max="500" />
+					<dropChance pickup="0.50" collide="0.50" />
+					<trumpet file="isoRacing_isoCar.xml" />
+					<TopSpeed>335.0</TopSpeed>
+					<HandlingCoefficient>.50</HandlingCoefficient>
+					<AccelerationTime>5.0</AccelerationTime>
+					<DecelerationTime>25.0</DecelerationTime>
+					<DecelerationDrag>7000.0</DecelerationDrag>
+					<Mass>15</Mass>
+					<MinTurningRate>0.5</MinTurningRate>
+					<MaxTurningRate>1.25</MaxTurningRate>
+					<TurningRateSpeedCap>50.0</TurningRateSpeedCap>
+					<BaseFriction>50.0</BaseFriction>
+					<MaxFriction>9000.0</MaxFriction>
+				</car>
+			</ai>
+		</difficulty>
+		
+		<difficulty level="normal">
+			<playerCar>
+				<pos x="3270" y="1300" />
+					<face x="-1.0" y="0.5" />
+					<trumpet file="isoRacing_isoCar.xml" />
+					<CarPhysics>
+						<TopSpeed>605.0</TopSpeed>
+						<HandlingCoefficient>.75</HandlingCoefficient>
+						<AccelerationTime>3.0</AccelerationTime>
+						<DecelerationTime>25.0</DecelerationTime>
+						<DecelerationDrag>7000.0</DecelerationDrag>
+						<Mass>15</Mass>
+						<MinTurningRate>0.5</MinTurningRate>
+						<MaxTurningRate>1.85</MaxTurningRate>
+						<TurningRateSpeedCap>300.0</TurningRateSpeedCap>
+						<BaseFriction>50.0</BaseFriction>
+						<MaxFriction>9000.0</MaxFriction>
+					</CarPhysics>
+					<Sounds>
+						<TopGearPercent>0.87</TopGearPercent><!-- factor of CarPhysics.TopSpeed, % of top speed at which top gear engine sound is played -->
+						<SkidForcePercent>0.77</SkidForcePercent><!-- factor of CarPhysics.TopSpeed % of top speed at which skid sound is triggered on turn -->
+						<SkidCrossoverPercent>0.6</SkidCrossoverPercent><!-- The crossover percentage of skid intensity where we begin crossfading the higher pitched skid in-->
+					</Sounds>
+				</playerCar>
+		
+		
+			<ai>
+			<!-- Best AI -->
+				<car>
+					<smartTurns min="100" max="190" />
+					<dropChance pickup="0.50" collide="0.50" />
+					<trumpet file="isoRacing_isoCar.xml" />
+					<TopSpeed>580.0</TopSpeed>
+					<HandlingCoefficient>.75</HandlingCoefficient>
+					<AccelerationTime>4.0</AccelerationTime>
+					<DecelerationTime>25.0</DecelerationTime>
+					<DecelerationDrag>7000.0</DecelerationDrag>
+					<Mass>15</Mass>
+					<MinTurningRate>0.5</MinTurningRate>
+					<MaxTurningRate>1.55</MaxTurningRate>
+					<TurningRateSpeedCap>125.0</TurningRateSpeedCap>
+					<BaseFriction>50.0</BaseFriction>
+					<MaxFriction>9000.0</MaxFriction>
+				</car>
+				
+				<!-- Middle AI -->
+				<car>
+					<smartTurns min="191" max="300" />
+					<dropChance pickup="0.50" collide="0.50" />
+					<trumpet file="isoRacing_isoCar.xml" />
+					<TopSpeed>565.0</TopSpeed>
+					<HandlingCoefficient>.69</HandlingCoefficient>
+					<AccelerationTime>4.0</AccelerationTime>
+					<DecelerationTime>25.0</DecelerationTime>
+					<DecelerationDrag>7000.0</DecelerationDrag>
+					<Mass>15</Mass>
+					<MinTurningRate>0.5</MinTurningRate>
+					<MaxTurningRate>1.55</MaxTurningRate>
+					<TurningRateSpeedCap>300.0</TurningRateSpeedCap>
+					<BaseFriction>50.0</BaseFriction>
+					<MaxFriction>9000.0</MaxFriction>
+				</car>
+				<!-- Worst AI -->
+				<car>
+					<smartTurns min="275" max="400" />
+					<dropChance pickup="0.50" collide="0.50" />
+					<trumpet file="isoRacing_isoCar.xml" />
+					<TopSpeed>530.0</TopSpeed>
+					<HandlingCoefficient>.65</HandlingCoefficient>
+					<AccelerationTime>4.0</AccelerationTime>
+					<DecelerationTime>25.0</DecelerationTime>
+					<DecelerationDrag>7000.0</DecelerationDrag>
+					<Mass>15</Mass>
+					<MinTurningRate>0.5</MinTurningRate>
+					<MaxTurningRate>1.55</MaxTurningRate>
+					<TurningRateSpeedCap>300.0</TurningRateSpeedCap>
+					<BaseFriction>50.0</BaseFriction>
+					<MaxFriction>9000.0</MaxFriction>
+				</car>
+			</ai>
+			
+		</difficulty>
+		
+		<difficulty level="hard">
+			<playerCar>
+				<pos x="3270" y="1300" />
+					<face x="-1.0" y="0.5" />
+					<trumpet file="isoRacing_isoCar.xml" />
+					<CarPhysics>
+						<TopSpeed>670.0</TopSpeed>
+						<HandlingCoefficient>.75</HandlingCoefficient>
+						<AccelerationTime>3.0</AccelerationTime>
+						<DecelerationTime>25.0</DecelerationTime>
+						<DecelerationDrag>7000.0</DecelerationDrag>
+						<Mass>15</Mass>
+						<MinTurningRate>0.5</MinTurningRate>
+						<MaxTurningRate>1.85</MaxTurningRate>
+						<TurningRateSpeedCap>300.0</TurningRateSpeedCap>
+						<BaseFriction>50.0</BaseFriction>
+						<MaxFriction>9000.0</MaxFriction>
+					</CarPhysics>
+					<Sounds>
+						<TopGearPercent>0.87</TopGearPercent><!-- factor of CarPhysics.TopSpeed, % of top speed at which top gear engine sound is played -->
+						<SkidForcePercent>0.77</SkidForcePercent><!-- factor of CarPhysics.TopSpeed % of top speed at which skid sound is triggered on turn -->
+						<SkidCrossoverPercent>0.6</SkidCrossoverPercent><!-- The crossover percentage of skid intensity where we begin crossfading the higher pitched skid in-->
+					</Sounds>
+				</playerCar>
+		
+		
+			<ai>
+				<car>
+					<smartTurns min="50" max="100" />
+					<dropChance pickup="0.50" collide="0.50" />
+					<trumpet file="isoRacing_isoCar.xml" />
+					<TopSpeed>655.0</TopSpeed>
+					<HandlingCoefficient>.75</HandlingCoefficient>
+					<AccelerationTime>3.25</AccelerationTime>
+					<DecelerationTime>25.0</DecelerationTime>
+					<DecelerationDrag>7000.0</DecelerationDrag>
+					<Mass>15</Mass>
+					<MinTurningRate>0.5</MinTurningRate>
+					<MaxTurningRate>1.85</MaxTurningRate>
+					<TurningRateSpeedCap>300.0</TurningRateSpeedCap>
+					<BaseFriction>50.0</BaseFriction>
+					<MaxFriction>9000.0</MaxFriction>
+				</car>
+				<car>
+					<smartTurns min="151" max="300" />
+					<dropChance pickup="0.50" collide="0.50" />
+					<trumpet file="isoRacing_isoCar.xml" />
+					<TopSpeed>630.0</TopSpeed>
+					<HandlingCoefficient>.75</HandlingCoefficient>
+					<AccelerationTime>3.5</AccelerationTime>
+					<DecelerationTime>25.0</DecelerationTime>
+					<DecelerationDrag>7000.0</DecelerationDrag>
+					<Mass>15</Mass>
+					<MinTurningRate>0.5</MinTurningRate>
+					<MaxTurningRate>1.85</MaxTurningRate>
+					<TurningRateSpeedCap>300.0</TurningRateSpeedCap>
+					<BaseFriction>50.0</BaseFriction>
+					<MaxFriction>9000.0</MaxFriction>
+				</car>
+				<car>
+					<smartTurns min="250" max="350" />
+					<dropChance pickup="0.50" collide="0.50" />
+					<trumpet file="isoRacing_isoCar.xml" />
+					<TopSpeed>600.0</TopSpeed>
+					<HandlingCoefficient>.75</HandlingCoefficient>
+					<AccelerationTime>3.5</AccelerationTime>
+					<DecelerationTime>25.0</DecelerationTime>
+					<DecelerationDrag>7000.0</DecelerationDrag>
+					<Mass>15</Mass>
+					<MinTurningRate>0.5</MinTurningRate>
+					<MaxTurningRate>1.85</MaxTurningRate>
+					<TurningRateSpeedCap>300.0</TurningRateSpeedCap>
+					<BaseFriction>50.0</BaseFriction>
+					<MaxFriction>9000.0</MaxFriction>
+				</car>
+			</ai>
+			
+		</difficulty>
+		
+		<startingPositions>
+			<spot posX="2022" posY="1370" faceX="-1.0" faceY="0.5" />
+			<spot posX="2070" posY="1400" faceX="-1.0" faceY="0.5" />
+			<spot posX="2121" posY="1426" faceX="-1.0" faceY="0.5" />
+			<spot posX="2173" posY="1452" faceX="-1.0" faceY="0.5" />
+		</startingPositions>
+		<splashScreen url="assets/flash/gui/previewsite/car_f_gui_pvs_carbCntySpway.swf">
+			<classes splash="com.disney.cars.isoRacing.gui.CcsSplashScreen" results="com.disney.cars.isoRacing.gui.CcsRaceResults" />
+			<title url="assets/graphic/gui/title/car_g_gui_ttl_carburetorCounty_en_US.swf" />
+		</splashScreen>
+		<ui>
+			<miniMap scaleX="0.023" scaleY="0.023" offsetX="3" offsetY="-12" clipName="ccs" finishOffX="-12" finishOffY="-9" />
+		</ui>
+		<trackSpawns nitrous="1" yellowFlag="1" oilCan="1" />
+		<wayPoints laps="3">
+			<p x="1900" y="1500" dir="3" />
+			<p x="1700" y="1600" dir="3" />
+			<p x="1500" y="1700" dir="3" />
+			<p x="1300" y="1800" dir="3" />
+			<p x="1100" y="1900" dir="3" />
+			<p x="900" y="2200" dir="2" />
+			<p x="1100" y="2500" dir="1" />
+			<p x="1300" y="2600" dir="1" />
+			<p x="1500" y="2700" dir="1" />
+			<p x="1700" y="2800" dir="1" />
+			<p x="1900" y="2900" dir="1" />
+			<p x="2100" y="3000" dir="1" />
+			<p x="2300" y="3100" dir="1" />
+			<p x="2500" y="3200" dir="1" />
+			<p x="2700" y="3300" dir="1" />
+			<p x="2900" y="3400" dir="1" />
+			<p x="3100" y="3500" dir="1" />
+			<p x="3700" y="3600" dir="0" />
+			<p x="4700" y="3500" dir="0" />
+			<p x="5700" y="3600" dir="0" />
+			<p x="6300" y="3500" dir="3" />
+			<p x="6500" y="3400" dir="3" />
+			<p x="6700" y="3300" dir="3" />
+			<p x="6900" y="3200" dir="3" />
+			<p x="7100" y="3100" dir="3" />
+			<p x="7300" y="3000" dir="3" />
+			<p x="7500" y="2900" dir="3" />
+			<p x="7800" y="2750" dir="3" />
+			<p x="8000" y="2450" dir="2" />
+			<p x="7800" y="2150" dir="1" />
+			<p x="7600" y="2050" dir="1" />
+			<p x="7400" y="1950" dir="1" />
+			<p x="7200" y="1850" dir="1" />
+			<p x="7000" y="1750" dir="1" />
+			<p x="6800" y="1650" dir="1" />
+			<p x="6600" y="1550" dir="1" />
+			<p x="6400" y="1450" dir="1" />
+			<p x="6200" y="1350" dir="1" />
+			<p x="6000" y="1250" dir="1" />
+			<p x="5800" y="1150" dir="1" />
+			<p x="5600" y="1050" dir="1" />
+			<p x="5200" y="950" dir="0" />
+			<p x="4600" y="1050" dir="0" />
+			<p x="4200" y="950" dir="0" />
+			<p x="3600" y="850" dir="0" />
+			<p x="3000" y="950" dir="3" />
+			<p x="2800" y="1050" dir="3" />
+			<p x="2600" y="1150" dir="3" />
+			<p x="2400" y="1250" dir="3" />
+			<p x="2100" y="1400" dir="3" />
+			<p x="1984" y="1386" dir="3" />
+		</wayPoints>
+	</map>
+</data>

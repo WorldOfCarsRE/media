@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+
+	<!--posturl><![CDATA[http://disney.go.com/cars/test/eprize.php]]></posturl-->
+	<posturl><![CDATA[http://disney.review.eprize.com/cars2/]]></posturl>
+	<diamondconfigurl><![CDATA[http://disney.go.com/cars/test/_xml/DiamondConfig.xml]]></diamondconfigurl>
+</data>

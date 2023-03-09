@@ -1,0 +1,150 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+	<head>
+		<title>Cars_Purchasing</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="language" content="en" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		
+		<script src="js/swfobject.js" type="text/javascript"></script>
+		<script src="js/common.js" type="text/javascript"></script>
+		<script type="text/javascript">
+			/** Local Values **/
+			/** !!!!!!!!!!!!!!!!! **/
+			var regWidgetURL = "http://worldofcars.go.com"; //"https://disney.go.com/fairies/pixiehollow/registration/";
+			var widgetURL = "http://worldofcars.go.com"; //"https://disney.go.com/fairies/pixiehollow/purchase/";
+			var giftPurchaseURL = "http://worldofcars.go.com"; //"https://register.go.com/premium/gifts/purchase/pixiehollow";
+			var sessionRefresh = "http://worldofcars.go.com"; //"http://apps.ladev.fairies.go.com/fairies/api/SessionRefreshRequest"
+			var needParentExitURL = "http://worldofcars.go.com"; //"http://pixiehollow.go.com/communityhome.html";
+			var congratsExitURL = "http://worldofcars.go.com"; //"http://pixiehollow.go.com/communityhome.html";
+			/** !!!!!!!!!!!!!!!!! **/
+			
+			var locale = "en_US";
+			var assetsBaseUrl = "http://carsdev.online.disney.com/assets/";
+			var newsletterID = "WDIGFamilySites";
+			var linkColor = "#FFFFFF";
+			var DOBCookieTO = "30";
+			var width = 915;
+			var topPadding = 0;
+			var topDialogPadding = 50;
+			var dontModifyCloseButton = true;
+			
+			var loaderSwfUrl = assetsBaseUrl + "flash/gui/loader/car_f_gui_ldr_loader.swf";
+			var contentSwfUrl = "cars_purchasing_skin.swf";
+			var kidsRulesURL = "stringtables/" + locale + "/kidsrules.xml";
+			var memberServiceURL = "stringtables/" + locale + "/memberServiceAgreement.html";
+			var trackingManagerConfig = "tracker.xml";
+			var regConfig = "registration.xml";
+			
+			var login = "http://carsdev.online.disney.com:6222/carsds/api/AccountLoginRequest";
+			var logout = "http://carsdev.online.disney.com:6222/carsds/api/AccountLogoutRequest";
+			var accountHoldURL = "https://apps.dxd.go.com/dxd/guestservices/your_account/account_hold";
+			var forgotIDURL = "https://register.go.com/global/cars/recoverMemberNames?affiliateName=Disney_Cars&appRedirect=http%3A%2F%2Fworldofcars.go.com";
+			var forgotPasswordURL = "https://register.go.com/global/cars/recoverPassword?affiliateName=Disney_Cars&appRedirect=http%3A%2F%2Fworldofcars.go.com";
+			var congratsRedirectURL = "http://worldofcars.go.com/welcome-sponsored-racer/";
+			var logout = "http://apps.dxd.go.com/dxd/flashAPI/logout";
+			var whoAmI = "http://carsdev.online.disney.com:6222/carsds/api/WhoAmIRequest";
+			var recoveryPasswordURL = "https://register.go.com/global/cars/recoverPassword?affiliateName=Disney_Cars&appRedirect=http%3A%2F%2Fworldofcars.go.com";
+			var recoveryUsernameURL = "https://register.go.com/global/cars/recoverMemberNames?affiliateName=Disney_Cars&appRedirect=http%3A%2F%2Fworldofcars.go.com";
+			var privacyPolicyURL = "http://disney.go.com/corporate/privacy/pp_wdig.html";
+			var termsOfUseURL = "http://disney.go.com/corporate/privacy/terms.html?ppLink=pp_wdig";
+			var IPDetectPath = "http://tredir.go.com/capmon/GetDE";
+			var congratsEmailPath = "http://apps.dxd.go.com/dxd/util/beacon/purchaseEmailRedirect";
+			
+			var loginPageURL = querySt("loginURL");
+			if( loginPageURL == null )
+				loginPageURL = "someurl.html";
+			
+			var playPageURL = querySt("playURL");
+			if( playPageURL = null )
+				playPageURL = "someurl.html";
+			/**** **** **** **** ****/
+			
+			var flashvars = {};
+			
+			/** Local FlashVars **/
+			flashvars["loginPageURL"] = loginPageURL;
+			flashvars["playPageURL"] = playPageURL;
+			/**** **** **** **** ****/
+			
+			/** Common FlashVars **/
+			flashvars["loaderSwfUrl"] = loaderSwfUrl;
+			flashvars["contentSwfUrl"] = contentSwfUrl;
+			flashvars["accountHoldURL"] = accountHoldURL;
+			flashvars["locale"] = locale;
+			flashvars["regConfig"] = regConfig;
+			flashvars["forgotIDURL"] = forgotIDURL;
+			flashvars["forgotPasswordURL"] = forgotPasswordURL;
+			flashvars["regWidgetURL"] = regWidgetURL;
+			flashvars["login"] = login;
+			flashvars["logout"] = logout;
+			flashvars["whoAmI"] = whoAmI;
+			flashvars["newsletterID"] = newsletterID;
+			flashvars["recoveryPasswordURL"] = recoveryPasswordURL;
+			flashvars["recoveryUsernameURL"] = recoveryUsernameURL;
+			flashvars["termsOfUseURL"] = termsOfUseURL;
+			flashvars["privacyPolicyURL"] = privacyPolicyURL;
+			flashvars["DOBCookieTO"] = DOBCookieTO;
+			flashvars["memberServiceURL"] = memberServiceURL;
+			flashvars["congratsRedirectURL"] = congratsRedirectURL;
+			flashvars["kidsRulesURL"] = kidsRulesURL;
+			flashvars["widgetURL"] = widgetURL;
+			flashvars["trackingManagerConfig"] = trackingManagerConfig;
+			flashvars["linkColor"] = linkColor;
+			flashvars["giftPurchaseURL"] = giftPurchaseURL;
+			flashvars["congratsEmailPath"] = congratsEmailPath;
+			flashvars["IPDetectPath"] = IPDetectPath;
+			flashvars["congratsExitURL"] = congratsExitURL;
+			flashvars["needParentExitURL"] = needParentExitURL;
+			flashvars["sessionRefresh"] = sessionRefresh;
+			flashvars["width"] = width;
+			flashvars["topPadding"] = topPadding;
+			flashvars["topDialogPadding"] = topDialogPadding;
+			flashvars["congratsRedirectURL"] = congratsRedirectURL;
+			flashvars["dontModifyCloseButton"] = dontModifyCloseButton;
+			
+			var params = {
+				menu: "false",
+				scale: "noScale",
+				allowFullscreen: "true",
+				allowScriptAccess: "always",
+				bgcolor: "#0c171b"
+			};
+			
+			var attributes = {
+				id:"CarsPurchasing"
+			};
+			
+			swfobject.embedSWF("DVC_OS.swf", "altContent", "100%", "100%", "9.0.0", "", flashvars, params, attributes);
+			
+			/**** External Calls ****/
+			function exitMod(){
+				window.location.href="placeholder.html";
+			}
+			
+			function goToReg(){
+				window.location.href="placeholder.html";
+			}
+			
+			function purchaseComplete(){
+				window.location.href="placeholder.html";
+			}
+			/**** **** **** **** ****/
+
+		</script>
+		<style>
+			html, body { height:100%; }
+			body { margin:0; }
+		</style>
+	</head>
+	<body>
+		<div id="altContent">
+			<h1>Cars_Purchasing</h1>
+			<p>Alternative content</p>
+			<p><a href="http://www.adobe.com/go/getflashplayer"><img
+				src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif"
+				alt="Get Adobe Flash player" /></a></p>
+		</div>
+	</body>
+</html>

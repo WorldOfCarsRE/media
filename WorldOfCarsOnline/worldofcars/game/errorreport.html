@@ -1,0 +1,68 @@
+<html>
+<head>
+<title>World of Cars - Report an Error</title>
+<META NAME="fields" CONTENT="Category_Message,subject,evening_phone,weekend_phone,connection_speed,amount_memory,E-Mail,processor_type,browser_software,OS,Name,last_name,member,day_phone,comments_or_questions">
+
+<script type="text/javascript" src="js/reportutils.js"></script>
+<script type="text/javascript" src="js/swfobject.js"></script>
+</head>
+
+<body BGCOLOR="#666666" TOPMARGIN="0" LEFTMARGIN="0" MARGINWIDTH="0" MARGINHEIGHT="0">
+<center>
+	<table width="997" border="0" cellpadding="0" cellspacing="0">
+		<tr>
+			<td>
+				<div>
+					<TABLE CELLPADDING="0" CELLSPACING="0" BORDER="0">
+						<TR VALIGN="TOP">
+							<td>
+								<p>Something's broken in World of Cars - please click the Submit button below to tell the Pit Crew.</p>
+								<!-- Start Form Field -->
+								<form name="report_form" action="" enctype="multipart/form-data" method="post" onSubmit="setSubmitURL();">
+									<!-- Hidden Fields -->
+									<input type="hidden" name="cat" value="report"/>
+									<input type="hidden" name="project" value="8"/>
+									<INPUT type="hidden" name="SUBMIT" value="1"/>
+									<input type="hidden" name="formtype" value="reportabuy"/>
+									<input type="hidden" name="summary" value="World of Cars Report A Bug"/>
+									<input type="hidden" name="Dname"/>
+									<input type="hidden" name="Access"/>
+									<input type="hidden" name="VersionToken"/>
+									<input type="hidden" name="carID"/>
+									<input type="hidden" name="os_version"/>
+									
+									<script language="javascript">
+										document.write('<input id="custom_field_9" type="hidden" name="custom_fields[9]" value="' + whichBrs() + '"/>');
+									</script>
+									
+									<!-- Email -->
+									<p>Email:<br/><input id="custom_field_10" class="default" type="text" name="custom_fields[10]" maxlength="255" size="40" tabindex="5" value=""></p>
+									
+									<!-- Account Name -->
+									<p>Account Name:<br/><input id="custom_field_14" class="default" type="text" name="custom_fields[14]" maxlength="255" size="40" tabindex="6" value=""></p>
+										
+									<!-- Game Log (ReadOnly) -->
+									<p>Game Log (ReadOnly):<br/><textarea name="custom_fields[8]" id="custom_field_8"  class="readonlystyle" READONLY rows="10" tabindex="2" style="width:400px; font-size: 8pt; background-color: #FFFFFF"></textarea></p>
+				
+									<p><input type="submit" value="Submit" tabindex="8"></p>
+								</form>
+								</p>
+								<div id="flashcontent"></div>
+								<script type="text/javascript">
+									var flashvars = {};
+									var params = {};
+									params.allowscriptaccess = "always"
+									
+									swfobject.embedSWF("DVC_Reporting.swf", "flashcontent", "100%", "100%", "10", "", flashvars, params);
+								</script>
+							</td>
+						</tr>
+					</table>
+				</div>
+			</td>
+		</tr>
+	</table>
+</center>
+</body>
+
+</html>

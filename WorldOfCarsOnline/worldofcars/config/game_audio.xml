@@ -1,0 +1,240 @@
+<?xml version="1.0"?>
+<AudioList>
+	<!-- This XML tag will mirror the actual AudioGrop class to enable easy switching to AMF later -->
+	<!-- Priority Levels run from 0 to 1 with 1 being highest priority -->
+	<AudioGroup priority="1" alias="Garage">
+		<!-- priority is the priority inside this group -->
+		<!-- alias is the name used to reference the sound -->
+		<!-- format is the type and url points to the sound's location; loop is a flag to specify looping or not -->
+		<!-- pan ranges from -1 (left) to 1 (right) 0 is center -->
+		<!-- vol ranges from 0 (silent) to 1 (max) -->
+			
+		
+		<!-- sound effects -->
+		<AudioEntry priority="0.7" alias="Select" url="assets/sound/effect/garage/car_o_efx_gar_button_select.mp3" loop="false" pan="0" vol="1" mode="single-channel-restart" stream="false" isMusic="false" />
+		<AudioEntry priority="0.7" alias="ChooseCarModel" url="assets/sound/effect/garage/car_o_efx_gar_button_selectCarModel.mp3" loop="false" pan="0" vol="1" mode="single-channel-restart" stream="false" isMusic="false" />
+		<AudioEntry priority="0.7" alias="ChooseEyelids" url="assets/sound/effect/garage/car_o_efx_gar_button_eyelidsSelect.mp3" loop="false" pan="0" vol="1" mode="single-channel-restart" stream="false" isMusic="false" />
+		<AudioEntry priority="0.7" alias="StretchCar" url="assets/sound/effect/garage/car_o_efx_gar_carStretch.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="false" isMusic="false" />
+		<AudioEntry priority="0.7" alias="ApplyPaint" url="assets/sound/effect/garage/car_o_efx_gar_itemAttach_bodyPaint.mp3" loop="false" pan="0" vol="1" mode="single-channel-restart" stream="false" isMusic="false" />
+		<AudioEntry priority="0.7" alias="ChooseGrill" url="assets/sound/effect/garage/car_o_efx_gar_itemAttach_grill.mp3" loop="false" pan="0" vol="1" mode="single-channel-restart" stream="false" isMusic="false" />
+		<AudioEntry priority="0.7" alias="ChooseTires" url="assets/sound/effect/garage/car_o_efx_gar_itemChoose_tires.mp3" loop="false" pan="0" vol="1" mode="single-channel-restart" stream="false" isMusic="false" />
+		<AudioEntry priority="0.7" alias="ChooseWheels" url="assets/sound/effect/garage/car_o_efx_gar_itemChoose_wheels.mp3" loop="false" pan="0" vol="1" mode="single-channel-restart" stream="false" isMusic="false" />
+		<AudioEntry priority="0.7" alias="Accept" url="assets/sound/effect/garage/car_o_efx_gar_button_raceNow.mp3" loop="false" pan="0" vol="1" mode="single-channel-restart" stream="false" isMusic="false" />
+		<AudioEntry priority="0.7" alias="AddRemoveItem" url="assets/sound/effect/garage/car_o_efx_gar_itemDetach_lights.mp3" loop="false" pan="0" vol="1" mode="single-channel-restart" stream="false" isMusic="false" />
+		<AudioEntry priority="0.7" alias="RevSports" url="assets/sound/effect/engine/car_o_efx_eng_carRev_nascar.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="false" isMusic="false" />
+		<AudioEntry priority="0.7" alias="RevStock" url="assets/sound/effect/engine/car_o_efx_eng_carRev_mustang.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="false" isMusic="false" />
+		<AudioEntry priority="0.7" alias="RevRally" url="assets/sound/effect/engine/car_o_efx_eng_carRev_porsche.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="false" isMusic="false" />
+		<AudioEntry priority="0.7" alias="HonkSmall" url="assets/sound/effect/garage/car_o_efx_gar_carHorn_smallHappy.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="false" isMusic="false" />
+		<AudioEntry priority="0.7" alias="HonkMedium" url="assets/sound/effect/garage/car_o_efx_gar_carHorn_medHappy.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="false" isMusic="false" />
+		<AudioEntry priority="0.7" alias="HonkLarge" url="assets/sound/effect/garage/car_o_efx_gar_carHorn_largeHappy.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="false" isMusic="false" />
+		<AudioEntry priority="0.7" alias="Random" url="assets/sound/effect/garage/car_o_efx_gar_button_randomSelect.mp3" loop="false" pan="0" vol="1" mode="multi-channel" stream="false" isMusic="false" />
+		<AudioEntry priority="0.7" alias="ButtonClick" url="assets/sound/effect/garage/car_o_efx_gar_button_nameNumberColorBackgroundSelect.mp3" loop="false" pan="0" vol="1" mode="single-channel-restart" stream="false" isMusic="false" />
+	</AudioGroup>
+
+	<!-- this audio group should be always loaded -->
+	<AudioGroup priority="1" alias="Global">
+		<AudioEntry priority="1" alias="NavClick" url="assets/sound/effect/global/car_o_efx_glb_carDoorClose.mp3" loop="false" pan="0" vol="1" mode="single-channel-restart" stream="false" isMusic="false" />
+	</AudioGroup>
+	
+	<AudioGroup priority="1" alias="GarageMusic">
+		<!-- music -->
+		<AudioEntry priority="0.7" alias="Music" url="assets/sound/music/global/car_o_mus_glb_silence.mp3" loop="true" pan="0" vol="1" mode="single-channel-restart" stream="true" isMusic="true" />
+	</AudioGroup>
+	
+	<AudioGroup priority="1" alias="ISORacing">
+		<!-- music -->
+		<!--<AudioEntry priority="0.7" alias="Music" url="assets/sound/music/track/car_o_mus_trk_actionLoop.mp3" loop="true" pan="0" vol="1" mode="single-channel-restart" stream="true" isMusic="true" /> -->
+		<!-- sound effects -->
+		<AudioEntry priority="0.7" alias="Boost2" url="assets/sound/effect/track/car_o_efx_trk_boost.mp3" loop="false" pan="0" vol="0.6" mode="single-channel-restart" stream="false" isMusic="false" />
+		<AudioEntry priority="0.7" alias="Pickup" url="assets/sound/effect/track/car_o_efx_trk_pickedUpItem.mp3" loop="false" pan="0" vol="0.6" mode="single-channel-restart" stream="false" isMusic="false" />
+		<AudioEntry priority="0.7" alias="Flag" url="assets/sound/effect/track/car_o_efx_trk_yellowFlag.mp3" loop="false" pan="0" vol="0.6" mode="single-channel-restart" stream="false" isMusic="false" />
+		<AudioEntry priority="0.7" alias="Crash" url="assets/sound/effect/track/car_o_efx_trk_otherAccidentSounds.mp3" loop="false" pan="0" vol="0.3" mode="single-channel-block" stream="false" isMusic="false" />
+		<AudioEntry priority="0.7" alias="CountDownLow" url="assets/sound/effect/track/car_o_efx_trk_countdown_low.mp3" loop="false" pan="0" vol="1" mode="single-channel-restart" stream="false" isMusic="false" />
+		<AudioEntry priority="0.7" alias="CountDownHigh" url="assets/sound/effect/track/car_o_efx_trk_countdown_high.mp3" loop="false" pan="0" vol="1" mode="single-channel-restart" stream="false" isMusic="false" />
+		<AudioEntry priority="0.7" alias="Start" url="assets/sound/effect/track/car_o_efx_trk_start.mp3" loop="false" pan="0" vol="0.3" mode="single-channel-restart" stream="false" isMusic="false" />
+		<AudioEntry priority="0.7" alias="TakeOff" url="assets/sound/effect/track/car_o_efx_trk_takeOff.mp3" loop="false" pan="0" vol="0.3" mode="single-channel-restart" stream="false" isMusic="false" />
+		<AudioEntry priority="0.7" alias="Win" url="assets/sound/effect/track/car_o_efx_trk_victory.mp3" loop="false" pan="0" vol="1" mode="single-channel-restart" stream="false" isMusic="false" />
+	</AudioGroup>
+
+	<AudioGroup priority="1" alias="Store">
+		<!-- sound effects -->
+		<AudioEntry priority="0.7" alias="Select" url="assets/sound/effect/store/car_o_efx_str_button_catagorySelect.mp3" loop="false" pan="0" vol="1" mode="single-channel-restart" stream="false" isMusic="false" />
+		<AudioEntry priority="0.7" alias="Buy" url="assets/sound/effect/store/car_o_efx_str_button_buyNow.mp3" loop="false" pan="0" vol="1" mode="single-channel-restart" stream="false" isMusic="false" />
+		<AudioEntry priority="0.7" alias="Try" url="assets/sound/effect/store/car_o_efx_str_button_tryOn.mp3" loop="false" pan="0" vol="1" mode="single-channel-restart" stream="false" isMusic="false" />
+		<AudioEntry priority="0.7" alias="ApplyPaint" url="assets/sound/effect/garage/car_o_efx_gar_itemAttach_bodyPaint.mp3" loop="false" pan="0" vol="1" mode="single-channel-restart" stream="false" isMusic="false" />
+	</AudioGroup>
+	
+	<AudioGroup priority="1" alias="VOStream">
+		<!-- Voiceover Streamed (not preloaded) -->
+		<!-- Mater Voiceovers -->
+		<AudioEntry priority="1" alias="materWelcome01" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_nameIsMater.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materWelcome02" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_soonAsYerDone.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materWelcome03" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_aeromatics.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materSelectBody01" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_boyHereWeGo.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materSelectBody02" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_fun.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materSelectBody03" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_hooBoyICantWait.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materBodyColor01" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_neverBelieveHowGoodYouLook.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materBodyColor02" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_nowYerCookin.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materBodyColor03" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_rustCoatWorthTheWait.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materName01" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_nameIsMater.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materName02" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_nameMaterToo.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materName03" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_facnyNumbers.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materName04" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_pickNumberJustKidding.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materGeneral01" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_yesSirGonnaBeGood.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materGeneral02" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_wonderingWhen.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materGeneral03" url="assets/sound/voiceover/franchise/mater/car_o_voo_frn_mater_quitGawkin.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materGeneral04" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_hopeYouBrungRacinTires.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materGeneral05" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_fancyDrivin.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materGeneral06" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_dontGetBetterThanThis.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materSelectTrack01" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_alrightyThenTimeToRace.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materSelectTrack02" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_bigTimeRacingEngine.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materSelectTrack03" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_seeSomeRacin.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materSelectTrack04" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_fancyDrivin.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materFirstPlace01" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_youWon.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materFirstPlace02" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_yaDidIt.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materFirstPlace03" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_wayToGo.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materSecondPlace01" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_almostAsGoodAsWinner.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materSecondPlace02" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_almostWon.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materSecondPlace03" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_boyPrettyGood.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materThirdPlace01" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_dontGiveUpNow.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materThirdPlace02" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_gonnaWinIHope.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materThirdPlace03" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_gotMoreInYa.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materLastPlace01" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_winSome.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materLastPlace02" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_towYouNextRace.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materLastPlace03" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_psstNotVeryGood.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materInRacePassing01" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_lookAtYouGo02.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materInRacePassing02" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_nowYerCookin.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materInRacePassing03" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_wayToGo.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materInRaceGotPassed01" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_fasterBuddy.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materInRaceGotPassed02" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_careful.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materInRaceGotPassed03" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_whatsGoinOn.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materInRaceGotPassed04" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_dontGiveUpYet.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materInRaceGotPassed05" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_comeOnYouCanDoIt.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materInRaceOilSlick01" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_slipperySituation01.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materInRaceOilSlick02" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_slipperySituation02.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materInRaceOilSlick03" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_slickMove.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materInRaceTurbo01" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_getTurbo01.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materInRaceTurbo02" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_getTurbo02.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="materInRaceTurbo03" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_getTurbo03.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		
+		
+		<!-- McQueen Voiceovers -->
+		<AudioEntry priority="1" alias="mcqueenCatalog01" url="assets/sound/voiceover/franchise/car_o_voo_frn_mcqueen_welcomeToTheBestShop.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="mcqueenCatalog02" url="assets/sound/voiceover/franchise/car_o_voo_frn_mcqueen_likeWhatISeeRookie.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="mcqueenCatalog03" url="assets/sound/voiceover/franchise/car_o_voo_frn_mcqueen_allSetUp.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="mcqueenRandom01" url="assets/sound/voiceover/franchise/car_o_voo_frn_mcqueen_nice.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="mcqueenRandom02" url="assets/sound/voiceover/franchise/car_o_voo_frn_mcqueen_dazzleThem.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="mcqueenRandom03" url="assets/sound/voiceover/franchise/car_o_voo_frn_mcqueen_competition.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+		<AudioEntry priority="1" alias="mcqueenRandom04" url="assets/sound/voiceover/franchise/car_o_voo_frn_mcqueen_lookingGood.mp3" loop="false" pan="0" vol="1" mode="single-channel-block" stream="true" isMusic="false" cooldown="-5" />
+				
+		<!-- Currently subgroups are used to specify a group of sounds to randomize from -->
+		<!-- Weight is the relative weighting in the random calculation, higher weights are more likley to be chosen -->		
+		<SubGroup name="Greeting">
+			<SubGroupEntry alias="materWelcome02" weight="3" />
+		</SubGroup>
+		
+		<SubGroup name="SelectBody">
+			<SubGroupEntry alias="materSelectBody01" weight="3" />
+			<SubGroupEntry alias="materSelectBody02" weight="3" />
+			<SubGroupEntry alias="materSelectBody03" weight="3" />
+		</SubGroup>
+		
+		<SubGroup name="BodyColor">
+			<SubGroupEntry alias="materBodyColor01" weight="3" />
+			<SubGroupEntry alias="materBodyColor02" weight="3" />
+			<SubGroupEntry alias="materBodyColor03" weight="3" />
+		</SubGroup>
+		
+		<SubGroup name="SelectName">
+			<SubGroupEntry alias="materName01" weight="3" />
+			<SubGroupEntry alias="materName02" weight="3" />
+			<SubGroupEntry alias="materName03" weight="3" />
+		</SubGroup>
+		
+		<SubGroup name="General">
+			<SubGroupEntry alias="materGeneral01" weight="3" />
+			<SubGroupEntry alias="materGeneral02" weight="3" />
+			<SubGroupEntry alias="materGeneral03" weight="3" />
+			<SubGroupEntry alias="materGeneral04" weight="3" />
+			<SubGroupEntry alias="materGeneral05" weight="3" />
+			<SubGroupEntry alias="materGeneral06" weight="3" />
+		</SubGroup>
+		
+		<SubGroup name="SelectTrack">
+			<SubGroupEntry alias="materSelectTrack01" weight="3" />
+			<SubGroupEntry alias="materSelectTrack02" weight="3" />
+			<SubGroupEntry alias="materSelectTrack03" weight="3" />
+			<SubGroupEntry alias="materSelectTrack03" weight="3" />
+		</SubGroup>
+		
+		<SubGroup name="FirstPlace">
+			<SubGroupEntry alias="materFirstPlace01" weight="3" />
+			<SubGroupEntry alias="materFirstPlace02" weight="3" />
+			<SubGroupEntry alias="materFirstPlace03" weight="3" />
+		</SubGroup>
+		
+		<SubGroup name="SecondPlace">
+			<SubGroupEntry alias="materSecondPlace01" weight="3" />
+			<SubGroupEntry alias="materSecondPlace02" weight="3" />
+			<SubGroupEntry alias="materSecondPlace03" weight="3" />
+		</SubGroup>
+		
+		<SubGroup name="ThirdPlace">
+			<SubGroupEntry alias="materThirdPlace01" weight="3" />
+			<SubGroupEntry alias="materThirdPlace02" weight="3" />
+			<SubGroupEntry alias="materThirdPlace03" weight="3" />
+		</SubGroup>
+		
+		<SubGroup name="LastPlace">
+			<SubGroupEntry alias="materLastPlace01" weight="3" />
+			<SubGroupEntry alias="materLastPlace02" weight="3" />
+			<SubGroupEntry alias="materLastPlace03" weight="3" />
+		</SubGroup>
+		
+		<SubGroup name="InRacePassing">
+			<SubGroupEntry alias="materInRacePassing01" weight="3" />
+			<SubGroupEntry alias="materInRacePassing02" weight="3" />
+			<SubGroupEntry alias="materInRacePassing03" weight="3" />
+		</SubGroup>
+		
+		<SubGroup name="InRaceGotPassed">
+			<SubGroupEntry alias="materInRaceGotPassed01" weight="3" />
+			<SubGroupEntry alias="materInRaceGotPassed02" weight="3" />
+			<SubGroupEntry alias="materInRaceGotPassed03" weight="3" />
+			<SubGroupEntry alias="materInRaceGotPassed04" weight="3" />
+			<SubGroupEntry alias="materInRaceGotPassed05" weight="3" />
+		</SubGroup>
+		
+		<SubGroup name="InRaceOilSlick">
+			<SubGroupEntry alias="materInRaceOilSlick01" weight="3" />
+			<SubGroupEntry alias="materInRaceOilSlick02" weight="3" />
+			<SubGroupEntry alias="materInRaceOilSlick03" weight="3" />
+		</SubGroup>
+		
+		<SubGroup name="InRaceTurbo">
+			<SubGroupEntry alias="materInRaceTurbo01" weight="3" />
+			<SubGroupEntry alias="materInRaceTurbo02" weight="3" />
+			<SubGroupEntry alias="materInRaceTurbo03" weight="3" />
+		</SubGroup>
+		
+		<SubGroup name="LaunchCatalog">
+			<SubGroupEntry alias="mcqueenCatalog01" weight="3" />
+			<SubGroupEntry alias="mcqueenCatalog02" weight="3" />
+			<SubGroupEntry alias="mcqueenCatalog03" weight="3" />
+		</SubGroup>
+		
+		<SubGroup name="CatalogRandom">
+			<SubGroupEntry alias="mcqueenRandom01" weight="3" />
+			<SubGroupEntry alias="mcqueenRandom02" weight="3" />
+			<SubGroupEntry alias="mcqueenRandom03" weight="3" />
+			<SubGroupEntry alias="mcqueenRandom04" weight="3" />
+		</SubGroup>
+		
+	</AudioGroup>
+	
+	<AudioGroup priority="1" alias="VOPersistent">
+		<!-- Voiceover Preloaded -->
+		<!-- no cooldown for this one cos I'm using it for the sound settings -->
+		<AudioEntry priority="1" alias="materGeneral01" url="assets/sound/voiceover/franchise/car_o_voo_frn_mater_yesSirGonnaBeGood.mp3" loop="false" pan="0" vol="1" mode="single-channel-restart" stream="true" isMusic="false" />
+	</AudioGroup>
+</AudioList>

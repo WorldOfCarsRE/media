@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	
+	<!-- =========================== 
+		 PRELOAD ASSETS 
+	===========================-->
+	<LoaderMax name="preloader_assets_queue">
+		<SWFLoader name="preloader" url="{assetsURL}/shared/swf/preload_assets.swf" context="own" />
+		<ImageLoader name="preloaderImage" centerRegistration="true" url="{assetsURL}/localised/{locale}/images/cars_logo.png" />
+		<ImageLoader name="introImage" centerRegistration="false" url="{assetsURL}/localised/{locale}/images/intro_fin.png" />
+		<ImageLoader name="ratingImage" centerRegistration="true" url="{assetsURL}/localised/{locale}/images/rating.png" />
+	</LoaderMax>
+	
+	<LoaderMax name="main_assets_queue">
+		<SWFLoader url="{assetsURL}/shared/swf/main_assets.swf" context="own" />
+	</LoaderMax>
+	
+	
+	<!-- =========================== 
+		 Trailer
+	=========================== -->
+	<trailer localise_id="trailer">
+		<link id="trailer.skin">{assetsURL}/shared/swf/SkinOverPlaySeekFullVol.swf</link>
+		<link id="trailer.trailerURL">{assetsURL}/localised/{locale}/video/trailer.flv</link>
+		<copy copy="trailer.seeInCinemas" stage_instance="seeInCinemas" />
+	</trailer>
+	
+	<!-- =========================== 
+		 COPY
+	===========================-->
+	<frame localise_id="frame">
+		<image image="{assetsURL}/localised/{locale}/images/cars_logo.png" stage_instance="titleTreatment" centerRegistration="true" />
+		<image image="{assetsURL}/localised/{locale}/images/rating.png" stage_instance="frameRating" centerRegistration="true" />
+		<copy copy="frame.seeInCinemas" stage_instance="cinemaCopy" />
+		<copy copy="frame.visitSite" stage_instance="visitSiteButton" />
+		<copy copy="frame.watchTrailer" stage_instance="viewTrailerButton" />
+		<copy copy="frame.becomeFan" stage_instance="facebookButton.tf1" />
+		<copy copy="frame.onFacebook" stage_instance="facebookButton.tf2" />
+		<copy copy="frame.shareThis" stage_instance="shareCopy" />
+		<copy copy="frame.copyrightCopy" stage_instance="copyrightCopy" />
+		
+		<!-- Remove the terms and privacy links to prevent them from being displayed -->
+		<link id="frame.termsLink">http://corporate.disney.go.com/corporate/terms.html</link>
+		<link id="frame.privacyLink">http://corporate.disney.go.com/corporate/pp_wdig.html</link>
+		
+		<link id="frame.visitSiteLink">http://www.facebook.com/DisneyPixar#!/PixarCars</link>
+		<link id="frame.fbFollowLink">http://www.facebook.com/DisneyPixar#!/PixarCars</link>
+		<link id="frame.siteURL">http://www.cars2megaposter.com/</link>
+		<link id="frame.facebookShareImageURL">{assetsURL}/shared/images/cars_logo.jpg</link>
+		<link id="frame.imagination">http://www.imagination.at</link>
+		<button copy="frame.take" stage_instance="btnTakeTheQuiz" />
+		<button copy="frame.found" stage_instance="found" />
+	</frame>
+	
+	<quiz localise_id="quiz">
+		<button copy="quiz.start" stage_instance="btn_start" />
+		<button copy="quiz.no" stage_instance="btn_no" />
+		<button copy="quiz.yes" stage_instance="btn_yes" />
+		<copy copy="quiz.intro" stage_instance="txt_intro" />
+		<copy copy="quiz.closeTxt" stage_instance="closeTxt" />
+	</quiz>
+	
+	<intro localise_id="intro">
+		<image image="{assetsURL}/localised/{locale}/images/intro_fin.png" stage_instance="fin" centerRegistration="false"/>
+		<button copy="intro.go" stage_instance="go" />
+		<copy copy="intro.hd" stage_instance="hd" />
+	</intro>
+	
+	
+	<popup localise_id="popup">
+		<copy copy="popup.fact" stage_instance="btnFacts" />
+		<copy copy="popup.facebook" stage_instance="btnFacebook" />
+	</popup>
+
+	
+	<!-- =========================== 
+		 HOTSPOTS
+	===========================-->
+	<!-- A facebook button will appear on the content popups only if a facebook attribute is provided. Remove the facebook attribute to hide the button. -->
+	<hotspots>
+		<item id="1" type="video" name="Mater" url="{assetsURL}/shared/flv/files/mater-400x225-300kbps-with-audio.flv" facebook="http://www.facebook.com/CarsMater">
+			<fact>fact.1</fact>
+		</item>
+		<item id="2" type="image" name="Mater in Disguise" url="{assetsURL}/shared/images/files/mater-japanese-costume.jpg" facebook="http://www.facebook.com/CarsMater">
+			<fact>fact.2</fact>
+		</item>
+		<item id="3" type="image" name="Mater" url="{assetsURL}/shared/images/files/mater_london.jpg" facebook="http://www.facebook.com/CarsMater">
+			<fact>fact.3</fact>		
+		</item>
+		<item id="4" type="video" name="Lightning McQueen" url="{assetsURL}/shared/flv/files/mcqueen-400x225-300kbps-with-audio.flv" facebook="http://www.facebook.com/CarsLightningMcQueen">
+			<fact>fact.4</fact>		
+		</item>
+		<item id="5" type="video" name="Francesco Bernoulli" url="{assetsURL}/shared/flv/files/francesco-400x225-300kbps-with-audio.flv" facebook="http://www.facebook.com/CarsFrancescoBernoulli">
+			<fact>fact.5</fact>		
+		</item>
+		<item id="6" type="video" name="Francesco Bernoulli" url="{assetsURL}/shared/flv/files/francesco-football-400x225-300kbps-with-audio.flv" facebook="http://www.facebook.com/CarsFrancescoBernoulli">
+			<fact>fact.6</fact>		
+		</item>
+		<item id="7" type="image" name="John Lassetire" url="{assetsURL}/shared/images/files/john_lassetire.jpg">
+			<fact>fact.7</fact>		
+		</item>
+		<item id="8" type="video" name="Finn McMissle" url="{assetsURL}/shared/flv/files/finn-400x225-300kbps-with-audio.flv" facebook="http://www.facebook.com/CarsFinnMcMissle">
+			<fact>fact.8</fact>		
+		</item>
+		<item id="9" type="video" name="Holley Shiftwell" url="{assetsURL}/shared/flv/files/holley-400x225-300kbps-with-audio.flv" facebook="http://www.facebook.com/CarsHolleyShiftwell">
+			<fact>fact.9</fact>		
+		</item>
+		<item id="10" type="image" name="Sally" url="{assetsURL}/shared/images/files/sally_porsche.jpg" facebook="http://www.facebook.com/CarsSally">
+			<fact>fact.10</fact>
+		</item>
+		<item id="11" type="image" name="Sheriff" url="{assetsURL}/shared/images/files/sheriff_police_car.jpg" facebook="http://www.facebook.com/CarsSheriff">
+			<fact>fact.11</fact>
+		</item>
+		<item id="12" type="image" name="Ramone" url="{assetsURL}/shared/images/files/ramone.jpg" facebook="http://www.facebook.com/CarsRamone">
+			<fact>fact.12</fact>
+		</item>
+		<item id="13" type="image" name="Mack" url="{assetsURL}/shared/images/files/mack_truck.jpg" facebook="http://www.facebook.com/CarsMack">
+			<fact>fact.13</fact>		
+		</item>
+		<item id="14" type="image" name="Flo" url="{assetsURL}/shared/images/files/flo.jpg" facebook="http://www.facebook.com/CarsFlo">
+			<fact>fact.14</fact>		
+		</item>
+		<item id="15" type="image" name="Red" url="{assetsURL}/shared/images/files/red_firetruck.jpg">
+			<fact>fact.15</fact>		
+		</item>
+		<item id="16" type="video" name="Guido" url="{assetsURL}/shared/flv/files/guido-400x225-300kbps-with-audio.flv" facebook="http://www.facebook.com/CarsGuido">
+			<fact>fact.16</fact>		
+		</item>
+		<item id="17" type="image" name="Big Bentley" url="{assetsURL}/shared/images/files/big_bentley.jpg">
+			<fact>fact.17</fact>		
+		</item>
+		<item id="18" type="image" name="Lotso Huggin' Bear" url="{assetsURL}/shared/images/files/lotso.jpg">
+			<fact>fact.18</fact>		
+		</item>
+		<item id="19" type="image" name="Harryhausen Sushi" url="{assetsURL}/shared/images/files/harry-hausen.jpg">
+			<fact>fact.19</fact>		
+		</item>
+		<item id="20" type="image" name="Pope-mobile" url="{assetsURL}/shared/images/files/pope.jpg">
+			<fact>fact.20</fact>
+		</item>	
+		<item id="21" type="image" name="The Queen" url="{assetsURL}/shared/images/files/queen.jpg" facebook="http://www.facebook.com/CarsTheQueen">
+			<fact>fact.21</fact>
+		</item>
+		<item id="22" type="image" name="Mama Topolino" url="{assetsURL}/shared/images/files/mama_topolino.jpg" facebook="http://www.facebook.com/CarsMamaTopolino">
+			<fact>fact.22</fact>
+		</item>
+		<item id="23" type="image" name="Darrell Cartrip" url="{assetsURL}/shared/images/files/darrell.jpg" facebook="http://www.facebook.com/CarsDarrellCartrip">
+			<fact>fact.23</fact>		
+		</item>
+		<item id="24" type="video" name="Sir Miles Axlerod" url="{assetsURL}/shared/flv/files/miles-400x225-300kbps-with-audio.flv" facebook="http://www.facebook.com/CarsMilesAxlerod">
+			<fact>fact.24</fact>		
+		</item>
+		<item id="25" type="image" name="Luigi" url="{assetsURL}/shared/images/files/luigi.jpg" facebook="http://www.facebook.com/CarsLuigi">
+			<fact>fact.25</fact>		
+		</item>
+		<item id="26" type="video" name="Lewis Hamilton" url="{assetsURL}/shared/flv/files/lewis-hamilton-400x225-300kbps-with-audio.flv" facebook="http://www.facebook.com/CarsLewisHamilton">
+			<fact>fact.26</fact>		
+		</item>
+		<item id="27" type="video" name="Raoul ÇaRoule" url="{assetsURL}/shared/flv/files/raoule-400x225-300kbps-with-audio.flv" facebook="http://www.facebook.com/CarsRaoulCaRoule">
+			<fact>fact.27</fact>		
+		</item>
+
+	</hotspots>
+	
+	
+	<!-- =========================== 
+		 QUESTIONS
+	===========================-->
+	<questions>
+		<question correct_id="1">q.1</question>
+		<question correct_id="2">q.2</question>
+		<question correct_id="3">q.3</question>
+		<question correct_id="4">q.4</question>
+		<question correct_id="5">q.5</question>
+		<question correct_id="6">q.6</question>
+		<question correct_id="7">q.7</question>
+		<question correct_id="8">q.8</question>
+		<question correct_id="9">q.9</question>
+		<question correct_id="10">q.10</question>
+		<question correct_id="11">q.11</question>
+		<question correct_id="12">q.12</question>
+		<question correct_id="13">q.13</question>
+		<question correct_id="14">q.14</question>
+		<question correct_id="15">q.15</question>
+		<question correct_id="16">q.16</question>
+		<question correct_id="17">q.17</question>
+		<question correct_id="18">q.18</question>
+		<question correct_id="19">q.19</question>
+		<question correct_id="20">q.20</question>
+		<question correct_id="21">q.21</question>
+		<question correct_id="22">q.22</question>
+		<question correct_id="23">q.23</question>
+		<question correct_id="24">q.24</question>
+		<question correct_id="25">q.25</question>
+		<question correct_id="26">q.26</question>
+		<question correct_id="27">q.27</question>
+
+	</questions>
+	
+	<intros>
+		<intro>intro.1</intro>
+		<intro>intro.2</intro>
+		<intro>intro.3</intro>
+		<intro>intro.4</intro>
+		<intro>intro.5</intro>
+	</intros>
+	
+	<instructions>
+		<instruction><title>instructionTitle.1</title><sub>instructionSub.1</sub></instruction>
+		<instruction><title>instructionTitle.2</title><sub>instructionSub.2</sub></instruction>
+		<instruction><title>instructionTitle.3</title><sub>instructionSub.3</sub></instruction>
+		<instruction><title>instructionTitle.4</title><sub>instructionSub.4</sub></instruction>
+		<instruction><title>instructionTitle.5</title><sub>instructionSub.5</sub></instruction>
+		<instruction><title>instructionTitle.6</title><sub>instructionSub.6</sub></instruction>
+		<instruction><title>instructionTitle.7</title><sub>instructionSub.7</sub></instruction>
+	</instructions>
+</data>

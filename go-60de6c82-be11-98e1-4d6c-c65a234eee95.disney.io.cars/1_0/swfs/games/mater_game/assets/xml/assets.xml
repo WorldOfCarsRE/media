@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<assets>
+		<global_path><![CDATA[1_0/swfs/games/mater_game/]]></global_path>
+		<list>
+			<item alias="fontLib" size="51634 ">fontLib.swf</item>
+		</list>
+	</assets>
+	<database>
+		<game>
+			<components sp_depth="18">
+				<item depth="25">
+					<title>HEAD</title>
+					<class_name>head</class_name>
+					<num>4</num>
+					<page spacing="25">0,2</page>
+				</item>
+				<item depth="20">
+					<title>FACE</title>
+					<class_name>face</class_name>
+					<num>8</num>
+					<page spacing="30">0,3,6</page>
+				</item>
+				<item depth="5" disable="true">
+					<title>TIRE</title>
+					<class_name>tire</class_name>
+					<num>5</num>
+					<page spacing="30">0,2,4</page>
+				</item>
+				<item depth="10">
+					<title>COLOR</title>
+					<class_name>color</class_name>
+					<num>4</num>
+					<page spacing="26">0</page>
+				</item>
+				<item depth="0">
+					<title>TRAILER</title>
+					<class_name>back</class_name>
+					<num>4</num>
+					<page spacing="40">0</page>
+				</item>
+				<item depth="15">
+					<title>SIDE</title>
+					<class_name>side</class_name>
+					<num>6</num>
+					<page spacing="32">0,2</page>
+				</item>
+			</components>
+			<costumes>
+				<!--ord: head,face,tire,color,back,side,special face:beard 
+				-1 is none or basic color.
+				-->
+				<!-- yellow -->
+				<item sp_depth="5">-1,6,0,3,3,0,2</item>
+				<!-- blue -->
+				<item sp_depth="5">3,7,1,1,1,-1,1,5</item>
+				<!-- dusty and hat-->
+				<item sp_depth="5">0,0,3,-1,2,3</item>
+				<!-- white -->
+				<item sp_depth="5">2,-1,2,2,-1,5</item>
+				<!-- pure -->
+				<item sp_depth="5">1,4,4,0,0,1</item>
+			</costumes>
+			<levels mode="max" roundTime="45" memoryTime="4" minLostPartsNum="6" maxLostPartsNum="8" revealtime="2" failTime="0.8" delayCountTime="2.2">
+				<level>
+					<match></match>
+				</level>
+				<level>
+					<match></match>
+				</level>
+			</levels>
+			
+		</game>
+		<home><car>1,4,4,0,0,1</car></home>
+		<media volume="0.7"></media>
+	</database>
+	<language default="en">
+		<en  embed="true">
+			<home>
+				<title autoSize="left" embed="true" thickness="50"><![CDATA[<span class="home_title1">  MATER</span><span class="home_title2"><br/>   MEMORY MISSION</span>]]></title>
+				<play ><label><![CDATA[<span class="btn">PLAY</span>]]></label></play>
+			</home>
+			<intro>
+				<title thickness="50"><![CDATA[<span class="intro_title1">MAKE A </span><span class="intro_title2">CORRECT MATCH</span>]]></title>
+				<desc y="-5" ><![CDATA[<span class="intro_desc">CAN YOU REBUILD MATER’S DISGUISE BEFORE TIME RUNS OUT?  YOU’LL HAVE 3 SECONDS TO MEMORIZE ALL HIS PARTS BEFORE THEY POP OFF. IF YOU CAN REBUILD HIM BEFORE THE BUZZER, YOU WIN!</span>]]></desc>
+				<tip thickness="50" y="5"><![CDATA[<span class="intro_tip1">TIP: </span><span class="intro_tip2">CLICK         FOR A SNEAK PEAK!</span>]]></tip>
+				<lamp x="3" y="0"></lamp>
+				<start x="0"><label  y="-1"><![CDATA[<span class="btn_small">START</span>]]></label></start>
+				
+			</intro>
+			<game>
+				<tip><![CDATA[<span class="game_tip">${num}</span>]]></tip>
+				<round>
+					<label y="5"><![CDATA[<span class="game_label">ROUND</span>]]></label>
+					<num y="5"><![CDATA[<span class="game_num">${num}</span>]]></num>
+				</round>
+				<time>
+					<label y="5"><![CDATA[<span class="game_label">TIME</span>]]></label>
+					<num oy="5"><![CDATA[<span class="game_num">${num}</span>]]></num>
+				</time>
+				<count><![CDATA[<span class="game_count">${num}</span>]]></count>
+				<storage>
+					<tab spacing="5" btnX="12" btnWidth="60"><![CDATA[<span class="game_tab">${name}</span>]]></tab>
+					<cell spacing="20" ></cell>
+				</storage>
+				<pop>
+					<title><![CDATA[<span class="game_title">REMEMBER THIS<br/>DISGUISE!</span>]]></title>
+					<btn y="4" x="-2"><![CDATA[<span class="game_ready">OK</span>]]></btn>
+				</pop>
+			</game>
+			<win>
+				<title thickness="50"><![CDATA[<span class="win_title1">FANTASTIC</span><span class="win_title2"> JOB!</span><span class="win_desc"><br/>YOU MATCHED ALL THE PARTS WITH <br/>${num} SECONDS TO SPARE!</span>]]></title>
+				<play><label><![CDATA[<span class="btn">NEXT ROUND</span>]]></label></play>
+				<footer y="5"><![CDATA[]]></footer>
+			</win>
+			<failed>
+				<title thickness="50"><![CDATA[<span class="win_title1">GAME</span><span class="win_title2"> OVER</span><span class="win_desc"><br/>TIME'S UP!</span>]]></title>
+				<play><label><![CDATA[<span class="btn">PLAY AGAIN</span>]]></label></play>
+				<footer y="5"><![CDATA[]]></footer>
+			</failed>
+		</en>
+	</language>
+	<css>
+		<en>
+			<!--
+			font name:Hemi Head 426
+			font name:Eurostile LT Std Bold Oblique   
+			-->
+			 <![CDATA[
+				a:link{color:#ffffff;text-decoration:underline}
+				a:hover{color:#28D1D8;}
+				
+				.btn{font-family:"Eurostile LT Std Bold Oblique";font-size:24px;color:#01332c;}
+				.btn_small{font-family:"Eurostile LT Std Bold Oblique";font-size:21.6px;color:#01332c;}
+			 
+				.home_title1{font-family:"Hemi Head 426";font-size:30px;color:#f3ad29;leading:-14px;letter-spacing:1px;}
+				.home_title2{font-family:"Hemi Head 426";font-size:45px;color:#ffffff;letter-spacing:1px;}
+				
+				.intro_title1{font-family:"Hemi Head 426";font-size:33px;color:#ffffff;leading:-14px;}
+				.intro_title2{font-family:"Hemi Head 426";font-size:33px;color:#f3ad29;leading:-14px;}
+				.intro_desc{font-family:"Eurostile LT Std Bold Oblique";font-size:10px;color:#ffffff;leading:1px;}
+				.intro_tip1{font-family:"Hemi Head 426";font-size:24px;color:#f3ad29;leading:-2px;}
+				.intro_tip2{font-family:"Eurostile LT Std Bold Oblique";font-size:12px;color:#ffffff;leading:-2px;}
+				
+				
+				.game_title{font-family:"Eurostile LT Std Bold Oblique";font-size:18px;color:#ffffff;leading:-4px;}
+				.game_label{font-family:"Eurostile LT Std Bold Oblique";font-size:10px;color:#adadad;leading:-4px;}
+				.game_num{font-family:"Eurostile LT Std Bold Oblique";font-size:10px;color:#f3ad29;leading:-4px;}
+				.game_count{font-family:"Eurostile LT Std Bold Oblique";font-size:62.5px;color:#f3ad29;leading:-4px;}
+				.game_tab{font-family:"Eurostile LT Std Bold Oblique";font-size:10px;color:#000000;leading:-4px;}
+				.game_ready{font-family:"Eurostile LT Std Bold Oblique";font-size:16px;color:#01332c;leading:-4px;}
+				.game_tip{font-family:"Eurostile LT Std Bold Oblique";font-size:21px;color:#f3ad29;leading:-4px;}
+				
+				.win_title1{font-family:"Hemi Head 426";font-size:53px;color:#f3ad29;}
+				.win_title2{font-family:"Hemi Head 426";font-size:53px;color:#ffffff;}
+				.win_desc{font-family:"Eurostile LT Std Bold Oblique";font-size:14px;color:#ffffff;leading:-2px;}
+				
+				.footer_h1{font-family:"Eurostile LT Std Bold Oblique";font-size:16px;color:#ff0000;leading:0px;}
+				.footer_h2{font-family:"Eurostile LT Std Bold Oblique";font-size:9px;color:#ffffff;leading:0px;}
+				.footer_h3{font-family:"Eurostile LT Std Bold Oblique";font-size:12px;color:#ffffff;leading:-2px;}
+				
+			 ]]>
+		 </en>
+	</css>
+</data>

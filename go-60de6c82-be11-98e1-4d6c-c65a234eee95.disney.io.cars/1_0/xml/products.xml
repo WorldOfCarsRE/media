@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Version 2.17 plus ENERGIZER sponsorship data 110523 1340 -->
+
+<products>
+	<page id="products" default="home">
+		<title>PRODUCTS</title>
+		<nav id="home" href="products/home" width="70" size="12">HOME</nav>
+		<nav id="shopping" href="products/shopping" size="12">SHOPPING</nav>
+		<nav id="books" href="products/books" width="70" size="12">BOOKS</nav>
+		<nav id="homevideos" href="products/homevideos" size="12">HOME VIDEOS</nav>
+		<nav id="videogames" href="products/videogames" size="12">VIDEO GAMES</nav>
+		<nav id="music" href="products/music" width="80" size="12">MUSIC</nav>
+		<promo id="sidenav" href="characters/mater" />
+		
+		<external_server><![CDATA[http://a.dolimg.com/franchise/cars/content/]]></external_server>
+		
+		<!-- placeholder for sponsor page -->
+		<page id="sponsor" template="com.disney.cars2.templates.SponsorTemplate" />
+		
+		<page id="home" preload="products/home" template="com.disney.cars2.templates.LandingPageTemplate">
+			
+			<title>PRODUCTS - HOME</title>
+			<promo id="top1" image_id="top1" href="products/videogames">
+				<title>MATER'S TALL TALES FOR NINTENDO WII</title>
+			</promo>
+			<promo id="top2" image_id="top2" href="products/homevideos/cars_toons" >
+				<title>CARS TOON: MATER'S TALL TALES BLU-RAY&#8482; AND DVD COMBO PACK</title>
+			</promo>
+			<!--
+			<promo id="top3" image_id="top3" >
+				<title><![CDATA[LIGHTNING & MATER'S ESCAPE]]></title>
+			</promo>
+			-->
+			<promo id="carousel1" image_id="carousel1" href="products/books/lightning_was_here">
+				<title>LIGHTNING WAS HERE</title>
+			</promo>
+			<promo id="carousel2" image_id="carousel2" href="products/books/read_along_storybook">
+				<title>READ ALONG STORYBOOK</title>
+			</promo>
+			<promo id="carousel3" image_id="carousel3" href="products/books/all_revved_up">
+				<title>REVVED UP</title>
+			</promo>
+			<promo id="carousel4" image_id="carousel4" href="products/videogames/cars2-xbox">
+				<title>CARS 2: THE VIDEO GAME FOR Xbox 360&#174;</title>
+			</promo>
+			<promo id="carousel5" image_id="carousel5" href="products/videogames/cars2-wii">
+				<title>CARS 2: THE VIDEO GAME FOR Wii&#8482;</title>
+			</promo>
+			<promo id="carousel6" image_id="carousel6" href="products/videogames/cars2-ds">
+				<title>CARS 2: THE VIDEO GAME FOR DS</title>
+			</promo>
+			<promo id="carousel7" image_id="carousel7" href="products/videogames/cars2-ps3">
+				<title>CARS 2: THE VIDEO GAME FOR PS3</title>
+			</promo>
+			<promo id="carousel8" image_id="carousel8" href="products/videogames/cars2-pc">
+				<title>CARS 2: THE VIDEO GAME FOR PC</title>
+			</promo>
+			<promo id="carousel9" image_id="carousel9" href="products/videogames/mater_tall_tales">
+				<title>CARS TOON MATER TALL TALES FOR Wii&#8482;</title>
+			</promo>
+			<promo id="carousel10" image_id="carousel10" href="products/homevideos/cars">
+				<title>CARS BLU-RAY&#8482;</title>
+			</promo>
+			<promo id="carousel11" image_id="carousel11" href="products/homevideos/cars_toons">
+				<title>CARS TOONS</title>
+			</promo>
+		</page>
+
+		<!-- TARGET PRODUCTS/SPONSOR/DETAIL content -->
+
+		<page id="sponsor-target" default="pillow" template="com.disney.cars2.templates.SideNavTemplate">
+			<title>PRODUCTS - TARGET</title>
+			<nav id="pillow" href="products/sponsor-target/pillow">DISNEY CARS BODY PILLOW</nav>
+			<nav id="spinout" href="products/sponsor-target/spinout">TOKYO SPINOUT TRACK</nav>
+			<nav id="cars-br-dvd" href="products/sponsor-target/cars-br-dvd">CARS BLU-RAY & DVD COMBO PACK</nav>
+			<nav id="white-t-shirt" href="products/sponsor-target/gray-tee">BOYS' GRAPHIC TEE - GRAY</nav>
+			<nav id="black-t-shirt" href="products/sponsor-target/navy-tee">BOYS' GRAPHIC TEE - NAVY</nav>
+			<nav id="lego-pit-stop" href="products/sponsor-target/lego-pit-stop">LEGO CARS 2 TOKYO PIT STOP</nav>
+			<nav id="game-xbox" href="products/sponsor-target/game-xbox">CARS 2 GAME FOR XBOX360</nav>
+			<nav id="game-ds" href="products/sponsor-target/game-ds">CARS 2 GAME FOR NINTENDO DS</nav>
+			<nav id="game-ps3" href="products/sponsor-target/game-ps3">CARS 2 GAME FOR PS3</nav>
+			<nav id="game-wii" href="products/sponsor-target/game-wii">CARS 2 GAME FOR WII</nav>
+
+			
+			<page id="pillow" preload="sponsor-target/pillow" template="com.disney.cars2.templates.DetailTemplate">
+				<title>DISNEY CARS BODY PILLOW</title>
+				
+				<nav id="more_details" target="_blank" href="http://www.target.com/b?node=16431151&ref=sr_shorturl_cars2">YOU CAN SHOP TARGET.COM</nav>
+				
+				<desc><![CDATA[<b>Features</b><ul><li>Fiber Content: 100 % Polyester<li>Fill Material: 100 % Polyester<li>Weave Type: Fleece<li>Care and Cleaning: Spot Clean Only<li>Dimensions: 44.0 " L x 17.0 " W<li>Gusset Measures: 5.0 "</ul>]]></desc>
+			</page>
+			
+			<page id="spinout" preload="sponsor-target/spinout" template="com.disney.cars2.templates.DetailTemplate">
+				<title>CARS 2 TOKYO SPINOUT TRACK</title>
+
+				<nav id="more_details" target="_blank" href="http://www.target.com/b?node=16431151&ref=sr_shorturl_cars2">YOU CAN SHOP TARGET.COM</nav>
+								
+				<desc>Two cars race through the streets of Tokyo, but only one will be the winner! 
+This track set features a double launcher and dramatic, spinning platforms to pit two of your best Cars racers against one another. 
+Based on an exciting scene from Cars 2, one vehicle claims victory while the other spins out of control and flies off the track. Includes one exclusive plastic Cars vehicle.</desc>
+			</page>
+			
+			<page id="cars-br-dvd" preload="sponsor-target/cars-br-dvd" template="com.disney.cars2.templates.DetailTemplate">
+				<title>CARS (2 DISCS) (BLU-RAY/DVD) (WIDESCREEN)</title>
+
+				<nav id="more_details" target="_blank" href="http://www.target.com/b?node=16431151&ref=sr_shorturl_cars2">YOU CAN SHOP TARGET.COM</nav>
+								
+				<desc>A pedal-to-the-metal race car determined to prove his worth on the tracks discovers that life isn't always about crossing the finish line first in Toy Story director John Lasseter's mechanically-minded tale of friendship and loyalty. 
+Lightning McQueen (voice of Owen Wilson) may be just a rookie, but he's convinced that he can realize his dream of zooming by the checkered flag if he can only make it to California in time to compete in the upcoming Piston Cup Championship. When Lightning takes a detour into the slow-moving, Route 66 town of Radiator Springs, however, it begins to appear as if his shot at the big time has effectively stalled out. 
+Of course, Lightning's exciting cross-country trek wasn't all for naught, and after befriending such quirky Radiator Springs residents as Sally the Porsche (voice of Bonnie Hunt), Doc Hudson (voice of Paul Newman), and Mater the Tow Truck (voice of Larry the Cable Guy), the eager young racer learns that sometimes life is more about the voyage than the outcome of the race.</desc>
+			</page>
+			
+			<page id="gray-tee" preload="sponsor-target/gray-tee" template="com.disney.cars2.templates.DetailTemplate">
+				<title>CARS BOYS' SHORT-SLEEVE GRAPHIC TEE - GRAY</title>
+
+				<nav id="more_details" target="_blank" href="http://www.target.com/b?node=16431151&ref=sr_shorturl_cars2">YOU CAN SHOP TARGET.COM</nav>
+								
+				<desc><![CDATA[<b>Features</b><ul><li>Sizing and Fit: Kids (4-16) Sizing , with a Regular Fit<li>Material: 100 % Cotton<li>Care and Cleaning: Tumble Dry Low, Machine Wash Cold<li>Length: Below Waist<li>Neckline Style: Crew Neckline<li>Short Sleeves<li>Closure Style: Pull-On<li>Hem Style: Straight Hem<li>Garment Detail: Tagless</ul>]]></desc>
+			</page>
+			
+			<page id="navy-tee" preload="sponsor-target/navy-tee" template="com.disney.cars2.templates.DetailTemplate">
+				<title>CARS BOYS' SHORT-SLEEVE GRAPHIC TEE - NAVY</title>
+				
+				<nav id="more_details" target="_blank" href="http://www.target.com/b?node=16431151&ref=sr_shorturl_cars2">YOU CAN SHOP TARGET.COM</nav>
+				
+				<desc><![CDATA[<b>Features</b><ul><li>Sizing and Fit: Kids (4-16) Sizing , with a Regular Fit<li>Material: 100 % Cotton<li>Care and Cleaning: Tumble Dry Low, Machine Wash Cold<li>Length: Below Waist<li>Neckline Style: Crew Neckline<li>Short Sleeves<li>Closure Style: Pull-On<li>Hem Style: Straight Hem<li>Garment Detail: Tagless</ul>]]></desc>
+			</page>
+			
+			<page id="lego-pit-stop" preload="sponsor-target/lego-pit-stop" template="com.disney.cars2.templates.DetailTemplate">
+				<title>LEGO CARS 2 TOKYO PIT STOP</title>
+				
+				<nav id="more_details" target="_blank" href="http://www.target.com/b?node=16431151&ref=sr_shorturl_cars2">YOU CAN SHOP TARGET.COM</nav>
+				
+				<desc>Lightning McQueen's pit crew are preparing for the first race of the World Grand Prix in Tokyo, Japan. As race day approaches, can you help Luigi and Guido fine-tune their skills and leave the other pit crews standing?
+Includes Luigi and Guido
+Features Japanese-style pit with accessories
+Make a super-fast pit stop with Luigi and Guido!</desc>
+			</page>
+			
+			<page id="game-xbox" preload="sponsor-target/game-xbox" template="com.disney.cars2.templates.DetailTemplate">
+				<title>CARS 2 WITH FREE CARS 2 MOVIE TICKET - ONLY AT TARGET (XBOX360)</title>
+				
+				<nav id="more_details" target="_blank" href="http://www.target.com/b?node=16431151&ref=sr_shorturl_cars2">YOU CAN SHOP TARGET.COM</nav>
+				
+				<desc>Includes FREE Movie Ticket to see Cars 2: Valid for $8.50 off one admission to Cars 2 at participating theaters. Offer expires 07/31/11. While supplies last. Internet access and printer required.
+From the makers of Toy Story 3: The Videogame comes Cars 2: The Video Game, where players can jump into the Cars 2 universe with some of their favorite Cars personalities in locations around the globe. 
+Train to become an agent of C.H.R.O.M.E. (Command Headquarters for Recon Operations & Motorized Espionage) and take on dangerous missions, compete to become the fastest racecar in the world, or use your spy skills in exciting, action-packed combat racing!</desc>
+			</page>
+			
+			<page id="game-ds" preload="sponsor-target/game-ds" template="com.disney.cars2.templates.DetailTemplate">
+				<title>CARS 2 WITH FREE CARS 2 MOVIE TICKET - ONLY AT TARGET (NINTENDO DS)</title>
+				
+				<nav id="more_details" target="_blank" href="http://www.target.com/b?node=16431151&ref=sr_shorturl_cars2">YOU CAN SHOP TARGET.COM</nav>
+				
+				<desc>Includes FREE Movie Ticket to see Cars 2: Valid for $8.50 off one admission to Cars 2 at participating theaters. Offer expires 07/31/11. While supplies last. Internet access and printer required.
+From the makers of Toy Story 3: The Videogame comes Cars 2: The Video Game, where players can jump into the Cars 2 universe with some of their favorite Cars personalities in locations around the globe. 
+Train to become an agent of C.H.R.O.M.E. (Command Headquarters for Recon Operations & Motorized Espionage) and take on dangerous missions, compete to become the fastest racecar in the world, or use your spy skills in exciting, action-packed combat racing!</desc>
+			</page>
+			
+			<page id="game-ps3" preload="sponsor-target/game-ps3" template="com.disney.cars2.templates.DetailTemplate">
+				<title>CARS 2 WITH FREE CARS 2 MOVIE TICKET - ONLY AT TARGET (PLAYSTATION 3)</title>
+				
+				<nav id="more_details" target="_blank" href="http://www.target.com/b?node=16431151&ref=sr_shorturl_cars2">YOU CAN SHOP TARGET.COM</nav>
+				
+				<desc>Includes FREE Movie Ticket to see Cars 2: Valid for $8.50 off one admission to Cars 2 at participating theaters. Offer expires 07/31/11. While supplies last. Internet access and printer required.
+From the makers of Toy Story 3: The Videogame comes Cars 2: The Video Game, where players can jump into the Cars 2 universe with some of their favorite Cars personalities in locations around the globe. 
+Train to become an agent of C.H.R.O.M.E. (Command Headquarters for Recon Operations & Motorized Espionage) and take on dangerous missions, compete to become the fastest racecar in the world, or use your spy skills in exciting, action-packed combat racing!</desc>
+			</page>
+			
+			<page id="game-wii" preload="sponsor-target/game-wii" template="com.disney.cars2.templates.DetailTemplate">
+				<title>CARS 2 WITH FREE CARS 2 MOVIE TICKET - ONLY AT TARGET (WII)</title>
+				
+				<nav id="more_details" target="_blank" href="http://www.target.com/b?node=16431151&ref=sr_shorturl_cars2">YOU CAN SHOP TARGET.COM</nav>
+				
+				<desc>Includes FREE Movie Ticket to see Cars 2: Valid for $8.50 off one admission to Cars 2 at participating theaters. Offer expires 07/31/11. While supplies last. Internet access and printer required.
+From the makers of Toy Story 3: The Videogame comes Cars 2: The Video Game, where players can jump into the Cars 2 universe with some of their favorite Cars personalities in locations around the globe. 
+Train to become an agent of C.H.R.O.M.E. (Command Headquarters for Recon Operations & Motorized Espionage) and take on dangerous missions, compete to become the fastest racecar in the world, or use your spy skills in exciting, action-packed combat racing!</desc>
+			</page>
+			
+		</page> 
+		
+		<page id="shopping" default="home" preload="shopping" template="com.disney.cars2.templates.SideNavTemplate">
+			<title>PRODUCTS - DISNEY STORE</title>
+			
+			
+			<nav id="disney_store" target="_blank" href="http://www.disneystore.com/transfer/280559/cars/mn/1000012/?CMP=OTL-Dcom&att=CarsFranchise">
+				<title>DISNEY STORE</title>
+				<promo id="sidenav" href="characters/topper" />
+				<subnav id="disney_store">     
+					<nav id="toys" target="_blank" href="http://www.disneystore.com/transfer/280559/cars/toys/mn/1000012+1000208/?CMP=OTL-Dcom&att=CarsFranchise">TOYS</nav>
+					<nav id="clothes" target="_blank" href="http://www.disneystore.com/transfer/280559/cars/clothes/mn/1000012+1000204/?CMP=OTL-Dcom&att=CarsFranchise">CLOTHES</nav>
+					<nav id="home_decor" target="_blank" href="http://www.disneystore.com/transfer/280559/cars/home-decor/mn/1000012+1000207/?CMP=OTL-Dcom&att=CarsFranchise">HOME DECOR</nav>
+					<nav id="accessories" target="_blank" href="http://www.disneystore.com/transfer/280559/cars/accessories/mn/1000012+1000216/?CMP=OTL-Dcom&att=CarsFranchise">ACCESSORIES</nav>
+					<nav id="movies" target="_blank" href="http://www.disneystore.com/transfer/280559/cars/dvds-music-books/mn/1000012+1000205/?CMP=OTL-Dcom&att=CarsFranchise"><![CDATA[MOVIES, MUSIC, & BOOKS]]></nav>-->
+					<nav id="collectibles" target="_blank" href="http://www.disneystore.com/transfer/280559/cars/pins-art-collectibles/mn/1000012+1000202/?CMP=OTL-Dcom&att=CarsFranchise" >COLLECTIBLES</nav>
+					<nav id="electronics" target="_blank" href="http://www.disneystore.com/transfer/280559/cars/electronics/mn/1000012+1000206/?CMP=OTL-Dcom&att=CarsFranchise">ELECTRONICS</nav>
+	
+				</subnav>
+			</nav>
+			
+			<nav id="more_products" target="_blank" href="http://www.disneystore.com/transfer/280559/cars/mn/1000012/?CMP=OTL-Dcom&att=CarsFranchise">
+				<title>MORE PRODUCTS</title>
+				<subnav id="more_products">         
+					
+					<nav id="ridemakerz" href="products/shopping/ridemakerz">RIDEMAKERZ</nav>
+					<nav id="lego_duplo_tokyo" href="products/shopping/lego_duplo_tokyo">LEGO DUPLO TOKYO</nav>
+					<nav id="lego_duplo_wgp" href="products/shopping/lego_duplo_wgp">LEGO DUPLO WGP</nav>
+					<nav id="pit_crew_starter_kit" href="products/shopping/pit_crew_starter_kit">CARS 2 PIT CREW STARTER KIT</nav>  
+					<nav id="speedway_grand_prix" href="products/shopping/speedway_grand_prix">CARS 2 SPIRAL SPEEDWAY GRAND PRIX</nav> 
+					<nav id="lights_sounds_mater" href="products/shopping/lights_sounds_mater">LIGHTS &#38; SOUNDS MATER </nav> 
+					<nav id="tee_shirts" href="products/shopping/tee_shirts">CARS 2 T-SHIRTS </nav>  
+				</subnav>
+			</nav>  
+			
+			<page id="ridemakerz" preload="shopping/ridemakerz" template="com.disney.cars2.templates.DetailTemplate">
+				<title>RIDEMAKERZ: DISNEY PIXAR CARS 2 HOT ROD LIGHTNING MCQUEEN DELUXE KIT</title>
+								
+				<desc><![CDATA[RIDEMAKERZ¨ Disney/Pixar Cars 2 Customizable Kits include:<br><li>Each custom car features RIDEMAKERZ's patented Snap n' Go system that allows boys to easily swap out tires, rims, spoilers and other accessories</li><li>Body of your favorite character</li><li>4 Tires </li><li>Spoiler</li><br>You can trick Ôem out as shown with additional parts <br>(sold separately).<br><br>ONLY AVAILABLE AT TOYS R US.]]>
+				</desc>
+			</page> 
+			
+			<page id="lego_duplo_tokyo" preload="shopping/lego_duplo_tokyo" template="com.disney.cars2.templates.DetailTemplate">
+				<title>LEGO DUPLO DISNEY PIXAR CARS 2 TOKYO RACING</title>
+								
+				<desc><![CDATA[Race Lightning McQueen and Carla around the track with the LEGO Duplo Disney Pixar Cars 2 Tokyo Racing (5819)! <br>It's time for the Tokyo World Grand Prix and Lightning McQueen is up against super-fast Carla. Can Lightning McQueen use all of his speed and beat her to the <br>finish line?<br><br>The LEGO Duplo Disney Pixar Cars 2 Tokyo Racing (5819) features:<br><li>Lightning McQueen and Carla</li><li>Duplo build Tokyo racing scenery</li><li>Contains 45 pieces</li><br>AVAILABLE ONLY AT TOYS"R"US.]]>
+				</desc>
+			</page>  
+			
+			<page id="lego_duplo_wgp" preload="shopping/lego_duplo_wgp" template="com.disney.cars2.templates.DetailTemplate">
+				<title>LEGO DUPLO DISNEY PIXAR CARS 2 - LIMITED EDITION WORLD GRAND PRIX (5839)</title>
+								
+				<desc><![CDATA[Win the World Grand Prix Champion and claim the prize with the LEGO Duplo Disney Pixar Cars 2 - Limited Edition World Grand Prix (5839)! The big World Race is over and the winner is about to be announced! Who will be crowned champion? Will it be Lightning McQueen or will one of his rivals win the cup and take his place on top of the podium? <br><br>The LEGO Duplo Disney Pixar Cars 2 - Limited Edition World Grand Prix (5839) features:<li>Lightning McQueen, Francesco and exclusive Indy race car</li><li>Duplo build podium, silver cup and other assorted Duplo bricks</li><li>Contains 35 pieces</li><br>AVAILABLE ONLY AT TOYS"R"US.]]>
+				</desc>
+			</page> 
+			
+			<page id="pit_crew_starter_kit" preload="shopping/pit_crew_starter_kit" template="com.disney.cars2.templates.DetailTemplate">
+				<title>CARS 2 PIT CREW STARTER KIT</title>
+								
+				<desc><![CDATA[An exclusive 1:55 scale Mater with pit crew accessories. Also includes a web component for all the latest news on the Cars line. Ages 3 years and up<br><br>AVAILABLE ONLY AT KMART.]]>
+				</desc>
+			</page>                    
+			                                                                
+			<page id="speedway_grand_prix" preload="shopping/speedway_grand_prix" template="com.disney.cars2.templates.DetailTemplate">
+				<title>CARS 2 SPIRAL SPEEDWAY GRAND PRIX</title>
+								
+				<desc><![CDATA[Start your enginesÑLightning McQueen and Francesco are racing head to head! Place them at the starting gate and press it down to rev Ôem up. Then flip the gate up to hear cool racing sounds and favorite character phrases. TheyÕll hug those curves, in side-by-side racing action, all the way to the finish! Includes 2AA (R6) 1.5V batteries. When replacing, use LR6 Alkaline batteries. Please dispose of batteries safely. Ages 2 - 6 yrs. <br><br>AVAILABLE AT ALL MAJOR RETAILERS.]]>
+				</desc>
+			</page>
+			
+			<page id="lights_sounds_mater" preload="shopping/lights_sounds_mater" template="com.disney.cars2.templates.DetailTemplate">
+				<title>DISNEY CARS 2 LIGHTS AND SOUNDS MATER</title>
+				<desc><![CDATA[Your child will love the fast-paced fun of Disney Cars 2 Lights and Sounds Mater. It features realistic flashing lights and sounds straight from the film.<br> <br> Disney Cars 2 Lights And Sounds Mater:<br><li>Oversized 1:24 scale vehicle</li><li>Requires 2 AA batteries (included)</li> <br> AVAILABLE ONLY AT WALMART&#x2122;.]]>
+				</desc>
+			</page>     
+			
+			<page id="tee_shirts" preload="shopping/tee_shirts" template="com.disney.cars2.templates.DetailTemplate">
+				<title>TEE-SHIRTS</title>
+				<desc><![CDATA[Rev up your graphic tee collection with an awesome Disney Cars shirt. <br><li>Short sleeve</li><li>Casual</li><li>Disney Cars Graphic</li><li>100% cotton</li><li>Domestic</li><br>AVAILABLE AT SEARS.]]>
+				</desc>
+			</page>
+			
+			<page id="home" preload="shopping/home" template="com.disney.cars2.templates.DisneyStoreNoNavTemplate">
+
+				<promo id="top" image_id="top" target="_blank" href="http://www.disneystore.com/disney/store/DSISearch?Searchstr=lego+cars&storeId=10051&catalogId=10002&langId=-1&Ntx=mode+matchallpartial&N=0&Nu=pProductID&Nr=pPublished%3A1&Ntk=All_Shopping&Ntt=lego+cars&D=lego+cars&Dr=pPublished%3A1" />
+				<promo id="bottom" image_id="bottom" target="_blank" href="http://www.disneystore.com/transfer/280559/cars/mn/1000012/?CMP=OTL-Dcom&att=CarsFranchise" />
+			</page>
+			
+			
+			
+		</page>
+		
+		<page id="books" default="all_revved_up" template="com.disney.cars2.templates.SideNavTemplate">
+			<title>PRODUCTS - BOOKS</title>
+			<nav id="all_revved_up" href="products/books/all_revved_up">ALL REVVED UP</nav>
+			<nav id="read_along_storybook" href="products/books/read_along_storybook">CARS READ-ALONG STORYBOOK AND CD</nav>
+			<nav id="lightning_was_here" href="products/books/lightning_was_here">LIGHTNING WAS HERE</nav>
+			
+			
+			<page id="all_revved_up" preload="books/all_revved_up" template="com.disney.cars2.templates.DetailTemplate">
+				<title>ALL REVVED UP</title>
+				
+				<nav id="more_details" target="_blank" href="http://disney.go.com/books/all-revved-up-142313141X">MORE DETAILS</nav>
+				
+				<desc>Readers can watch Lightning McQueen, Sally, and Doc appear to zoom across the page as each picture changes in this lenticular storybook. They'll even see Mater drive backwards in a high-definition animated lenticular. With a padded cover, a lenticular on every spread, and plenty of action, this oversized board book is perfect for younger fans of the smash-hit film Cars!</desc>
+			</page>
+			
+			<page id="read_along_storybook" preload="books/read_along_storybook" template="com.disney.cars2.templates.DetailTemplate">
+				<title>CARS READ-ALONG STORYBOOK AND CD</title>
+				
+				<nav id="more_details" target="_blank" href="http://disney.go.com/books/cars-read-along-storybook-and-cd-1423133323">MORE DETAILS</nav>
+				
+				<desc>Relive the adventure of Disney/Pixar's box-office smash hit, Cars, with this delightful read?along storybook and CD. The CD features word-for-word narration that matches the text, sound effects from the film, and original movie dialogue starring Paul Newman as "Doc" and Owen Wilson as "Lightning McQueen."</desc>
+			</page>
+			
+			<page id="lightning_was_here" preload="books/lightning_was_here" template="com.disney.cars2.templates.DetailTemplate">
+				<title>LIGHTNING WAS HERE</title>
+				
+				<nav id="more_details" target="_blank" href="http://disney.go.com/books/lightning-was-here-1423131541">MORE DETAILS</nav>
+				
+				<desc>Let Lightning McQueen be your guide on this extra-special tour of Radiator Springs! You'll get an inside look at all the cool hangouts -- from Mater's tow yard to Luigi's Casa Della Tires to Fillmore's dome, and much more! Fans young and old will love finding out even more about the wonderful world of Cars in this delightful jacketed storybook. </desc>
+			</page>
+		</page>
+		
+		<page id="homevideos" default="cars" template="com.disney.cars2.templates.SideNavTemplate">
+			<title>PRODUCTS - HOME VIDEOS</title>
+			<nav id="cars" href="products/homevideos/cars">CARS</nav>
+			<nav id="cars_toons" href="products/homevideos/cars_toons">CARS TOONS</nav>
+			
+			<page id="cars" preload="homevideos/cars" template="com.disney.cars2.templates.DetailTemplate">
+				<title>CARS BLU-RAY&#8482; DISC</title>
+				
+				<nav id="purchase" target="_blank" href="http://disneymovierewards.go.com/promotions/special-offers/cars2movie?cmp=dmov_dmr_syn_gwp_cars2_tix">BUY</nav>
+				
+				<desc>Now Available on Bluray Combo Pack/Cars 2 Movie Admission with Purchase. 
+
+From the acclaimed creators of TOY STORY, THE INCREDIBLES, and FINDING NEMO comes a high-octane adventure comedy that shows life is about the journey, not the finish line. Hotshot rookie race car Lightning McQueen (Owen Wilson) is living life in the fast lane until he hits a detour on his way to the most important race of his life. 
+    
+Stranded in Radiator Springs, a forgotten town on the old Route 66, he meets a snazzy Porsche named Sally (Bonnie Hunt), the wise-cracking tow truck Mater (Larry The Cable Guy), Doc Hudson (Paul Newman), and a variety of quirky characters who help him discover that there's more to life than trophies and fame. Revved up with a sensational soundtrack, featuring Rascal Flatts, Sheryl Crow, John Mayer, James Taylor, and others, plus exciting bonus features, including the exclusive short movie "Mater And The Ghostlight," CARS is full of freewheeling fun for everyone.
+
+    - Real-World Racing: Getting Geeky With The Details
+    - Hudson Hornet
+    - Graphics
+    - Darrell Waltrip Museum Tour
+    
+Movie Showcase
+    - Instant Access To Select Movie Scenes That Showcase The Ultimate In High Definition Picture And Sound
+    
+Seamless Menus
+    Plus All DVD Bonus Features
+    DVD BONUS FEATURES
+    MATER AND THE GHOSTLIGHT 
+    (All New, Exclusive Animated Short)
+    Mischievous Mater likes to sneak up, honk his horn and spook his friends for laughs, but the lovable prankster changes his tune once he hears the story of "The Ghostlight." So ride along with Mater as he learns it's not what you can see that'll scare you, it's what you can't see, but wanna see, but wish you hadn't seen, if it really was there after all, that is. Anyway, enjoy the fun in this all-new exclusive animated short film.
+    
+ONE MAN BAND 
+    (Academy Award® Nominated Short)
+    With just one coin to make a wish at a fountain, a peasant girl named Tippy encounters two street musicians competing for her money. It's musical mayhem as the little girl gets caught between dueling one man bands in this wonderful Academy Award nominated short film.
+    
+INSPIRATION FOR CARS
+    Join Cars' creator John Lasseter as he shares his personal video footage and insights into the many inspirations behind the film. From the blazing speed of the racetrack to the slow lane of historic Route 66, John offers a firsthand account of how he discovered that life's not about the destination; it's about the journey. And More!
+</desc>
+			</page>
+			
+			<page id="cars_toons" preload="homevideos/cars_toons" template="com.disney.cars2.templates.DetailTemplate">
+				<title>CARS TOON: MATER'S TALL TALES BLU-RAY&#8482; AND DVD COMBO PACK</title>
+				
+				<nav id="purchase" target="_blank" href="http://www.disneystore.com/transfer/280559/cars-dvds-music-books-cars-toon-maters-tall-tales-blu-ray-and-dvd-combo-pack/mp/1272856/1000012+1000205/?CMP=OTL-Dcom%26att=CarsFranchise">BUY</nav>
+				
+				<desc>Rev up your engines for this unforgettable collection of Cars Toons starring Mater, the lovable and hilarious tow truck from the hit movie Cars. From the creative minds of Disney•Pixar come nine highly entertaining "Tall Tales" involving bullfights, drag races, rock concerts, monster truck showdowns and even UFOs - plus, check out the new, exclusive, never-before-seen Cars Toons "Mater Private Eye" and "Moon Mater".
+    
+Join Mater, the heart and soul of Radiator Springs, and all your favorite characters from the world of Cars as they take you on a fun-filled ride that will have your family roaring with laughter!
+    
+An Hour and a Half of Cars Fun including 2 never before seen hilarious adventures and all-new bonus features!
+	
+BONUS FEATURES:
+    Unmade Tales
+    
+    Mater Bumper-to-Bumper
+    
+    Studio Stories: McQueen Has No Hands
+    
+    All-New Mater Intros ("Play All" Selection)
+    
+    And Much More!
+	</desc>
+			</page>
+		</page>
+		
+		<page id="videogames" default="cars2-xbox" template="com.disney.cars2.templates.SideNavTemplate">
+			<title>PRODUCTS - VIDEOGAMES</title>
+			<nav id="cars2-xbox" href="products/videogames/cars2-xbox">CARS 2: THE VIDEO GAME FOR Xbox 360&#174; Console</nav>
+			<nav id="cars2-wii" href="products/videogames/cars2-wii">CARS 2: THE VIDEO GAME FOR Wii&#8482; Console</nav>
+			<nav id="cars2-pc" href="products/videogames/cars2-pc">CARS 2: THE VIDEO GAME FOR PC</nav>
+			<nav id="cars2-ps3" href="products/videogames/cars2-ps3">CARS 2: THE VIDEO GAME FOR PS3&#8482;</nav>
+			<nav id="cars2-ds" href="products/videogames/cars2-ds">CARS 2: THE VIDEO GAME FOR Nintendo DS&#8482;</nav>
+			<nav id="mater_tall_tales" href="products/videogames/mater_tall_tales">CARS TOON MATER TALL TALES FOR Wii&#8482; Console</nav>
+			<nav id="preorder" href="products/videogames/preorder">PRE-ORDER</nav>
+			
+			<!--<nav id="cars" href="products/videogames/cars">CARS</nav>
+			<nav id="cars_mater_championships" href="products/videogames/cars_mater_championships">CARS MATER NATIONAL CHAMPIONSHIP</nav>-->
+			
+			<page id="cars2-xbox" preload="videogames/cars2-xbox" template="com.disney.cars2.templates.DetailTemplate">
+				<title>CARS 2: THE VIDEO GAME FOR Xbox 360&#174; Console</title>
+				<nav id="pre-order" href="products/videogames/preorder">PRE-ORDER</nav>
+				<nav id="videos" href="products/videogames/cars2-xbox/videos">VIDEOS</nav>
+				<nav id="gallery" href="products/videogames/cars2-xbox/gallery">GALLERY</nav>
+				<desc><![CDATA[From the makers of Toy Story 3: The Videogame comes Cars 2: The Video Game, where players can jump into the Cars 2 universe with some of their favorite Cars personalities in locations around the globe.  Train to become an agent of C.H.R.O.M.E. (Command Headquarters for Recon Operations & Motorized Espionage) and take on dangerous missions, compete to become the fastest racecar in the world, or use your spy skills in exciting, action-packed combat racing!
+
+Pre-Order Coming Soon
+
+<font size="10" color="#8e8e8e">KINECT, Xbox, Xbox 360, Xbox LIVE, and the Xbox logos are trademarks of the Microsoft group of companies and are used under license from Microsoft.</font>]]></desc>
+				<page id="gallery" href="products/videogames/cars2-xbox" preload="cars2-xbox/gallery" />
+				<page id="videos" href="products/videogames/cars2-xbox">
+					<playlist id="video-games">
+						<list></list>
+					</playlist>
+				</page>
+			</page>
+			<page id="cars2-wii" preload="videogames/cars2-wii" template="com.disney.cars2.templates.DetailTemplate">
+				<title>CARS 2: THE VIDEO GAME FOR Wii&#8482; Console</title>
+				<nav id="pre-order" target="_blank" href="http://www.disneystore.com/transfer/280559/gaming-toys-pre-order-cars-2-the-video-game-for-nintendo-wii/mp/1282265/1000261/?CMP=OTL-Dcom&att=CarsFranchise">PRE-ORDER</nav>
+	  
+				<nav id="videos" href="products/videogames/cars2-wii/videos">VIDEOS</nav>
+				<nav id="gallery" href="products/videogames/cars2-wii/gallery">GALLERY</nav>
+				<desc><![CDATA[From the makers of Toy Story 3: The Videogame comes Cars 2: The Video Game, where players can jump into the Cars 2 universe with some of their favorite Cars personalities in locations around the globe.  Train to become an agent of C.H.R.O.M.E. (Command Headquarters for Recon Operations & Motorized Espionage) and take on dangerous missions, compete to become the fastest racecar in the world, or use your spy skills in exciting, action-packed combat racing!
+
+<font size="10" color="#8e8e8e">Wii is a trademark of Nintendo. &#169; 2006 Nintendo.</font>]]></desc>
+				<page id="gallery" href="products/videogames/cars2-wii" preload="cars2-wii/gallery" />
+				<page id="videos" href="products/videogames/cars2-wii">
+					<playlist id="video-games">
+						<list></list>
+					</playlist>
+				</page>
+			</page>
+			<page id="cars2-pc" preload="videogames/cars2-pc" template="com.disney.cars2.templates.DetailTemplate">
+				<title>CARS 2: THE VIDEO GAME FOR PC</title>
+				<nav id="pre-order" href="products/videogames/preorder">PRE-ORDER</nav>
+				<nav id="videos" href="products/videogames/cars2-pc/videos">VIDEOS</nav>
+				<nav id="gallery" href="products/videogames/cars2-pc/gallery">GALLERY</nav>
+				<desc><![CDATA[From the makers of Toy Story 3: The Videogame comes Cars 2: The Video Game, where players can jump into the Cars 2 universe with some of their favorite Cars personalities in locations around the globe.  Train to become an agent of C.H.R.O.M.E. (Command Headquarters for Recon Operations & Motorized Espionage) and take on dangerous missions, compete to become the fastest racecar in the world, or use your spy skills in exciting, action-packed combat racing!]]></desc>
+				<page id="gallery" href="products/videogames/cars2-pc" preload="cars2-pc/gallery" />
+				<page id="videos" href="products/videogames/cars2-pc">
+					<playlist id="video-games">
+						<list></list>
+					</playlist>
+				</page>
+			</page>
+			<page id="cars2-ps3" preload="videogames/cars2-ps3" template="com.disney.cars2.templates.DetailTemplate">
+				<title>CARS 2: THE VIDEO GAME FOR PlayStation&#174; 3 System</title>
+				<nav id="pre-order" href="products/videogames/preorder">PRE-ORDER</nav>
+				<nav id="videos" href="products/videogames/cars2-ps3/videos">VIDEOS</nav>
+				<nav id="gallery" href="products/videogames/cars2-ps3/gallery">GALLERY</nav>
+				<desc><![CDATA[From the makers of Toy Story 3: The Videogame comes Cars 2: The Video Game, where players can jump into the Cars 2 universe with some of their favorite Cars personalities in locations around the globe.  Train to become an agent of C.H.R.O.M.E. (Command Headquarters for Recon Operations & Motorized Espionage) and take on dangerous missions, compete to become the fastest racecar in the world, or use your spy skills in exciting, action-packed combat racing!
+
+<font size="10" color="#8e8e8e">"PlayStation" and the "PS" Family logo are registered trademarks and "PS3" and the PlayStation Network logo are trademarks of Sony Computer Entertainment Inc.</font>]]></desc>
+				<page id="gallery" href="products/videogames/cars2-ps3" preload="cars2-ps3/gallery" />
+				<page id="videos" href="products/videogames/cars2-ps3">
+					<playlist id="video-games">
+						<list></list>
+					</playlist>
+				</page>
+			</page>
+			<page id="cars2-ds" preload="videogames/cars2-ds" template="com.disney.cars2.templates.DetailTemplate">
+				<title>CARS 2: THE VIDEO GAME FOR Nintendo DS&#8482; System</title>
+				<nav id="pre-order"  target="_blank" href="http://www.disneystore.com/gaming-toys-pre-order-cars-2-the-video-game-for-nintendo-ds/mp/1282267/1000261/?CMP=OTL-DOL&att=CarsFranchise">PRE-ORDER</nav>
+				<nav id="videos" href="products/videogames/cars2-ds/videos">VIDEOS</nav>
+				<nav id="gallery" href="products/videogames/cars2-ds/gallery">GALLERY</nav>
+				<desc><![CDATA[Cars 2: The Video Game allows players to jump into the Cars 2 universe with some of their favorite Cars personalities in locations around the globe.  Become an agent of C.H.R.O.M.E. (Command Headquarters for Recon Operations & Motorized Espionage) and take on dangerous missions, or compete to become the fastest racecar in the world!
+
+<font size="10" color="#8e8e8e">Nintendo DS is a trademark of Nintendo. &#169; 2006 Nintendo.</font>]]></desc>
+				<page id="gallery" href="products/videogames/cars2-ds" preload="cars2-ds/gallery" />
+				<page id="videos" href="products/videogames/cars2-ds">
+					<playlist id="video-games">
+						<list></list>
+					</playlist>
+				</page>
+			</page>
+			<page id="mater_tall_tales" preload="videogames/mater_tall_tales" template="com.disney.cars2.templates.DetailTemplate">
+				<title>CARS TOON: MATER'S TALL TALES FOR Wii&#8482; Console</title>
+				<nav id="buy" target="_blank" href="http://www.disneystore.com/transfer/280559/cars-toon-maters-tall-tales-for-nintendo-wii/mp/1270355/1000375/?CMP=OTL-Dcom&att=CarsFranchise">BUY</nav>
+				<nav id="gallery" href="products/videogames/mater_tall_tales/gallery">GALLERY</nav>
+				<desc><![CDATA[Cars Toon: Mater's Tall Tales for Nintendo Wii brings Mater together with Lightning McQueen and the Cars gang for a new set of adventures, capturing the endearing sense of humor of everyone's favorite tow truck.
+
+<font size="10" color="#8e8e8e">Wii is a trademark of Nintendo. &#169; 2006 Nintendo.</font>]]></desc>
+				<page id="gallery" href="products/videogames/mater_tall_tales" preload="mater_tall_tales/gallery" />
+			</page>
+			
+			<page id="preorder" preload="products/preorder" template="com.disney.cars2.templates.PreOrderTemplate">
+				
+				<desc><![CDATA[PLEASE BE AWARE THAT BY CLICKING ON ANY OF THE LINKS ABOVE YOU WILL<br>BE LEAVING DISNEY.COM AND DIFFERENT TERMS OF USE AND PRIVACY POLICY WILL APPLY]]></desc>
+				
+				<page id="us_preorder" preload="products/preorder">
+					<title>US RETAILERS</title>
+					<promo id="bestbuy" position="us" target="_blank" href="http://www.bestbuy.com/site/CARS+2+-+Nintendo+Wii/2173108.p?id=1218312948135&skuId=2173108&st=cars" />
+					<promo id="amazon" position="us" target="_blank" href="http://www.amazon.com/s/ref=amb_link_355343122_2?ie=UTF8&rh=n:468642,k:B004M8M2H0|B004M8M2M0|B004M8K9AW|B004M8NR7E|B004M8M30G" />
+					<promo id="toysrus" position="us" target="_blank" href="http://www.toysrus.com/search/index.jsp?kwCatId=&kw=cars%202%20the%20video%20game&origkw=Cars%202:%20The%20Video%20Game&f=Taxonomy/TRUS/2254197&sr=1" />
+					<promo id="target" position="us" target="_blank" href="http://www.target.com/Cars-2-Nintendo-Wii/dp/B004M8K9AW/ref=sr_1_2?ie=UTF8&searchView=grid5&keywords=Cars%202%20video%20game&fromGsearch=true&sr=1-2&qid=1298509875&rh=&searchRank=target104545&id=Cars%202%20Nintendo%20Wii&node=1038576%7C1287991011&searchSize=30&searchPage=1&searchNodeID=1038576%7C1287991011&searchBinNameList=subjectbin%2Cprice%2Ctarget_com_primary_color-bin%2Ctarget_com_size-bin%2Ctarget_com_brand-bin&frombrowse=0" />
+					<promo id="walmart" position="us" target="_blank" href="http://www.walmart.com/ip/Cars-2-The-Video-Game-w-Bonus-10-Walmart.com-eGift-Card-Wii/15902564" />
+					<promo id="gamestop" position="us" target="_blank" href="http://www.gamestop.com/browse?nav=16k-Cars+2:+The+Video+Game" />
+					
+				</page>
+				
+				<page id="canada_preorder" preload="products/preorder">
+					<title>CANADIAN RETAILERS</title>
+					<promo id="bestbuy_canada" position="canada" target="_blank" href="http://www.bestbuy.ca/Search/SearchResults.aspx?path=ca77b9b4beca91fe414314b86bb581f8en20&pcname=MCCPCatalog&q=cars%202%20video%20game&sp=BBY_en-CA_Site-WideSP&Category=Entire%20Site" />
+					<promo id="toysrus_canada" position="canada" target="_blank" href="http://www.toysrus.ca/refinement/index.jsp?categoryId=11228320&f=PAD&fg=Brand&fv=Brand+Name+Secondary%2FCars+2&fd=Cars+2&ab=RZ_HP_FLASH_052711_CARS2" />
+					<promo id="future_shop" position="canada" target="_blank" href="http://www.futureshop.ca/Search/SearchResults.aspx?path=ca77b9b4beca91fe414314b86bb581f8en20&q=cars%25202&sp=FS_en-CA_GameSP&Category=Gaming&targetCategory=Entire%2520Site&pcname=MCCPCatalog&AllowSecure=True" />
+					<promo id="gamestop_canada" position="canada" target="_blank" href="http://www.gamestop.ca/browse?nav=16k-cars+2" />
+					
+				</page>
+				
+
+				
+			</page>
+		</page>
+		<page id="music" preload="products/music" default="cars2_soundtrack" template="com.disney.cars2.templates.SideNavTemplate">
+			<title>PRODUCTS - MUSIC</title>
+			<nav id="cars2_soundtrack" href="products/music/cars2_soundtrack">CARS 2 SOUNDTRACK</nav>
+			<!--<nav id="cars_soundtrack" href="products/music/cars_soundtrack">CARS SOUNDTRACK</nav> -->
+			
+			<promo id="sidenav" href="characters/topper" />
+			<page id="cars2_soundtrack" preload="music/cars2_soundtrack" template="com.disney.cars2.templates.DetailTemplate">
+				<title>CARS 2 SOUNDTRACK</title>
+				
+				<music_playlist>
+					<title><![CDATA[MUSIC PLAYLIST]]></title>    
+					<music>
+						<title><![CDATA[YOU MIGHT THINK]]></title>
+						<desc><![CDATA[Performed by Weezer.<br>Toggle through audio clips by clicking <br>the ">" arrow.]]></desc>
+						<mp3>cars2_soundtrack_03</mp3>
+					</music>
+					<music>
+						<title><![CDATA[COLLISION OF WORLDS ]]></title>
+						<desc><![CDATA[Brad Paisley teams with British singer/songwriter Robbie Williams, which they wrote and perform as a duet. ]]></desc>
+						<mp3>cars2_soundtrack_01</mp3>
+					</music>
+					<music>
+						<title><![CDATA[NOBODY'S FOOL ]]></title>
+						<desc><![CDATA[Written and Performed by Brad Paisley. Brad was also a contributor to the first CARS soundtrack.]]></desc>
+						<mp3>cars2_soundtrack_02</mp3>
+					</music>
+				</music_playlist>
+				
+				<nav id="buy" target="_blank" href="http://amzn.to/m7FjrI">BUY</nav>
+				<nav id="itune" target="_blank" href="http://www.smarturl.it/cars2preorder">ITUNES</nav>  
+				
+				<desc><![CDATA[All-New Soundtrack by Academy Award¨ winner Michael Giacchino including performances by Weezer, Brad Paisley, Robbie Williams and more! Soundtrack available 6/14.<br><br>1. You Might Think Performed by Weezer<br>2. Collision Of Worlds Performed by Brad Paisley and Robbie Williams<br>3. Mon Caeur Fait Vroum (My Heart Goes Vroom) Performed by BŽnabar<br>4. Nobody's Fool Performed by Brad Paisley<br>5. Polyrhythm Performed by Perfume<br>6. Turbo Transmission Score<br>7. It's Finn McMissile! Score<br>8. Mater The Waiter Score<br>9. Radiator Reunion Score<br>10. Cranking Up The Heat Score<br>11. Towkyo Takeout Score<br>12. Tarmac The Magnificent Score<br>13. Whose Engine Is This? Score<br>14. History's Biggest Loser Cars Score<br>15. Mater Of Disguise Score<br>16. Porto Corsa Score<br>17. The Lemon Pledge Score<br>18. Mater's Getaway Score<br>19. Mater Warns McQueen Score<br>20. Going To The Backup Plan Score<br>21. Mater's The Bomb Score<br>22. Blunder And Lightning Score<br>23. The Other Shoot Score<br>24. The Radiator Springs Gran Prix Score<br>25. The Turbomater Score ]]></desc>     
+				
+				<popup_text><![CDATA[PLEASE BE AWARE THAT BY CLICKING ON ANY OF THE LINKS BELOW YOU WILL<br>BE LEAVING DISNEY.COM AND DIFFERENT TERMS OF USE AND PRIVACY POLICY WILL APPLY]]></popup_text>
+			</page>
+			
+			<!--<page id="cars_soundtrack" preload="music/cars_soundtrack" template="com.disney.cars2.templates.DetailTemplate">
+				<title>CARS SOUNDTRACK</title>
+				
+				<music_playlist>
+					<title><![CDATA[MUSIC PLAYLIST]]></title>
+					<music>
+						<title><![CDATA[Cars 1 Soundtrack 01]]></title>
+						<desc><![CDATA[Track Descriptive Copy will go here. ]]></desc>
+						<mp3>cars_soundtrack_01</mp3>
+					</music>
+					<music>
+						<title><![CDATA[Cars 1 Soundtrack 02]]></title>
+						<desc><![CDATA[Track Descriptive Copy will go here. ]]></desc>
+						<mp3>cars_soundtrack_02</mp3>
+					</music>
+					<music>
+						<title><![CDATA[Cars 1 Soundtrack 02]]></title>
+						<desc><![CDATA[Track Descriptive Copy will go here. ]]></desc>
+						<mp3>cars_soundtrack_03</mp3>
+					</music>
+				</music_playlist>
+				
+				<nav id="more_details" target="_blank" href="http://disney.go.com/books/cars-read-along-storybook-and-cd-1423133323">MORE DETAILS</nav>
+				<nav id="buy" target="_blank" href="http://www.amazon.com/Original-Soundtrack-Collectors-Randy-Newman/dp/B000EUMPBS">BUY</nav>
+				<nav id="itune" target="_blank" href="http://disney.go.com/guestservices/disclaimers/redirect?destination=http://itunes.apple.com/gb/album/cars-soundtrack-from-motion/id167866741">ITUNES</nav>
+				
+				<desc>Relive the adventure of Disney/Pixar's box-office smash hit, Cars, with this delightful read?along storybook and CD. The CD features word-for-word narration that matches the text, sound effects from the film, and original movie dialogue starring Paul Newman as "Doc" and Owen Wilson as "Lightning McQueen."</desc>
+			</page>-->
+		
+		</page>
+	</page>
+	
+	<images>
+		<!-- id="featured" is a hard coded value. The DetailTemplate looks to see if a feature has been loaded. If it has, it will display it, if not, the text box will fill the space. -->   
+		<img id="featured" location="sponsor-target/pillow" src="promos/sponsors/target/B000RZPGAW_185x290.jpg" />
+		<img id="featured" location="sponsor-target/spinout" src="promos/sponsors/target/B004FLK5SC_185x290.jpg" />
+		<img id="featured" location="sponsor-target/cars-br-dvd" src="promos/sponsors/target/B004ITBJCW_185x290.jpg" />
+		<img id="featured" location="sponsor-target/gray-tee" src="promos/sponsors/target/B004O0ANA4_185x290.jpg" />
+		<img id="featured" location="sponsor-target/navy-tee" src="promos/sponsors/target/B004O07LUO_185x290.jpg" />
+		<img id="featured" location="sponsor-target/duplo" src="promos/sponsors/target/B004P5O3VS_185x290.jpg" />
+		<img id="featured" location="sponsor-target/lego-pit-stop" src="promos/sponsors/target/B004P5O3WM_185x290.jpg" />
+		<img id="featured" location="sponsor-target/game-xbox" src="promos/sponsors/target/B004XJCXO0_185x290.jpg" />
+		<img id="featured" location="sponsor-target/game-ds" src="promos/sponsors/target/B004XJCXO0v_185x290.jpg" />
+		<img id="featured" location="sponsor-target/game-ps3" src="promos/sponsors/target/B004XJCXYU_185x290.jpg" />
+		<img id="featured" location="sponsor-target/game-wii" src="promos/sponsors/target/B004XJCYNK_185x290.jpg" />
+
+		<img id="featured" location="cars/story" src="promos/products/cars1_products_synopsis.jpg" />
+		<img id="featured" location="cars_toons/story" src="promos/products/carstoons_products_synopsis.jpg" />
+		
+		<img id="featured" location="books/lightning_was_here" src="promos/products/books/products_detail_books_lightning_here.jpg" />
+		<img id="featured" location="books/all_revved_up" src="promos/products/books/products_detail_books_revved_up.jpg" />
+		<img id="featured" location="books/read_along_storybook" src="promos/products/books/products_detail_books_read_along.jpg" />
+		<img id="featured" location="videogames/mater_tall_tales" src="promos/products/products_detail_games_matertoons_wii.jpg" />
+		<img id="featured" location="videogames/cars2-wii" src="promos/products/products_detail_games_cars2_wii.jpg" />
+		<img id="featured" location="videogames/cars2-pc" src="promos/products/products_detail_games_cars2_PC.jpg" />
+		<img id="featured" location="videogames/cars2-ds" src="promos/products/products_detail_games_cars2_DS.jpg" />
+		<img id="featured" location="videogames/cars2-xbox" src="promos/products/products_detail_games_cars2_xbox.jpg" />
+		<img id="featured" location="videogames/cars2-ps3" src="promos/products/products_detail_games_cars2_PS3.jpg" />
+		
+		<img id="featured" location="homevideos/cars" src="promos/products/products_detail_homevideo_cars1.jpg" />
+		<img id="featured" location="homevideos/cars_toons" src="promos/products/products_detail_homevideo_carstoons.jpg" />
+		
+		<img id="sidenav" location="products/music" src="promos/movies/cars2_sidenav_promo_topper.jpg" />
+		<img id="featured" location="music/cars2_soundtrack" src="promos/products/products_detail_music_cars2_soundtrack.jpg" />
+		<img id="featured" location="music/cars_soundtrack" src="promos/products/products_detail_music_cars1_soundtrack.jpg" />
+		  
+		<img id="featured" location="shopping/ridemakerz" src="promos/products/products_detail_Ridemakerz.jpg" /> 
+		<img id="featured" location="shopping/lego_duplo_tokyo" src="promos/products/products_detail_LEGO_Tokyo_Racing.jpg" />
+		<img id="featured" location="shopping/lego_duplo_wgp" src="promos/products/products_detail_LEGO_WGP.jpg" /> 
+		<img id="featured" location="shopping/pit_crew_starter_kit" src="promos/products/products_detail_starter_kit.jpg" />
+		<img id="featured" location="shopping/speedway_grand_prix" src="promos/products/products_detail_Speedway_GP.jpg" />
+		<img id="featured" location="shopping/lights_sounds_mater" src="promos/products/products_detail_LS_Spy_Mater.jpg" /> 
+		<img id="featured" location="shopping/tee_shirts" src="promos/products/products_detail_tshirts.jpg" /> 
+		
+		<!-- products home page images -->
+		<!--<img id="top1" location="products/home" src="promos/products/products_main02_games_matertoons_wii.jpg" />
+		<img id="top2" location="products/home" src="promos/products/products_main02_homevideo_carstoons.jpg" />-->
+		<img id="top1" location="products/home" src="promos/products/Toy_Fair_Promo_v1.swf" />
+		
+			
+		<!-- products carousel -->
+		<img id="carousel1" location="products/home" src="promos/products/home_carousel/products_thumb_books_lightning_here.jpg" /> 
+		<img id="carousel2" location="products/home" src="promos/products/home_carousel/products_thumb_books_read_along.jpg" />
+		<img id="carousel3" location="products/home" src="promos/products/home_carousel/products_thumb_books_revved_up.jpg" />
+		<img id="carousel4" location="products/home" src="promos/products/home_carousel/products_thumb_games_cars2_xbox.jpg" />
+		<img id="carousel5" location="products/home" src="promos/products/home_carousel/products_thumb_games_cars2_wii.jpg" />
+		<img id="carousel6" location="products/home" src="promos/products/home_carousel/products_thumb_games_cars2_DS.jpg" />
+		<img id="carousel7" location="products/home" src="promos/products/home_carousel/products_thumb_games_cars2_PS3.jpg" />
+		<img id="carousel8" location="products/home" src="promos/products/home_carousel/products_thumb_games_cars2_PC.jpg" />
+		<img id="carousel9" location="products/home" src="promos/products/home_carousel/products_thumb_games_matertoons_wii.jpg" />
+		<img id="carousel10" location="products/home" src="promos/products/home_carousel/products_thumb_homevideo_cars1.jpg" />
+		<img id="carousel11" location="products/home" src="promos/products/home_carousel/products_thumb_homevideo_carstoons.jpg" />
+		
+		<!-- partner logos -->
+		<img id="bestbuy" location="products/preorder" src="images/partners/bestbuy.jpg" />
+		<img id="amazon" location="products/preorder" src="images/partners/amazon.jpg" />
+		<img id="toysrus" location="products/preorder" src="images/partners/toysrus.jpg" />
+		<img id="target" location="products/preorder" src="images/partners/target.jpg" />
+		<img id="walmart" location="products/preorder" src="images/partners/walmart.jpg" />
+		<img id="gamestop" location="products/preorder" src="images/partners/gamestop.jpg" />
+		
+		
+		
+		<img id="bestbuy_canada" location="products/preorder" src="images/partners/bestbuy_canada.jpg" />
+		<img id="toysrus_canada" location="products/preorder" src="images/partners/toysrus_canada.jpg" />
+		<img id="future_shop" location="products/preorder" src="images/partners/future_shop_canada.jpg" />
+		<img id="gamestop_canada" location="products/preorder" src="images/partners/gamestop_canada.jpg" />
+		
+		<!-- disney store images -->
+		<img id="top" location="shopping" src="promos/products/store_promo_top.jpg" /> 
+		<img id="bottom" location="shopping" src="promos/products/store_promo_bottom.jpg" />
+		
+		<img id="mater_tall_tales_gallery1" location="mater_tall_tales/gallery" thumb="images/galleries/games/thumbs/mater_tales_wii_gallerythumb_01.jpg" src="images/galleries/games/mater_tales_wii_gallery_01.jpg" />
+		<img id="mater_tall_tales_gallery2" location="mater_tall_tales/gallery" thumb="images/galleries/games/thumbs/mater_tales_wii_gallerythumb_02.jpg" src="images/galleries/games/mater_tales_wii_gallery_02.jpg" />
+		<img id="mater_tall_tales_gallery3" location="mater_tall_tales/gallery" thumb="images/galleries/games/thumbs/mater_tales_wii_gallerythumb_03.jpg" src="images/galleries/games/mater_tales_wii_gallery_03.jpg" />
+		
+		<img id="cars2-wii_gallery1" location="cars2-wii/gallery" thumb="images/galleries/games/thumbs/cars2_game_Wii_gallerythumb_01.jpg" src="images/galleries/games/cars2_game_Wii_gallery_01.jpg" />
+		<img id="cars2-wii_gallery2" location="cars2-wii/gallery" thumb="images/galleries/games/thumbs/cars2_game_Wii_gallerythumb_02.jpg" src="images/galleries/games/cars2_game_Wii_gallery_02.jpg" />
+		<img id="cars2-wii_gallery3" location="cars2-wii/gallery" thumb="images/galleries/games/thumbs/cars2_game_Wii_gallerythumb_03.jpg" src="images/galleries/games/cars2_game_Wii_gallery_03.jpg" />
+		<img id="cars2-wii_gallery4" location="cars2-wii/gallery" thumb="images/galleries/games/thumbs/cars2_game_Wii_gallerythumb_04.jpg" src="images/galleries/games/cars2_game_Wii_gallery_04.jpg" />
+	
+		<img id="cars2-ps3_gallery1" location="cars2-ps3/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_01.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_01.jpg" />
+		<img id="cars2-ps3_gallery2" location="cars2-ps3/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_02.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_02.jpg" />
+		<img id="cars2-ps3_gallery3" location="cars2-ps3/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_03.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_03.jpg" />
+		<img id="cars2-ps3_gallery4" location="cars2-ps3/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_04.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_04.jpg" />
+		<img id="cars2-ps3_gallery5" location="cars2-ps3/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_05.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_05.jpg" />
+		<img id="cars2-ps3_gallery6" location="cars2-ps3/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_06.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_06.jpg" />
+		<img id="cars2-ps3_gallery7" location="cars2-ps3/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_07.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_07.jpg" />
+		<img id="cars2-ps3_gallery8" location="cars2-ps3/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_08.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_08.jpg" />
+		<img id="cars2-ps3_gallery9" location="cars2-ps3/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_09.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_09.jpg" />
+		<img id="cars2-ps3_gallery10" location="cars2-ps3/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_10.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_10.jpg" />
+		<img id="cars2-ps3_gallery11" location="cars2-ps3/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_11.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_11.jpg" />
+		<img id="cars2-ps3_gallery12" location="cars2-ps3/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_12.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_12.jpg" />
+		<img id="cars2-ps3_gallery13" location="cars2-ps3/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_13.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_13.jpg" />
+		
+		<img id="cars2-xbox_gallery1" location="cars2-xbox/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_01.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_01.jpg" />
+		<img id="cars2-xbox_gallery2" location="cars2-xbox/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_02.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_02.jpg" />
+		<img id="cars2-xbox_gallery3" location="cars2-xbox/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_03.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_03.jpg" />
+		<img id="cars2-xbox_gallery4" location="cars2-xbox/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_04.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_04.jpg" />
+		<img id="cars2-xbox_gallery5" location="cars2-xbox/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_05.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_05.jpg" />
+		<img id="cars2-xbox_gallery6" location="cars2-xbox/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_06.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_06.jpg" />
+		<img id="cars2-xbox_gallery7" location="cars2-xbox/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_07.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_07.jpg" />
+		<img id="cars2-xbox_gallery8" location="cars2-xbox/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_08.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_08.jpg" />
+		<img id="cars2-xbox_gallery9" location="cars2-xbox/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_09.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_09.jpg" />
+		<img id="cars2-xbox_gallery10" location="cars2-xbox/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_10.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_10.jpg" />
+		<img id="cars2-xbox_gallery11" location="cars2-xbox/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_11.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_11.jpg" />
+		<img id="cars2-xbox_gallery12" location="cars2-xbox/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_12.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_12.jpg" />
+		<img id="cars2-xbox_gallery13" location="cars2-xbox/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_13.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_13.jpg" />
+		
+		<img id="cars2-pc_gallery1" location="cars2-pc/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_01.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_01.jpg" />
+		<img id="cars2-pc_gallery2" location="cars2-pc/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_02.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_02.jpg" />
+		<img id="cars2-pc_gallery3" location="cars2-pc/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_03.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_03.jpg" />
+		<img id="cars2-pc_gallery4" location="cars2-pc/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_04.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_04.jpg" />
+		<img id="cars2-pc_gallery5" location="cars2-pc/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_05.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_05.jpg" />
+		<img id="cars2-pc_gallery6" location="cars2-pc/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_06.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_06.jpg" />
+		<img id="cars2-pc_gallery7" location="cars2-pc/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_07.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_07.jpg" />
+		<img id="cars2-pc_gallery8" location="cars2-pc/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_08.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_08.jpg" />
+		<img id="cars2-pc_gallery9" location="cars2-pc/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_09.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_09.jpg" />
+		<img id="cars2-pc_gallery10" location="cars2-pc/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_10.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_10.jpg" />
+		<img id="cars2-pc_gallery11" location="cars2-pc/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_11.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_11.jpg" />
+		<img id="cars2-pc_gallery12" location="cars2-pc/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_12.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_12.jpg" />
+		<img id="cars2-pc_gallery13" location="cars2-pc/gallery" thumb="images/galleries/games/thumbs/cars2_game_NEXTGEN_gallerythumb_13.jpg" src="images/galleries/games/cars2_game_NEXTGEN_gallery_13.jpg" />
+		
+		
+		<img id="cars2-ds_gallery1" location="cars2-ds/gallery" thumb="images/galleries/games/thumbs/cars2_game_DS_gallerythumb_01.jpg" src="images/galleries/games/cars2_game_DS_gallery_01.jpg" />
+		<img id="cars2-ds_gallery2" location="cars2-ds/gallery" thumb="images/galleries/games/thumbs/cars2_game_DS_gallerythumb_02.jpg" src="images/galleries/games/cars2_game_DS_gallery_02.jpg" />
+	</images>
+</products>

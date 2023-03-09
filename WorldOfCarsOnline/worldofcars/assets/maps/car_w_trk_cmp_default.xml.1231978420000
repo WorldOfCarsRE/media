@@ -1,0 +1,25 @@
+<map width="3" height="3">
+  <assets>
+    <asset id="285"/>
+    <asset id="1053"/>
+  </assets>
+  <layers>
+    <layer name="ground" tileWidth="200" tileHeight="100">
+      <tile asset="285" x="0" y="0" flags=""/>
+      <tile asset="285" x="1" y="0" flags=""/>
+      <tile asset="285" x="2" y="0" flags=""/>
+      <tile asset="285" x="0" y="1" flags=""/>
+      <tile asset="285" x="1" y="1" flags=""/>
+      <tile asset="285" x="2" y="1" flags=""/>
+      <tile asset="285" x="0" y="2" flags=""/>
+      <tile asset="285" x="1" y="2" flags=""/>
+      <tile asset="285" x="2" y="2" flags=""/>
+    </layer>
+    <layer name="road" tileWidth="200" tileHeight="100"/>
+    <layer name="object" tileWidth="50" tileHeight="25">
+      <tile asset="1053" x="2" y="9" flags=""/>
+      <tile asset="1053" x="5" y="9" flags=""/>
+      <tile asset="1053" x="9" y="9" flags=""/>
+    </layer>
+  </layers>
+</map>

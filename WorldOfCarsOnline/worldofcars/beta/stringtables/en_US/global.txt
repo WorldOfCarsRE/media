@@ -1,0 +1,347 @@
+Exit
+OK
+Yes
+No
+Cancel
+Close
+Save
+1st
+2nd
+3rd
+4th
+Leaderboards
+Race Again
+Race
+You cannot Drive to this player. Please try again later.
+My Profile
+My Friends
+My Gear
+News & Stats
+Home
+World Map
+Quests
+Sound Options
+Mute All Toggle
+Mute Music Toggle
+Mute Sound Effects Toggle
+Emotes
+Chat Log
+Horn
+Send Chat
+1-on-1 Chat
+SpeedChat
+Click on another Car's profile to start 1-on-1 chatting.
+Website Home
+WHAT'S NEW
+PARENTS
+HELP
+FEEDBACK
+ENTER RACE CODES
+LOG OFF
+Lap
+Bad Name
+Rude Behavior
+Personal Info
+Foul Language
+Offline
+Hood
+Side
+Rear
+Ignored
+All Time 100
+Daily 100
+Top Speed
+Acceleration
+Handling
+Weight
+Choose For Me!
+1-on-1 Chat
+Drive To
+Garage
+Home
+Add Friend
+Ignore
+Report
+Remove Friend
+Stop Ignoring
+Profile
+Racing
+Top Scores
+Trophies
+Badges
+You have earned:
+Congratulations!
+Collectibles
+Options
+Change Background
+Print Your Car
+Computer Settings
+Home Permissions
+Dashboard Themes
+Slowest
+Slow
+Fast
+Fastest
+Private
+Friends
+Public
+Members Only
+Print
+Buy Now
+Reset All
+Shape
+Style
+Sorry, this number is already taken.
+Total Cost:
+No Changes
+Do you want to change your Car's logo for
+ coins?
+Change Race Logo
+Change Body Shape
+Not enough coins to buy this.
+Owned
+Locked
+Try On
+Previous
+Next
+Always Available
+Racer
+Track Time
+Lap Time
+Points
+Top News
+Click Here To Chat
+You are about to report to the Moderators:
+A Moderator will be alerted to your complaint and will take appropriate action for anyone breaking our rules. Please choose a reason for this report:
+Thank you! Your report has been sent to a Moderator for review. There is no need to contact us again about the issue. The Moderation Team will take appropriate action.
+We have automatically removed
+from your Friends List. We have also placed this user on your ignore list.
+Add your friends to this list by clicking the 'Add Friend' button from any Car's profile.
+Gear Up
+Get ready!
+Select the race equipment you want for this race.
+Waiting for player...
+Boosts
+Hazards
+Are you sure you want to visit this player's home?
+You cannot visit this player's home right now.
+Do you want to edit your home?
+You can only edit your own home.
+Are you sure you want to finish editing your home?
+You can only visit your own garage.
+Reward
+System
+The lobby is full. Please wait for the next race.
+OFFICIAL RACE RESULTS
+Race Car
+Place
+Avg. Speed
+mph
+Home Decor
+Car Gear
+You do not have any items in this category
+Tires
+Wheels
+Paints
+Decals
+Paint Jobs
+Exhausts
+Intakes
+Lights
+Spoilers
+Hood Ornaments
+Tricks
+Rear Lights
+Front Lights
+Landscape
+Structures
+Junk
+Stuff
+See Race Results
+Developing Photo...
+All
+Just In
+Signup Now
+Pro Races
+Other Races
+Current Coins
+Item Price
+Remaining Coins
+Equip this item now?
+Purchase this item?
+Show Info
+Hide Info
+Nice to meet you
+Enter Store
+Join Quest
+Abandon:
+Complete:
+None
+Floors
+Garage Doors
+Stuff
+Ornaments
+Neon
+Paints
+Pictures
+Shelves
+Signs
+Tools
+Wallpaper
+Landscape
+Traffic Lights
+Fountains
+Cones
+Junk
+Official Results
+Report A Player
+Minigame
+Add players to this list by clicking the 'Ignore' button from any Car's profile.
+Accept
+Decline
+Rewards Earned
+Quest Completed
+Are you sure you want to exit?
+Friend Request
+Waiting for reply...
+wants to be your friend. Do you accept?
+has declined your request.
+has accepted your request.
+has withdrawn their request.
+Sponsored Racer
+Give Up
+You don't have any active quests right now!
+Do you want to change you're Car's shape for
+Game Closed
+Can't list shards
+Gridlock
+Traffic Jam
+Stop 'N Go
+Cruising
+Express
+Open Road
+Select A Server:
+Search for Server
+GO!
+Network connection lost!
+Your Fizzy Fuel Slots are full of Fizzy Fuels. You need to use up a slot to buy another Fizzy Fuel.
+Your Fizzy Fuel has been loaded into your Fizzy Fuels slot on your Dashboard. Press it in the world to use it.
+Remove
+Edit Home
+Help couldn't be loaded
+Change
+To enable Open Chat, please visit the Account Manager.
+To pick a D-Name, please visit the Account Manager.
+Put On
+Sign-Up
+Fizzy Fuels
+The player you are 1-on-1 chatting with is not online or not in the zone anymore.
+Are you sure you want to stop being %NAME%'s friend?
+%NAME% is no longer a friend.
+Are you sure you want to ignore %NAME%?
+%NAME% is ignored.
+Are you sure you want to stop ignoring %NAME%?
+%NAME% is no longer ignored.
+COMPLETED
+1-on-1 Chatting To:
+You have been disconnected because someone else just logged in using your account on another computer.
+Your friend is driving in a full server. Sit on your brakes a minute - then try again.
+Choose a Sponsor
+Finished
+Choose
+Keep
+You have unlocked new sponsors
+Success!
+Try Again!
+Heat 1
+Heat 2
+Main Event Race
+Sponsor Your Car
+You must drive to this location before you may teleport to it.
+You don't have any more of that yard item to add.
+Free
+Complete or abandon one of your current quests if you wish to join this quest.
+You've earned a trophy!
+Racing Points Earned
+Coins Earned
+New Racing Level!
+New Gear Available!
+New Racing Pass Available!
+You've Reached Your Limit
+You won the %HEATNUM%!
+You lost the %HEATNUM%!
+Main Event
+First Race
+Second Race
+You can't earn any more Racing Points now! Earn the trophy for your next Pro Track to continue earning Racing Points.
+Point Limit
+Go see Lightning McQueen to get your new racing pass!
+Racing Points
+You've unlocked new gear:
+You are now a:
+Get Sponsored
+Racing Career
+Keep racing in the Carburetor Country Racetracks to earn more points!
+You need %POINTS% racing points
+Sorry you need a Pro Pass
+To compete in this race, you must get a Pro Pass from Lightning McQueen's Headquarters!
+You have attainted the title:
+Is my game running slow?
+My Home Settings
+Who can visit my home.
+Use custom colors.
+MANUFACTURED ON
+Souvenirs
+Sponsor Outfits
+Skip
+There has been a reported violation of our Terms of Use connected to this account. For safety purposes, we have placed a temporary hold on the account.  For more details, please review the messages sent to the email address associated with this account.
+Sorry. The servers are full.
+Your place in line:
+Race Laps: %LAPNUM%
+Boost and Hazard limit: %LIMIT%
+Our servers are full. You are number %NUMBER% in the queue. Thanks for your patience.
+Replay Introduction
+My Car
+Other Cars
+Racetrack
+Store
+Exit Ramp
+Landmark
+Loading
+Acquiring Satellite Signal
+SO CLOSE!
+TRY IT AGAIN!
+BETTER LUCK NEXT TIME!
+Equipping this costume will remove your previous costume. Are you sure you want to do this?
+Setting this item will remove your costume. Are you sure you want to do this?
+Joining team %JOIN_SPONSOR% will exchange your %OLD_SPONSOR% paint job for the %JOIN_SPONSOR% paint job. Are you sure you want to do this?
+Item collected: %NAME%.
+Badge unlocked: %NAME%.
+You've unlocked a new gear speed! Use the gear shifter on the dashboard to increase your speed.
+Champion
+You are already in the yard.
+You cannot have more than %ITEM_NUM% items in your yard.
+SpeedChat Plus is disabled. Click here to enable.
+What is SpeedChat Plus?
+Ask for SpeedChat Plus
+SpeedChat Plus is a filtered and moderated keyboard chat system that uses a dictionary of Car-friendly words. If a Car types a word that is not in the dictionary, the word will not be seen by other Cars.
+In order to complete your request, please check the e-mail address that you entered during registration. You will receive an e-mail asking you to click an orange button labeled "Click Here to Activate", which will then complete your request.
+REPORT A BUG
+This item is locked.
+Requires Badge:
+Requires Sponsor:
+Requires Racing Points:
+Requires Sponsored Racer Status
+Sorry %SHARD_NAME% is full. Try another one.
+WARNING: By clicking OK, you will be logged out of the game and directed to the World of Cars website.
+Sponsored
+Sponsored since
+Find Out More
+Quest
+You cannot hold any more of this type of Fizzy Fuel.
+You cannot drive to another Car from this location.
+Best Performance
+Best Graphics
+Graphics Setting
+TOO CLOSE TO CALL!
+Continue

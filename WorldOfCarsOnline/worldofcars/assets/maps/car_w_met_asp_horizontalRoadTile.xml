@@ -1,0 +1,118 @@
+<map width="6" height="10">
+  <assets>
+    <asset id="992"/>
+    <asset id="993"/>
+    <asset id="994"/>
+    <asset id="996"/>
+    <asset id="997"/>
+    <asset id="983"/>
+    <asset id="976"/>
+    <asset id="977"/>
+    <asset id="978"/>
+    <asset id="979"/>
+    <asset id="980"/>
+    <asset id="981"/>
+    <asset id="151"/>
+    <asset id="1072"/>
+    <asset id="985"/>
+    <asset id="987"/>
+    <asset id="989"/>
+    <asset id="991"/>
+  </assets>
+  <layers>
+    <layer name="ground" tileWidth="200" tileHeight="100">
+      <tile asset="151" x="0" y="0" flags=""/>
+      <tile asset="151" x="1" y="0" flags=""/>
+      <tile asset="151" x="2" y="0" flags=""/>
+      <tile asset="151" x="3" y="0" flags=""/>
+      <tile asset="151" x="4" y="0" flags=""/>
+      <tile asset="151" x="5" y="0" flags=""/>
+      <tile asset="151" x="0" y="1" flags=""/>
+      <tile asset="151" x="1" y="1" flags=""/>
+      <tile asset="151" x="2" y="1" flags=""/>
+      <tile asset="151" x="3" y="1" flags=""/>
+      <tile asset="151" x="4" y="1" flags=""/>
+      <tile asset="151" x="5" y="1" flags=""/>
+      <tile asset="151" x="0" y="2" flags=""/>
+      <tile asset="151" x="1" y="2" flags=""/>
+      <tile asset="151" x="2" y="2" flags=""/>
+      <tile asset="151" x="3" y="2" flags=""/>
+      <tile asset="151" x="4" y="2" flags=""/>
+      <tile asset="151" x="5" y="2" flags=""/>
+      <tile asset="151" x="0" y="3" flags=""/>
+      <tile asset="151" x="1" y="3" flags=""/>
+      <tile asset="151" x="2" y="3" flags=""/>
+      <tile asset="151" x="3" y="3" flags=""/>
+      <tile asset="151" x="4" y="3" flags=""/>
+      <tile asset="151" x="5" y="3" flags=""/>
+      <tile asset="151" x="0" y="4" flags=""/>
+      <tile asset="151" x="1" y="4" flags=""/>
+      <tile asset="151" x="2" y="4" flags=""/>
+      <tile asset="151" x="3" y="4" flags=""/>
+      <tile asset="151" x="4" y="4" flags=""/>
+      <tile asset="151" x="5" y="4" flags=""/>
+      <tile asset="151" x="0" y="5" flags=""/>
+      <tile asset="151" x="1" y="5" flags=""/>
+      <tile asset="151" x="2" y="5" flags=""/>
+      <tile asset="151" x="3" y="5" flags=""/>
+      <tile asset="151" x="4" y="5" flags=""/>
+      <tile asset="151" x="5" y="5" flags=""/>
+      <tile asset="151" x="0" y="6" flags=""/>
+      <tile asset="151" x="1" y="6" flags=""/>
+      <tile asset="151" x="2" y="6" flags=""/>
+      <tile asset="151" x="3" y="6" flags=""/>
+      <tile asset="151" x="4" y="6" flags=""/>
+      <tile asset="151" x="5" y="6" flags=""/>
+      <tile asset="151" x="0" y="7" flags=""/>
+      <tile asset="151" x="1" y="7" flags=""/>
+      <tile asset="151" x="2" y="7" flags=""/>
+      <tile asset="151" x="3" y="7" flags=""/>
+      <tile asset="151" x="4" y="7" flags=""/>
+      <tile asset="151" x="5" y="7" flags=""/>
+      <tile asset="151" x="0" y="8" flags=""/>
+      <tile asset="151" x="1" y="8" flags=""/>
+      <tile asset="151" x="2" y="8" flags=""/>
+      <tile asset="151" x="3" y="8" flags=""/>
+      <tile asset="151" x="4" y="8" flags=""/>
+      <tile asset="151" x="5" y="8" flags=""/>
+      <tile asset="151" x="0" y="9" flags=""/>
+      <tile asset="151" x="1" y="9" flags=""/>
+      <tile asset="151" x="2" y="9" flags=""/>
+      <tile asset="151" x="3" y="9" flags=""/>
+      <tile asset="151" x="4" y="9" flags=""/>
+      <tile asset="151" x="5" y="9" flags=""/>
+    </layer>
+    <layer name="road" tileWidth="200" tileHeight="100">
+      <tile asset="981" x="2" y="1" flags=""/>
+      <tile asset="979" x="3" y="1" flags=""/>
+      <tile asset="979" x="4" y="1" flags=""/>
+      <tile asset="979" x="5" y="1" flags=""/>
+      <tile asset="977" x="1" y="2" flags=""/>
+      <tile asset="987" x="2" y="2" flags=""/>
+      <tile asset="980" x="3" y="2" flags=""/>
+      <tile asset="980" x="4" y="2" flags=""/>
+      <tile asset="980" x="5" y="2" flags=""/>
+      <tile asset="996" x="0" y="3" flags=""/>
+      <tile asset="991" x="1" y="3" flags=""/>
+      <tile asset="985" x="2" y="3" flags=""/>
+      <tile asset="978" x="3" y="3" flags=""/>
+      <tile asset="978" x="4" y="3" flags=""/>
+      <tile asset="978" x="5" y="3" flags=""/>
+      <tile asset="976" x="1" y="4" flags=""/>
+      <tile asset="993" x="2" y="4" flags=""/>
+      <tile asset="1072" x="3" y="4" flags=""/>
+      <tile asset="1072" x="4" y="4" flags=""/>
+      <tile asset="1072" x="5" y="4" flags=""/>
+      <tile asset="997" x="1" y="5" flags=""/>
+      <tile asset="992" x="2" y="5" flags=""/>
+      <tile asset="994" x="3" y="5" flags=""/>
+      <tile asset="994" x="4" y="5" flags=""/>
+      <tile asset="994" x="5" y="5" flags=""/>
+      <tile asset="989" x="2" y="6" flags=""/>
+      <tile asset="983" x="3" y="6" flags=""/>
+      <tile asset="983" x="4" y="6" flags=""/>
+      <tile asset="983" x="5" y="6" flags=""/>
+    </layer>
+    <layer name="object" tileWidth="50" tileHeight="25"/>
+  </layers>
+</map>

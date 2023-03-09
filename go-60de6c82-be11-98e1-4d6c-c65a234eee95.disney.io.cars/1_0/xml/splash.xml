@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- updated 110125 - globe and overlay on CDN -->
+<splash>
+	<page id="splash">
+		<title>SPLASH</title>
+		<nav id="enter_site">
+			<title>ENTER SITE</title>
+		</nav>
+	</page>
+	<images>
+		<!--<img id="custom_splash_bg" location="splash" src="images/locations/cars2_bg_porto_corsa_01.jpg" />-->
+	
+		<img id="date" location="splash" src="promos/splash/cars2_splash_date.png" />
+		<img id="disneylogo" location="splash" src="promos/splash/cars2_splash_disneylogo.png" />
+		<img id="carslogo" location="splash" src="promos/splash/cars2_splash_carslogo.png" />
+		<img id="vp_config" location="splash" src="xml/vidplayer/config_splash_vp.xml" />
+		<img id="vp" location="splash" src="swfs/videoplayerShell_MPF.swf" />
+		<img id="globe" location="splash" preload="false" src="http://a.dolimg.com/franchise/cars/content/globe.swf" />
+		<img id="lighting_effect" location="splash" preload="false" src="http://a.dolimg.com/franchise/cars/content/globe_overlay_alpha_4.flv" />
+		<img id="3d_footer" location="splash" src="images/cars2_legal_3d_logos.png" />
+	</images>
+</splash>

@@ -1,0 +1,47 @@
+<map width="4" height="5">
+  <assets>
+    <asset id="1073"/>
+    <asset id="1250"/>
+    <asset id="1075"/>
+    <asset id="1076"/>
+    <asset id="1253"/>
+    <asset id="1254"/>
+    <asset id="1255"/>
+    <asset id="1257"/>
+    <asset id="1258"/>
+    <asset id="1251"/>
+    <asset id="1252"/>
+    <asset id="1074"/>
+  </assets>
+  <layers>
+    <layer name="ground" tileWidth="200" tileHeight="100">
+      <tile asset="1254" x="0" y="0" flags=""/>
+      <tile asset="1254" x="1" y="0" flags=""/>
+      <tile asset="1250" x="2" y="0" flags=""/>
+      <tile asset="1258" x="3" y="0" flags=""/>
+      <tile asset="1255" x="0" y="1" flags=""/>
+      <tile asset="1258" x="1" y="1" flags=""/>
+      <tile asset="1253" x="2" y="1" flags=""/>
+      <tile asset="1258" x="3" y="1" flags=""/>
+      <tile asset="1257" x="0" y="2" flags=""/>
+      <tile asset="1252" x="1" y="2" flags=""/>
+      <tile asset="1257" x="2" y="2" flags=""/>
+      <tile asset="1250" x="3" y="2" flags=""/>
+      <tile asset="1257" x="0" y="3" flags=""/>
+      <tile asset="1251" x="1" y="3" flags=""/>
+      <tile asset="1254" x="2" y="3" flags=""/>
+      <tile asset="1250" x="3" y="3" flags=""/>
+      <tile asset="1252" x="0" y="4" flags=""/>
+      <tile asset="1252" x="1" y="4" flags=""/>
+      <tile asset="1250" x="2" y="4" flags=""/>
+      <tile asset="1252" x="3" y="4" flags=""/>
+    </layer>
+    <layer name="road" tileWidth="200" tileHeight="100">
+      <tile asset="1075" x="0" y="1" flags="hF"/>
+      <tile asset="1074" x="0" y="2" flags="hF"/>
+      <tile asset="1076" x="1" y="2" flags="hF"/>
+      <tile asset="1073" x="0" y="3" flags="hF"/>
+    </layer>
+    <layer name="object" tileWidth="50" tileHeight="25"/>
+  </layers>
+</map>

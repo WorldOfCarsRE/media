@@ -1,0 +1,16 @@
+Enter Your Race Code
+                    Type Race Code Here                    
+Enter
+You have entered ${codeNum}/154 Race Codes.
+Congratulations!
+You have received the ${collectibleName} collectible and ${consumableNum} ${consumableName}${extraText}
+You have earned ${numCoins} Car Coins.
+Close
+That Race Code has already been entered. Please try another one.
+The Race Code that you entered is incorrect. Make sure you enter each number carefully.
+Error
+You need ${numOfCodes} more Race Codes to get a special bonus.
+You need 1 more Race Code to unlock the next item.
+Open Workbench
+Open Collectibles
+You have unlocked a new track!

@@ -1,0 +1,11 @@
+<config>
+  <ui_swf_url>gad_kerpoof_map.swf</ui_swf_url>
+  <code_swf_url>gad_kerpoof_map_lib.swf</code_swf_url>
+  <gadget_class>kerpoof.dcom.map.main</gadget_class>
+  <assetPath>gad_kerpoof_map_car.swf</assetPath>
+  <copyrightHolder>Disney/Pixar</copyrightHolder>
+  <copyrightSubtext>some vehicle likenesses licensed from
+                    third-parties, as detailed on the Cars 
+                    Make-A-Picture web page
+  </copyrightSubtext>
+</config>

@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<data>
+	<debug debug="false" />
+	<ui>
+		<positionList>
+			<picture width="100" height="65" />
+			<number scaleX="0.6" scaleY="0.6" />
+		</positionList>
+		<hud url="assets/flash/gui/game/car_f_gui_gam_isoRacing_hud.swf" />
+		<wrongWay url="assets/flash/gui/game/car_f_gui_gam_isoRacing_WrongWay.swf" delay="3000" />
+	</ui>
+	<camera size="152" near="0.2" far="50" left="-9" right="9" top="9" bottom="-9">
+		<viewPoint x="-3.08" y="0.99" z="9.12" />
+		<atPoint x="0" y="0" z="0" />
+		<upDir x="0" y="1" z="0" />
+		<offset x="-32" y="-28" />
+	</camera>
+	<collisionPhysics>
+		<yellowLine speed="0.75" />
+		<purpleLine speed="0.85" />
+		<wall speed="0.60" turn="0.75" />
+	</collisionPhysics>
+	<timeouts>
+		<ai lastCar="18000" />
+		<player lastCar="60000" input="120000" />
+	</timeouts>
+	<AllCarPhysics>
+		<!-- the approximate top speed a car wil reach (pixels/second) (also has some effect on deceleration) -->
+		<TopSpeed>670.0</TopSpeed>
+		<!-- a handling parameter, higher values will cause to change directions faster -->
+		<HandlingCoefficient>0.75</HandlingCoefficient>
+		<!-- the time it takes the car to achieve maximum power (in seconds) (outside factors like friction, 
+		turning, or special effects mean the time to maximum velocity is longer) -->
+		<AccelerationTime>10.0</AccelerationTime>
+		<!-- engine cooldown time, activated when the user stops pressing forward.  Gradually reduces the
+		potential acceleration a car can have when the user presses forward again.  Collision and turning
+		make the fall-off quite a bit faster.  This is not the time it takes the car to go from max speed
+		to zero, though changing its value has a significant impact on deceleration. -->
+		<DecelerationTime>25.0</DecelerationTime>
+		<!-- Artificial resistance added to the car when the user releases the forward key -->
+		<DecelerationDrag>4000.0</DecelerationDrag>
+		
+		<!-- the mass of the car affects how it accelerates and handles -->
+		<Mass>15</Mass>
+		<!-- the minimum turning rate the car can have (radians/second) -->
+		<MinTurningRate>0.5</MinTurningRate>
+		<!-- the maximum turning rate the car can have -->
+		<MaxTurningRate>1.85</MaxTurningRate>
+		<!-- the speed at which the car achieves its maximum turn rate -->
+		<TurningRateSpeedCap>300.0</TurningRateSpeedCap>
+		<!-- the amount of friction between the car and the road -->
+		<BaseFriction>50.0</BaseFriction>
+		<!-- the amount of friction when the car is moving sideways.  This scales from zero as the car
+		goes from moving straight forward to completely sideways -->
+		<MaxFriction>9000.0</MaxFriction>
+		<!-- Models wind resistance on the car.  Drag increases dramatically as a car's speed increases. -->
+		<DragCoefficient>0.04</DragCoefficient>
+	</AllCarPhysics>
+	<animations>
+		<anim url="assets/animation/character/avatar/car_a_chr_avt_sports_racingBoost_m.sani" />
+		<anim url="assets/animation/character/avatar/car_a_chr_avt_sports_racingTurnLeft_m.sani" />
+		<anim url="assets/animation/character/avatar/car_a_chr_avt_sports_racingTurnRight_m.sani" />
+		<anim url="assets/animation/character/avatar/car_a_chr_avt_sports_racingLeftTransition_m.sani" />
+		<anim url="assets/animation/character/avatar/car_a_chr_avt_sports_racingRightTransition_m.sani" />
+		<anim url="assets/animation/character/avatar/car_a_chr_avt_sports_racingFwd_m.sani" />
+		
+		<anim url="assets/animation/character/avatar/car_a_chr_avt_sports_racingBoost_f.sani" />
+		<anim url="assets/animation/character/avatar/car_a_chr_avt_sports_racingTurnLeft_f.sani" />
+		<anim url="assets/animation/character/avatar/car_a_chr_avt_sports_racingTurnRight_f.sani" />
+		<anim url="assets/animation/character/avatar/car_a_chr_avt_sports_racingLeftTransition_f.sani" />
+		<anim url="assets/animation/character/avatar/car_a_chr_avt_sports_racingRightTransition_f.sani" />
+		<anim url="assets/animation/character/avatar/car_a_chr_avt_sports_racingFwd_f.sani" />
+		
+		<anim url="assets/animation/character/avatar/car_a_chr_avt_sports_racingBoost.sani" />
+		<anim url="assets/animation/character/avatar/car_a_chr_avt_sports_racingTurnLeft.sani" />
+		<anim url="assets/animation/character/avatar/car_a_chr_avt_sports_racingTurnRight.sani" />
+		<anim url="assets/animation/character/avatar/car_a_chr_avt_sports_racingLeftTransition.sani" />
+		<anim url="assets/animation/character/avatar/car_a_chr_avt_sports_racingRightTransition.sani" />
+		<anim url="assets/animation/character/avatar/car_a_chr_avt_sports_racingFwd.sani" />
+	</animations>
+	<trackObjects>
+		<nitrous id="691" x="33" y="42" radius="20" speed="1.75" duration="1000" />
+		<yellowFlag id="695" x="34" y="38" radius="18" />
+		<nitrousPopup id="696" />
+		<yellowFlagPopup id="697" />
+		<oilCan id="699" x="34" y="41" radius="20" />
+		<oilCanPopup id="698" />
+		<oilSlick id="700" x="10" y="30" radius="24" despawnTime="10000" duration="1000" spin="0.00628" friction="0.05" force="0.09" />
+	</trackObjects>
+	<!-- please note the index, they aren't read, but they're should be a defined
+		order to how things are read, called, found, indexed, whatever
+		Basically, I'm saying these should be in order and correspond with what the
+		game thinks is going on -->
+	<map index="0" configUrl="config/isoRacing/training.xml" />
+	<map index="1" configUrl="config/isoRacing/ccs.xml" />
+	<map index="2" configUrl="config/isoRacing/ttt.xml" />
+</data>

@@ -1,0 +1,167 @@
+.hom-contentWrapper {
+	padding: 0px 6px 2px 6px;
+	position: relative;
+	z-index: 100;
+}
+
+.hom-dashboardContainer {
+	margin-top: 310px;
+}
+
+.hom-dashboardContainer .hom-dashboard {
+	background: url(../img/bg/bg-dashboard.png) no-repeat;
+	width: 986px;
+	height: 235px;
+	z-index: 10;
+	position: relative;
+}
+
+.hom-dashboardContainer .hom-dashboardBlogArrow {
+	background: url(../img/homepage/blog-arrows.gif) no-repeat;
+	width: 27px;
+	height: 28px;
+	z-index: 11;
+	display: block;
+	position: absolute;
+		top: 39px;
+}
+
+.hom-dashboardContainer .hom-dashboardBlogArrowPrev {
+	left: 330px;
+	background-position: 0px 0px;
+}
+
+.hom-dashboardContainer .hom-dashboardBlogArrowPrev:hover {
+	background-position: 0px -28px;
+}
+
+.hom-dashboardContainer .hom-dashboardBlogArrowNext {
+	right: 330px;
+	background-position: -27px 0px;
+}
+
+.hom-dashboardContainer .hom-dashboardBlogArrowNext:hover {
+	background-position: -27px -28px;
+}
+
+.hom-dashboardContainer .hom-dashboardBlogPromo {
+	width: 360px;
+	height: 110px;
+	overflow: hidden;
+	position: absolute;
+		left: 319px;
+		top: 88px;
+	z-index: 11;
+}
+
+.hom-dashboardContainer .hom-dashboardBlogPromo .whatsNewSlide {
+	width: 360px;
+	height: 110px;
+	cursor: pointer;
+	display: none;
+	position: absolute;
+		left: 0px;
+		top: 0px;
+	z-index: 11;
+}
+
+.hom-dashboardContainer .hom-dashboardBlogPromo .whatsNewSlide h3 {
+	width: 340px;
+	color: #00CEFF;
+	padding: 5px 0px;
+	font-weight: bold;
+}
+
+.hom-dashboardContainer .hom-dashboardBlogPromo .whatsNewSlide .whatsNewPreview {
+	font-size: 0.8em;
+	line-height: 1.5em;
+	color: #FFFFFF;
+}
+
+.hom-dashboardContainer .hom-dashboardPromo {
+	width: 246px;
+	height: 173px;
+}
+
+.hom-dashboardContainer .hom-dashboardPromo1, .hom-dashboardContainer .hom-promoHotspot1 {
+	position: absolute;
+		left: 45px;
+		top: 37px;
+}
+
+.hom-dashboardContainer .hom-dashboardPromo2, .hom-dashboardContainer .hom-promoHotspot2 {
+	position: absolute;
+		right: 45px;
+		top: 37px;
+}
+
+.hom-dashboardContainer .hom-promoHotspot {
+	width: 246px;
+	height: 173px;
+	display: block;
+	z-index: 11;
+}
+
+.hom-slideshowContainer {
+	width: 986px;
+	height: 397px;
+	position: absolute;
+		left: 6px;
+		top: 60px;
+	overflow: hidden;
+	z-index: 4;
+}
+
+.hom-slideshowContainer .hom-slide {
+	position: absolute;
+		left: 0px;
+		top: 0px;
+	z-index: 0;
+	visibility: hidden;
+}
+
+.hom-slideshowHotspot {
+	width: 986px;
+	height: 387px;
+	display: block;
+	position: absolute;
+		left: 6px;
+		top: 70px;
+}
+
+.sys-siteWrapper {
+	background: none;
+}
+
+.sys-frame-bottom {
+	height: 650px;
+	z-index: 5;
+}
+
+.sys-footer {
+	width: 998px;
+	margin: auto;
+	position: relative;
+}
+
+.sys-footer .btn-redeem-a-code {
+	position: absolute;
+		right: 0px;
+		top: 0px;
+	color: #f9e132;
+}
+
+.sys-footer .btn-redeem-a-code span {
+	width: 182px;
+	text-align: center;
+	position: absolute;
+		left: 0px;
+		top: 75px;
+	font-size: .8em;
+	line-height: .8em;
+	text-decoration: underline;
+}
+
+.sys-footer .sys-chrome-footer {
+	margin-top: 40px;
+}

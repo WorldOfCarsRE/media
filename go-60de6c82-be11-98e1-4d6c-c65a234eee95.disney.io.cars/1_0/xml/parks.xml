@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<parks>
+	<page id="parks" default="disney-world">
+		<nav id="disney-world" href="parks/disney-world">WALT DISNEY WORLD</nav>
+		<nav id="disneyland" href="parks/disneyland">DISNEYLAND</nav>
+		
+		
+		<page id="disney-world" default="cars-characters" preload="parks/disney-world" template="com.disney.cars2.templates.SideNavTemplate">
+			<promo id="sidenav" target="_blank" href="http://disneyworld.disney.go.com/?CMP=NLC-DPFY10Q3DisneyInsider0419B" />
+			
+			<!--<nav id="flower-garden" href="parks/disney-world/flower-garden">EPCOT&#174;</nav>-->
+			<nav id="cars-characters" href="parks/disney-world/cars-characters">MEET THE CARS STARS</nav>
+			
+			<!--<page id="flower-garden" preload="disney-world/flower-garden" template="com.disney.cars2.templates.DetailTemplate">
+				<nav id="details" target="_blank" href="http://disneyworld.disney.go.com/parks/epcot/special-events/epcot-international-flower-and-garden-festival/?CMP=NLC-DPFY10Q3DisneyInsider0385B">DETAILS</nav>
+				<title><![CDATA[EPCOT&#174; INTERNATIONAL FLOWER AND GARDEN FESTIVAL<br><font color="#FFFFFF">Epcot&#174;</font>]]></title>
+				<desc>The Epcot&#174; International Flower & Garden Festival presented by HGTV is a spring special event filled with Disney character topiaries, a colorful array of flowers, gardens, live music and special presentations. It's where Disney springs to life!</desc>
+			</page>-->
+			<page id="cars-characters" preload="disney-world/cars-characters" template="com.disney.cars2.templates.DetailTemplate">
+				<nav id="details" target="_blank" href="http://disneyworld.disney.go.com/parks/hollywood-studios/entertainment/character-greetings-hollywood-studios/?CMP=NLC-DPFY10Q3DisneyInsider0376B">DETAILS</nav>
+				<title><![CDATA[MEET THE CARS STARS<br><font color="#FFFFFF">Disney's Hollywood Studios&#8482; Park</font>]]></title>
+				<desc>Meet Lightning McQueen and Mater at Disney's Hollywood Studios&#8482; Park</desc>
+			</page>	
+		</page>
+		
+		<page id="disneyland" default="cars-characters" preload="parks/disneyland" template="com.disney.cars2.templates.SideNavTemplate">
+			<promo id="sidenav" target="_blank" href="http://disneyland.disney.go.com/?CMP=NLC-DPFY10Q3DisneyInsider0420B" />
+			
+			<nav id="cars-characters" href="parks/disney-world/cars-characters">MEET THE CARS STARS</nav>
+			
+			<page id="cars-characters" preload="disney-world/cars-characters" template="com.disney.cars2.templates.DetailTemplate">
+				<nav id="details" target="_blank" href="http://disneyland.disney.go.com/characters/?CMP=NLC-DPFY10Q3DisneyInsider0377B">DETAILS</nav>
+				<title><![CDATA[MEET THE CARS STARS<br><font color="#FFFFFF">Disney California Adventure&#8482; Park</font>]]></title>
+				<desc>Meet Lightning McQueen and Mater at Condor Flats</desc>
+			</page>
+		</page>
+	</page>
+	
+	<images>
+		<!-- id="featured" is a hard coded value. The DetailTemplate looks to see if a feature has been loaded. If it has, it will display it, if not, the text box will fill the space. -->
+		<img id="featured" location="disney-world/cars-characters" src="promos/parks/parks_detail_cars_characters.jpg" />
+		<img id="sidenav" location="parks/disneyland" src="promos/parks/parks_sidenav_promo_DR.jpg" />
+		
+		<img id="featured" location="disney-world/flower-garden" src="promos/parks/parks_detail_flower_garden.jpg" />
+		<img id="sidenav" location="parks/disney-world" src="promos/parks/parks_sidenav_promo_WDW.jpg" />
+	</images>
+</parks>

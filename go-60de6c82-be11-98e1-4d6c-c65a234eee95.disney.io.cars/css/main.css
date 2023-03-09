@@ -1,0 +1,651 @@
+/* CSS file
+   ================================================== */
+
+/* ===[ Donwloads ]=== */
+
+object,
+img,
+embed { outline: none }
+
+.test { border: #F00 solid 1px }
+.hidden { display: none; }
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    border: none;
+    background: #000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header {
+    background-color: #000000;
+    background: url(../images/chrome_sliver.gif) repeat-x;
+    width: 100%;
+    height: 48px;
+    text-align: center;
+}
+
+#header_seo {
+    background-color: #000000;
+    background: url(../images/chrome_sliver.gif) repeat-x;
+    width: 100%;
+    height: 51px;
+    text-align: center;
+}
+
+/* ===[ Footer ]=== */
+
+#footer {
+    color: #999;
+    width: 996px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#disclaimer {
+    position: absolute;
+    width: 300px;
+    padding: 5px;
+    top: -5px;
+    left: 680px;
+    color: #555555;
+    text-align: center;
+    font-family: Arial, Helvetica, "sans serif";
+    font-size: 11px;
+    background: #000000;
+    border: 1px solid #555555;
+    display: none;
+}
+
+#text-message {
+    color: #555555;
+    font-size: 9px;
+}
+
+.sitemap_column {
+    width: 195px;
+    float: left;
+    padding-bottom: 10px;
+}
+
+#seo-content {
+    color: #999;
+    width: 996px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+ #seo-content a,
+ #seo-content a:link,
+ #seo-content a:visited {
+     font-size: 12px;
+     color: #555555;
+ }
+
+ #seo-content .info { float: left }
+
+ #seo-content a:hover { color: #FFFFFF }
+
+#sitemap { }
+
+ #sitemap .header {
+     clear: left;
+     width: 100%;
+ }
+
+#sitemap_characters {
+    width: 100%;
+    padding-bottom: 10px;
+    float: left;
+}
+
+#sitemap_pages {
+    clear: left;
+    margin-top: 30px;
+    padding-top: 30px;
+    width: 100%;
+}
+
+#facebook_like {
+    display: none;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 1400px;
+    z-index: 1;
+    margin: 0;
+    padding: 150px 0 0 0;
+    overflow: hidden;
+    text-align: center;
+}
+
+#facebook_like_holder {
+    text-align: center;
+    /*    width: 890px; */
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+}
+
+#like {
+    position: relative;
+    z-index: 100;
+    background-color: #FFF;
+    display: inline-block;
+    border: #7a7a7a solid 2px;
+    width: 420px;
+}
+
+#fb_header {
+    background-color: #6d84b4;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    text-align: left;
+    font-size: 14px;
+    font-weight: bold;
+    color: #FFF;
+}
+
+ #fb_header .facebook_img { float: left }
+
+ #fb_header .title {
+     float: left;
+     padding-left: 10px;
+     padding-top: 0px;
+ }
+
+ #fb_header .close { float: right }
+
+#like_content { }
+
+br.clear { clear: both }
+
+#games {
+    display: none;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 1400px;
+    z-index: 1;
+    margin: 0;
+    padding: 100px 0 0 0;
+    overflow: hidden;
+    text-align: center;
+}
+
+#black {
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    width: 100%;
+    height: 1700px;
+    background-color: #000;
+    -moz-opacity: 0.90;
+    opacity: .90;
+    /*filter: alpha(opacity=90);*/
+    filter: Alpha(opacity=90); opacity: .9;
+    z-index: -1;
+}
+
+#game_holder {
+    text-align: center;
+    /*    width: 890px; */
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+}
+
+#game {
+    position: relative;
+    z-index: 100;
+    background-color: #000;
+    display: inline-block;
+    
+	/*zoom: 1;*/
+	/**display: inline;*/
+	/*_height: 250px;*/
+}
+
+#close_btn {
+    position: absolute;
+    top: 0px;
+    right: -28px;
+    display: block;
+    width: 25px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration: none;
+}
+
+ #close_btn .btn { }
+
+#game_content { border: #7a7a7a solid 2px }
+
+br .clear { clear: both }
+
+/* **  ADS  **
+================================================== */
+
+
+
+
+#adWraper{
+    /*background-color: red;*/
+    display: block;
+    height: 120px;
+    min-width: 994px;
+    /*opacity: 0.5;*/
+    position: absolute;
+    top: 516px;
+    width: 100%;    
+}
+
+#adWraper-Small {
+	background-color:none;
+    display: none;   
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    position: relative;
+    left: -3000px;
+	top: -4000px;
+    width: 160px;
+    z-index: 99;
+}
+.hidden {
+	    display:none;
+    }
+
+
+#inner {
+    /*border: 1px solid blue;*/
+    display: block;
+    position: absolute;
+    overflow: hidden;
+    /*height: 90px;*/
+    height: 112px;
+    width: 738px;
+    top: -114px;
+    margin-top: 20px;
+    background-image: url('http://a.dolimg.com/franchise/cars/content/images/ads//transparent-container-728x90.gif');
+    /*background-image: url('http://a.dolimg.com/franchise/cars/content/images/ads/transparent-container-160x80.gif'); */
+}
+
+
+#outer {
+    /*border: 1px solid green;*/
+    display: block;
+    position: relative;
+    overflow: hidden;
+    height: 116px;
+    width: 738px;
+    /*top: 516px;*/
+    margin-top: 24px;
+    margin: 0 auto;
+    left: 28px;
+}
+
+#outer-small {
+    display: block;
+    /*border: 1px solid green;*/
+    position: relative;
+    overflow: hidden;
+    height: 80px;
+    width: 160px;
+    /*margin-top: 20px;*/
+    /*margin: 0 auto; */
+}
+
+#products-adWrapSmall {
+    /*border: 1px solid #FFCC33;*/
+    display: none;   
+    left: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    text-align: center;
+    overflow: hidden;
+    top: 317px;
+    height: 80px;
+    width: 160px;
+    z-index: 99;
+}
+
+
+#games-adWrapSmall,
+#activities-adWrapSmall,
+#downloads-adWrapSmall,
+#characters-adWrapSmall,
+#products-videogames-adWrapSmall
+{
+    display: none;
+    margin-left: auto;
+    margin-right: auto;
+    left: 250px;
+    position: absolute;
+    text-align: center;
+    overflow: hidden;
+    top: 317px;
+    height: 80px;
+    width: 160px;
+    z-index: 99;
+}
+
+#downloads-adWrapSmall
+{
+    display: none;
+    margin-left: auto;
+    margin-right: auto;
+    left: 242px;
+    position: absolute;
+    text-align: center;
+    overflow: hidden;
+    top: 347px;
+    height: 80px;
+    width: 160px;
+    z-index: 99;
+}
+#products-adWrapSmall
+{
+    display: none;
+    margin-left: auto;
+    margin-right: auto;
+    left: 250px;
+    position: absolute;
+    text-align: center;
+    overflow: hidden;
+    top: 328px;
+    height: 80px;
+    width: 160px;
+    z-index: 99;
+}
+
+#products-home-adWrapSmall
+{
+    display: none;
+    margin-left: auto;
+    margin-right: auto;
+    left: 242px;
+    position: absolute;
+    text-align: center;
+    overflow: hidden;
+    top: 328px;
+    height: 80px;
+    width: 160px;
+    z-index: 99;
+}
+
+.inner-small {
+    position: relative;
+    background-image: url('http://a.dolimg.com/franchise/cars/content/images/ads/transparent-container-160x80.gif'); 
+}
+
+
+#ad-prod-large {
+    
+}
+
+
+
+#slidebottom {
+    width: 738px;
+    height: 90;
+    position: relative;
+    overflow: hidden;
+}
+
+
+#adServe {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    text-align: center;
+    top: -557px;
+    width: 738px;
+    z-index: 99;
+    left: 25px;
+    display: none;
+}
+
+#adSponsor {
+    display: none;
+    /*overflow: hidden;*/
+}
+#adME {
+	display: none;
+	width: 738px;
+	height: 90px;
+	border: 1px solid green;
+}
+
+
+
+/*  One-Off Styles */
+.adSponsor-characters {
+	/*opacity: 0;*/
+	display: none;
+	/*overflow: hidden;*/
+}
+.adSponsor-videogames {
+	/*opacity: 0;*/
+	display: none;
+	/*overflow: hidden;*/
+}
+
+
+/* Standard AD Styles */
+.adSponsorStandard,
+.adSponsor-downloads,
+.adSponsor-videos,
+.adSponsor-products {
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	text-align: center;
+	/*overflow: hidden;*/
+	display: none;
+}
+.adSponsorStandard {
+	top: -312px;
+	width: 160px;
+	z-index: 99;
+	left: -192px;
+}
+.adSponsor-downloads {
+	top: -282px;
+	width: 160px;
+	z-index: 99;
+	left: -200px;
+}
+.adSponsor-videos {
+	top: -522px;
+	width: 160px;
+	z-index: 99;
+	left: 324px;
+}
+
+.adSponsor-products {
+	top: -300px;
+	width: 160px;
+	z-index: 99;
+	left: -192px;
+}
+/*  END: Standard AD Styles */
+
+
+#adSponsorTargeted {
+    width: 120px;
+    height: 60px;
+    display: none;
+    overflow: hidden;
+    background: transparent url(http://cdn.dolimg.com/franchise/cars/content/images/ads/transparent-container-160x80.gif);
+}
+
+#adSuper,
+#adSuperTargeted {
+    width: 738px;
+    height: 90px;
+    display: none;
+    /*overflow: hidden;*/
+    background: transparent url(http://cdn.dolimg.com/franchise/cars/content/images/ads/transparent-container-728x90.gif);
+}
+
+#downloads {
+    font-size: .7em;
+    padding: 0;
+    background: #000000;
+    color: #E6E6E6;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ #downloads h3 {
+     font-size: 1.1em;
+     font-weight: bold;
+     margin: 0 0 1em 0;
+ }
+
+ #downloads #instructions {
+     padding: 10px;
+     float: left;
+ }
+
+  #downloads #instructions div { text-align: left }
+
+  #downloads #instructions div.pc {
+      float: left;
+      width: 50%;
+  }
+
+  #downloads #instructions div.mac {
+      float: left;
+      width: 50%;
+  }
+
+  #downloads #instructions div.iphone {
+      float: left;
+      width: 50%;
+  }
+
+  #downloads #instructions ol {
+      margin: 0 0 0 2.2em;
+      padding: 0;
+  }
+
+  #downloads #instructions li { margin-bottom: .5em }
+
+ #downloads #contentdownload {
+     text-align: center;
+     padding: 10px;
+     clear: left;
+ }
+
+  #downloads #contentdownload img {
+      display: block;
+      margin: 0 auto;
+  }
+
+#downloads.screensavers { padding: 20px }
+
+ #downloads.screensavers #agreement,
+ #downloads.screensavers #close { display: none }
+
+ #downloads.screensavers #eula_text {
+     color: #000;
+     text-align: left;
+     height: 300px;
+     padding: .8em;
+     overflow: auto;
+     background: #fff;
+ }
+
+ #downloads.screensavers div.form { text-align: left }
+
+  #downloads.screensavers div.form input.button,
+  #downloads.screensavers #close a.button {
+      color: #CEF3A6;
+      font-weight: bold;
+      text-decoration: none;
+      width: 150px;
+      margin: 0 auto;
+      padding: .2em;
+      border: 0;
+      background: url(../media/images/html/bg_button.png) 0 50% repeat-x;
+      display: block;
+      cursor: pointer;
+  }
+
+  #downloads.screensavers div.form input.button:hover,
+  #downloads.screensavers #close a.button:hover {
+      color: #2B4F1A;
+      background-image: url(../media/images/html/bg_button_over.png);
+  }
+
+  #downloads.screensavers div.form input.disabled,
+  #downloads.screensavers div.form input.disabled:hover {
+      color: #576991;
+      background-image: url(../media/images/html/bg_button_disabled.png);
+      cursor: default;
+  }
+
+ #downloads.screensavers #close {
+     font-size: 1.3em;
+     padding-top: 180px;
+     display: none;
+ }
+
+  #downloads.screensavers #close a.button { font-size: .9em }
+
+a.dolFooterLnk,
+a.dolFooterLnk:visited,
+a.dolFooterLnk:hover,
+a.dolFooterLnk:active,
+a.dolFooterSmallLnk,
+a.dolFooterSmallLnk:visited,
+a.dolFooterSmallLnk:hover,
+a.dolFooterSmallLnk:active {
+    color: #FFFFFF !important;
+    background-color: transparent !important;
+    text-decoration: underline;
+}
+
+a.dolFooterLnkRed,
+a.dolFooterLnkRed:visited,
+a.dolFooterLnkRed:hover,
+a.dolFooterLnkRed:active {
+    color: #FF0000 !important;
+    background-color: transparent !important;
+    text-decoration: underline;
+}
+
+#gde_footerLegalContainer { text-align: center }
+
+.gde_footerLegalLinks {
+    width: 996px !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.gde_footerCopyText {
+    width: 996px !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#ratingsInfo,
+#ratingsInfo a,
+#ratingsInfo a:hover {
+    color: #555555;
+    font: 10px verdana,arial,helvetica,sans-serif;
+    position: relative;
+    padding-top: 10px;
+}

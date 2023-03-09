@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<luigi>
+	<type>
+		<score>SCORE:</score>
+		<tires>TIRES:</tires>
+		<help_title>The Problem</help_title>
+		<help><![CDATA[<p align="center"><br />Business is slow at Luigi's CASA DELLA TIRES.<br />Guido is going to create a "Leaning Tower of Tires"<br />in order to attract customers.<br /><br />Use your <b>LEFT</b> and <b>RIGHT</b> arrow keys to move Guido and<br>catch tires. Push the <b>SPACE BAR</b> to have Guido launch the tires and<br />create the "Leaning Tower of Tires". The more tires you launch at<br />one time, the more points and time bonus you gain.<br /><br />Be careful, as the tires stack higher,<br />they start to sway!</p>]]></help>
+		<play>Play</play>
+		<play_again>Play Again</play_again>
+		<win><![CDATA[<p align="center">Luigi says congratulations!<br />the "Leaning Tower of Tires" is complete!</p>]]></win>
+		<lose><![CDATA[<p align="center">Your gears must need oiling.<br />Rev up your engine and try again!</p>]]></lose>
+		<copyright>© 2006 Disney/Pixar</copyright>
+	</type>
+</luigi>

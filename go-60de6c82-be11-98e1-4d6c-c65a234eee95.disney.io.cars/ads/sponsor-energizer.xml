@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ad-served version 110512 -->
+
+<page>
+	<promo>
+		<InLineReplace name=ad type=Promo>
+		<InLineReplace name=ad type=Super>
+		<InLineReplace name=ad type=SponsorLogo>
+        <data>
+
+		<InLineReplace name=ad type=Logo>
+		<InLineReplace name=ad type=Logo2>
+
+
+            <featured>
+                <title>Featured</title>
+
+				<InLineReplace name=ad type=Logo3>
+				<InLineReplace name=ad type=Logo4>
+				<InLineReplace name=ad type=Logo5>
+				<InLineReplace name=ad type=Logo6>
+				<InLineReplace name=ad type=Logo7>
+				<InLineReplace name=ad type=Logo8>
+				<InLineReplace name=ad type=Logo9>
+				<InLineReplace name=ad type=Logo10>
+				<InLineReplace name=ad type=Logo11>
+				<InLineReplace name=ad type=Logo12>
+
+            </featured>
+        </data>
+	</promo>
+</page>

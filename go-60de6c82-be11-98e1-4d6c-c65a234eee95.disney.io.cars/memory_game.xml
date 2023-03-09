@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<content>
+	<help><![CDATA[You'll win Mater's Memory Game by matching pictures of Mater and his friends. Match the pairs and beat the clock!]]></help>
+	<win><![CDATA[Congratulations! This old junkyard has a<br>brand new champion!]]></win>
+	<lose><![CDATA[Your reflexes must be a little rusty!<br>Give it another shot!]]></lose>
+	<close_button>CLOSE</close_button>
+	<title><![CDATA[<p align="center">MATER'S<br/>MEMORY GAME</p>]]></title>
+	<play_button>PLAY</play_button>
+	<timer_info>TIME REMAINING</timer_info>
+</content>

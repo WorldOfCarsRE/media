@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<config>
+	<flashAPI>
+		<login>http://apps.dxd.go.com/dxd/flashAPI/login</login>
+		<createAccount>http://apps.dxd.go.com/dxd/flashAPI/createAccount</createAccount>
+		<checkUsernameAvailability>http://apps.dxd.go.com/dxd/flashAPI/checkUsernameAvailability</checkUsernameAvailability>
+		<checkUsernameApproval>http://apps.dxd.go.com/dxd/flashAPI/checkUsernameApproval</checkUsernameApproval>
+		<checkValidationStatus>http://apps.dxd.go.com/dxd/flashAPI/checkValidationStatus</checkValidationStatus>
+		<submitAliasForApproval>http://apps.dxd.go.com/dxd/flashAPI/submitAliasForApproval</submitAliasForApproval>
+		<creditCardValidation>http://register.go.com/dxd/validation/authorize</creditCardValidation>
+		<getFamilyStructure>http://apps.dxd.go.com/dxd/flashAPI/getFamilyStructure</getFamilyStructure>
+		<verifyAccountCredentials>http://apps.dxd.go.com/dxd/flashAPI/verifyAccountCredentials</verifyAccountCredentials>
+		<linkAccountToFamily>http://apps.dxd.go.com/dxd/flashAPI/linkAccountToFamily</linkAccountToFamily>
+		<removeAccountFromFamily>http://apps.dxd.go.com/dxd/flashAPI/removeAccountFromFamily</removeAccountFromFamily>
+		<updateAccount>http://apps.dxd.go.com/dxd/flashAPI/updateAccount</updateAccount>
+		<lookupAccount>http://apps.dxd.go.com/dxd/flashAPI/lookupAccount</lookupAccount>
+		<getAllNewsletterMetadata>http://apps.dxd.go.com/dxd/flashAPI/getAllNewsletterMetadata</getAllNewsletterMetadata>
+		<notifyParent>http://apps.dxd.go.com/dxd/flashAPI/notifyParent</notifyParent>
+		<authenticateAndUpdateOptins>http://apps.dxd.go.com/dxd/flashAPI/authenticateAndUpdateOptins</authenticateAndUpdateOptins>
+		<sendChatPermissionEmails>http://apps.dxd.go.com/dxd/flashAPI/sendChatPermissionEmails</sendChatPermissionEmails>
+		<getTermsOfUseText>http://apps.dxd.go.com/dxd/flashAPI/getTermsOfUseText</getTermsOfUseText>
+		<logout>http://apps.dxd.go.com/dxd/flashAPI/logout</logout>
+   </flashAPI>
+</config>

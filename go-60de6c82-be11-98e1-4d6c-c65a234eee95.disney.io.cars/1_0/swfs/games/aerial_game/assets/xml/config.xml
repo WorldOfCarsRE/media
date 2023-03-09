@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<embed_fonts><![CDATA[true]]></embed_fonts>
+	<default_font><![CDATA[EurostileLTStdBoldOblique]]></default_font>
+	<button_font><![CDATA[HemiHead426]]></button_font>
+
+	<assets>
+		<base_path><![CDATA[swfs/games/aerial_game/]]></base_path>
+
+		<string id="instructions_text"><![CDATA[SIDDELEY MUST DELIVER SPY PACKAGES TO HIS FRIENDS BELOW. HELP HIM BY DROPPING PACKAGES IN THE RIGHT DIRECTION. KEEP AN EYE ON SIDDELEY'S SPEED!]]></string>
+		<string id="warning_text"><![CDATA[CHECK SIDDELEY'S SPEED BEFORE YOU DROP YOUR SPY PACKAGE. IF YOU ARE NOT CAREFUL, HIS SPEED COULD TAKE THE PACKAGE PAST ITS TARGET!]]></string>
+		<string id="spacebar"><![CDATA[SPACEBAR]]></string>
+		<string id="go" y="-20"><![CDATA[GO]]></string>
+		<string id="play" y="-13"><![CDATA[PLAY]]></string>
+		<string id="mph"><![CDATA[MPH]]></string>
+		<string id="pts"><![CDATA[PTS]]></string>
+		<string id="play_again" y="8"><![CDATA[PLAY AGAIN]]></string>
+		<!--<string id="sponsor_txt" x="0" y="263" href="registration" target="internal"><![CDATA[<font size="12" color="#FFFFFF" >SECRET CODE:</font><br><font size="16" color="#FF0000" >SIDDELEY</font><br><font size="12" color="#FFFFFF" >REMEMBER YOUR AGENTS ON A MISSION CODE!</font><br><font size="9" color="#FFFFFF" >RETURN TO THE DOSSIER AND ENTER YOUR SPECIAL AGENT CODE FOR MORE ENTRIES TO WIN PRIZES BROUGHT TO YOU BY STATE FARM AND DISNEY/PIXAR.</font>]]></string> -->  
+
+
+		<image id="title"><![CDATA[assets/images/title.png]]></image>
+		<image id="your_mission"><![CDATA[assets/images/txt-your_mission.png]]></image>
+		<image id="high_speed_warning"><![CDATA[assets/images/txt-high_speed_warning.png]]></image>
+		<image id="round"><![CDATA[assets/images/txt-round.png]]></image>
+		<image id="nice_work"><![CDATA[assets/images/txt-nice_work.png]]></image>
+		<image id="new_high_score"><![CDATA[assets/images/txt-new_high_score.png]]></image>
+
+		<font><![CDATA[fonts.swf]]></font>
+	</assets>
+</config>
+                                             

@@ -1,0 +1,28 @@
+Play
+Help
+Pick a Fuel
+WARNING: Except for Flurp, fuels are too dangerous to mix unless you've tested them first.
+Volatility
+Ok
+Fuel Mix
+WARNING: Use only the ingredients listed, or fuel will become volatile and may be ruined. 3 failed mixes and it's over!
+Fuel
+Ingredients
+Score
+Good
+Messed Up Mixes
+Level Up
+Game Over
+Play Again
+Next Level
+Fuels Made
+Quit
+Ran Out of Time
+Messed Up the Mix
+Try Again
+Next
+Previous
+Instructions
+Catch falling ingredients by using Arrow Keys to move Fillmore's pitty left and right.  Avoid catching wrong ingredients or Fizzy Fuel Mixes will become volatile.
+Volatile Mixes can become Messed Up Mixes.  Three Messed Up Mixes and you've totally messed up!
+Watch out for helpful stuff like the Sunflower.

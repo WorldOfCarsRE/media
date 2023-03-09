@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+    <head>
+        <title>gigapixel</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <script type="text/javascript" src="js/swfobject.js"></script>
+        <style type="text/css">
+			body{
+				background-color: #171717; /* The background colour of the HTML*/
+			}
+			
+			/*The CSS below is used to center the flash in the HTML document, the margin-top and margin-left need to be set */
+			* commented backslash hack for ie5mac \*/ 
+			html, body{height:100%;} 
+			/* end hack */
+			#container {
+				position: absolute;
+				left: 50%;
+				top: 50%;
+				margin-top: -300px; /* make this half your flash content height */
+				margin-left: -300px; /* make this half your flash content width */
+			}
+			/* No Flash Div */
+			#noFlash {
+				margin-left: 100px;
+				color:#FFF;
+			}
+			img.centered {
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+				border:none;
+			}
+			
+		</style>
+		
+        <script type="text/javascript">
+            
+        //Common Values
+		var swfId = "flash-content-main"; // The swf id
+		var swfWidth = 600; // The width of the flash content
+		var swfHeight = 600; // The height of the flash content
+		var flashVersion = "10.0.0"; // The flash version to check for
+		
+		var flashvars = {};
+		flashvars.locale = 'en_US'; // The flash localisation folder name gets passed in here, en_GB by default
+
+		// Below is an example of passing query string params into Flash as FlashVars
+		if (swfobject.getQueryParamValue("deeplink")) {
+  			flashvars.deeplink = swfobject.getQueryParamValue("deeplink");
+		}
+		
+		var params = {};
+		params.id = swfId; // Movie Identifier, needs value for JS support in IE
+		params.name = params.id; // Movie name, usually the same as the id
+		params.menu = false; // true | false :: Context (right-click) menu
+		params.scale = "noscale"; // default (show all) | noborder | exactfit | noscale
+		params.align = ""; // l (left) | r (right) | t (top) | b (bottom)
+		params.salign = "tl"; // l | t | r | b | tl | tr | bl | br :: Figure it out :)
+		params.quality = "high"; // low | autolow | meduim | high | autohigh | best :: 'Auto' switches anti-aliasing on/off according to framerate
+		params.swliveconnect = true; // true | false :: True if using JS from flash
+		params.allowFullScreen = true; // true | false 
+
+		var attributes = {};
+		attributes.id = swfId; // Movie Identifier, needs value for JS support in IE
+		attributes.name = params.name; // Movie name, usually the same as the id
+
+        swfobject.embedSWF('flash/gigapixel/preload.swf', "flash-content-main", swfWidth, swfHeight, flashVersion, 'js/expressinstall.swf', flashvars, params, attributes);
+
+        </script>
+    </head>
+    <body>
+    	<div id="container">
+            <div id="flash-content-main">
+               <div id="noFlash">
+                	<p class="white">In order to view this page you need Flash Player 10+ support and JavaScript enabled!</p>
+                    <p align="center">
+                        <a href="http://www.adobe.com/go/getflashplayer">
+                            <img class='centered' src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
+                        </a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,118 @@
+﻿Account Manager
+Close
+Manage Sponsorships
+Current E-mail Subscriptions
+Account Details
+Disney's Online Community
+Account Details
+Manage Sponsorship
+E-mail Subscriptions
+Community Settings
+Account ID
+D-Name
+First Name
+Last Name
+E-mail
+Address
+City
+State
+Zip Code
+Parent's E-mail
+Save
+Change Password
+Delete Account
+Remove Account
+Parent's Guide
+SpeedChat Plus
+OpenChat
+With Limited True Friends
+With Unlimited True Friends
+With Any Disney Member
+Upload Content
+Post to Message Boards
+Account
+Link An Account
+Cancel Sponsorship
+World of Cars Online Sponsorship
+Purchased By
+Purchase Type
+Next Bill Date
+Next Bill Amount
+Account Expires
+Billing Address
+Shipping Address
+Shipping address different.
+Ok
+Delete Help
+This will delete your account, destroying any data associated with it.
+Delete
+Are you sure you want to delete this account?
+Remove Help
+This will unlink the currently selected account from your account.
+Remove
+Are you sure you want to unlink this account?
+Parent Login to Change
+has an active subscription.
+has an inactive subscription.
+SpeedChat Plus allows chat with other Disney members by using words included in the Disney SpeedChat Plus dictionary. Words that are not in the dictionary will be highlighted in red, and you can choose alternative words prior to sending your message. If you choose to turn off SpeedChat Plus, you will be defaulted to SpeedChat, where you can chat with other members by choosing from a pre-approved list of written questions and statements.
+SpeedChat Plus allows chat with other Disney members by using words included in the Disney SpeedChat Plus dictionary. Words that are not in the dictionary will be highlighted in red, and you can choose alternative words prior to sending your message. If you choose to turn off SpeedChat Plus, you will be defaulted to SpeedChat, where you can chat with other members by choosing from a pre-approved list of written questions and statements.
+Your child can chat with any True Friend.
+Your child can chat with any Disney Member.
+Your child can upload content.
+Your child can participate on online message boards.
+Continue
+I agree
+Terms of Use
+Printable Version
+You need to accept our Terms of use before you or your child can participate in Disney Public Forums.  You must read the Terms of Use set forth below, make sure you understand them, and certify to the statement below, indicating your acknowledgement and acceptance of those terms. 
+The Terms of Use contain important provisions governing your and our rights including, among other things, acceptable conduct on the Walt Disney Internet Group family of sites (including Disney.com, and other Internet sites affiliated with The Walt Disney Company), intellectual property rights (including our right to use information, content and materials you submit to us), and other rights and remedies available to you and us.
+Old Password
+New Password
+Confirm Password
+Submit
+State / Zip Code
+Due to Children's Online Privacy Protection Act (COPPA) regulations, a parent email address on a child's account can only be modified by a parent.
+If this email address needs to be upgraded a parent must link this account, and login before updating it.
+Select a D-Name
+Pending
+Declined
+Unknown
+The D-Name you selected is currently being evaluated to make sure it fits Disney's naming standards.  Until it is evaluated, you will be given a temporary guest name.
+The D-Name you selected was declined because it violated Disney's naming standards.  Please create a new D-Name.  Until you create a new D-Name, you will be given a temporary guest name.
+Your D-Name has not been set.  Until you choose a D-Name, you will be given a temporary guest name.
+Cancel
+This account is not currently subscribed to World of Cars Online.
+Please enter a new D-Name.
+Enter the username and password of the account to which you'd like to be linked.
+Username
+Password
+This account is not subscribed to any newsletters.
+Are you sure you wish to cancel this sponsorship?
+The account information is incorrect or the account is not eligible for linking.  Please check the account data and try again.
+Error
+You cannot edit this setting until your e-mail address has been validated.  Click CONTINUE to receive an e-mail to validate your account.
+Account Not Validated
+Visa
+MasterCard
+American Express
+Diners Club
+Discover Card
+PayPal
+Gift Card
+Success
+Account successfully linked.
+Incorrect password entered.
+Account successfully updated.
+There was an error saving the account data.  Please try again.
+Password successfully updated.
+D-Name is available!
+There was an error retrieving your account's information.  Please try again later.
+Enter the username and password corresponding to the linked parent account.
+The username and/or password is either incorrect or does not correspond to the linked parent's account.
+Parent account successfully logged in.
+Upgrade Account
+Upgrade your account:
+Choose a sponsor and access special gear
+Buy items to trick out your car
+Customize your home
+Race on exclusive pro tracks

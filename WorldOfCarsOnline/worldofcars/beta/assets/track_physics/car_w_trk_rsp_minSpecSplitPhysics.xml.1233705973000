@@ -1,0 +1,22 @@
+<track>
+	<segments>
+		<segment id='1' type='5' parents='' children='2' px='900,704,824,994' py='600,502,432,552' mx='835,770,881,937' my='567,535,472,512' racingPoint='802,551' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.100' drift='0.200,0.200,0.200' drag='3000.000,3000.000,3000.000' />
+		</segment>
+		<segment id='2' type='5' parents='1' children='3' px='994,824,1003,1089' py='552,432,369,507' mx='937,881,1033,1061' my='512,472,416,461' racingPoint='909,492' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.100' drift='0.200,0.200,0.200' drag='3000.000,3000.000,3000.000' />
+		</segment>
+		<segment id='3' type='5' parents='2' children='4' px='1089,1003,1197,1225' py='507,369,339,479' mx='1061,1033,1207,1216' my='461,416,387,433' racingPoint='1046,438' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.100' drift='0.200,0.200,0.200' drag='3000.000,3000.000,3000.000' />
+		</segment>
+		<segment id='4' type='5' parents='3' children='5' px='1225,1197,1393,1389' py='479,339,324,472' mx='1216,1207,1392,1390' my='433,387,374,423' racingPoint='1211,409' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.100' drift='0.200,0.200,0.200' drag='3000.000,3000.000,3000.000' />
+		</segment>
+		<segment id='5' type='5' parents='4' children='6' px='1389,1393,1633,1577' py='472,324,339,481' mx='1390,1392,1614,1595' my='423,374,387,434' racingPoint='1391,398' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.100' drift='0.200,0.200,0.200' drag='3000.000,3000.000,3000.000' />
+		</segment>
+		<segment id='6' type='5' parents='5' children='' px='1577,1633,1837,1771' py='481,339,375,525' mx='1595,1614,1815,1793' my='434,387,426,475' racingPoint='1605,410' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.100' drift='0.200,0.200,0.200' drag='3000.000,3000.000,3000.000' />
+		</segment>
+	</segments>
+</track>

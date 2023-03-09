@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<boot app="Cars_PlayButton.swf" id="carsplaybutton">
+	<libs dpack="libs.dpak">
+		<lib url="DVC_UI.swf" />
+		<lib url="DVC_Cars_UI.swf" />
+		<lib url="DVC_RegUtils.swf" />
+		<lib url="SharedAssetsLibrary_Fonts.swf" />
+		<lib url="SharedAssetsLibrary_Website.swf" />
+	</libs>
+</boot>

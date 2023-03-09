@@ -1,0 +1,1419 @@
+<fsp>
+	<playlist id="movies/cars2/videos"> 
+		<channel name="" prettyName="cars2" id="">
+			<chapter logo="" title="Wasabi" prettyName="wasabi" thumbnail="images/video_thumbs/cars2_wasabi.jpg" type="single" description="Spice it up with Mater in Tokyo" id="wasabi">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10207_wdpm_car_2_wasabi_hi" progurl_low="xd10207_wdpm_car_2_wasabi_hi" id="wasabi" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_50|xd10207_wdpm_car_2_wasabi_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			<chapter logo="" title="Francesco Racing Interstitial" prettyName="francescorace" thumbnail="images/video_thumbs/cars2_francesco.jpg" type="single" description="Check out one of the world's greatest racecars!" id="francescorace">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10220_wdpm_car_2_francesco_race_interstitial_hi" progurl_low="xd10220_wdpm_car_2_francesco_race_interstitial_hi" id="francescorace" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_50|xd10220_wdpm_car_2_francesco_race_interstitial_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			<chapter logo="" title="Oil Rig Chase" prettyName="oilrig" thumbnail="images/video_thumbs/cars2_oilrig.jpg" type="single" description="Finn maneuvers his way out of a tight situation" id="oilrig">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10219_wdpm_car_2_oil_rig_chase_hi" progurl_low="xd10219_wdpm_car_2_oil_rig_chase_hi" id="oilrig" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_50|xd10219_wdpm_car_2_oil_rig_chase_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			<chapter logo="" title="Zero to Sixty - New Characters" prettyName="zeroto60newcharacters" thumbnail="images/video_thumbs/cars2_0to60new.jpg" type="single" description="Meeting the new characters in Cars 2" id="zeroto60newcharacters">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10213_wdpm_car_2_zero_to_60_new_characters_hi" progurl_low="xd10213_wdpm_car_2_zero_to_60_new_characters_hi" id="zeroto60newcharacters" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_50|xd10213_wdpm_car_2_zero_to_60_new_characters_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			<chapter logo="" title="Getting Mater out of the Pitts" prettyName="materpitts" thumbnail="images/video_thumbs/cars2_materpitts.jpg" type="single" description="Finn and Holley try to get Mater out of a troublesome situation" id="materpitts">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10205_wdpm_car_2_getting_mater_out_of_pits_hi" progurl_low="xd10205_wdpm_car_2_getting_mater_out_of_pits_hi" id="materpitts" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_50|xd10205_wdpm_car_2_getting_mater_out_of_pits_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+
+			<chapter logo="" title="Disguises" prettyName="disguises" thumbnail="images/video_thumbs/cars2_disguises.jpg" type="single" description="Check out the spytastic disguises for Mater!" id="disguises">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10204_wdpm_car_2_disguises_hi" progurl_low="xd10204_wdpm_car_2_disguises_hi" id="disguises" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_50|xd10204_wdpm_car_2_disguises_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			<chapter logo="" title="V12 TV" prettyName="v12tv" thumbnail="images/video_thumbs/cars2_v12.jpg" type="single" description="Go Dancing with the Cars or Watch American Idle" id="v12tv">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10214_wdpm_car_2_internet_spot_v12_tv_hi" progurl_low="xd10214_wdpm_car_2_internet_spot_v12_tv_hi" id="v12tv" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_50|xd10214_wdpm_car_2_internet_spot_v12_tv_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			<chapter logo="" title="In Flight Movies: London" prettyName="in_flight_london" thumbnail="images/video_thumbs/cars2_inflight_london.jpg" type="single" description="Have a smashing time in London" id="in_flight_london">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10208_wdpm_car_2_in-flight_movies_london_hi" progurl_low="xd10208_wdpm_car_2_in-flight_movies_london_hi" id="in_flight_london" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_50|xd10208_wdpm_car_2_in-flight_movies_london_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>		 
+			<chapter logo="" title="Spy School: London" prettyName="spyschoollondon" thumbnail="images/video_thumbs/cars2_spy_school_london.jpg" type="single" description="Watch Mater, Finn and Holley in a London Adventure in Cars 2" id="spyschoollondon">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10182_wdpm_car_2_london_spy_school_with_sweeps_hi" progurl_low="xd10182_wdpm_car_2_london_spy_school_with_sweeps_hi" id="spyschoollondon" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_50|xd10182_wdpm_car_2_london_spy_school_with_sweeps_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			<chapter logo="" title="Carmac" prettyName="carmac" thumbnail="images/video_thumbs/cars2_carmac.jpg" type="single" description="Revving it up on the Carmac!" id="carmac">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10202_wdpm_car_2_carmac_hi" progurl_low="xd10202_wdpm_car_2_carmac_hi" id="carmac" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_50|xd10202_wdpm_car_2_carmac_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			<chapter logo="" title="Tokyo Party" prettyName="tokyo_party" thumbnail="images/video_thumbs/cars2_tokyoparty.jpg" type="single" description="Join the crew from Cars 2 in Tokyo." id="tokyo_party">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10199_wdpm_car_2_tokyo_party_hi" progurl_low="xd10199_wdpm_car_2_tokyo_party_hi" id="tokyo_party" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_50|xd10199_wdpm_car_2_tokyo_party_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>			
+			<chapter logo="" title="Holley's Hot Tips #2" prettyName="holley_hottip2" thumbnail="images/video_thumbs/cars2_holleyhottip2.jpg" type="single" description="Holley explains how to globe-trot like a super-agent." id="holley_hottip2">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10177_wdpm_car_2_holleys_hot_tips_2_hi" progurl_low="xd10177_wdpm_car_2_holleys_hot_tips_2_hi" id="holley_hottip2" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_50|xd10177_wdpm_car_2_holleys_hot_tips_2_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			<chapter logo="" title="Holley's Hot Tips #1" prettyName="holley_hottip1" thumbnail="images/video_thumbs/cars2_holleyhottip1.jpg" type="single" description="Holley explains how to travel in style." id="holley_hottip1">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10176_wdpm_car_2_holleys_hot_tips_1_hi" progurl_low="xd10176_wdpm_car_2_holleys_hot_tips_1_hi" id="holley_hottip1" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_50|xd10176_wdpm_car_2_holleys_hot_tips_1_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+
+			<chapter logo="" title="Hamilton/Gorvette Cameos" prettyName="hamilton_gorvette" thumbnail="images/video_thumbs/cars2_hamilton_gorvette.jpg" type="single" description="Watch the Jeff Gorvette and Lewis Hamilton Cameos in Cars 2" id="hamilton_gorvette">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10163_wdpm_car_2_hamilton_gorvette_cameos_hi" progurl_low="xd10163_wdpm_car_2_hamilton_gorvette_cameos_hi" id="hamilton_gorvette" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_50|xd10163_wdpm_car_2_hamilton_gorvette_cameos_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+
+			<chapter logo="" title="In Flight Movie: Japan" prettyName="in_flight_japan" thumbnail="images/video_thumbs/cars2_inflight_japan.jpg" type="single" description="Fly to Japan and see the characters in Cars 2" id="in_flight_japan">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10147_wdpm_car_2_in-flight_movies_japan_hi" progurl_low="xd10147_wdpm_car_2_in-flight_movies_japan_hi" id="in_flight_japan" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_50|xd10147_wdpm_car_2_in-flight_movies_japan_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+
+			<chapter logo="" title="Spy School: Paris" prettyName="spy_school_paris" thumbnail="images/video_thumbs/cars2_spy_school_paris.jpg" type="single" description="See the Newest Recruit: Mater" id="spy_school_paris">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10128_wdpm_car_2_spy_school_paris_hi" progurl_low="xd10128_wdpm_car_2_spy_school_paris_hi" id="spy_school_paris" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_50|xd10128_wdpm_car_2_spy_school_paris_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Spy School: Tokyo" prettyName="spy_school_tokyo" thumbnail="images/video_thumbs/cars2_spy_school_tokyo.jpg" type="single" description="Watch Tokyo Combat Simulation" id="spy_school_tokyo">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10129_wdpm_car_2_spy_school_tokyo_hi" progurl_low="xd10129_wdpm_car_2_spy_school_tokyo_hi" id="spy_school_tokyo" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_50|xd10129_wdpm_car_2_spy_school_tokyo_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>  
+			
+			<chapter logo="" title="Spy Cars Like Us" prettyName="spy_cars_like_us" thumbnail="images/video_thumbs/cars2_spies_like_us.jpg" type="single" description="Bigger Than Anything Ever Seen" id="spy_cars_like_us">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10127_wdpm_car_2_spy_cars_like_hi" progurl_low="xd10127_wdpm_car_2_spy_cars_like_hi" id="spy_cars_like_us" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_50|xd10127_wdpm_car_2_spy_cars_like_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>     
+			
+			<chapter logo="" title="Cars 2: Lego Trailer" prettyName="lego_cars" thumbnail="images/video_thumbs/cars2_legocars.jpg" type="single" description="Watch Cars 2 trailer - LEGO-ized!" id="lego_cars">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10118_wdpm_car_2_lego_trailer_hi" progurl_low="xd10118_wdpm_car_2_lego_trailer_hi" id="lego_cars" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_50|xd10118_wdpm_car_2_lego_trailer_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+
+			<chapter logo="" title="Back Into Cars" prettyName="backintocars" thumbnail="images/video_thumbs/cars_backtocars.jpg" type="single" description="John Lasseter talks about getting back into Cars" id="backintocars">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10048_wdpm_car_2_back_into_cars_2_hi" progurl_low="xd10048_wdpm_car_2_back_into_cars_2_hi" id="backintocars" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_50|xd10048_wdpm_car_2_back_into_cars_2_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<!--<chapter logo="" title="Back Into Cars" prettyName="backintocars" thumbnail="images/video_thumbs/cars_backtocars.jpg" type="single" description="John Lasseter talks about getting back into Cars" id="backintocars">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10121_wdpm_car_2_back_into_sweeps_hi" progurl_low="xd10121_wdpm_car_2_back_into_sweeps_hi" id="backintocars" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_50|xd10121_wdpm_car_2_back_into_sweeps_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter> -->
+			
+			<chapter logo="" title="Bathroom Clip" prettyName="bathroom_clip" thumbnail="images/video_thumbs/cars2_bathroom.jpg" type="single" description="Washing up with Mater" id="bathroom_clip">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10069_wdpm_car_2_bathroom_clip_hi" progurl_low="xd10069_wdpm_car_2_bathroom_clip_hi" id="bathroom_clip" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_50|xd10069_wdpm_car_2_bathroom_clip_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+
+			<chapter logo="" title="Trailer 3" prettyName="trailer-3" thumbnail="images/video_thumbs/cars2_trailer_3.jpg" type="single" description="Rev up at the World Grand Prix" id="trailer-3">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10057_wdpm_car_2_trailer_4_hi" progurl_low="xd10057_wdpm_car_2_trailer_4_hi" id="trailer-3" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd10057_wdpm_car_2_trailer_4_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Royal Tips" prettyName="royal_wedding" thumbnail="images/video_thumbs/cars2_videothumb_royal_tips.jpg" type="single" description="Watch the Royal Event of the Year" id="royal_wedding">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10010_wdpm_car_2_royal_wedding_tv_spot_hi" progurl_low="xd10010_wdpm_car_2_royal_wedding_tv_spot_hi" id="royal_wedding" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd10010_wdpm_car_2_royal_wedding_tv_spot_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<!--<chapter logo="" title="Zero to 60: New Places" prettyName="zero_to_sixty" thumbnail="images/video_thumbs/cars_sweeps_videothumb_01.jpg" type="single" description="Visit Tokyo, Italy, London with the characters from Cars 2." id="zero_to_sixty">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10002_wdpm_car_2_zero_to_sixty_clip_for_aom_sweeps_hi" progurl_low="xd10002_wdpm_car_2_zero_to_sixty_clip_for_aom_sweeps_hi" id="zero_to_sixty" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd10002_wdpm_car_2_zero_to_sixty_clip_for_aom_sweeps_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>-->
+			
+			<chapter logo="" title="Zero to 60: New Places" prettyName="zero_to_sixty" thumbnail="images/video_thumbs/cars_sweeps_videothumb_01.jpg" type="single" description="Visit Tokyo, Italy, London with the characters from Cars 2." id="zero_to_sixty">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10003_wdpm_car_2_zero_to_sixty_clip_no_aom_sweeps_hi" progurl_low="xd10003_wdpm_car_2_zero_to_sixty_clip_no_aom_sweeps_hi" id="zero_to_sixty" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd10003_wdpm_car_2_zero_to_sixty_clip_no_aom_sweeps_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			
+			<chapter logo="" title="Trailer 2" prettyName="trailer-2" thumbnail="images/video_thumbs/cars2_trailer2.jpg" type="single" description="Ka-chow! Check out the international action in Cars 2." id="trailer-2">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09777_wdpm_car_2_trailer_2_hi" progurl_low="xd09777_wdpm_car_2_trailer_2_hi" id="trailer-2" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd09777_wdpm_car_2_trailer_2_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			 
+			<chapter logo="" title="International Trailer 2" prettyName="intl_trailer2" thumbnail="images/video_thumbs/vid_thumb_intl2.jpg" type="single" description="Go Global with Cars 2." id="intl_trailer2">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09811_wdpm_car_2_international_trailer_2_hi" progurl_low="xd09811_wdpm_car_2_international_trailer_2_hi" id="intl_trailer2" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_35|xd09811_wdpm_car_2_international_trailer_2_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Japan Trailer 2" prettyName="japan_trailer2" thumbnail="images/video_thumbs/vid_thumb_jp2.jpg" type="single" description="Check out the Cars 2 Japanese Trailer." id="japan_trailer2">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09813_wdpm_car_2_japan_exclusive_trailer_2_hi" progurl_low="xd09813_wdpm_car_2_japan_exclusive_trailer_2_hi" id="japan_trailer2" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_35|xd09813_wdpm_car_2_japan_exclusive_trailer_2_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Trailer 1" prettyName="trailer" thumbnail="images/video_thumbs/cars_trailer.jpg" type="single" description="Get revved with a first look at Cars 2!" id="09174">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09174_wdpm_car_2_cars_2_trailer_hi" progurl_low="xd09174_wdpm_car_2_cars_2_trailer_sw" id="09174" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd09174_wdpm_car_2_cars_2_trailer_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="International Trailer 1" prettyName="intl_trailer" thumbnail="images/video_thumbs/cars2_trailer_int.jpg" type="single" description="Mater and Lightning McQueen return in Cars 2." id="intl_trailer">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09637_wdpm_car_2_international_trailer_hi" progurl_low="xd09637_wdpm_car_2_international_trailer_hi" id="intl_trailer" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_35|xd09637_wdpm_car_2_international_trailer_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Japan Trailer 1" prettyName="japan_trailer" thumbnail="images/video_thumbs/cars2_trailer_jp.jpg" type="single" description="Mater and Lightning McQueen return in Cars 2." id="japan_trailer">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09638_wdpm_car_2_japan_exclusive_trailer_hi" progurl_low="xd09638_wdpm_car_2_japan_exclusive_trailer_hi" id="japan_trailer" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_35|xd09638_wdpm_car_2_japan_exclusive_trailer_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<!--<chapter logo="" title="Teaser Trailer" prettyName="teaser" thumbnail="images/video_thumbs/cars-2-teaser-lightning.jpg" type="single" description="Mater and Lightning McQueen return in Cars 2." id="08994">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd08992_wdpm_car_2_teaser_trailer_hi" progurl_low="xd08992_wdpm_car_2_teaser_trailer_sw" id="08994" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_35|xd08992_wdpm_car_2_teaser_trailer_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>-->
+			
+		</channel>
+	</playlist>
+	
+	<playlist id="tv-spots">
+		<channel name="" prettyName="" id="">
+			<chapter logo="" title="Cars 2 TV Spot: New Trip" prettyName="newtrip" thumbnail="images/video_thumbs/cars2_tvnewtrip.jpg" type="single" description="Mater meets Finn and Holley" id="newtrip">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10234_wdpm_car_2_tv_spot_new_trip_hi" progurl_low="xd10234_wdpm_car_2_tv_spot_new_trip_hi" id="newtrip" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_35|xd10234_wdpm_car_2_tv_spot_new_trip_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			             
+			<chapter logo="" title="Cars 2 TV Spot: Pedigree" prettyName="pedigree" thumbnail="images/video_thumbs/cars2_tvpedigree.jpg" type="single" description="Don't miss the action in Cars 2" id="pedigree">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10235_wdpm_car_2_tv_spot_pedigree_hi" progurl_low="xd10235_wdpm_car_2_tv_spot_pedigree_hi" id="pedigree" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_35|xd10235_wdpm_car_2_tv_spot_pedigree_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>		
+			<chapter logo="" title="Cars 2 TV Spot: Lewis Hamilton" prettyName="tv_spot_lewis" thumbnail="images/video_thumbs/cars2_tvspot_lewis.jpg" type="single" description="Meet Lewis Hamilton in Cars 2" id="tv_spot_lewis">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10162_wdpm_car_2_tv_spot_lewis_hamilton_hi" progurl_low="xd10162_wdpm_car_2_tv_spot_lewis_hamilton_hi" id="tv_spot_lewis" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_35|xd10162_wdpm_car_2_tv_spot_lewis_hamilton_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			                                 
+			<chapter logo="" title="Cars 2 TV Spot: Shadows" prettyName="tv_spot_shadows" thumbnail="images/video_thumbs/cars2_tvspot_shadows.jpg" type="single" description="Recruiting only the best in Cars 2" id="tv_spot_shadows">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10161_wdpm_car_2_tv_spot_shadows_hi" progurl_low="xd10161_wdpm_car_2_tv_spot_shadows_hi" id="tv_spot_shadows" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_35|xd10161_wdpm_car_2_tv_spot_shadows_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars 2 TV Spot: Physical" prettyName="tv_spot_physical" thumbnail="images/video_thumbs/cars2_tvspot_physical.jpg" type="single" description="Keep up the 'race' in Cars " id="tv_spot_physical">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10160_wdpm_car_2_tv_spot_physical_hi" progurl_low="xd10160_wdpm_car_2_tv_spot_physical_hi" id="tv_spot_physical" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_35|xd10160_wdpm_car_2_tv_spot_physical_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>          
+			
+			<chapter logo="" title="Cars 2 TV Spot: Fuel Injected" prettyName="tv_spot_fuel_injected" thumbnail="images/video_thumbs/cars2_tvspot_fuel_injected.jpg" type="single" description="An Adventure Bigger Than Ever" id="tv_spot_fuel_injected">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10140_wdpm_car_2_tv_spot_fuel_injected_hi" progurl_low="xd10140_wdpm_car_2_tv_spot_fuel_injected_hi" id="tv_spot_fuel_injected" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_35|xd10140_wdpm_car_2_tv_spot_fuel_injected_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>                    
+			
+			<chapter logo="" title="Cars 2 TV Spot: All New" prettyName="tv_spot_all_new" thumbnail="images/video_thumbs/cars2_tvspot_allnew.jpg" type="single" description="New Places, New Races and New Faces in Cars 2" id="tv_spot_all_new">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10124_wdpm_car_2_tv_spot_all_new_hi" progurl_low="xd10124_wdpm_car_2_tv_spot_all_new_hi" id="tv_spot_all_new" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_35|xd10124_wdpm_car_2_tv_spot_all_new_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars 2 TV Spot: World Travel" prettyName="tv_spot_world_travel" thumbnail="images/video_thumbs/cars2_tvspot_worldtravel.jpg" type="single" description="Race Around the World with Lightning and the gang" id="tv_spot_world_travel">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10126_wdpm_car_2_tv_spot_world_travel_bathroom_hi" progurl_low="xd10126_wdpm_car_2_tv_spot_world_travel_bathroom_hi" id="tv_spot_world_travel" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_35|xd10126_wdpm_car_2_tv_spot_world_travel_bathroom_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars 2 TV Spot: NBA" prettyName="tv_spot_nba" thumbnail="images/video_thumbs/cars2_tvspot_nba.jpg" type="single" description="Look Who's Driving the Lane" id="tv_spot_nba">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10125_wdpm_car_2_tv_spot_nba_hi" progurl_low="xd10125_wdpm_car_2_tv_spot_nba_hi" id="tv_spot_nba" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_35|xd10125_wdpm_car_2_tv_spot_nba_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>   
+			
+			<chapter logo="" title="Daytona TV Spot" prettyName="daytona_tv" thumbnail="images/video_thumbs/cars2_daytona_tv.jpg" type="single" description="" id="daytona_tv">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09871_wdpm_car_2_daytona_tv_spot_hi" progurl_low="xd09871_wdpm_car_2_daytona_tv_spot_hi" id="daytona_tv" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_35|xd09871_wdpm_car_2_daytona_tv_spot_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>   
+			
+		  </channel>
+	</playlist>
+		
+	<playlist id="character_360s">
+		<channel name="" prettyName="character_360s" id="">
+			
+			<chapter logo="" title="The Queen 360" prettyName="queen_360" thumbnail="images/video_thumbs/cars_360_videothumb_queen.jpg" type="single" description="" id="queen_360">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09997_wdpm_car_2_360_turntable_animation_the_queen_v2_hi" progurl_low="xd09997_wdpm_car_2_360_turntable_animation_the_queen_v2_hi" id="queen_360" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="xd09997_wdpm_car_2_360_turntable_animation_the_queen_v2_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Max Schnell 360" prettyName="max_360" thumbnail="images/video_thumbs/cars_360_videothumb_max.jpg" type="single" description="" id="max_360">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09774_wdpm_car_2_360_turntable_animation_max_schnell_hi" progurl_low="xd09774_wdpm_car_2_360_turntable_animation_max_schnell_hi" id="max_360" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|xd09774_wdpm_car_2_360_turntable_animation_max_schnell_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>  
+			</chapter>
+			
+			<chapter logo="" title="Miguel Camino 360" prettyName="miguel_360" thumbnail="images/video_thumbs/cars_360_videothumb_miguel.jpg" type="single" description="" id="miguel_360">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09775_wdpm_car_2_360_turntable_animation_miguel_camino_hi" progurl_low="xd09775_wdpm_car_2_360_turntable_animation_miguel_camino_hi" id="miguel_360" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|xd09775_wdpm_car_2_360_turntable_animation_miguel_camino_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>  
+			</chapter>
+			
+			<chapter logo="" title="Lewis Hamilton 360" prettyName="lewis_360" thumbnail="images/video_thumbs/cars_360_videothumb_lewis.jpg" type="single" description="" id="lewis_360">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09773_wdpm_car_2_360_turntable_animation_lewis_hamilton_hi" progurl_low="xd09773_wdpm_car_2_360_turntable_animation_lewis_hamilton_hi" id="lewis_360" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|xd09773_wdpm_car_2_360_turntable_animation_lewis_hamilton_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>  
+			</chapter>
+			
+			<chapter logo="" title='Jeff Gorvette 360' prettyName="jeff_360" thumbnail="images/video_thumbs/cars_360_videothumb_jeff.jpg" type="single" description="" id="jeff_360">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09829_wdpm_car_2_360_turntable_animation_jeff_gorvette_hi" progurl_low="xd09829_wdpm_car_2_360_turntable_animation_jeff_gorvette_hi" id="jeff_360" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|xd09829_wdpm_car_2_360_turntable_animation_jeff_gorvette_hi" mediaformat="flv" mediarating="off" aspectRatio="" />
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title='Professor Z 360' prettyName="professor_360" thumbnail="images/video_thumbs/cars_360_videothumb_professorz.jpg" type="single" description="" id="professor_360">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09743_wdpm_car_2_360_turntable_animation_professor_z_hi" progurl_low="xd09743_wdpm_car_2_360_turntable_animation_professor_z_hi" id="professor_360" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|xd09743_wdpm_car_2_360_turntable_animation_professor_z_hi" mediaformat="flv" mediarating="off" aspectRatio="" />
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title='Rod "Torque" Redline 360' prettyName="rod_360" thumbnail="images/video_thumbs/cars_360_videothumb_rod.jpg" type="single" description="" id="rod_360">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09737_wdpm_car_2_360_turntable_animation_rod_redline_hi" progurl_low="xd09737_wdpm_car_2_360_turntable_animation_rod_redline_hi" id="rod_360" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|xd09737_wdpm_car_2_360_turntable_animation_rod_redline_hi" mediaformat="flv" mediarating="off" aspectRatio="" />
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Nigel Gearsley 360" prettyName="nigel_360" thumbnail="images/video_thumbs/cars_360_videothumb_nigel.jpg" type="single" description="" id="nigel_360">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09683_wdpm_car_2_360_turntable_animation_nigel_gearsley_hi" progurl_low="xd09683_wdpm_car_2_360_turntable_animation_nigel_gearsley_hi" id="nigel_360" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|xd09683_wdpm_car_2_360_turntable_animation_nigel_gearsley_hi" mediaformat="flv" mediarating="off" aspectRatio="" />
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Miles Axlerod 360" prettyName="miles_360" thumbnail="images/video_thumbs/cars_360_videothumb_miles.jpg" type="single" description="" id="miles_360">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09673_wdpm_car_2_360_turntable_animation_miles_axlerod_hi" progurl_low="xd09673_wdpm_car_2_360_turntable_animation_miles_axlerod_hi" id="miles_360" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|xd09673_wdpm_car_2_360_turntable_animation_miles_axlerod_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Francesco 360" prettyName="francesco_360" thumbnail="images/video_thumbs/cars_360_videothumb_francesco.jpg" type="single" description="" id="francesco_360">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09629_wdpm_car_2_360_turntable_animation_francesco_hi" progurl_low="xd09629_wdpm_car_2_360_turntable_animation_francesco_hi" id="francesco_360" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|xd09629_wdpm_car_2_360_turntable_animation_francesco_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Acer 360" prettyName="acer_360" thumbnail="images/video_thumbs/cars_360_videothumb_acer.jpg" type="single" description="" id="acer_360">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09628_wdpm_car_2_360_turntable_animation_acer_hi" progurl_low="xd09628_wdpm_car_2_360_turntable_animation_acer_hi" id="acer_360" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|xd09628_wdpm_car_2_360_turntable_animation_acer_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Grem 360" prettyName="grem_360" thumbnail="images/video_thumbs/cars_360_videothumb_grem.jpg" type="single" description="" id="grem_360">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09627_wdpm_car_2_360_turntable_animation_grem_hi" progurl_low="xd09627_wdpm_car_2_360_turntable_animation_grem_hi" id="grem_360" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|xd09627_wdpm_car_2_360_turntable_animation_grem_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Shu Todoroki 360" prettyName="shu_360" thumbnail="images/video_thumbs/cars_360_videothumb_shu.jpg" type="single" description="" id="shu_360">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09636_wdpm_car_2_360_turntable_animation_shu_hi" progurl_low="xd09636_wdpm_car_2_360_turntable_animation_shu_hi" id="shu_360" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|xd09636_wdpm_car_2_360_turntable_animation_shu_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Raoul CaRoule 360" prettyName="raoul_360" thumbnail="images/video_thumbs/cars_360_videothumb_raoul.jpg" type="single" description="" id="raoul_360">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09589_wdpm_car_2_360_turntable_animation_raoul_caroule_hi" progurl_low="xd09589_wdpm_car_2_360_turntable_animation_raoul_caroule_hi" id="raoul_360" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|xd09589_wdpm_car_2_360_turntable_animation_raoul_caroule_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Carla Veloso 360" prettyName="carla_360" thumbnail="images/video_thumbs/cars_360_videothumb_carla.jpg" type="single" description="" id="carla_360">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09588_wdpm_car_2_360_turntable_animation_carla_veloso_hi" progurl_low="xd09588_wdpm_car_2_360_turntable_animation_carla_veloso_hi" id="carla_360" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|xd09588_wdpm_car_2_360_turntable_animation_carla_veloso_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Holley Shiftwell 360" prettyName="holley_360" thumbnail="images/video_thumbs/cars_360_videothumb_holley.jpg" type="single" description="" id="holley_360">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09587_wdpm_car_2_360_turntable_animation_holley_hi" progurl_low="xd09587_wdpm_car_2_360_turntable_animation_holley_hi" id="holley_360" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|xd09587_wdpm_car_2_360_turntable_animation_holley_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Finn 360" prettyName="finn_360" thumbnail="images/video_thumbs/cars_360_videothumb_finn.jpg" type="single" description="" id="finn_360">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09529_wdpm_car_2_turntable_360_animation_finn_mcmissile_hi" progurl_low="xd09529_wdpm_car_2_turntable_360_animation_finn_mcmissile_hi" id="finn_360" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|xd09529_wdpm_car_2_turntable_360_animation_finn_mcmissile_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Lightning 360" prettyName="lightning_360" thumbnail="images/video_thumbs/cars_360_videothumb_lightning.jpg" type="single" description="" id="lightning_360">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09527_wdpm_car_2_turntable_360_animation_lightning_hi" progurl_low="xd09527_wdpm_car_2_turntable_360_animation_lightning_hi" id="lightning_360" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|xd09527_wdpm_car_2_turntable_360_animation_lightning_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Mater 360" prettyName="mater_360" thumbnail="images/video_thumbs/cars_360_videothumb_mater.jpg" type="single" description="" id="mater_360">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09528_wdpm_car_2_turntable_360_animation_mater_hi" progurl_low="xd09528_wdpm_car_2_turntable_360_animation_mater_hi" id="mater_360" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|xd09528_wdpm_car_2_turntable_360_animation_mater_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+		</channel>
+	</playlist>
+	<playlist id="video-games">
+		<channel name="" prettyName="" id="">
+			<chapter logo="" title="Cars 2 Video Game: C.H.R.O.M.E. Elite" prettyName="chrome-elite" thumbnail="images/video_thumbs/cars2_videogame_elite.jpg" type="single" description="Join the elite ranks of C.H.R.O.M.E." id="chrome-elite">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/bvgames" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/bvgames" progurl="xd10137_di_car_2_vg_elite_hi" progurl_low="xd10137_di_car_2_vg_elite_hi" id="chrome-elite" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_196|xd10137_di_car_2_vg_elite_st" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+
+			<chapter logo="" title="Cars 2 Video Game: Video Diary 1" prettyName="diary-1" thumbnail="images/video_thumbs/cars2_diary1.jpg" type="single" description="This is CHROME" id="diary-1">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/bvgames" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/bvgames" progurl="xd10058_di_car_2_vg_secrets_of_chrome_developers_diary_1_the_video_game_hi" progurl_low="xd10058_di_car_2_vg_secrets_of_chrome_developers_diary_1_the_video_game_hi" id="diary-1" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_196|xd10058_di_car_2_vg_secrets_of_chrome_developers_diary_1_the_video_game_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+
+			<chapter logo="" title="Cars 2 Video Game: Video Diary 2" prettyName="diary-2" thumbnail="images/video_thumbs/cars2_diary2.jpg" type="single" description="Fight to the Finish Line" id="diary-2">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/bvgames" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/bvgames" progurl="xd10059_di_car_2_vg_secrets_of_chrome_developers_diary_2_fight_to_the_finish_line_hi" progurl_low="xd10059_di_car_2_vg_secrets_of_chrome_developers_diary_2_fight_to_the_finish_line_hi" id="diary-2" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_196|xd10058_di_car_2_vg_secrets_of_chrome_developers_diary_2_fight_to_the_finish_line_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+
+			<chapter logo="" title="Cars 2 Video Game: Secret Agency Trailer" prettyName="cars2-secret_agent" thumbnail="images/video_thumbs/cars_holley_secret.jpg" type="single" description="You Won’t Believe Your Spies" id="cars2-secret_agent">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/bvgames" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/bvgames" progurl="xd10027_di_car_2_vg_secret_agency_trailer_hi" progurl_low="xd10027_di_car_2_vg_secret_agency_trailer_hi" id="cars2-secret_agent" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_196|xd10027_di_car_2_vg_secret_agency_trailer_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars 2: The Video Game Teaser Trailer" prettyName="cars2-videogame-trailer" thumbnail="images/video_thumbs/cars2_videothumb_videogame.jpg" type="single" description="Check out Cars 2: the Video Game, coming this June!" id="cars2-videogame-trailer">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/bvgames" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/bvgames" progurl="xd09783_di_car_2_video_game_teaser_trailer_hi" progurl_low="xd09783_di_car_2_video_game_teaser_trailer_hi" id="cars2-videogame-trailer" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_196|xd09783_di_car_2_video_game_teaser_trailer_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+		</channel>
+	</playlist> 
+	<playlist id="related-videos">
+		<channel name="" prettyName="" id="">
+			
+			<chapter logo="" title="World of Cars Trailer" prettyName="woc_trailer" thumbnail="images/video_thumbs/woc_trailer.jpg" type="single" description="Create a Car Online in the World of Cars!" id="woc_trailer">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bvgames/xd09082_dos_cars_onl_world_of_cars_synergy_trailer_hi" progurl_low="bvgames/xd09082_dos_cars_onl_world_of_cars_synergy_trailer_hi" id="woc_trailer" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_148|bvgames/xd09082_dos_cars_onl_world_of_cars_synergy_trailer_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+
+			<chapter logo="" title="John Lasseter's Inspiration" prettyName="johns_inspiration" thumbnail="images/video_thumbs/cars_johns_inspiration.jpg" type="single" description="John Lasseter talks about how his travels inspired the film." id="johns_inspiration">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="disneydxd/xd09916_dcp_car_2_johns_inspiration_for_cars_hik" progurl_low="disneydxd/xd09916_dcp_car_2_johns_inspiration_for_cars_hi" id="johns_inspiration" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_148|xd09916_dcp_car_2_johns_inspiration_for_cars_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Lightning McQueen Alive" prettyName="lightning_alive" thumbnail="images/video_thumbs/cars_lightning_alive.jpg" type="single" description="" id="lightning_alive">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="disneydxd/xd09915_dcp_car_2_lightning_mcqueen_alive_155_car-prototype_demo_hi" progurl_low="disneydxd/xd09915_dcp_car_2_lightning_mcqueen_alive_155_car-prototype_demo_hi" id="lightning_alive" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_148|xd09915_dcp_car_2_lightning_mcqueen_alive_155_car-prototype_demo_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="John Lasseter Gives Cars 2 Sneak Peek" prettyName="johns_sneak_peek" thumbnail="images/video_thumbs/cars_johns_sneak_peek.jpg" type="single" description="John Lasseter tells us why he's excited about this movie." id="johns_sneak_peek">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="disneydxd/xd09914_dcp_car_2_john_lasseter_gives_cars_2_sneak_peek_hi" progurl_low="disneydxd/xd09914_dcp_car_2_john_lasseter_gives_cars_2_sneak_peek_hi" id="johns_sneak_peek" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_148|xd09914_dcp_car_2_john_lasseter_gives_cars_2_sneak_peek_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+		  </channel>
+	</playlist>
+	
+	<playlist id="movies/cars/videos">
+		<channel name="" prettyName="cars" id="">
+			<chapter logo="" title="Cars Movie Trailer" prettyName="cars_movie_trailer" thumbnail="images/video_thumbs/cars1_videothumb_01_trailer.jpg" type="single" description="Disney/Pixar's Cars hits Route 66 for Radiator Springs." id="cars_movie_trailer">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="disneydxd/xd00265_car_trailer2_704x304_700k" progurl_low="disneydxd/xd00265_car_trailer2_704x304_700k" id="cars_movie_trailer" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_148|xd00265_car_trailer2_704x304_700k" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: My Name's Mater " prettyName="my_names_mater" thumbnail="images/video_thumbs/cars1_videothumb_02_my_name.jpg" type="single" description="Mater introduces himself to an impounded Lightning McQueen." id="my_names_mater">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00942_bvhe_car_my-names-mater_hi" progurl_low="bventertainment/xd00942_bvhe_car_my-names-mater_hi" id="my_names_mater" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_53|xd00942_bvhe_car_my-names-mater_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+		
+		<chapter logo="" title="Cars Clip: Be Our Guest " prettyName="be_our_guest" thumbnail="images/video_thumbs/cars1_videothumb_03_be_our.jpg" type="single" description="In Radiator Springs, lost tourists are considered customers." id="be_our_guest">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00941_bvhe_car_extended-clip_hi" progurl_low="bventertainment/xd00941_bvhe_car_extended-clip_hi" id="be_our_guest" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_103|xd00941_bvhe_car_extended-clip_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+
+		
+		<chapter logo="" title="Cars Clip: Race with Doc" prettyName="race_with_doc" thumbnail="images/video_thumbs/cars1_videothumb_04_race_doc.jpg" type="single" description="Doc knows he doesn't have to go fast to beat Lightning. " id="race_with_doc">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00944_bvhe_car_race-with-doc_hi" progurl_low="bventertainment/xd00944_bvhe_car_race-with-doc_hi" id="race_with_doc" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_52|xd00944_bvhe_car_race-with-doc_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+
+		
+		<chapter logo="" title="Cars Clip: But You're Stupid" prettyName="but_youre_stupid" thumbnail="images/video_thumbs/cars1_videothumb_05_be_your.jpg" type="single" description="Cars' Lightning McQueen trades barbs with Chick Hicks." id="but_youre_stupid">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00946_bvhe_car_but-youre-stupid_hi" progurl_low="bventertainment/xd00946_bvhe_car_but-youre-stupid_hi" id="but_youre_stupid" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_39|xd00946_bvhe_car_but-youre-stupid_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+
+		
+		<chapter logo="" title="Cars Clip: Too Close to Call" prettyName="too_close_to_call" thumbnail="images/video_thumbs/cars1_videothumb_06_too_close.jpg" type="single" description="Cars' Lightning McQueen struggles to reach the finish line. " id="too_close_to_call">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00937_bvhe_car_too-close-to-call_hi" progurl_low="bventertainment/xd00937_bvhe_car_too-close-to-call_hi" id="too_close_to_call" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_80|xd00937_bvhe_car_too-close-to-call_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+
+		
+		<chapter logo="" title="Cars Clip: Abandoned" prettyName="abandoned" thumbnail="images/video_thumbs/cars1_videothumb_07_abandoned.jpg" type="single" description="Lightning McQueen falls from a truck and lands in trouble." id="abandoned">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00938_bvhe_car_abandoned_hi" progurl_low="bventertainment/xd00938_bvhe_car_abandoned_hi" id="abandoned" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_99|xd00938_bvhe_car_abandoned_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+
+		
+		<chapter logo="" title="Cars Clip: Focus" prettyName="focus" thumbnail="images/video_thumbs/cars1_videothumb_08_focus.jpg" type="single" description="Join Cars' Lightning McQueen as he dreams of speed." id="focus">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00935_bvhe_car_focus_hi" progurl_low="bventertainment/xd00935_bvhe_car_focus_hi" id="focus" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_102|xd00935_bvhe_car_focus_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+
+		
+		<chapter logo="" title="Cars Clip: Tractor Tipping" prettyName="tractor_tipping" thumbnail="images/video_thumbs/cars1_videothumb_09_tractor.jpg" type="single" description="Cars' Mater takes Lightning McQueen tractor tipping." id="tractor_tipping">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00940_bvhe_car_tractor-tipping_hi" progurl_low="bventertainment/xd00940_bvhe_car_tractor-tipping_hi" id="tractor_tipping" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_58|xd00940_bvhe_car_tractor-tipping_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+
+		
+		<chapter logo="" title="Cars Clip: Only the Ferraris" prettyName="only_the_ferraris" thumbnail="images/video_thumbs/cars1_videothumb_10_ferraris.jpg" type="single" description="Luigi snubs Lightning since he doesn't know any Ferraris." id="only_the_ferraris">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00943_bvhe_car_only-the-ferraris_hi" progurl_low="bventertainment/xd00943_bvhe_car_only-the-ferraris_hi" id="only_the_ferraris" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_35|xd00943_bvhe_car_only-the-ferraris_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+
+		
+		<chapter logo="" title="Cars Clip: You Saw That?" prettyName="you_saw_that" thumbnail="images/video_thumbs/cars1_videothumb_11_you_saw.jpg" type="single" description="Sally invites Lightning McQueen to stay at the Cozy Cone." id="you_saw_that">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00945_bvhe_car_you-saw-that_hi" progurl_low="bventertainment/xd00945_bvhe_car_you-saw-that_hi" id="you_saw_that" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_52|xd00945_bvhe_car_you-saw-that_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+
+		
+		<chapter logo="" title="Cars Clip: At The Movies" prettyName="at_the_movies" thumbnail="images/video_thumbs/cars1_videothumb_12_at_movies.jpg" type="single" description="Pixar spoofs its movies, including Toy Story." id="at_the_movies">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00934_bvhe_car_pixar-spoofs_hi" progurl_low="bventertainment/xd00934_bvhe_car_pixar-spoofs_hi" id="at_the_movies" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_71|xd00934_bvhe_car_pixar-spoofs_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+
+		
+		<chapter logo="" title="Deleted Truck Stop Scene" prettyName="deleted_truck_stop_scene" thumbnail="images/video_thumbs/cars1_videothumb_13_deleted_scene.jpg" type="single" description="See the deleted truck stop scene from Disney-Pixar's CARS." id="deleted_truck_stop_scene">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00933_bvhe_car_deleted-truck-scene_hi" progurl_low="bventertainment/xd00933_bvhe_car_deleted-truck-scene_hi" id="deleted_truck_stop_scene" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_25|xd00933_bvhe_car_deleted-truck-scene_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+		
+		<chapter logo="" title="A Day in the Life" prettyName="day_in_the_life" thumbnail="images/video_thumbs/cars1_videothumb_14_day_in.jpg" type="single" description="A Day in the Life of a Producer" id="day_in_the_life">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00947_bvhe_car_life-of-producer_hi" progurl_low="bventertainment/xd00947_bvhe_car_life-of-producer_hi" id="day_in_the_life" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_193|xd00947_bvhe_car_life-of-producer_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+		</channel>
+	</playlist>
+	
+	
+	<playlist id="movies/cars_toons/videos">
+		<channel name="" prettyName="" id="">
+			<chapter logo="" title="El Materdor" prettyName="el_materdor" thumbnail="images/video_thumbs/carstoons_videothumb_06_el_matererdor.jpg" type="single" description="Brave El Materdor is Spain's prize bulldozer fighter." id="el_materdor">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures" progurl="xd05342_wdpm_car_el_materdor_hi" progurl_low="xd05342_wdpm_car_el_materdor_hi" id="el_materdor" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_196|xd05342_wdpm_car_el_materdor_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			<chapter logo="" title="Tokyo Mater" prettyName="tokyo_mater" thumbnail="images/video_thumbs/carstoons_videothumb_07_tokyo_mater.jpg" type="single" description="Mater's modified for a race to the top of Tokyo Tower." id="tokyo_mater">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures" progurl="xd05852_wdpm_car_tn_tokyo_mater_hi" progurl_low="xd05852_wdpm_car_tn_tokyo_mater_hi" id="tokyo_mater" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_196|xd05852_wdpm_car_tn_tokyo_mater_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Mater the Greater" prettyName="mater_the_greater" thumbnail="images/video_thumbs/carstoons_videothumb_08_mater_greater.jpg" type="single" description="Mater the Greater proves to be quite the stunt daredevil." id="mater_the_greater">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures" progurl="xd05340_wdpm_car_mater_great_hi" progurl_low="xd05340_wdpm_car_mater_great_hi" id="mater_the_greater" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_196|xd05340_wdpm_car_mater_great_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Rescue Squad Mater" prettyName="rescue_squad_mater" thumbnail="images/video_thumbs/carstoons_videothumb_09_rescue_mater.jpg" type="single" description="Fire truck Mater rescues Lightning McQueen in distress." id="rescue_squad_mater">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures" progurl="xd05341_wdpm_car_rescue_squad_mater_hi" progurl_low="xd05341_wdpm_car_rescue_squad_mater_hi" id="rescue_squad_mater" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_196|xd05341_wdpm_car_rescue_squad_mater_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Heavy Metal Mater" prettyName="heavy_metal_mater" thumbnail="images/video_thumbs/carstoons_videothumb_01_heavy_metal.jpg" type="single" description="Mater recalls his rock'n'roll career." id="heavy_metal_mater">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="disneydxd/xd08306_dol_car_tn_heavy_metal_mater_hi" progurl_low="disneydxd/xd08306_dol_car_tn_heavy_metal_mater_hi" id="heavy_metal_mater" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_196|xd08306_dol_car_tn_heavy_metal_mater_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Moon Mater Promo" prettyName="moon_mater_promo" thumbnail="images/video_thumbs/carstoons_videothumb_02_moon_mater.jpg" type="single" description="Mater blasts off for outer space." id="moon_mater_promo">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd09036_wdhe_car_tn_moon_mater_hi" progurl_low="bventertainment/xd09036_wdhe_car_tn_moon_mater_hi" id="moon_mater_promo" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_62|xd09036_wdhe_car_tn_moon_mater_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Monster Truck Mater" prettyName="monster_truck_mater" thumbnail="images/video_thumbs/carstoons_videothumb_03_monster_truck.jpg" type="single" description="Marvel at Mater's monster-truck-wrestling tale." id="monster_truck_mater">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="disneydxd/xd08307_dol_car_tn_monster_truck_mater_hi" progurl_low="disneydxd/xd08307_dol_car_tn_monster_truck_mater_hi" id="monster_truck_mater" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_241|xd08307_dol_car_tn_monster_truck_mater_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="CarsToon Collection Trailer" prettyName="carstoon_collection_trailer" thumbnail="images/video_thumbs/carstoons_videothumb_04_collection.jpg" type="single" description="Check out Mater's hilarious tall tales. " id="carstoon_collection_trailer">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd08520_wdhe_car_tn_castoon_dvd_trailer_hi" progurl_low="bventertainment/xd08520_wdhe_car_tn_castoon_dvd_trailer_hi" id="carstoon_collection_trailer" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_90|xd08520_wdhe_car_tn_castoon_dvd_trailer_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Mater Private Eye Promo" prettyName="mater_private_eye_promo" thumbnail="images/video_thumbs/carstoons_videothumb_05_private_eye.jpg" type="single" description="See what happens when Mater's on the case." id="mater_private_eye_promo">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd09035_wdhe_car_tn_mater_private_eye_hi" progurl_low="bventertainment/xd09035_wdhe_car_tn_mater_private_eye_hi" id="mater_private_eye_promo" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_61|xd09035_wdhe_car_tn_mater_private_eye_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+		</channel>
+	</playlist> 	
+	<playlist id="characters/mater/videos">
+		
+		<channel name="Mater Play list" prettyName="mater_play_list" id="mater_play_list">    
+			
+			<chapter logo="" title="Mater 360" prettyName="mater_360" thumbnail="images/video_thumbs/cars_360_videothumb_mater.jpg" type="single" description="" id="mater_360">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09528_wdpm_car_2_turntable_360_animation_mater_hi" progurl_low="xd09528_wdpm_car_2_turntable_360_animation_mater_hi" id="mater_360" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|xd09528_wdpm_car_2_turntable_360_animation_mater_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Heavy Metal Mater" prettyName="heavy_metal_mater" thumbnail="images/video_thumbs/carstoons_videothumb_01_heavy_metal.jpg" type="single" description="Mater recalls his rock'n'roll career." id="heavy_metal_mater">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="disneydxd/xd08306_dol_car_tn_heavy_metal_mater_hi" progurl_low="disneydxd/xd08306_dol_car_tn_heavy_metal_mater_hi" id="heavy_metal_mater" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_196|xd08306_dol_car_tn_heavy_metal_mater_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>    
+			
+			<chapter logo="" title="Monster Truck Mater" prettyName="monster_truck_mater" thumbnail="images/video_thumbs/carstoons_videothumb_03_monster_truck.jpg" type="single" description="Marvel at Mater's monster-truck-wrestling tale." id="monster_truck_mater">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="disneydxd/xd08307_dol_car_tn_monster_truck_mater_hi" progurl_low="disneydxd/xd08307_dol_car_tn_monster_truck_mater_hi" id="monster_truck_mater" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_241|xd08307_dol_car_tn_monster_truck_mater_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="CarsToon Collection Trailer" prettyName="carstoon_collection_trailer" thumbnail="images/video_thumbs/carstoons_videothumb_04_collection.jpg" type="single" description="Check out Mater's hilarious tall tales. " id="carstoon_collection_trailer">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd08520_wdhe_car_tn_castoon_dvd_trailer_hi" progurl_low="bventertainment/xd08520_wdhe_car_tn_castoon_dvd_trailer_hi" id="carstoon_collection_trailer" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_90|xd08520_wdhe_car_tn_castoon_dvd_trailer_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Trailer 2" prettyName="trailer-2" thumbnail="images/video_thumbs/cars2_trailer2.jpg" type="single" description="Ka-chow! Check out the international action in Cars 2." id="trailer-2">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09777_wdpm_car_2_trailer_2_hi" progurl_low="xd09777_wdpm_car_2_trailer_2_hi" id="trailer-2" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd09777_wdpm_car_2_trailer_2_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Trailer 1" prettyName="trailer" thumbnail="images/video_thumbs/cars_trailer.jpg" type="single" description="Get revved with a first look at Cars 2!" id="09174">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09174_wdpm_car_2_cars_2_trailer_hi" progurl_low="xd09174_wdpm_car_2_cars_2_trailer_sw" id="09174" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd09174_wdpm_car_2_cars_2_trailer_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Teaser Trailer" prettyName="teaser" thumbnail="images/video_thumbs/cars-2-teaser-lightning.jpg" type="single" description="Mater and Lightning McQueen return in Cars 2." id="08994">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd08992_wdpm_car_2_teaser_trailer_hi" progurl_low="xd08992_wdpm_car_2_teaser_trailer_sw" id="08994" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_35|xd08992_wdpm_car_2_teaser_trailer_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Movie Trailer" prettyName="cars_movie_trailer" thumbnail="images/video_thumbs/cars1_videothumb_01_trailer.jpg" type="single" description="Disney/Pixar's Cars hits Route 66 for Radiator Springs." id="cars_movie_trailer">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="disneydxd/xd00265_car_trailer2_704x304_700k" progurl_low="disneydxd/xd00265_car_trailer2_704x304_700k" id="cars_movie_trailer" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_148|xd00265_car_trailer2_704x304_700k" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: My Name's Mater " prettyName="my_names_mater" thumbnail="images/video_thumbs/cars1_videothumb_02_my_name.jpg" type="single" description="Mater introduces himself to an impounded Lightning McQueen." id="my_names_mater">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00942_bvhe_car_my-names-mater_hi" progurl_low="bventertainment/xd00942_bvhe_car_my-names-mater_hi" id="my_names_mater" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_53|xd00942_bvhe_car_my-names-mater_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Be Our Guest " prettyName="be_our_guest" thumbnail="images/video_thumbs/cars1_videothumb_03_be_our.jpg" type="single" description="In Radiator Springs, lost tourists are considered customers." id="be_our_guest">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00941_bvhe_car_extended-clip_hi" progurl_low="bventertainment/xd00941_bvhe_car_extended-clip_hi" id="be_our_guest" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_103|xd00941_bvhe_car_extended-clip_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Race with Doc" prettyName="race_with_doc" thumbnail="images/video_thumbs/cars1_videothumb_04_race_doc.jpg" type="single" description="Doc knows he doesn't have to go fast to beat Lightning. " id="race_with_doc">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00944_bvhe_car_race-with-doc_hi" progurl_low="bventertainment/xd00944_bvhe_car_race-with-doc_hi" id="race_with_doc" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_52|xd00944_bvhe_car_race-with-doc_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>           
+			
+			<chapter logo="" title="Cars Clip: Focus" prettyName="focus" thumbnail="images/video_thumbs/cars1_videothumb_08_focus.jpg" type="single" description="Join Cars' Lightning McQueen as he dreams of speed." id="focus">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00935_bvhe_car_focus_hi" progurl_low="bventertainment/xd00935_bvhe_car_focus_hi" id="focus" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_102|xd00935_bvhe_car_focus_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Tractor Tipping" prettyName="tractor_tipping" thumbnail="images/video_thumbs/cars1_videothumb_09_tractor.jpg" type="single" description="Cars' Mater takes Lightning McQueen tractor tipping." id="tractor_tipping">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00940_bvhe_car_tractor-tipping_hi" progurl_low="bventertainment/xd00940_bvhe_car_tractor-tipping_hi" id="tractor_tipping" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_58|xd00940_bvhe_car_tractor-tipping_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: At The Movies" prettyName="at_the_movies" thumbnail="images/video_thumbs/cars1_videothumb_12_at_movies.jpg" type="single" description="Pixar spoofs its movies, including Toy Story." id="at_the_movies">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00934_bvhe_car_pixar-spoofs_hi" progurl_low="bventertainment/xd00934_bvhe_car_pixar-spoofs_hi" id="at_the_movies" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_71|xd00934_bvhe_car_pixar-spoofs_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			
+		  </channel>
+	</playlist>
+	
+	<playlist id="characters/lightning/videos">
+		
+		<channel name="Lightning McQueen Play list" prettyName="lightning_play_list" id="lightning_play_list">
+			
+			<chapter logo="" title="Lightning 360" prettyName="lightning_360" thumbnail="images/video_thumbs/cars_360_videothumb_lightning.jpg" type="single" description="" id="lightning_360">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09527_wdpm_car_2_turntable_360_animation_lightning_hi" progurl_low="xd09527_wdpm_car_2_turntable_360_animation_lightning_hi" id="lightning_360" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|xd09527_wdpm_car_2_turntable_360_animation_lightning_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			  
+			<chapter logo="" title="Trailer 2" prettyName="trailer-2" thumbnail="images/video_thumbs/cars2_trailer2.jpg" type="single" description="Ka-chow! Check out the international action in Cars 2." id="trailer-2">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09777_wdpm_car_2_trailer_2_hi" progurl_low="xd09777_wdpm_car_2_trailer_2_hi" id="trailer-2" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd09777_wdpm_car_2_trailer_2_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Trailer 1" prettyName="trailer" thumbnail="images/video_thumbs/cars_trailer.jpg" type="single" description="Get revved with a first look at Cars 2!" id="09174">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09174_wdpm_car_2_cars_2_trailer_hi" progurl_low="xd09174_wdpm_car_2_cars_2_trailer_sw" id="09174" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd09174_wdpm_car_2_cars_2_trailer_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Teaser Trailer" prettyName="teaser" thumbnail="images/video_thumbs/cars-2-teaser-lightning.jpg" type="single" description="Mater and Lightning McQueen return in Cars 2." id="08994">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd08992_wdpm_car_2_teaser_trailer_hi" progurl_low="xd08992_wdpm_car_2_teaser_trailer_sw" id="08994" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_35|xd08992_wdpm_car_2_teaser_trailer_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Movie Trailer" prettyName="cars_movie_trailer" thumbnail="images/video_thumbs/cars1_videothumb_01_trailer.jpg" type="single" description="Disney/Pixar's Cars hits Route 66 for Radiator Springs." id="cars_movie_trailer">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="disneydxd/xd00265_car_trailer2_704x304_700k" progurl_low="disneydxd/xd00265_car_trailer2_704x304_700k" id="cars_movie_trailer" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_148|xd00265_car_trailer2_704x304_700k" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: My Name's Mater " prettyName="my_names_mater" thumbnail="images/video_thumbs/cars1_videothumb_02_my_name.jpg" type="single" description="Mater introduces himself to an impounded Lightning McQueen." id="my_names_mater">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00942_bvhe_car_my-names-mater_hi" progurl_low="bventertainment/xd00942_bvhe_car_my-names-mater_hi" id="my_names_mater" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_53|xd00942_bvhe_car_my-names-mater_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Be Our Guest " prettyName="be_our_guest" thumbnail="images/video_thumbs/cars1_videothumb_03_be_our.jpg" type="single" description="In Radiator Springs, lost tourists are considered customers." id="be_our_guest">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00941_bvhe_car_extended-clip_hi" progurl_low="bventertainment/xd00941_bvhe_car_extended-clip_hi" id="be_our_guest" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_103|xd00941_bvhe_car_extended-clip_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Race with Doc" prettyName="race_with_doc" thumbnail="images/video_thumbs/cars1_videothumb_04_race_doc.jpg" type="single" description="Doc knows he doesn't have to go fast to beat Lightning. " id="race_with_doc">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00944_bvhe_car_race-with-doc_hi" progurl_low="bventertainment/xd00944_bvhe_car_race-with-doc_hi" id="race_with_doc" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_52|xd00944_bvhe_car_race-with-doc_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: But You're Stupid" prettyName="but_youre_stupid" thumbnail="images/video_thumbs/cars1_videothumb_05_be_your.jpg" type="single" description="Cars' Lightning McQueen trades barbs with Chick Hicks." id="but_youre_stupid">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00946_bvhe_car_but-youre-stupid_hi" progurl_low="bventertainment/xd00946_bvhe_car_but-youre-stupid_hi" id="but_youre_stupid" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_39|xd00946_bvhe_car_but-youre-stupid_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Too Close to Call" prettyName="too_close_to_call" thumbnail="images/video_thumbs/cars1_videothumb_06_too_close.jpg" type="single" description="Cars' Lightning McQueen struggles to reach the finish line. " id="too_close_to_call">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00937_bvhe_car_too-close-to-call_hi" progurl_low="bventertainment/xd00937_bvhe_car_too-close-to-call_hi" id="too_close_to_call" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_80|xd00937_bvhe_car_too-close-to-call_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+
+
+			<chapter logo="" title="Cars Clip: Abandoned" prettyName="abandoned" thumbnail="images/video_thumbs/cars1_videothumb_07_abandoned.jpg" type="single" description="Lightning McQueen falls from a truck and lands in trouble." id="abandoned">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00938_bvhe_car_abandoned_hi" progurl_low="bventertainment/xd00938_bvhe_car_abandoned_hi" id="abandoned" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_99|xd00938_bvhe_car_abandoned_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+
+
+			<chapter logo="" title="Cars Clip: Focus" prettyName="focus" thumbnail="images/video_thumbs/cars1_videothumb_08_focus.jpg" type="single" description="Join Cars' Lightning McQueen as he dreams of speed." id="focus">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00935_bvhe_car_focus_hi" progurl_low="bventertainment/xd00935_bvhe_car_focus_hi" id="focus" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_102|xd00935_bvhe_car_focus_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+
+
+			<chapter logo="" title="Cars Clip: Tractor Tipping" prettyName="tractor_tipping" thumbnail="images/video_thumbs/cars1_videothumb_09_tractor.jpg" type="single" description="Cars' Mater takes Lightning McQueen tractor tipping." id="tractor_tipping">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00940_bvhe_car_tractor-tipping_hi" progurl_low="bventertainment/xd00940_bvhe_car_tractor-tipping_hi" id="tractor_tipping" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_58|xd00940_bvhe_car_tractor-tipping_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+
+
+			<chapter logo="" title="Cars Clip: Only the Ferraris" prettyName="only_the_ferraris" thumbnail="images/video_thumbs/cars1_videothumb_10_ferraris.jpg" type="single" description="Luigi snubs Lightning since he doesn't know any Ferraris." id="only_the_ferraris">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00943_bvhe_car_only-the-ferraris_hi" progurl_low="bventertainment/xd00943_bvhe_car_only-the-ferraris_hi" id="only_the_ferraris" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_35|xd00943_bvhe_car_only-the-ferraris_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: At The Movies" prettyName="at_the_movies" thumbnail="images/video_thumbs/cars1_videothumb_12_at_movies.jpg" type="single" description="Pixar spoofs its movies, including Toy Story." id="at_the_movies">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00934_bvhe_car_pixar-spoofs_hi" progurl_low="bventertainment/xd00934_bvhe_car_pixar-spoofs_hi" id="at_the_movies" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_71|xd00934_bvhe_car_pixar-spoofs_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+
+			<chapter logo="" title="Cars Clip: You Saw That?" prettyName="you_saw_that" thumbnail="images/video_thumbs/cars1_videothumb_11_you_saw.jpg" type="single" description="Sally invites Lightning McQueen to stay at the Cozy Cone." id="you_saw_that">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00945_bvhe_car_you-saw-that_hi" progurl_low="bventertainment/xd00945_bvhe_car_you-saw-that_hi" id="you_saw_that" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_52|xd00945_bvhe_car_you-saw-that_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+
+			
+			<chapter logo="" title="Heavy Metal Mater" prettyName="heavy_metal_mater" thumbnail="images/video_thumbs/carstoons_videothumb_01_heavy_metal.jpg" type="single" description="Mater recalls his rock'n'roll career." id="heavy_metal_mater">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="disneydxd/xd08306_dol_car_tn_heavy_metal_mater_hi" progurl_low="disneydxd/xd08306_dol_car_tn_heavy_metal_mater_hi" id="heavy_metal_mater" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_196|xd08306_dol_car_tn_heavy_metal_mater_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>	
+			
+			<chapter logo="" title="Monster Truck Mater" prettyName="monster_truck_mater" thumbnail="images/video_thumbs/carstoons_videothumb_03_monster_truck.jpg" type="single" description="Marvel at Mater's monster-truck-wrestling tale." id="monster_truck_mater">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="disneydxd/xd08307_dol_car_tn_monster_truck_mater_hi" progurl_low="disneydxd/xd08307_dol_car_tn_monster_truck_mater_hi" id="monster_truck_mater" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_241|xd08307_dol_car_tn_monster_truck_mater_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>	
+			
+			<chapter logo="" title="CarsToon Collection Trailer" prettyName="carstoon_collection_trailer" thumbnail="images/video_thumbs/carstoons_videothumb_04_collection.jpg" type="single" description="Check out Mater's hilarious tall tales. " id="carstoon_collection_trailer">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd08520_wdhe_car_tn_castoon_dvd_trailer_hi" progurl_low="bventertainment/xd08520_wdhe_car_tn_castoon_dvd_trailer_hi" id="carstoon_collection_trailer" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_90|xd08520_wdhe_car_tn_castoon_dvd_trailer_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+		  </channel>
+	</playlist>
+	
+	<playlist id="characters/holley/videos">
+		
+		<channel name="Holley Shiftwell Play list" prettyName="holley_play_list" id="holley_play_list">
+			
+			<chapter logo="" title="Holley Shiftwell 360" prettyName="holley_360" thumbnail="images/video_thumbs/cars_360_videothumb_holley.jpg" type="single" description="" id="holley_360">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09587_wdpm_car_2_360_turntable_animation_holley_hi" progurl_low="xd09587_wdpm_car_2_360_turntable_animation_holley_hi" id="holley_360" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|xd09587_wdpm_car_2_360_turntable_animation_holley_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			  
+			<chapter logo="" title="Trailer 2" prettyName="trailer-2" thumbnail="images/video_thumbs/cars2_trailer2.jpg" type="single" description="Ka-chow! Check out the international action in Cars 2." id="trailer-2">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09777_wdpm_car_2_trailer_2_hi" progurl_low="xd09777_wdpm_car_2_trailer_2_hi" id="trailer-2" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd09777_wdpm_car_2_trailer_2_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Trailer 1" prettyName="trailer" thumbnail="images/video_thumbs/cars_trailer.jpg" type="single" description="Get revved with a first look at Cars 2!" id="09174">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09174_wdpm_car_2_cars_2_trailer_hi" progurl_low="xd09174_wdpm_car_2_cars_2_trailer_sw" id="09174" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd09174_wdpm_car_2_cars_2_trailer_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+		  </channel>
+	</playlist>
+	
+	<playlist id="characters/finn/videos">
+		
+		<channel name="Finn McMissile Play list" prettyName="finn_play_list" id="finn_play_list">
+			  
+			<chapter logo="" title="Finn 360" prettyName="finn_360" thumbnail="images/video_thumbs/cars_360_videothumb_finn.jpg" type="single" description="" id="finn_360">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09529_wdpm_car_2_turntable_360_animation_finn_mcmissile_hi" progurl_low="xd09529_wdpm_car_2_turntable_360_animation_finn_mcmissile_hi" id="finn_360" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|xd09529_wdpm_car_2_turntable_360_animation_finn_mcmissile_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Trailer 2" prettyName="trailer-2" thumbnail="images/video_thumbs/cars2_trailer2.jpg" type="single" description="Ka-chow! Check out the international action in Cars 2." id="trailer-2">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09777_wdpm_car_2_trailer_2_hi" progurl_low="xd09777_wdpm_car_2_trailer_2_hi" id="trailer-2" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd09777_wdpm_car_2_trailer_2_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Trailer 1" prettyName="trailer" thumbnail="images/video_thumbs/cars_trailer.jpg" type="single" description="Get revved with a first look at Cars 2!" id="09174">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09174_wdpm_car_2_cars_2_trailer_hi" progurl_low="xd09174_wdpm_car_2_cars_2_trailer_sw" id="09174" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd09174_wdpm_car_2_cars_2_trailer_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+		  </channel>
+	</playlist>
+	
+	<playlist id="characters/luigi/videos">
+		
+		<channel name="Luigi Play list" prettyName="luigi_play_list" id="luigi_play_list">
+			  
+			<chapter logo="" title="Trailer 2" prettyName="trailer-2" thumbnail="images/video_thumbs/cars2_trailer2.jpg" type="single" description="Ka-chow! Check out the international action in Cars 2." id="trailer-2">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09777_wdpm_car_2_trailer_2_hi" progurl_low="xd09777_wdpm_car_2_trailer_2_hi" id="trailer-2" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd09777_wdpm_car_2_trailer_2_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Be Our Guest " prettyName="be_our_guest" thumbnail="images/video_thumbs/cars1_videothumb_03_be_our.jpg" type="single" description="In Radiator Springs, lost tourists are considered customers." id="be_our_guest">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00941_bvhe_car_extended-clip_hi" progurl_low="bventertainment/xd00941_bvhe_car_extended-clip_hi" id="be_our_guest" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_103|xd00941_bvhe_car_extended-clip_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Race with Doc" prettyName="race_with_doc" thumbnail="images/video_thumbs/cars1_videothumb_04_race_doc.jpg" type="single" description="Doc knows he doesn't have to go fast to beat Lightning. " id="race_with_doc">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00944_bvhe_car_race-with-doc_hi" progurl_low="bventertainment/xd00944_bvhe_car_race-with-doc_hi" id="race_with_doc" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_52|xd00944_bvhe_car_race-with-doc_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Abandoned" prettyName="abandoned" thumbnail="images/video_thumbs/cars1_videothumb_07_abandoned.jpg" type="single" description="Lightning McQueen falls from a truck and lands in trouble." id="abandoned">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00938_bvhe_car_abandoned_hi" progurl_low="bventertainment/xd00938_bvhe_car_abandoned_hi" id="abandoned" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_99|xd00938_bvhe_car_abandoned_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Focus" prettyName="focus" thumbnail="images/video_thumbs/cars1_videothumb_08_focus.jpg" type="single" description="Join Cars' Lightning McQueen as he dreams of speed." id="focus">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00935_bvhe_car_focus_hi" progurl_low="bventertainment/xd00935_bvhe_car_focus_hi" id="focus" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_102|xd00935_bvhe_car_focus_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Only the Ferraris" prettyName="only_the_ferraris" thumbnail="images/video_thumbs/cars1_videothumb_10_ferraris.jpg" type="single" description="Luigi snubs Lightning since he doesn't know any Ferraris." id="only_the_ferraris">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00943_bvhe_car_only-the-ferraris_hi" progurl_low="bventertainment/xd00943_bvhe_car_only-the-ferraris_hi" id="only_the_ferraris" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_35|xd00943_bvhe_car_only-the-ferraris_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: At The Movies" prettyName="at_the_movies" thumbnail="images/video_thumbs/cars1_videothumb_12_at_movies.jpg" type="single" description="Pixar spoofs its movies, including Toy Story." id="at_the_movies">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00934_bvhe_car_pixar-spoofs_hi" progurl_low="bventertainment/xd00934_bvhe_car_pixar-spoofs_hi" id="at_the_movies" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_71|xd00934_bvhe_car_pixar-spoofs_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>	
+			
+			<chapter logo="" title="Heavy Metal Mater" prettyName="heavy_metal_mater" thumbnail="images/video_thumbs/carstoons_videothumb_01_heavy_metal.jpg" type="single" description="Mater recalls his rock'n'roll career." id="heavy_metal_mater">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="disneydxd/xd08306_dol_car_tn_heavy_metal_mater_hi" progurl_low="disneydxd/xd08306_dol_car_tn_heavy_metal_mater_hi" id="heavy_metal_mater" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_196|xd08306_dol_car_tn_heavy_metal_mater_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+		  </channel>
+	</playlist>
+	
+	<playlist id="characters/fillmore/videos">
+		
+		<channel name="Luigi Play list" prettyName="fillmore_play_list" id="fillmore_play_list">
+			  
+			<chapter logo="" title="Trailer 2" prettyName="trailer-2" thumbnail="images/video_thumbs/cars2_trailer2.jpg" type="single" description="Ka-chow! Check out the international action in Cars 2." id="trailer-2">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09777_wdpm_car_2_trailer_2_hi" progurl_low="xd09777_wdpm_car_2_trailer_2_hi" id="trailer-2" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd09777_wdpm_car_2_trailer_2_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Movie Trailer" prettyName="cars_movie_trailer" thumbnail="images/video_thumbs/cars1_videothumb_01_trailer.jpg" type="single" description="Disney/Pixar's Cars hits Route 66 for Radiator Springs." id="cars_movie_trailer">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="disneydxd/xd00265_car_trailer2_704x304_700k" progurl_low="disneydxd/xd00265_car_trailer2_704x304_700k" id="cars_movie_trailer" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_148|xd00265_car_trailer2_704x304_700k" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Be Our Guest " prettyName="be_our_guest" thumbnail="images/video_thumbs/cars1_videothumb_03_be_our.jpg" type="single" description="In Radiator Springs, lost tourists are considered customers." id="be_our_guest">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00941_bvhe_car_extended-clip_hi" progurl_low="bventertainment/xd00941_bvhe_car_extended-clip_hi" id="be_our_guest" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_103|xd00941_bvhe_car_extended-clip_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Race with Doc" prettyName="race_with_doc" thumbnail="images/video_thumbs/cars1_videothumb_04_race_doc.jpg" type="single" description="Doc knows he doesn't have to go fast to beat Lightning. " id="race_with_doc">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00944_bvhe_car_race-with-doc_hi" progurl_low="bventertainment/xd00944_bvhe_car_race-with-doc_hi" id="race_with_doc" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_52|xd00944_bvhe_car_race-with-doc_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Abandoned" prettyName="abandoned" thumbnail="images/video_thumbs/cars1_videothumb_07_abandoned.jpg" type="single" description="Lightning McQueen falls from a truck and lands in trouble." id="abandoned">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00938_bvhe_car_abandoned_hi" progurl_low="bventertainment/xd00938_bvhe_car_abandoned_hi" id="abandoned" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_99|xd00938_bvhe_car_abandoned_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Focus" prettyName="focus" thumbnail="images/video_thumbs/cars1_videothumb_08_focus.jpg" type="single" description="Join Cars' Lightning McQueen as he dreams of speed." id="focus">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00935_bvhe_car_focus_hi" progurl_low="bventertainment/xd00935_bvhe_car_focus_hi" id="focus" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_102|xd00935_bvhe_car_focus_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: At The Movies" prettyName="at_the_movies" thumbnail="images/video_thumbs/cars1_videothumb_12_at_movies.jpg" type="single" description="Pixar spoofs its movies, including Toy Story." id="at_the_movies">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00934_bvhe_car_pixar-spoofs_hi" progurl_low="bventertainment/xd00934_bvhe_car_pixar-spoofs_hi" id="at_the_movies" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_71|xd00934_bvhe_car_pixar-spoofs_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>	
+
+		  </channel>
+	</playlist>
+	<playlist id="characters/sarge/videos">
+		
+		<channel name="Sarge Play list" prettyName="sarge_play_list" id="sarge_play_list">
+			  
+			<chapter logo="" title="Trailer 2" prettyName="trailer-2" thumbnail="images/video_thumbs/cars2_trailer2.jpg" type="single" description="Ka-chow! Check out the international action in Cars 2." id="trailer-2">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09777_wdpm_car_2_trailer_2_hi" progurl_low="xd09777_wdpm_car_2_trailer_2_hi" id="trailer-2" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd09777_wdpm_car_2_trailer_2_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Movie Trailer" prettyName="cars_movie_trailer" thumbnail="images/video_thumbs/cars1_videothumb_01_trailer.jpg" type="single" description="Disney/Pixar's Cars hits Route 66 for Radiator Springs." id="cars_movie_trailer">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="disneydxd/xd00265_car_trailer2_704x304_700k" progurl_low="disneydxd/xd00265_car_trailer2_704x304_700k" id="cars_movie_trailer" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_148|xd00265_car_trailer2_704x304_700k" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Be Our Guest " prettyName="be_our_guest" thumbnail="images/video_thumbs/cars1_videothumb_03_be_our.jpg" type="single" description="In Radiator Springs, lost tourists are considered customers." id="be_our_guest">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00941_bvhe_car_extended-clip_hi" progurl_low="bventertainment/xd00941_bvhe_car_extended-clip_hi" id="be_our_guest" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_103|xd00941_bvhe_car_extended-clip_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Race with Doc" prettyName="race_with_doc" thumbnail="images/video_thumbs/cars1_videothumb_04_race_doc.jpg" type="single" description="Doc knows he doesn't have to go fast to beat Lightning. " id="race_with_doc">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00944_bvhe_car_race-with-doc_hi" progurl_low="bventertainment/xd00944_bvhe_car_race-with-doc_hi" id="race_with_doc" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_52|xd00944_bvhe_car_race-with-doc_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Abandoned" prettyName="abandoned" thumbnail="images/video_thumbs/cars1_videothumb_07_abandoned.jpg" type="single" description="Lightning McQueen falls from a truck and lands in trouble." id="abandoned">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00938_bvhe_car_abandoned_hi" progurl_low="bventertainment/xd00938_bvhe_car_abandoned_hi" id="abandoned" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_99|xd00938_bvhe_car_abandoned_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Focus" prettyName="focus" thumbnail="images/video_thumbs/cars1_videothumb_08_focus.jpg" type="single" description="Join Cars' Lightning McQueen as he dreams of speed." id="focus">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00935_bvhe_car_focus_hi" progurl_low="bventertainment/xd00935_bvhe_car_focus_hi" id="focus" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_102|xd00935_bvhe_car_focus_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: At The Movies" prettyName="at_the_movies" thumbnail="images/video_thumbs/cars1_videothumb_12_at_movies.jpg" type="single" description="Pixar spoofs its movies, including Toy Story." id="at_the_movies">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00934_bvhe_car_pixar-spoofs_hi" progurl_low="bventertainment/xd00934_bvhe_car_pixar-spoofs_hi" id="at_the_movies" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_71|xd00934_bvhe_car_pixar-spoofs_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>	
+
+		  </channel>
+	</playlist>
+	
+	<playlist id="characters/mack/videos">
+		
+		<channel name="Mack Play list" prettyName="mack_play_list" id="mack_play_list">
+			  
+			<chapter logo="" title="Trailer 2" prettyName="trailer-2" thumbnail="images/video_thumbs/cars2_trailer2.jpg" type="single" description="Ka-chow! Check out the international action in Cars 2." id="trailer-2">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09777_wdpm_car_2_trailer_2_hi" progurl_low="xd09777_wdpm_car_2_trailer_2_hi" id="trailer-2" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd09777_wdpm_car_2_trailer_2_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Movie Trailer" prettyName="cars_movie_trailer" thumbnail="images/video_thumbs/cars1_videothumb_01_trailer.jpg" type="single" description="Disney/Pixar's Cars hits Route 66 for Radiator Springs." id="cars_movie_trailer">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="disneydxd/xd00265_car_trailer2_704x304_700k" progurl_low="disneydxd/xd00265_car_trailer2_704x304_700k" id="cars_movie_trailer" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_148|xd00265_car_trailer2_704x304_700k" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Abandoned" prettyName="abandoned" thumbnail="images/video_thumbs/cars1_videothumb_07_abandoned.jpg" type="single" description="Lightning McQueen falls from a truck and lands in trouble." id="abandoned">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00938_bvhe_car_abandoned_hi" progurl_low="bventertainment/xd00938_bvhe_car_abandoned_hi" id="abandoned" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_99|xd00938_bvhe_car_abandoned_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Focus" prettyName="focus" thumbnail="images/video_thumbs/cars1_videothumb_08_focus.jpg" type="single" description="Join Cars' Lightning McQueen as he dreams of speed." id="focus">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00935_bvhe_car_focus_hi" progurl_low="bventertainment/xd00935_bvhe_car_focus_hi" id="focus" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_102|xd00935_bvhe_car_focus_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: At The Movies" prettyName="at_the_movies" thumbnail="images/video_thumbs/cars1_videothumb_12_at_movies.jpg" type="single" description="Pixar spoofs its movies, including Toy Story." id="at_the_movies">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00934_bvhe_car_pixar-spoofs_hi" progurl_low="bventertainment/xd00934_bvhe_car_pixar-spoofs_hi" id="at_the_movies" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_71|xd00934_bvhe_car_pixar-spoofs_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>	
+
+		  </channel>
+	</playlist>
+	
+	<playlist id="characters/sally/videos">
+		
+		<channel name="Sally Play list" prettyName="sally_play_list" id="sally_play_list">
+			  
+			<chapter logo="" title="Trailer 2" prettyName="trailer-2" thumbnail="images/video_thumbs/cars2_trailer2.jpg" type="single" description="Ka-chow! Check out the international action in Cars 2." id="trailer-2">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09777_wdpm_car_2_trailer_2_hi" progurl_low="xd09777_wdpm_car_2_trailer_2_hi" id="trailer-2" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd09777_wdpm_car_2_trailer_2_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Movie Trailer" prettyName="cars_movie_trailer" thumbnail="images/video_thumbs/cars1_videothumb_01_trailer.jpg" type="single" description="Disney/Pixar's Cars hits Route 66 for Radiator Springs." id="cars_movie_trailer">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="disneydxd/xd00265_car_trailer2_704x304_700k" progurl_low="disneydxd/xd00265_car_trailer2_704x304_700k" id="cars_movie_trailer" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_148|xd00265_car_trailer2_704x304_700k" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Be Our Guest " prettyName="be_our_guest" thumbnail="images/video_thumbs/cars1_videothumb_03_be_our.jpg" type="single" description="In Radiator Springs, lost tourists are considered customers." id="be_our_guest">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00941_bvhe_car_extended-clip_hi" progurl_low="bventertainment/xd00941_bvhe_car_extended-clip_hi" id="be_our_guest" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_103|xd00941_bvhe_car_extended-clip_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Race with Doc" prettyName="race_with_doc" thumbnail="images/video_thumbs/cars1_videothumb_04_race_doc.jpg" type="single" description="Doc knows he doesn't have to go fast to beat Lightning. " id="race_with_doc">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00944_bvhe_car_race-with-doc_hi" progurl_low="bventertainment/xd00944_bvhe_car_race-with-doc_hi" id="race_with_doc" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_52|xd00944_bvhe_car_race-with-doc_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: At The Movies" prettyName="at_the_movies" thumbnail="images/video_thumbs/cars1_videothumb_12_at_movies.jpg" type="single" description="Pixar spoofs its movies, including Toy Story." id="at_the_movies">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00934_bvhe_car_pixar-spoofs_hi" progurl_low="bventertainment/xd00934_bvhe_car_pixar-spoofs_hi" id="at_the_movies" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_71|xd00934_bvhe_car_pixar-spoofs_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>	
+			
+			<chapter logo="" title="Cars Clip: You Saw That?" prettyName="you_saw_that" thumbnail="images/video_thumbs/cars1_videothumb_11_you_saw.jpg" type="single" description="Sally invites Lightning McQueen to stay at the Cozy Cone." id="you_saw_that">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00945_bvhe_car_you-saw-that_hi" progurl_low="bventertainment/xd00945_bvhe_car_you-saw-that_hi" id="you_saw_that" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_52|xd00945_bvhe_car_you-saw-that_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+				</chapter>
+			
+
+		  </channel>
+	</playlist>
+	
+	<playlist id="characters/ramone/videos">
+		
+		<channel name="Ramone Play list" prettyName="ramone_play_list" id="ramone_play_list">
+			  
+			<chapter logo="" title="Cars Movie Trailer" prettyName="cars_movie_trailer" thumbnail="images/video_thumbs/cars1_videothumb_01_trailer.jpg" type="single" description="Disney/Pixar's Cars hits Route 66 for Radiator Springs." id="cars_movie_trailer">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="disneydxd/xd00265_car_trailer2_704x304_700k" progurl_low="disneydxd/xd00265_car_trailer2_704x304_700k" id="cars_movie_trailer" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_148|xd00265_car_trailer2_704x304_700k" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Be Our Guest " prettyName="be_our_guest" thumbnail="images/video_thumbs/cars1_videothumb_03_be_our.jpg" type="single" description="In Radiator Springs, lost tourists are considered customers." id="be_our_guest">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00941_bvhe_car_extended-clip_hi" progurl_low="bventertainment/xd00941_bvhe_car_extended-clip_hi" id="be_our_guest" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_103|xd00941_bvhe_car_extended-clip_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Race with Doc" prettyName="race_with_doc" thumbnail="images/video_thumbs/cars1_videothumb_04_race_doc.jpg" type="single" description="Doc knows he doesn't have to go fast to beat Lightning. " id="race_with_doc">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00944_bvhe_car_race-with-doc_hi" progurl_low="bventertainment/xd00944_bvhe_car_race-with-doc_hi" id="race_with_doc" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_52|xd00944_bvhe_car_race-with-doc_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Abandoned" prettyName="abandoned" thumbnail="images/video_thumbs/cars1_videothumb_07_abandoned.jpg" type="single" description="Lightning McQueen falls from a truck and lands in trouble." id="abandoned">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00938_bvhe_car_abandoned_hi" progurl_low="bventertainment/xd00938_bvhe_car_abandoned_hi" id="abandoned" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_99|xd00938_bvhe_car_abandoned_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Focus" prettyName="focus" thumbnail="images/video_thumbs/cars1_videothumb_08_focus.jpg" type="single" description="Join Cars' Lightning McQueen as he dreams of speed." id="focus">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00935_bvhe_car_focus_hi" progurl_low="bventertainment/xd00935_bvhe_car_focus_hi" id="focus" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_102|xd00935_bvhe_car_focus_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: At The Movies" prettyName="at_the_movies" thumbnail="images/video_thumbs/cars1_videothumb_12_at_movies.jpg" type="single" description="Pixar spoofs its movies, including Toy Story." id="at_the_movies">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00934_bvhe_car_pixar-spoofs_hi" progurl_low="bventertainment/xd00934_bvhe_car_pixar-spoofs_hi" id="at_the_movies" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_71|xd00934_bvhe_car_pixar-spoofs_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>	
+
+		  </channel>
+	</playlist>
+	
+	<playlist id="characters/flo/videos">
+		
+		<channel name="Flo Play list" prettyName="flo_play_list" id="flo_play_list">
+			 
+			<chapter logo="" title="Trailer 2" prettyName="trailer-2" thumbnail="images/video_thumbs/cars2_trailer2.jpg" type="single" description="Ka-chow! Check out the international action in Cars 2." id="trailer-2">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09777_wdpm_car_2_trailer_2_hi" progurl_low="xd09777_wdpm_car_2_trailer_2_hi" id="trailer-2" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd09777_wdpm_car_2_trailer_2_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			 
+			<chapter logo="" title="Cars Movie Trailer" prettyName="cars_movie_trailer" thumbnail="images/video_thumbs/cars1_videothumb_01_trailer.jpg" type="single" description="Disney/Pixar's Cars hits Route 66 for Radiator Springs." id="cars_movie_trailer">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="disneydxd/xd00265_car_trailer2_704x304_700k" progurl_low="disneydxd/xd00265_car_trailer2_704x304_700k" id="cars_movie_trailer" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_148|xd00265_car_trailer2_704x304_700k" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Be Our Guest " prettyName="be_our_guest" thumbnail="images/video_thumbs/cars1_videothumb_03_be_our.jpg" type="single" description="In Radiator Springs, lost tourists are considered customers." id="be_our_guest">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00941_bvhe_car_extended-clip_hi" progurl_low="bventertainment/xd00941_bvhe_car_extended-clip_hi" id="be_our_guest" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_103|xd00941_bvhe_car_extended-clip_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Race with Doc" prettyName="race_with_doc" thumbnail="images/video_thumbs/cars1_videothumb_04_race_doc.jpg" type="single" description="Doc knows he doesn't have to go fast to beat Lightning. " id="race_with_doc">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00944_bvhe_car_race-with-doc_hi" progurl_low="bventertainment/xd00944_bvhe_car_race-with-doc_hi" id="race_with_doc" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_52|xd00944_bvhe_car_race-with-doc_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Abandoned" prettyName="abandoned" thumbnail="images/video_thumbs/cars1_videothumb_07_abandoned.jpg" type="single" description="Lightning McQueen falls from a truck and lands in trouble." id="abandoned">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00938_bvhe_car_abandoned_hi" progurl_low="bventertainment/xd00938_bvhe_car_abandoned_hi" id="abandoned" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_99|xd00938_bvhe_car_abandoned_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Focus" prettyName="focus" thumbnail="images/video_thumbs/cars1_videothumb_08_focus.jpg" type="single" description="Join Cars' Lightning McQueen as he dreams of speed." id="focus">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00935_bvhe_car_focus_hi" progurl_low="bventertainment/xd00935_bvhe_car_focus_hi" id="focus" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_102|xd00935_bvhe_car_focus_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: At The Movies" prettyName="at_the_movies" thumbnail="images/video_thumbs/cars1_videothumb_12_at_movies.jpg" type="single" description="Pixar spoofs its movies, including Toy Story." id="at_the_movies">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00934_bvhe_car_pixar-spoofs_hi" progurl_low="bventertainment/xd00934_bvhe_car_pixar-spoofs_hi" id="at_the_movies" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_71|xd00934_bvhe_car_pixar-spoofs_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>	
+
+		  </channel>
+	</playlist>
+	
+	
+	
+	<playlist id="characters/sheriff/videos">
+		
+		<channel name="Sheriff Play list" prettyName="sheriff_play_list" id="sheriff_play_list">
+			 
+			<chapter logo="" title="Trailer 2" prettyName="trailer-2" thumbnail="images/video_thumbs/cars2_trailer2.jpg" type="single" description="Ka-chow! Check out the international action in Cars 2." id="trailer-2">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09777_wdpm_car_2_trailer_2_hi" progurl_low="xd09777_wdpm_car_2_trailer_2_hi" id="trailer-2" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd09777_wdpm_car_2_trailer_2_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			 
+			<chapter logo="" title="Cars Movie Trailer" prettyName="cars_movie_trailer" thumbnail="images/video_thumbs/cars1_videothumb_01_trailer.jpg" type="single" description="Disney/Pixar's Cars hits Route 66 for Radiator Springs." id="cars_movie_trailer">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="disneydxd/xd00265_car_trailer2_704x304_700k" progurl_low="disneydxd/xd00265_car_trailer2_704x304_700k" id="cars_movie_trailer" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_148|xd00265_car_trailer2_704x304_700k" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: My Name's Mater " prettyName="my_names_mater" thumbnail="images/video_thumbs/cars1_videothumb_02_my_name.jpg" type="single" description="Mater introduces himself to an impounded Lightning McQueen." id="my_names_mater">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00942_bvhe_car_my-names-mater_hi" progurl_low="bventertainment/xd00942_bvhe_car_my-names-mater_hi" id="my_names_mater" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_53|xd00942_bvhe_car_my-names-mater_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Be Our Guest " prettyName="be_our_guest" thumbnail="images/video_thumbs/cars1_videothumb_03_be_our.jpg" type="single" description="In Radiator Springs, lost tourists are considered customers." id="be_our_guest">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00941_bvhe_car_extended-clip_hi" progurl_low="bventertainment/xd00941_bvhe_car_extended-clip_hi" id="be_our_guest" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_103|xd00941_bvhe_car_extended-clip_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Race with Doc" prettyName="race_with_doc" thumbnail="images/video_thumbs/cars1_videothumb_04_race_doc.jpg" type="single" description="Doc knows he doesn't have to go fast to beat Lightning. " id="race_with_doc">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00944_bvhe_car_race-with-doc_hi" progurl_low="bventertainment/xd00944_bvhe_car_race-with-doc_hi" id="race_with_doc" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_52|xd00944_bvhe_car_race-with-doc_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Abandoned" prettyName="abandoned" thumbnail="images/video_thumbs/cars1_videothumb_07_abandoned.jpg" type="single" description="Lightning McQueen falls from a truck and lands in trouble." id="abandoned">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00938_bvhe_car_abandoned_hi" progurl_low="bventertainment/xd00938_bvhe_car_abandoned_hi" id="abandoned" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_99|xd00938_bvhe_car_abandoned_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Focus" prettyName="focus" thumbnail="images/video_thumbs/cars1_videothumb_08_focus.jpg" type="single" description="Join Cars' Lightning McQueen as he dreams of speed." id="focus">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00935_bvhe_car_focus_hi" progurl_low="bventertainment/xd00935_bvhe_car_focus_hi" id="focus" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_102|xd00935_bvhe_car_focus_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: At The Movies" prettyName="at_the_movies" thumbnail="images/video_thumbs/cars1_videothumb_12_at_movies.jpg" type="single" description="Pixar spoofs its movies, including Toy Story." id="at_the_movies">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00934_bvhe_car_pixar-spoofs_hi" progurl_low="bventertainment/xd00934_bvhe_car_pixar-spoofs_hi" id="at_the_movies" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_71|xd00934_bvhe_car_pixar-spoofs_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>	
+
+		  </channel>
+	</playlist>
+	
+	
+	<playlist id="characters/lizzie/videos">
+		
+		<channel name="Lizzie Play list" prettyName="lizzie_play_list" id="lizzie_play_list">
+			 
+			<chapter logo="" title="Trailer 2" prettyName="trailer-2" thumbnail="images/video_thumbs/cars2_trailer2.jpg" type="single" description="Ka-chow! Check out the international action in Cars 2." id="trailer-2">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09777_wdpm_car_2_trailer_2_hi" progurl_low="xd09777_wdpm_car_2_trailer_2_hi" id="trailer-2" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd09777_wdpm_car_2_trailer_2_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			 
+			<chapter logo="" title="Cars Movie Trailer" prettyName="cars_movie_trailer" thumbnail="images/video_thumbs/cars1_videothumb_01_trailer.jpg" type="single" description="Disney/Pixar's Cars hits Route 66 for Radiator Springs." id="cars_movie_trailer">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="disneydxd/xd00265_car_trailer2_704x304_700k" progurl_low="disneydxd/xd00265_car_trailer2_704x304_700k" id="cars_movie_trailer" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_148|xd00265_car_trailer2_704x304_700k" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Be Our Guest " prettyName="be_our_guest" thumbnail="images/video_thumbs/cars1_videothumb_03_be_our.jpg" type="single" description="In Radiator Springs, lost tourists are considered customers." id="be_our_guest">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00941_bvhe_car_extended-clip_hi" progurl_low="bventertainment/xd00941_bvhe_car_extended-clip_hi" id="be_our_guest" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_103|xd00941_bvhe_car_extended-clip_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Race with Doc" prettyName="race_with_doc" thumbnail="images/video_thumbs/cars1_videothumb_04_race_doc.jpg" type="single" description="Doc knows he doesn't have to go fast to beat Lightning. " id="race_with_doc">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00944_bvhe_car_race-with-doc_hi" progurl_low="bventertainment/xd00944_bvhe_car_race-with-doc_hi" id="race_with_doc" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_52|xd00944_bvhe_car_race-with-doc_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: Focus" prettyName="focus" thumbnail="images/video_thumbs/cars1_videothumb_08_focus.jpg" type="single" description="Join Cars' Lightning McQueen as he dreams of speed." id="focus">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00935_bvhe_car_focus_hi" progurl_low="bventertainment/xd00935_bvhe_car_focus_hi" id="focus" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_102|xd00935_bvhe_car_focus_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+			<chapter logo="" title="Cars Clip: At The Movies" prettyName="at_the_movies" thumbnail="images/video_thumbs/cars1_videothumb_12_at_movies.jpg" type="single" description="Pixar spoofs its movies, including Toy Story." id="at_the_movies">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00934_bvhe_car_pixar-spoofs_hi" progurl_low="bventertainment/xd00934_bvhe_car_pixar-spoofs_hi" id="at_the_movies" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_71|xd00934_bvhe_car_pixar-spoofs_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>	
+
+		  </channel>
+	</playlist>
+	
+	<playlist id="characters/darrell/videos">
+		
+		<channel name="Darrell Cartrip Play list" prettyName="darrell_play_list" id="darrell_play_list">
+			 
+			<chapter logo="" title="Cars Clip: Too Close to Call" prettyName="too_close_to_call" thumbnail="images/video_thumbs/cars1_videothumb_06_too_close.jpg" type="single" description="Cars' Lightning McQueen struggles to reach the finish line. " id="too_close_to_call">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00937_bvhe_car_too-close-to-call_hi" progurl_low="bventertainment/xd00937_bvhe_car_too-close-to-call_hi" id="too_close_to_call" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_80|xd00937_bvhe_car_too-close-to-call_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+				</chapter>
+				
+			<chapter logo="" title="Cars Clip: Focus" prettyName="focus" thumbnail="images/video_thumbs/cars1_videothumb_08_focus.jpg" type="single" description="Join Cars' Lightning McQueen as he dreams of speed." id="focus">
+					<clip local="false" adcat="" audioart="">
+						<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="bventertainment/xd00935_bvhe_car_focus_hi" progurl_low="bventertainment/xd00935_bvhe_car_focus_hi" id="focus" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_102|xd00935_bvhe_car_focus_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+					</clip>
+			</chapter>
+			
+
+		  </channel>
+	</playlist>
+	
+	<playlist id="characters/shu/videos">
+		
+		<channel name="Shu Todoroki Play list" prettyName="shu_play_list" id="shu_play_list">
+			 
+			<chapter logo="" title="Shu Todoroki 360" prettyName="shu_360" thumbnail="images/video_thumbs/cars_360_videothumb_shu.jpg" type="single" description="" id="shu_360">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09636_wdpm_car_2_360_turntable_animation_shu_hi" progurl_low="xd09636_wdpm_car_2_360_turntable_animation_shu_hi" id="shu_360" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|xd09636_wdpm_car_2_360_turntable_animation_shu_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Trailer 2" prettyName="trailer-2" thumbnail="images/video_thumbs/cars2_trailer2.jpg" type="single" description="Ka-chow! Check out the international action in Cars 2." id="trailer-2">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09777_wdpm_car_2_trailer_2_hi" progurl_low="xd09777_wdpm_car_2_trailer_2_hi" id="trailer-2" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd09777_wdpm_car_2_trailer_2_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+		  </channel>
+	</playlist>
+	
+	<playlist id="characters/grem/videos">
+		
+		<channel name="Grem Play list" prettyName="grem_play_list" id="grem_play_list">
+			 
+			<chapter logo="" title="Grem 360" prettyName="grem_360" thumbnail="images/video_thumbs/cars_360_videothumb_grem.jpg" type="single" description="" id="grem_360">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09627_wdpm_car_2_360_turntable_animation_grem_hi" progurl_low="xd09627_wdpm_car_2_360_turntable_animation_grem_hi" id="grem_360" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|xd09627_wdpm_car_2_360_turntable_animation_grem_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Trailer 2" prettyName="trailer-2" thumbnail="images/video_thumbs/cars2_trailer2.jpg" type="single" description="Ka-chow! Check out the international action in Cars 2." id="trailer-2">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09777_wdpm_car_2_trailer_2_hi" progurl_low="xd09777_wdpm_car_2_trailer_2_hi" id="trailer-2" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd09777_wdpm_car_2_trailer_2_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+
+		  </channel>
+	</playlist>
+	
+	<playlist id="characters/acer/videos">
+		
+		<channel name="Acer Play list" prettyName="acer_play_list" id="acer_play_list">
+			 
+			<chapter logo="" title="Acer 360" prettyName="acer_360" thumbnail="images/video_thumbs/cars_360_videothumb_acer.jpg" type="single" description="" id="acer_360">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09628_wdpm_car_2_360_turntable_animation_acer_hi" progurl_low="xd09628_wdpm_car_2_360_turntable_animation_acer_hi" id="acer_360" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|xd09628_wdpm_car_2_360_turntable_animation_acer_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Trailer 2" prettyName="trailer-2" thumbnail="images/video_thumbs/cars2_trailer2.jpg" type="single" description="Ka-chow! Check out the international action in Cars 2." id="trailer-2">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09777_wdpm_car_2_trailer_2_hi" progurl_low="xd09777_wdpm_car_2_trailer_2_hi" id="trailer-2" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd09777_wdpm_car_2_trailer_2_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+
+		  </channel>
+	</playlist>
+	
+	<playlist id="characters/francesco/videos">
+		
+		<channel name="Francesco Bernoulli Play list" prettyName="francesco_play_list" id="francescor_play_list">
+			 
+			<chapter logo="" title="Francesco 360" prettyName="francesco_360" thumbnail="images/video_thumbs/cars_360_videothumb_francesco.jpg" type="single" description="" id="francesco_360">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09629_wdpm_car_2_360_turntable_animation_francesco_hi" progurl_low="xd09629_wdpm_car_2_360_turntable_animation_francesco_hi" id="francesco_360" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|xd09629_wdpm_car_2_360_turntable_animation_francesco_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Trailer 2" prettyName="trailer-2" thumbnail="images/video_thumbs/cars2_trailer2.jpg" type="single" description="Ka-chow! Check out the international action in Cars 2." id="trailer-2">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09777_wdpm_car_2_trailer_2_hi" progurl_low="xd09777_wdpm_car_2_trailer_2_hi" id="trailer-2" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd09777_wdpm_car_2_trailer_2_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+
+		  </channel>
+	</playlist>
+	
+	<playlist id="characters/professor/videos">
+		
+		<channel name="Professor Z Play list" prettyName="professor_play_list" id="professor_play_list">
+			 
+			<chapter logo="" title='Professor Z 360' prettyName="professor_360" thumbnail="images/video_thumbs/cars_360_videothumb_professorz.jpg" type="single" description="" id="professor_360">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09743_wdpm_car_2_360_turntable_animation_professor_z_hi" progurl_low="xd09743_wdpm_car_2_360_turntable_animation_professor_z_hi" id="professor_360" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="dol|fran-car_35|xd09743_wdpm_car_2_360_turntable_animation_professor_z_hi" mediaformat="flv" mediarating="off" aspectRatio="" />
+				</clip>
+			</chapter>
+			
+			<chapter logo="" title="Trailer 2" prettyName="trailer-2" thumbnail="images/video_thumbs/cars2_trailer2.jpg" type="single" description="Ka-chow! Check out the international action in Cars 2." id="trailer-2">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09777_wdpm_car_2_trailer_2_hi" progurl_low="xd09777_wdpm_car_2_trailer_2_hi" id="trailer-2" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd09777_wdpm_car_2_trailer_2_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+
+		  </channel>
+	</playlist>
+	
+	<playlist id="characters/siddeley/videos">
+		
+		<channel name="Siddeley Play list" prettyName="siddeley_play_list" id="siddeley_play_list">
+			 
+			<chapter logo="" title="Trailer 2" prettyName="trailer-2" thumbnail="images/video_thumbs/cars2_trailer2.jpg" type="single" description="Ka-chow! Check out the international action in Cars 2." id="trailer-2">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09777_wdpm_car_2_trailer_2_hi" progurl_low="xd09777_wdpm_car_2_trailer_2_hi" id="trailer-2" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd09777_wdpm_car_2_trailer_2_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+
+		  </channel>
+	</playlist>
+	
+</fsp>

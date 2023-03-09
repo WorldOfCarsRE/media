@@ -1,0 +1,296 @@
+/* - - - - - - - - - - - - - - - - - - - - - - */
+/* Disney|Pixar Cars Online Style Sheet               */
+/* - - - - - - - - - - - - - - - - - - - - - - */
+
+/* General Design */
+body {
+	color: #fff;
+	font: normal 11pt Helvetica, Arial, sans-serif;
+	text-align: center;
+	margin: 0;
+	padding: 0 0 20px;
+	background-color: #0c171b;
+}
+a {
+	color: #fff; text-decoration: underline;
+}
+a:hover {
+	/*text-decoration: none !important; border-bottom: 1px dotted; */
+}
+#wrapper {
+	/*background: url(images/car_g_bog_background.gif) repeat-x;*/
+	}
+form {
+	margin: 0 auto; padding: 0;
+	}
+.flowfix {
+	width: auto !important;
+	height: 1px !important;
+	margin: 0 !important;
+	padding: 0 !important;
+	clear: both !important;
+	display: block !important;
+	position: relative !important;
+	float: none !important;
+	overflow: hidden !important;
+}
+
+/* Chrome */
+#chrome {
+	background: url(http://a.dolimg.com/worldofcars/assets/graphic/gui/blog/car_g_bog_background.gif) repeat-x;
+}
+
+/* Main content */
+#contentwrapper {
+	/*width: 994px; margin: 0 auto;*/
+	}
+#maincontent {
+	background: url(http://a.dolimg.com/worldofcars/assets/graphic/gui/blog/car_g_bog_background.gif) repeat-x;
+}
+
+/* EMS */
+/* Begin Live Emergency Msg */
+#emsg {
+  width:993px;
+  height:auto;
+  font-family:verdana,arial;
+  background-color:green;
+  color:#ffe769;
+  padding-top:10px;
+  padding-bottom:10px;
+  text-align:center;
+  display: none;
+  visibility: hidden;
+}
+.emsg_inner {
+  padding-left:5px;
+  padding-right:5px;
+}
+.emsgB {
+  font-weight:bold;
+}
+/* End Live Emergency Msg */
+
+div.getflash { width: 920px; height: 700px; margin: auto; background: url(http://a.disney.go.com/fairies/pixiehollow/images/html/flashupdate.jpg) 50% 0 no-repeat; position: relative; }
+div.getflash a { width: 237px; height: 47px; display: block; position: absolute; top: 360px; left: 350px; border: 0 !important; }
+div.getflash a span { width: 1px; height: 1px; position: absolute; overflow: hidden; }
+
+
+/* Footer */
+p.tokenzone { margin: 0; padding: 20px 0; }
+p.tokenzone a { color: #b3f96d; }
+#footer h6 { color: #7e97d6; font-size: 1em; font-weight: bold; margin: 15px 0 -.5em; padding: 0; }
+#footer td, #footer td span, #footer td a { color: #7e97d6 !important; }
+#footer td a { font-size: .8em !important; }
+
+img{border:0}
+p{margin:10px 0; font: 12px verdana, arial, helvetica; color:#a1cfe6;}
+.divImg{text-align:center;margin:20px 0}
+#mainOffset{width:1px;height:600px;float:left}
+#mainOuter{width:730px;float:right}
+#main{padding:10px 40px}
+.main{padding:10px 40px}
+#mainTitle{margin-bottom:12px;font:bold 13pt helvetica,verdana,arial;color:#fff000}
+#nav{width:800px;margin:0 auto}
+#navCol1{width:2px;float:left;background-image:url(http://a.disney.go.com/fairies/pixiehollow/images/misc/spacerL.jpg);background-repeat:repeat-y}
+#navCol2{width:796px;float:left;background-color:#0c171b;text-align:left;padding:0 0 0 0}
+#navCol3{width:2px;float:left;background-image:url(http://a.disney.go.com/fairies/pixiehollow/images/misc/spacerR.png);background-repeat:repeat-y}
+#navL{height:532px;display:block}
+#navR{display:block}
+#navBtm{clear:both;padding-left:218px}
+#navBtm2{clear:both}
+
+#maincontent #blog,#navHdr{width:800px;height:184px;position:relative}
+#maincontent #hdr{position:absolute;top:0;left:0}
+#maincontent #btnBck{position:absolute;top:141px;left:-100px}
+#maincontent #btnBck2{position:absolute;top:288px;left:79px}
+#tikerbell{padding:20px 0 0 0}
+#blogMain{margin:10px 20px}
+.blg{clear:both}
+.blgSpcr{height:10px;clear:both}
+.blgSpcr2{clear:both;height:1px;font-size:2px}
+.blgImg{text-align:center}
+.blgHdr{clear:both;width:511px;height:20px;margin-top:0px;margin-bottom:0px;padding-bottom:0px;padding-top:0px;vertical-align:bottom;background-color:#662600}
+.blogTitle{margin-bottom:0px;font:bold 14px verdana;color:#fff88c}
+.blogBy{width:438px;float:left;text-align:left;font:bold 10px verdana,arial;color:#bd2827;margin:0 0 10px 0}
+.blogDate{width:292px;float:right;text-align:right;font:bold 10px verdana,arial;color:#fff88c;}
+.blogBdy{clear:both;padding:0 0 0 0; color:#a1cfe6;}
+.blogBdy p {line-height:18px;}
+.blogImg{float:left;margin:8px 10px 0 0}
+.boxTopL{width:10px;height:10px;background-image:url(http://a.disney.go.com/fairies/pixiehollow/images/misc/boxTopL.jpg);background-repeat:no-repeat}
+.boxTopR{width:10px;height:10px;background-image:url(http://a.disney.go.com/fairies/pixiehollow/images/misc/boxTopR.jpg);background-repeat:no-repeat}
+.boxBtmL{width:10px;height:10px;background-image:url(http://a.disney.go.com/fairies/pixiehollow/images/misc/boxBtmL.jpg);background-repeat:no-repeat}
+.boxBtmR{width:10px;height:10px;background-image:url(http://a.disney.go.com/fairies/pixiehollow/images/misc/boxBtmR.jpg);background-repeat:no-repeat}
+.boxTopMid{width:631px;background-color:#395988}
+.boxMid{width:651px;background-color:#395988}
+.boxBtmMid{width:631px;background-color:#395988}
+.blgUser{font:bold 12px verdana,arial;color:#fff88c;margin:0 0 10px 0}
+.blgModerator{font:bold italic 12px verdana,arial;color:#fff88c;margin:0 0 10px 0}
+.blgDate{font-size:10pt;margin-bottom:0}
+.blgInner{padding:0px 10px;font-weight:bold}
+.commentWrapper{margin: 0 auto 10px; width: 593px; border:1px solid #86949d; background-color:#182e36;}
+.commentWrapper .blgDate {margin-bottom:10px; padding-top:7px; padding-left:5px; padding-bottom:5px; height:15px; font: bold 10px verdana, arial, sans ; color:#ffffff; background-color:#385c73}
+.commentWrapper .blgDateModerator {margin-bottom:10px; padding-top:7px; padding-left:5px; padding-bottom:5px; height:15px; font: bold 10px verdana, arial, sans ; color:#000000; background-color:#efb547}
+.blgCommentTxt{padding:10px 80px 10px 60px;font-weight:bold}
+.blgLvComment{clear:both;font:bold 13pt helvetica,verdana,arial;color:#fff000;padding:50px 0 0 0;text-align:center}
+.blgNum{width:348px;height:17px;float:right;text-align:right;color:#f4edd3;font:9px verdana;margin-top:0px;margin-bottom:0px;padding:3px 3px 0 0 ;vertical-align:bottom;background-color:#662600;text-decoration:underline}
+.blgBdy{background-color:#cabd9a;padding:7px 8px}
+.news_divider{clear:both}
+.nickName1{width:225px;text-align:right}
+.nickName2{width:426px;text-align:left}
+.commentsLink {margin-bottom:12px;font:bold 10px verdana;color:#fff88c;}
+.comments1{width:225px;text-align:right}
+.comments2{width:426px;text-align:left}
+.blgNickname{font-weight:bold;color:#ffffff;padding:10px 10px 0 0}
+input.blgNicknameFld{}
+.blgUserComments{font-weight:bold;color:#ffffff;padding:10px 10px 0 0}
+textarea.blgUserCommentsFld{}
+.blgBtns{clear:both;padding:20px 0 0 0}
+.blgBtnPrv{width:305px;text-align:right;padding-right:20px;float:left}
+.blgBtnSub{width:304px;padding-left:20px;float:right}
+.preload{display:none;clear:both}
+#blgThanks{margin:50px 10px 10px 10px}
+
+
+/*category chooser*/
+.category-chooser{margin:-50%;width:100%}
+.rCategory li{font-size: 11pt;
+    display: inline;
+    list-style-type: none;
+    padding-right: 20px;
+}
+li.selected {
+    font-weight: bold;
+}
+
+div.next-previous{font-size:11pt;padding:10px 0;font-weight:bold}
+
+/*comments*/
+#commentAuthenticator{padding:10px 0 0 0; font-weight:bold;color:#4b0801}
+div.comments-form,.status{display:block;font-weight:bold;padding:0 0 10px 0}
+.statusTitle{font-weight:bold;font-size:14pt;text-align:center;color:#fff000;margin:0 0 10px 0}
+span.error{display:block;color:#c00;margin:15px 0;font-weight:bold}
+p.comment-details{font-size:10pt;color:#999}
+.comments-syntax-indicator{font-weight:bold}
+.comments-syntax-indicator span.enabled{background:transparent;color:green;font-style:italic}
+.comments-syntax-indicator span.disabled{background:transparent;color:red;font-style:italic}
+
+form ul{ position: relative; list-style: none; width: 100%; }
+form li{ line-height: 2em; margin: 0; padding: 1px 1px 6px 9px; }
+form li.focused{ background-color: #fff7c0 !important; }
+form li p{ font-size: 9px; line-height: 13px; color: #444; }
+form li{ display: inline-block; }
+form[id] li{ display: block; }
+form li div{ display: inline-block; }
+form[id] li div{ display: inline; }
+form .left{ float: left !important; margin: 0; }
+form .right{ float: right !important; margin: 0; }
+form .clear{ clear: both; }
+form li div p{ margin: 0 0 5px 0; }
+form div.left{ margin-right: 2px !important; }
+form div.left[class]{ margin-right: 4px !important; }
+form div.left img{ margin: 0 0 -2px 0; }
+form h2{ font-size: 1.8em; clear: left; }
+form .info{ display: inline-block; margin: 0 0 10px 0; padding: 0 0 4px 0; border-bottom: 1px dotted #ccc !important;}
+form .info[class]{ display: block; }
+form .info p{ font-size: 1em; line-height: 1.3em; margin: 0 0 8px 0; }
+textarea.textarea{margin-bottom: 1px;}
+textarea.textarea[class]{font-family: "Lucida Grande", Tahoma, "Trebuchet MS", Verdana, sans-serif;}
+select.select{ padding: 1px 0 0 0; margin: 1px 0 3px 0; }
+select.select[class]{ margin: 0; padding: 1px 0 1px 0; }
+form .small{ width: 70px; }
+form .medium{ width: 170px; }
+form .large, form textarea.textarea{ width: 340px; }
+form .tags{ width: 320px; }
+form textarea.small{ height: 5.5em; }
+form textarea.medium{ height: 10em; }
+form textarea.large{ height: 20em; }
+.choices input{ width: 200px; margin-right: 3px; }
+.choices ol{ margin: 10px 0 0 0; }
+.choices[class] ol{ margin: 0 !important; }
+.choices img{ margin: 0 0 1px 0; }
+fieldset ol li{ display: list-item !important; margin: 0 5px 2px 3px !important; padding: 0 !important; list-style: inside decimal; }
+input.button, button { width: 6em; padding: 2px 2px 0 0; /* fix for IE */ }
+/* revert to normal for Firefox */
+li>input.button, li>button, input.button>input.button, button>button { padding: 2px; }
+label.desc{
+    margin: 4px 0 3px 0;
+    border: 0;
+    color: #444;
+    font-size: 1em;
+    line-height: 1.3em;
+    display: block;
+    font-weight: bold;
+}
+input.text, input.number, input.url, input.email, input.password, input.file,
+textarea.textarea, select.select{
+    font-size: 1.2em;
+    border-top: 1px solid #7c7c7c;
+    border-left: 1px solid #c3c3c3;
+    border-right: 1px solid #c3c3c3;
+    border-bottom: 1px solid #ddd;
+    color: #333;
+}
+input.text, input.number, input.url, input.email, input.password, input.file{ padding: 2px; }
+input.currency{ text-align: right; }
+input.checkbox, input.radio{
+    display: block;
+    line-height: 1.4em;
+    margin: 8px 0 0 3px;
+    width: 13px;
+    height: 13px;
+}
+input.focus, textarea.focus { background: #ffd; color: #000; }
+label.choice{
+    display: block;
+    line-height: 1.4em;
+    margin: -19px 0 0 25px;
+    padding: 4px 0 5px 0;
+    color: #444;
+    width: 80%;
+}
+
+
+/*-------------------------------------------------------------
+Basic theme styles
+--------------------------------------------------------------*/
+
+h1 {
+  font-size:200%;
+  color:#CC9933;
+}
+h2, .comments-head {
+    color:#CC9933;
+    font-size:90%;
+    font-weight:bold;
+    border-bottom:1px dotted #666;
+    text-transform:uppercase;
+    letter-spacing: .2em;
+    margin-top: .5em;
+}
+h1.weblogName {
+    text-align:center;
+}
+p.weblogDescription {
+    text-align: center;
+}
+div.dayTitle {
+    color:#CC9933;
+    font-size:90%;
+    text-transform:uppercase;
+    border-bottom:1px dotted #666;
+}
+
+/* layout ----------------------------------------------- */
+
+.content_wrapper {
+    width: 80%;
+    float: left;
+}
+.content {
+    padding: 0em 2em 2em 2em;
+}
+.rightbar_wrapper {
+    width: 20%;
+    float: right;
+}

@@ -1,0 +1,261 @@
+/* TODO ---------------------------------------------------/
+/help/frequently-asked-questions/
+	- Content BG gradient
+/help/contact-us/
+	- Unclickable modules
+/* -------------------------------------------------------*/
+
+/* PNG Fix -----------------------------------------------*/
+h1,
+.account_mod,
+.bug,
+.cancel_membership_mod,
+#carousel,
+.character,
+.chat-bubble,
+/*.contact_mod,*/
+.com-module,
+#DIMGFlashUpgradePromo,
+#header_play,
+.img_left_cap,
+.img_right_cap,
+.jcarousel-next,
+.jcarousel-prev,
+#page_content,
+#page_header,
+#report_a_bug input,
+#report_a_bug textarea,
+#subnav_bg,
+.tips_wrap div,
+#whats_new,
+#woc_logo a {
+	behavior: url(/js/iepngfix.htc);
+}
+/* -------------------------------------------------------*/
+
+/* Common ------------------------------------------------*/
+#frame_footer { /* Red side bars extend beyond footer. This can be integrated to base css. */
+	font-size: 1px;
+	line-height: 1px;
+}
+
+.account_mod, #cancel_membership .cancel_membership_mod {
+
+}
+
+#blk_alpha{
+	position:absolute;
+}
+/* -------------------------------------------------------*/
+
+/* / -----------------------------------------------------*/
+#homepage #dashboard {
+	position: absolute;
+	z-index: 10;
+	background: url( ../images/backgrounds/dashboard.gif );
+}
+
+#homepage .dash_left, #homepage .dash_right {
+	z-index: 9;
+}
+
+#homepage #dashboard #whats_new_header .page_arrow {
+	position: relative;
+}
+
+#homepage #dashboard #whats_new_header #whats_new {
+	margin-right: 20px;
+}
+/* -------------------------------------------------------*/
+
+/* /community/ -------------------------------------------*/
+#community .community_promo { /* ie6 bug doubles margin on floated block elements. */
+	display: inline; 
+	margin-right: 45px;
+}
+
+#community .read_more { /* ie6 bug doubles margin on floated block elements. */
+	display: inline;
+}
+/* -------------------------------------------------------*/
+
+/* /community/downloads/ ---------------------------------*/
+#downloads .mod, #downloads .mod ul, #downloads .mod li { /* ie6 bug doubles margin on floated block elements. */
+	position: relative;
+
+	display: inline;
+}
+/* -------------------------------------------------------*/
+
+/* /community/screenshots/ -------------------------------*/
+#screenshots #img_wrap .arrow_left, #img_wrap .arrow_right {
+	background: url( ../images/ui/arrows.gif ) left top no-repeat;
+}
+
+#screenshots #img_wrap .arrow_right {
+	background-position: -37px 0;
+}
+
+#screenshots #img_wrap .arrow_left:hover {
+	background-position: -74px 0;
+}
+
+#screenshots #img_wrap .arrow_right:hover {
+	background-position: -111px 0;
+}
+
+#screenshots .img_inner {
+	background: url( ../images/backgrounds/img_grad_repeat.gif ) left bottom repeat-x;
+}
+
+#screenshots .img_left_cap {
+	background: url( ../images/backgrounds/img_left.gif ) left top no-repeat;
+}
+
+#screenshots .img_right_cap {
+	background: url( ../images/backgrounds/img_right.gif ) left top no-repeat;
+}
+
+#screenshots .jcarousel-prev-horizontal , #screenshots .jcarousel-next-horizontal {
+	background-position: -241px 0px;
+}
+
+#screenshots .jcarousel-prev-horizontal {
+	background-position: -221px 0px;
+}
+
+#screenshots .jcarousel-next-horizontal:hover {
+	background-position: -280px 0px;
+}
+
+#screenshots .jcarousel-next-horizontal:active {
+	background-position: -280px 0px;
+}
+
+#screenshots .jcarousel-next-disabled-horizontal,
+#screenshots .jcarousel-next-disabled-horizontal:hover,
+#screenshots .jcarousel-next-disabled-horizontal:active {
+	background-position: -320px 0px;
+}
+
+#screenshots .jcarousel-prev-horizontal:hover {
+	background-position: -260px 0px;
+}
+
+#screenshots .jcarousel-prev-disabled-horizontal,
+#screenshots .jcarousel-prev-disabled-horizontal:hover,
+#screenshots .jcarousel-prev-disabled-horizontal:active {
+	background-position: -300px 0px;
+}
+
+
+
+/* -------------------------------------------------------*/
+
+/* /membership/ -----------------------------------------*/
+#membership #page_content { /* ie6 bug doubles margin on floated block elements. */
+	display: inline; 
+}
+/* -------------------------------------------------------*/
+
+/* Parents -----------------------------------------------*/
+#parents #page_content {
+	behavior: none; /* png filter is blocking clicks to content under it */
+}
+/* -------------------------------------------------------*/
+
+/* /about_game/ ------------------------------------------*/
+#about_game #sub_content {
+	width: auto; /* width 100% makes sub_content too wide and misplacing page title */
+	clear: none; /* clear both makes child modules not stack horizontally */
+}
+
+#about_game #page_content {
+	behavior: none; /* png filter is blocking clicks to content under it */
+}
+/* -------------------------------------------------------*/
+
+/* /help/tips-tricks/ ------------------------------------*/
+.tips-tricks-detail #paginator {
+	left: 62px;
+	bottom: 30px;
+}
+/* -------------------------------------------------------*/
+
+/* /help/frequently-asked-questions/ ---------------------*/
+#faq .emb_right {
+	right: 5px;
+}
+
+#faq .faq_count {
+	margin-bottom: 0px;
+}
+
+#faq .faq_mod .top_right, #faq .faq_mod .bottom_right {
+	right: -1px !important;
+	background-position: top left;
+}
+
+#faq .faq_nav {
+	display: inline;
+}
+
+#faq .stretch_holder {
+	display: inline;
+}
+
+#faq .stretch_holder .stretch_wrap {
+	padding-bottom: 3px;
+}
+/* -------------------------------------------------------*/
+
+/* /help/contact-us/* ------------------------------------*/
+.form_contact textarea { /* ie6 scrolls background image when text box fills. This can be integrated into base css */
+	background-attachment: fixed;
+}
+/* -------------------------------------------------------*/
+
+/* /help/contact-us/report-a-bug/ ------------------------*/
+#report_a_bug .col_left, #report_a_bug .col_right {
+	position: relative;
+}
+
+#report_a_bug .form_contact #submit_btn {
+	display: inline;
+}
+/* -------------------------------------------------------*/
+
+/* /community/fan-art/ -----------------------------------*/
+#fan_art #carousel{
+	background:url(../images/backgrounds/fan-art-mod.gif) center top no-repeat;
+}
+
+.jcarousel-prev-horizontal ,.jcarousel-next-horizontal {
+	background: transparent url(../images/ui/arrows.gif) no-repeat -37px top;
+}
+.jcarousel-prev-horizontal {
+	background: transparent url(../images/ui/arrows.gif) no-repeat left top;
+}
+
+.jcarousel-next-horizontal:hover {
+	background: transparent url(../images/ui/arrows.gif) no-repeat -111px 0;
+}
+
+.jcarousel-next-horizontal:active {
+	background: transparent url(../images/ui/arrows.gif) no-repeat -111px 0;
+}
+
+.jcarousel-next-disabled-horizontal,
+.jcarousel-next-disabled-horizontal:hover,
+.jcarousel-next-disabled-horizontal:active {
+	background: transparent url(../images/ui/arrows.gif) no-repeat -185px 0;
+}
+.jcarousel-prev-horizontal:hover {
+	background: transparent url(../images/ui/arrows.gif) no-repeat -74px 0;
+}
+.jcarousel-prev-disabled-horizontal,
+.jcarousel-prev-disabled-horizontal:hover,
+.jcarousel-prev-disabled-horizontal:active {
+	background: transparent url(../images/ui/arrows.gif) no-repeat -148px 0;
+}
+/* -------------------------------------------------------*/

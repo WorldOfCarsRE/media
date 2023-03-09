@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parks>
+	<page id="tickets" default="get_tickets">
+		<title>GET TICKETS</title>
+
+
+		<page id="get_tickets" preload="get_tickets" template="com.disney.cars2.templates.TicketsTemplate" offset='{"x":0,"y":190}'>    
+			
+			<promo id="movie_rewards" image_id="movie_rewards" target="_blank" href="http://www.disneymovierewards.go.com/articles/movietickets?cmp=dmov_dmr_syn_cars2micro" /> 
+			<nav id="cars-characters" href="http://showtimes.disneypictures.com/cars-2/" offset='{"x":265,"y":140}' tracking_id="exit_car_2_ticketpage_gettickets" >FIND TICKETS</nav>
+				<desc ><![CDATA[<font color="#c8fdff" size="16">GET REVVED UP WITH CARS 2!</font><br>Earn up to 300 points when you see Disney/Pixar Cars 2 in theaters!  <a href='event:{"link":"http://www.disneymovierewards.go.com/articles/movietickets?cmp=dmov_dmr_syn_cars2micro","target":"_blank"}' target='_blank' >Find out how.</a>]]>
+				</desc>
+				<form>
+					<rewards_copy xpos="40" ypos="240" size="14" align="left" width="550" font="myriad_bold_condensed" clr="0xFFFFFF"><![CDATA[<font color="#c8fdff" size="14">Save Your Tickets. Earn Points. Get Cool Stuff.</font><br>A total of up to 4 ticket stubs per Disney Movie Rewards member account for tickets to Disney/Pixar Cars 2 may be redeemed for 50 points each.  Offer good 6/24/11 through 9/30/11.</a>]]></rewards_copy>
+					<form_input id="zip_code" xpos="300" ypos="20">
+						<title xpos="-200" ypos="0" size="18" align="right" width="200" font="myriad_bold_condensed" clr="0xc8fdff">ENTER ZIP/POSTAL CODE</title>
+						<default xpos="10" ypos="0" size="18" align="left" width="90" height="25" font="myriad_bold" clr="0x000000">XXXXXX</default>
+					</form_input>
+					<form_input id="city" xpos="300" ypos="60" >
+						<title xpos="-200" ypos="0" size="18" align="right" width="200" font="myriad_bold_condensed" clr="0xc8fdff">OR CITY & STATE</title>
+						<default xpos="10" ypos="0" size="18" align="left" width="150" height="25" font="myriad_bold" clr="0x000000">XXXXXX</default>
+					</form_input>
+					<form_pulldown id="state" xpos="470" ypos="58" width="100" moveX="0" moveY="100" dropdownWidth="100">
+						<title size="18"></title>
+						<default size="18">CHOOSE</default>
+						<option value="">--</option>
+	                    <option value="AL">AL</option>
+	                    <option value="AK">AK</option>
+	                    <option value="AZ">AZ</option>
+	                    <option value="AR">AR</option>
+	                    <option value="CA">CA</option>
+	                    <option value="CO">CO</option>
+	                    <option value="CT">CT</option>
+	                    <option value="DE">DE</option>
+	                    <option value="FL">FL</option>
+	                    <option value="GA">GA</option>
+	                    <option value="HI">HI</option>
+	                    <option value="ID">ID</option>
+	                    <option value="IL">IL</option>
+	                    <option value="IN">IN</option>
+	                    <option value="IA">IA</option>
+	                    <option value="KS">KS</option>
+	                    <option value="KY">KY</option>
+	                    <option value="LA">LA</option>
+	                    <option value="ME">ME</option>
+	                    <option value="MD">MD</option>
+	                    <option value="MA">MA</option>
+	                    <option value="MI">MI</option>
+	                    <option value="MN">MN</option>
+	                    <option value="MS">MS</option>
+	                    <option value="MO">MO</option>
+	                    <option value="MT">MT</option>
+	                    <option value="NE">NE</option>
+	                    <option value="NV">NV</option>
+	                    <option value="NH">NH</option>
+	                    <option value="NJ">NJ</option>
+	                    <option value="NM">NM</option>
+	                    <option value="NY">NY</option>
+	                    <option value="NC">NC</option>
+	                    <option value="ND">ND</option>
+	                    <option value="OH">OH</option>
+	                    <option value="OK">OK</option>
+	                    <option value="OR">OR</option>
+	                    <option value="PA">PA</option>
+	                    <option value="RI">RI</option>
+	                    <option value="SC">SC</option>
+	                    <option value="SD">SD</option>
+	                    <option value="TN">TN</option>
+	                    <option value="TX">TX</option>
+	                    <option value="UT">UT</option>
+	                    <option value="VT">VT</option>
+	                    <option value="VA">VA</option>
+	                    <option value="WA">WA</option>
+	                    <option value="DC">DC</option>
+	                    <option value="WV">WV</option>
+	                    <option value="WI">WI</option>
+	                    <option value="WY">WY</option>
+	                    <option value="--">--</option>
+	                    <option value="AB">AB</option>
+	                    <option value="BC">BC</option>
+	                    <option value="MB">MB</option>
+	                    <option value="NB">NB</option>
+	                    <option value="NL">NL</option>
+	                    <option value="NS">NS</option>
+	                    <option value="NT">NT</option>
+	                    <option value="NU">NU</option>
+	                    <option value="ON">ON</option>
+	                    <option value="PE">PE</option>
+	                    <option value="QC">QC</option>
+	                    <option value="SK">SK</option>
+	                    <option value="YT">YT</option>
+					</form_pulldown>
+					<form_pulldown id="date" xpos="300" ypos="100" width="100" moveX="0" moveY="100" dropdownWidth="100">
+						<title xpos="-200" ypos="0" size="18" align="right" width="200" font="myriad_bold_condensed" clr="0xc8fdff">SELECT DATE</title>
+						<default size="18"></default>
+						<option value="2011-06-24">Jun 24, 2011</option>
+						<option value="2011-06-25">Jun 25, 2011</option>
+						<option value="2011-06-26">Jun 26, 2011</option>
+						<option value="2011-06-27">Jun 27, 2011</option>
+						<option value="2011-06-28">Jun 28, 2011</option>
+						<option value="2011-06-29">Jun 29, 2011</option>
+						<option value="2011-06-30">Jun 30, 2011</option>
+						<option value="2011-07-01">Jul 1, 2011</option>
+						<option value="2011-07-02">Jul 2, 2011</option>
+						<option value="2011-07-03">Jul 3, 2011</option>
+						<option value="2011-07-04">Jul 4, 2011</option>
+						<option value="2011-07-05">Jul 5, 2011</option>
+						<option value="2011-07-06">Jul 6, 2011</option>
+						<option value="2011-07-07">Jul 7, 2011</option>
+						<option value="2011-07-08">Jul 8, 2011</option>
+						<option value="2011-07-09">Jul 9, 2011</option>
+					</form_pulldown>
+				</form>
+		</page>
+	</page>
+	<images>
+		<!-- id="featured" is a hard coded value. The DetailTemplate looks to see if a feature has been loaded. If it has, it will display it, if not, the text box will fill the space. -->
+		<!--<img id="featured" location="get_tickets" src="promos/tickets/tickets_featured.jpg" /> --> 
+		<img id="movie_rewards" location="get_tickets" src="promos/tickets/movie_rewards_logo.png" />
+	</images>
+</parks>

@@ -1,0 +1,13 @@
+<track>
+	<segments>
+		<segment id='1' type='5' parents='' children='3' px='362,346,526,542' py='254,68,68,254' mx='358,349,528,538' my='209,104,100,212' racingPoint='354,161' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='3000.000,3000.000,3000.000' />
+		</segment>
+		<segment id='3' type='5' parents='1' children='4' px='542,526,710,720' py='254,68,61,257' mx='538,528,712,719' my='212,100,101,229' racingPoint='534,161' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='3000.000,3000.000,3000.000' />
+		</segment>
+		<segment id='4' type='5' parents='3' children='' px='720,710,910,920' py='257,61,51,247' mx='719,712,913,917' my='229,101,117,182' racingPoint='715,159' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='3000.000,3000.000,3000.000' />
+		</segment>
+	</segments>
+</track>

@@ -1,0 +1,10 @@
+.sys-logo {
+	cursor: pointer;
+}
+
+.sys-header,
+.sys-frame-bottom,
+.sys-logo,
+.hom-dashboard {
+	behavior: url(/js/iepngfix.htc);
+}

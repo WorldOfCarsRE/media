@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<videos>
+	<page id="videos">
+		<title>VIDEOS</title>
+		<nav id="full_playlist">VIEW FULL PLAYLIST</nav>
+		<nav id="close_playlist">CLOSE FULL PLAYLIST</nav>
+	</page>
+	
+	<playlists>
+		<playlist id="movies/cars2/videos">
+			<title>CARS 2 VIDEOS</title>
+		</playlist>
+		<playlist id="tv-spots">
+			<title>TV SPOTS</title>
+		</playlist>
+		<playlist id="character_360s">
+			<title>CHARACTER 360'S</title>
+		</playlist>
+		<playlist id="video-games">
+			<title>CARS 2 VIDEO GAME</title>
+		</playlist>
+		<playlist id="related-videos">
+			<title>CARS 2 RELATED VIDEOS</title>
+		</playlist>
+		<playlist id="movies/cars_toons/videos">
+			<title>CARS TOONS VIDEOS</title>
+		</playlist>
+		<playlist id="movies/cars/videos">
+			<title>CARS VIDEOS</title>
+		</playlist>
+		<playlist id="characters/mater/videos">
+			<title>MATER</title>
+		</playlist>
+		<playlist id="characters/lightning/videos">
+			<title>LIGHTNING MCQUEEN</title>
+		</playlist>
+		<playlist id="characters/holley/videos">
+			<title>HOLLEY SHIFTWELL</title>
+		</playlist>
+		<playlist id="characters/finn/videos">
+			<title>FINN McMISSILE</title>
+		</playlist>
+		<playlist id="characters/luigi/videos">
+			<title>LUIGI</title>
+		</playlist>
+		<playlist id="characters/grem/videos">
+			<title>GREM</title>
+		</playlist>
+		<playlist id="characters/fillmore/videos">
+			<title>FILLMORE</title>
+		</playlist>
+		<playlist id="characters/acer/videos">
+			<title>ACER</title>
+		</playlist>
+		<playlist id="characters/sarge/videos">
+			<title>SARGE</title>
+		</playlist>
+		<playlist id="characters/mack/videos">
+			<title>MACK</title>
+		</playlist>
+		<playlist id="characters/professor/videos">
+			<title>PROFESSOR Z</title>
+		</playlist>
+		<playlist id="characters/sally/videos">
+			<title>SALLY</title>
+		</playlist>
+		<playlist id="characters/ramone/videos">
+			<title>RAMONE</title>
+		</playlist>
+		<playlist id="characters/francesco/videos">
+			<title>FRANCESCO BERNOULLI</title>
+		</playlist>
+		<playlist id="characters/flo/videos">
+			<title>FLO</title>
+		</playlist>
+		<playlist id="characters/sheriff/videos">
+			<title>SHERIFF</title>
+		</playlist>
+		<playlist id="characters/lizzie/videos">
+			<title>LIZZIE</title>
+		</playlist>
+		<playlist id="characters/darrell/videos">
+			<title>DARRELL CARTRIP</title>
+		</playlist>
+		<playlist id="characters/shu/videos">
+			<title>SHU TODOROKI</title>
+		</playlist>
+		<playlist id="characters/siddeley/videos">
+			<title>SIDDELEY</title>
+		</playlist>
+	</playlists>
+	
+	<images>
+		<img id="vp" location="videos" src="swfs/videoplayerShell_MPF.swf" />
+		<img id="vp_main_config" location="videos" src="xml/vidplayer/config_main_vp.xml" />
+		<img id="vp_sponsor_config" location="videos" src="xml/vidplayer/config_sponsor_vp.xml" />
+		<img id="vp_playlist" location="videos" src="xml/vidplayer/playlist_main_vp.xml" />
+	</images>
+</videos>

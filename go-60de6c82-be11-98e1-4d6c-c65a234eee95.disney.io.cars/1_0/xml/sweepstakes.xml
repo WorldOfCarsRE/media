@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sweeps>
+	<page id="sweepstakes" default="sweeps">
+		<title>PRODUCTS</title>
+		
+		<nav id="sweeps" href="sweepstakes/sweeps">SWEEPS</nav>
+		<nav id="briefing" href="sweepstakes/briefing">BRIEFING</nav>
+		<nav id="prizes" href="sweepstakes/prizes">PRIZES</nav>
+		<nav id="rules" href="sweepstakes/rules">RULES</nav>
+		<nav id="statefarm" href="sweepstakes/statefarm" width="220">AGENT HEADQUARTERS</nav>
+		
+		<page id="sweeps" preload="sweepstakes/home" template="com.disney.cars2.sweepstakes.SweepsHome">
+			<nav id="enter_sweeps" href="registration"><![CDATA[<font size="17">ENTER SWEEPSTAKES</font>]]></nav>
+			<!--<nav id="enter_sweeps" target="_blank" href="http://disney.review.eprize.com/cars2/rti_enter?BLUE=TEST,%7bfe570%7d,Danfow,44,1967"><![CDATA[<font size="18">ENTER SWEEPSTAKES</font>]]></nav>-->
+			<nav id="event_photos" href="http://www.statefarmphotos.com/agents" target="_blank">RETRIEVE YOUR EVENT PHOTOS HERE</nav>
+			<sub><![CDATA[<font size="11">Enter for a chance to win one of 18,000 prizes from<br>the 18,000 State Farm&#174; agents on a mission for you.<br></font>]]></sub>
+			<desc><![CDATA[<font size="13"><textformat leading="-2">Come back daily for chances to win or enter your sweepstakes codes for extra entries! </textformat></font>]]></desc>
+			<popup_text><![CDATA[<font size="11"><textformat leading="-2">Please make sure your popup blocker is disabled.</textformat></font>]]></popup_text>
+			
+			<page id="fineprint"><desc><![CDATA[<font color="#838383">Clicking on the Eshots link will take you away from Disney.com where different terms of use and privacy policy may apply.<br><textformat leading="-2">MANY WILL ENTER OR PLAY, FEW WILL WIN. NO PURCHASE OR PAYMENT NECESSARY. VOID IN QC AND WHERE PROHIBITED. Open to legal residents of the 50 United States (or D.C.) & Canadian Provinces of Alberta, New Brunswick & Ontario (excluding Quebec), 6 years or older. Promotion begins on 3/24/11 at 12:00:01 a.m. PT and ends 7/17/11 at 11:59:59 p.m. PT. To enter and for Official Rules, including odds and prize descriptions, visit <a href="../index.html#sweepstakes/rules" />disney.com/agents</a>.</textformat></font>]]></desc></page>
+		</page>
+		
+		<page id="briefing" preload="sweepstakes/briefing" template="com.disney.cars2.sweepstakes.SweepsDetail">
+			<title>BRIEFING</title>
+			<!--<nav id="enter" target="_blank" href="http://disney.review.eprize.com/cars2/rti_enter?BLUE=TEST,%7bfe570%7d,Danfow,44,1967">ENTER CODES</nav>-->
+			<nav id="enter" href="registration" width="180" location="_blank" >GET STARTED</nav>
+			
+			<desc><![CDATA[<img align="center" hspace="75" vspace="0" src='promos/sweepstakes/cars2_sweeps_briefing_ticket.jpg' />
+
+
+
+
+Mission 3 has begun! Advance your special agent training and experience the thrill of CARS 2 with the State Farm Agents on a Mission Sweepstakes. You could win one of 18,000 prizes, including the grand prize car!
+
+Your Assignment: Earn More Entries! Earn special agent codes by completing the following assignments:
+
+<font size="16" color="#c8fdff"><strong>Assignment #1</strong></font><br>Watch "Spy School: London" to improve your special agent skills and learn how to blend into your surroundings.<br>
+<font size="16" color="#c8fdff">Assignment #2</font><br>Test your special agent observation skills. Locate Agent Shiftwell, your local contact in London. She will be hiding in plain sight in the character carousel.<br>
+<font size="16" color="#c8fdff">Assignment #3</font><br>Fly into adventure and use your special agent skills to get supplies to Holley and Finn by playing Spy Aerial game on the Franchise site. 
+
+Bonus Assignment: Log in with your special agent name on your mobile phone to get the final secret code.
+
+Come back daily to enter! If you’ve found special agent codes, enter them by clicking Get Started. You can also login from your mobile phone to complete assignments and receive extra bonus entries for the grand prize!*
+
+First, make sure you register and receive your Special Agent name. Next you are ready to see if you've won one of the 18,000 spy-tastic prizes. Enter daily for more chances to win the grand prize car.
+
+The final London Phase of the sweepstakes ends July 17th so make sure to embark on the latest global adventure before then!
+
+Good luck agent! Don't forget, Cars 2 opens in theatres everywhere June 24th.
+
+(*You must have a mobile device with data capabilities as of March 24, 2011 to receive additional entries through this method)]]></desc>
+
+			<popup_text><![CDATA[<font size="11"><textformat leading="-2">Please make sure your popup blocker is disabled.</textformat></font>]]></popup_text>
+		</page>
+		
+		
+		
+		
+		
+		<page id="prizes" preload="sweepstakes/prizes" template="com.disney.cars2.sweepstakes.SweepsDetail">
+			<title>18,000 PRIZES</title>
+			<nav id="enter" href="registration">ENTER SWEEPSTAKES</nav>
+			<!--<nav id="enter" target="_blank" href="http://disney.review.eprize.com/cars2/rti_enter?BLUE=TEST,%7bfe570%7d,Danfow,44,1967">ENTER SWEEPSTAKES</nav>-->
+			
+			<desc><![CDATA[<textformat leading="0"><font color="#1be2eb">GRAND PRIZE:</font>
+<font size="12">Cadillac SRX ($50,000 ARV)</font>
+
+<font color="#1be2eb">INSTANT WIN PRIZES:</font>
+<font size="12">Inspiron&#8482; laptops
+Apple&#174; iPads
+Flip cameras 
+Night Vision Goggles 
+Walkie Talkies
+Spy Gear
+Apple&#174; iPod Shuffles 
+Cars video games
+Cars soundtracks
+Cars 1 DVDs
+Hollywood Movie Money gift codes
+Spy Voice Scramblers
+World of Cars Subscriptions
+Amazon.com&#174; gift codes</font>
+
+<font color="#aeaeae" size="8">MANY WILL ENTER OR PLAY, FEW WILL WIN. NO PURCHASE OR PAYMENT NECESSARY. VOID IN QC AND WHERE PROHIBITED. Open to legal residents of the 50 United States (or D.C.) & Canadian Provinces of Alberta, New Brunswick & Ontario (excluding Quebec), 6 years or older. Promotion begins on 3/24/11 at 12:00:01 a.m. PT and ends 7/17/11 at 11:59:59 p.m. PT. To enter and for Official Rules, including odds and prize descriptions, visit <a href="../index.html#sweepstakes/rules" />disney.com/agents</a>.</font></textformat>]]></desc>
+			<popup_text><![CDATA[<font size="11"><textformat leading="-2">Please make sure your popup blocker is disabled.</textformat></font>]]></popup_text>
+		</page>
+		
+		<page id="rules" preload="sweepstakes/rules" template="com.disney.cars2.sweepstakes.SweepsDetail">
+			<title>RULES</title>
+			<nav id="enter" href="registration">ENTER SWEEPSTAKES</nav>
+			<!--<nav id="enter" target="_blank" href="http://disney.review.eprize.com/cars2/rti_enter?BLUE=TEST,%7bfe570%7d,Danfow,44,1967">ENTER SWEEPSTAKES</nav>-->
+			
+			<desc><![CDATA[NO PURCHASE OR PAYMENT NECESSARY. A PURCHASE WILL NOT ENHANCE YOUR CHANCES OF WINNING. MANY WILL ENTER AND PLAY, FEW WILL WIN. 
+
+1.	Eligibility: Agents On A Mission Sweepstakes Promotion (the "Promotion") is only open to entrants who each are: (a) a natural person who is a legal resident of, and currently living in, one (1) of the fifty (50) United States or the District of Columbia & Canadian provinces of Alberta, New Brunswick & Ontario (excluding residents of Quebec); and (b) six (6) years of age or older at the time of entry. Each entrant must not be an employee or director, or IRS dependent, immediate family member or individual residing in the same household of, an employee or director of Disney Interactive Media Group, State Farm&#174; Mutual Automobile Insurance Company, State Farm&#174; independent contractor insurance and financial services agents, ePrize LLC, or their respective parent, subsidiary and affiliated companies, advertising, promotion, or production agencies, web masters and web suppliers. Void in Quebec and where prohibited by law and subject to all applicable federal, state, provincial, municipal, territorial and local laws and regulations. Any entry information provided by children under the age of thirteen (13) years will be used solely for the purposes of the Sweepstakes and will be destroyed immediately after its conclusion, in accordance with the requirements of the Children's Online Privacy Protection Act ("COPPA"). A prize won by an individual eighteen (18) years of age or older but who is considered a minor in the legal jurisdication in which he or she resides will be awarded in the name of his or her parent or legal guardian. Participation constitutes entrant's full and unconditional agreement to these official rules ("Official Rules") and Sponsor's and Administrator's decisions, which are final and binding in all matters related to the Promotion. Winning is contingent upon fulfilling all requirements set forth herein. The Promotion consists of a sweepstakes ("Sweepstakes") and an instant win game ("Instant Win Game").
+
+2.	Sponsor: Disney Interactive Media Group, 500 South Buena Vista Street, Burbank, CA 91521, U.S.A.
+
+3.	Administrator: ePrize, LLC, One ePrize Drive, Pleasant Ridge, MI 48069, U.S.A.
+
+4.	Timing: Promotion begins at 12:00:01 a.m. Pacific Time ("PT") on March 24, 2011 and ends 11:59:59 p.m. PT, July 17, 2011 ("Promotion Period"). 
+
+5.	How to Enter: During the Promotion Period, as a registered member ("Member") of Disney.com, you may enter by logging onto Disney.com/Agents ("Website"), logging in with your Member Name and Password and following the "How to Enter" instructions ("Online Entry"). If you are not a Member, you may become a Member for free by visiting the Website and registering by providing the requested information on the Registration Form through the link on the site: "Not registered?" Upon becoming a Member by registration, you may enter the Promotion by following the above instructions. Parent of a child under the age of thirteen (13) will be sent an email notifying him/her of the child's registration on Disney.com. No response by the Parent to the email is required for the child to enter; however, if the Parent does not want his/her child to register, Parent may click on a link in the email and complete the steps required to cancel the child's registration and delete the child's information within forty-eight (48) hours. Normal Internet access and usage charges imposed by your on-line service will apply. It is your sole responsibility to notify the Administrator if you or your Parent change email address ("Address"). To do so, go to http://register.go.com/go/memberservices/home, log into your Website account with your Member Name and Password, click on "Modify" and follow the instructions on how to change the Address. 
+ 
+You must also have a Red Reveal physical card or digital card (for the Instant Win Game) to play. Red Reveals are free. You will need a Red Reveal card to play the Instant Win Game. Red Reveals can be obtained at participating State Farm&#174; locations including select participating agent offices, the CARS 2 tour, select theaters and online or you can use a virtual Red Reveal after you register for the Promotion. During the Promotion Period, each day that you participate in the Promotion, you will automatically receive one (1) Sweepstakes entry and one (1) Instant Win Game play for that day. If you have a physical Red Reveal card, place it over the scrambled image on your monitor to reveal the hidden message; if you do not have a physical Red Reveal card, use your mouse to drag the virtual Red Reveal over the scrambled image. The Instant Win Game results will be instantly displayed. Entrants will be notified by e-mail within 72 hours if they are potential winners of the Instant Win Game and will be provided directions for validation. All potential winners are subject to verification before any prize will be awarded. Administrator is responsible for the functionality of the Instant Win Game.
+
+ALL POTENTIAL WINNERS ARE SUBJECT TO VERIFICATION BY SPONSOR OR ADMINISTRATOR, WHOSE DECISIONS ARE FINAL. AN ENTRANT IS NOT A WINNER OF ANY PRIZE, EVEN IF THE PROMOTION SHOULD SO INDICATE, UNLESS AND UNTIL ENTRANT'S ELIGIBILITY AND THE POTENTIAL WINNING PLAY/ENTRY HAS BEEN VERIFIED AND ENTRANT HAS BEEN NOTIFIED THAT VERIFICATION IS COMPLETE. SPONSOR WILL NOT ACCEPT SCREEN SHOTS OR OTHER EVIDENCE OF WINNING IN LIEU OF ITS VALIDATION PROCESS. ANY PLAY THAT OCCURS AFTER THE SYSTEM HAS FAILED FOR ANY REASON IS DEEMED A DEFECTIVE PLAY, IS VOID AND WILL NOT BE HONORED.
+
+Limit: Each entrant may enter the Sweepstakes and play the Instant Win Game one (1) time per day during the Promotion Period. Multiple entrants are not permitted to share the same e-mail address or Account. Any attempt by any entrant to obtain more than the stated number of entries/plays/Codes by using multiple/different e-mail addresses, identities, registrations and logins, or any other methods will void entrant's entries/plays and that entrant will be disqualified. Any use of any robotic, automatic, programmed or like entry methods will void all entries/plays affected by such methods and be deemed tampering. ATTEMPT BY ANY PERSON TO DELIBERATELY DAMAGE THE WEBSITE(S) OR UNDERMINE THE LEGITIMATE OPERATION OF THE PROMOTION IS IN VIOLATION OF CRIMINAL AND CIVIL LAWS AND IF SUCH AN ATTEMPT BE MADE, SPONSOR RESERVES THE RIGHT TO SEEK REMEDIES AND DAMAGES FROM ANY SUCH PERSON TO THE FULLEST EXTENT PERMITTED BY LAW, INCLUDING CRIMINAL PROSECUTION. 
+
+Additional Entries: Starting April 29, 2011 and ending July 17, 2011 you will be able to receive additional Sweepstakes entries by the following methods ("Additional Entries Phase"):
+
+a)	Participating in various missions (a "Mission"): During the Additional Entries Phase, you will be invited to participate in a variety of Missions to collect codes ("Codes") throughout the program on the Disney.Com online network, Facebook, Twitter, Parks & Resorts, Mobile or TWDC Broadcast media. After you obtain your Code visit Disney.com/Agents and follow the online instructions to enter the Code and you automatically will receive the specified number of additional entries (either 1, 2 or 5) based on the Code you enter during the Additional Entries Phase. 
+
+b)	Log in using your wireless mobile device (You must have a mobile device with data capabilities as of March 24, 2011 to receive additional entries through this method): During the Additional Entries Phase, log into the Website using your wireless mobile device. You will automatically receive one (1) additional entry into the Sweepstakes. You may receive one (1) additional entry per day through this method during the Additional Entries Phase.
+
+
+6.	Winner Selection & Requirements: The odds of winning the Sweepstakes prize depend upon the number of eligible entries received during the Promotion Period. The odds of winning an Instant Win Game prize depend on the number of prizes available divided by the number of eligible Instant Win Game plays 
+
+INSTANT WIN GAME: 17,999 random, computer-generated winning times, one (1) for each of the Instant Win Game prizes listed below will be generated during the Promotion Period.  If you are the first player to play the Instant Win Game at or after any one (1) of the randomly-generated times, you will be a potential instant winner of the prize indicated. 
+
+SWEEPSTAKES: Administrator is an independent judging organization whose decisions as to the administration and operation of the Sweepstakes and the selection of the potential winners are final and binding in all matters related to the Sweepstakes. Administrator will randomly select the potential Sweepstakes winner from all eligible entries received during the Promotion Period, on or around July 21, 2011.
+
+Each potential winner will be notified instantly during the applicable Game or by e-mail, mail and/or phone. If a potential winner cannot be contacted, fails to return any required documentation (if applicable – see Section 9 below) within the designated time, or is deemed ineligible or non-compliant with the Official Rules for any reason, the potential winner forfeits such prize. If a Canadian resident, the potential winner will be required to correctly answer a time-limited skill testing question without any assistance in order to be eligible to receive a prize. If a potential winner is a Canadian resident and the question is answered incorrectly, the prize will be forfeited. In the event that a potential winner of any prize valued at $25 or more is disqualified for any reason, Sponsor will award the applicable prize to an alternate winner by random drawing from among all remaining eligible entries, as time permits. In such cases where a prize is not accepted or forfeited, there will be up to three (3) alternate drawings, as necessary, after which the applicable prize if not accepted by an eligible winner, will not be awarded. There will be no alternate drawings for unclaimed Instant Win Game Prizes valued at $25 or less. Instant Win Game Prizes will be fulfilled 8-10 weeks following winner verification. 
+
+7.	 Prizes and Approximate Retail Values (ARVs): 
+
+a.	SWEEPSTAKES PRIZE: ONE (1) GRAND PRIZE: An all-new 2011 Cadillac SRX. Sponsor will determine all features of automobile including but not limited to color of exterior and interior, and all other features or upgrades will be allowed only if permitted by delivery dealer and paid for by winner. Winner must be a licensed driver and will be required to provide proof of insurance at time of delivery. Winner is responsible for title, license, registration, dealer preparation costs, auto insurance and other fees associated with prize. Winner must take delivery of prize from the automobile dealership designated by Sponsor,or such other location as the Sponsor may designate Approximate Retail Value ("ARV"): $50,000 USD. 
+ 
+b.	INSTANT WIN GAME PRIZES (randomly distributed throughout the Promotion Period):
+
+i.	FORTY (40) FIRST PRIZES: An Inspiron 17R laptop, all details determined by Sponsor in its sole discretion. ARV: $1,000 USD. 
+
+ii.	TWENTY (20) SECOND PRIZES: A 64 GB iPad. ARV: $700 USD. 
+
+iii.	TWENTY (20) THIRD PRIZES: A Flip camera. ARV: $250 USD. 
+
+iv.	FIFTY (50) FOURTH PRIZES: Night Vision Goggles. ARV: $100 USD. 
+
+v.	THIRTY (30) FIFTH PRIZES: Motorola 2-way radio Walkie Talkies. ARV: $80 USD.
+
+vi.	SEVENTY (70) SIXTH PRIZES: Spy Gear, fulfilled as a gift card to Best Buy. ARV: $50 USD.
+
+vii.	FOUR HUNDRED (400) SEVENTH PRIZES: An iPod Shuffle. ARV: $50 USD. 
+
+viii.	FIFTEEN (15) EIGHTH PRIZES: A Cars video game, 15 Xbox 360® console . ARV: $49.99 
+
+ix.	TWENTY-FOUR (24) NINTH PRIZES: A Cars video game, Nintendo DS™. ARV: $29.99
+
+x.	THIRTY (30) TENTH PRIZES: A Cars soundtrack. ARV: $25 USD.
+
+xi.	THREE HUNDRED (300) ELEVENTH PRIZES: A Cars 1 Bluray Combo pack. ARV: $49.00
+
+xii.	TEN THOUSAND (10,000) TWELFTH PRIZES: A Hollywood Movie Money gift code. ARV: $14 USD.
+
+xiii.	FIFTY (50) THIRTEENTH PRIZES: A Spy Voice Scrambler. ARV: $10 USD.
+
+xiv.	TWO HUNDRED (200) FOURTEENTH PRIZES: World of Cars Subscription Codes. ARV: $5 USD.
+
+xv.	SIX THOUSAND SEVEN HUNDRED FIFTY (6,750) FIFTEETH PRIZES: An Amazon.com gift code. ARV: $5 USD.
+
+Additional Terms and Conditions: Terms and conditions of gift cards and gift codes apply. The ARV of electronic prizes is subject to price fluctuations in the consumer marketplace based on, among other things, any gap in time between the date the ARV is estimated for purposes of these Official Rules and the date the prize is awarded or redeemed. The prizes may not be declined once awarded to and accepted by winner. The prizes may not be bartered, transferred, sold, or redeemed for cash value in whole or in part. Sponsor, in its sole discretion, reserves the right to substitute any listed prize for one of equal or greater value if the designated prize should become unavailable for any reason. Winners must pay all applicable taxes and fees for prizes accepted. TOTAL ARV OF ALL PRIZES for all winners: $332,069.60. KINECT, Xbox, Xbox 360, Xbox LIVE, and the Xbox logos are trademarks of the Microsoft group of companies and are used under license from Microsoft. Nintendo DS is a trademark of Nintendo. © 2006 Nintendo. (the copyright is only necessary if a pack shot is included in the marketing piece.)
+
+8.	Limitations on Liability: Entrants agree that Sponsor, State Farm&#174; Mutual Automobile Insurance Company, Administrator, and their respective parents, subsidiaries and affiliated companies, advertising and promotion agencies, and all of their respective officers, directors, employees, representatives and agents (collectively "Released Parties") will have no liability whatsoever, and shall be held harmless by entrants, for any injuries, claims, losses or damages of any kind to persons, including death, or property resulting in whole or in part, directly or indirectly, from acceptance, possession, misuse or use of any prize or participation in this Promotion, or entrant's failure to comply with the Official Rules. The Released Parties shall not be liable to any winner or any other person for failure to supply any prize(s) or any part thereof, by reason of any acts of God, any action(s), regulation(s), order(s) or request(s) by any governmental or quasi-governmental entity (whether or not the action(s), regulation(s), order(s) or request(s) prove(s) to be invalid), equipment failure, terrorist acts, earthquake, war, fire, flood, explosion, unusually severe weather, hurricane, embargo, labor dispute or strike (whether legal or illegal), labor or material shortage, transportation interruption of any kind, work slow-down, civil disturbance, insurrection, riot, or any other cause beyond the Released Parties' controlThe Released Parties are not responsible for illegible, lost, late, damaged, incomplete, misdirected, or stolen entries, Red Reveal cards or plays; or for typographical or other errors in the offer or administration of this Promotion, including but not limited to: errors in advertising, Official Rules, selection and announcement of the winners and distribution of prizes; or for lost, interrupted or unavailable network, server, satellite, Internet Service Provider (ISP), website or other connections, availability or accessibility; or for miscommunications, failed computer, telephone or cable transmissions, lines, or technical failure; or jumbled, corrupted, scrambled, delayed, or misdirected transmissions, computer hardware or software malfunctions, failures or difficulties; or for any other errors of any kind whether human, mechanical, electronic, technical or network; or for any errors in the generation or processing of Codes or prize messages; or for the incorrect or inaccurate capture of entry or other information or the failure to capture any such information; or for any misdirection or delay of any e-mail to be received on account of technical problems or traffic congestion on the Internet or any Website related to this Promotion, or any combination thereof, including any injury or damage to entrant's or any other person's computer related to or resulting from participation in or downloading or uploading any materials in connection with the Promotion; or for any incorrect or inaccurate information, whether caused by site users, tampering, hacking, or by any equipment or programming associated with or utilized in the Promotion.
+
+9.	General Conditions: Persons who tamper with or abuse any aspect of the Promotion as solely determined by the Sponsor, will be disqualified, and Sponsor reserves the right to terminate such entrant's eligibility. Should any portion of the Promotion be, in Sponsor's sole opinion, compromised by virus, worms, bugs, non-authorized human intervention or other causes which, in the sole opinion of the Sponsor, corrupt or impair the administration, security, fairness or proper play, or submission of entries or Codes, Sponsor reserves the right at its sole discretion to suspend, modify or terminate the Promotion, and select any or all winners from entries received prior to action taken or as otherwise deemed fair and appropriate by Sponsor. In the event of a dispute regarding prize claims or entries received from multiple users having the same Account or e-mail address, the authorized subscriber of the Account or e-mail address at the time of entry used to enter, and not the name on the entry form, will be deemed to be the entrant and must comply with these Official Rules. Authorized account subscriber is the natural person who is assigned the e-mail address by the Internet Service Provider (ISP), on-line service provider, or other organization responsible for assigning e-mail addresses.
+
+Except where legally prohibited, each winner grants (and agrees to confirm in writing) permission for the Released Parties to use his/her name, prize information, city and state of residence, photograph, voice, likeness, and/or statements made by or attributed to winner in all media now known or hereafter discovered, worldwide, including, without limitation, on the Internet, without notice, review or approval or compensation. To claim any prize valued at $600 or more, each potential winner (or if a minor, minor's parent or legal guardian) will be required to sign and return to Administrator, within ten business (10) days of the date the notice is sent an Affidavit of Eligibility, Liability Release, and where permitted by law, a Publicity Release (or Declaration of Compliance, if Canadian resident). 
+
+	If any prize notification or prize is returned as non-deliverable, such prize will be forfeited and an alternate winner may be selected as further described in Section 6 above. Noncompliance with any of the foregoing or any portion of these Official Rules may result in disqualification and awarding of the applicable prize to an alternate winner. Federal, state, and local taxes and all other expenses not specified herein are winner's sole responsibility. The Sponsor may assign all rights granted by entrants and winners hereunder to any party at Sponsor's sole discretion. 
+
+10. 	Disputes/Choice of Law: Except where prohibited, entrant agrees that: (1) any and all disputes, claims and causes of action arising out of or connected with this Promotion (excluding any and all disputes, claims and cause of action arising out of or connected with the use of any of the prizes awarded in the Promotion) shall be resolved individually, without resort to any form of class action, and exclusively by the United States District Court for the Eastern District of Michigan (Southern Division) or the appropriate Michigan State Court located in Oakland County, Michigan; (2) any and all claims, judgments and awards shall be limited to actual out-of-pocket costs incurred, including costs associated with entering this Promotion, but in no event attorneys' fees; and (3) under no circumstances will entrant be permitted to obtain awards for, and entrant hereby waives all rights to claim, indirect, punitive, incidental and consequential damages and any other damages, other than for actual out-of-pocket expenses, and any and all rights to have damages multiplied or otherwise increased. All issues and questions concerning the construction, validity, interpretation and enforceability of these Official Rules, or the rights and obligations of the entrant and Sponsor in connection with the Promotion, shall be governed by, and construed in accordance with, the laws of the State of Michigan, without giving effect to any choice of law or conflict of law rules (whether of the State of Michigan or any other jurisdiction), which would cause the application of the laws of any jurisdiction other than the State of Michigan.
+   
+11.	Privacy: Information collected from entrants is subject to the Sponsor's and Administrator's respective Privacy Policies. We encourage you to read these policies which can be found at <a href="http://disney.go.com/corporate/privacy/pp_wdig.html" target="_blank">http://disney.go.com/corporate/privacy/pp_wdig.html</a> and <a href="http://www.eprize.com/privacy-policy" target="_blank">http://www.eprize.com/privacy-policy</a>. In accordance with the terms of Sponsor's Privacy Policy, we also use this information to provide you with a more personalized experience, including future recommendations and promotions that may be of special interest to you.
+
+12. 	Winner List: For a winner list, visit <a href="http://bit.ly/fC9fli" target="_blank">http://bit.ly/fC9fli</a> . The winner list will be posted after winner confirmation is complete.
+]]></desc>
+			<popup_text><![CDATA[<font size="11"><textformat leading="-2">Please make sure your popup blocker is disabled.</textformat></font>]]></popup_text>
+		</page>
+	
+		<page id="statefarm" preload="sweepstakes/statefarm" template="com.disney.cars2.sweepstakes.SweepsDetail">
+			
+			<!--<promo id="featured" href="http://disney.review.eprize.com/cars2/rti_enter?BLUE=TEST,%7bfe570%7d,Danfow,44,1967" target="_blank" />-->
+			<title>STATE FARM AGENT HEADQUARTERS</title>
+			<!--<nav id="dossier" target="_blank" href="http://disney.review.eprize.com/cars2/rti_enter?BLUE=TEST,%7bfe570%7d,Danfow,44,1967">GO TO DOSSIER</nav>-->
+			<nav id="dossier" href="registration">GO TO DOSSIER</nav>
+			<nav id="facebook" target="_blank" href="http://pub.vitrue.com/9sJ" ageGate="true" >FACEBOOK</nav>
+			<nav id="quote" target="_blank" href="http://www.statefarm.com/landing/quote/index.html?wt.mc_id=cars2arq1">GET A QUOTE</nav>
+			<nav id="agent" target="_blank" href="http://online2.statefarm.com/b2c/sf/AgentLocator?wt.mc_id=cars2al1">FIND AN AGENT</nav>
+
+			<desc><![CDATA[<textformat leading="0"><font size="12">CLASSIFIED INFORMATION: Welcome to Agent Headquarters. Here you'll find all of the necessary tools to help you in your Special Agent training. <br><br>As you complete your undercover missions around the world, enter your codes into the Dossier for a chance to win the grand prize car! <br><br>Check out Cars 2 on State Farm's Facebook to test your skills at Cars 2 movie trivia! And while you're taking a break from your Special Agent duties, click the State Farm buttons to get a quote or find one of 18,000 agents on a mission for you. <br><br>Good luck, Special Agent!<br><br>Clicking on any of the State Farm or Facebook links below will take you away from Disney.com where different terms of use and privacy policy may apply.</font>]]>
+	</desc>
+		<popup_text><![CDATA[<font size="11"><textformat leading="-2">Please make sure your popup blocker is disabled.</textformat></font>]]></popup_text>
+		</page>	
+	</page>
+	
+	
+	
+	<images>
+		<img id="sweeps_home_bg" location="sweepstakes/home" src="promos/sweepstakes/sweeps_home_bg.jpg" />
+		<img id="featured" location="sweepstakes/briefing" src="promos/sweepstakes/cars2_sweeps_briefing.jpg" />
+		<img id="featured" location="sweepstakes/prizes" src="promos/sweepstakes/cars2_sweeps_prizes.jpg" />
+		<img id="featured" location="sweepstakes/rules" src="promos/sweepstakes/cars2_sweeps_rules.jpg" />
+		<img id="featured" location="sweepstakes/statefarm" src="promos/sweepstakes/sweeps_headquarters_no_code.jpg" />
+	</images>
+</sweeps>

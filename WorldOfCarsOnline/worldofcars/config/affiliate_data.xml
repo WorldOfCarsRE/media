@@ -1,0 +1,41 @@
+<affiliate_data>
+	<affiliate>
+		<name>disney_cars</name>
+		<requirements>
+			<birthday>true</birthday>
+			<dname>false</dname>
+			<email>true</email>					<!-- if the user is not a child, is their email required -->
+			<parent_email>true</parent_email>	<!-- if the user is a child, is their parent email required -->
+			<first_name>false</first_name>
+			<last_name>false</last_name>
+			<postal_code>false</postal_code>
+			<agreed_to_TOU>true</agreed_to_TOU>
+		</requirements>
+	</affiliate>
+	<affiliate>
+		<name>dol_pirates</name>
+		<requirements>
+			<birthday>true</birthday>
+			<dname>false</dname>
+			<email>false</email>
+			<parent_email>true</parent_email>
+			<first_name>false</first_name>
+			<last_name>false</last_name>
+			<postal_code>false</postal_code>
+			<agreed_to_TOU>true</agreed_to_TOU>
+		</requirements>
+	</affiliate>
+	<affiliate>
+		<name>dgamer</name>
+		<requirements>
+			<birthday>true</birthday>
+			<dname>true</dname>
+			<email>true</email>
+			<parent_email>true</parent_email>
+			<first_name>true</first_name>
+			<last_name>true</last_name>
+			<postal_code>true</postal_code>
+			<agreed_to_TOU>true</agreed_to_TOU>
+		</requirements>
+	</affiliate>
+</affiliate_data>

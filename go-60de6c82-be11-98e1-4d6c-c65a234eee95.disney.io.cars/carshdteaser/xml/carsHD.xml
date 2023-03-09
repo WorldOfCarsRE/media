@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<fsp>
+
+	<playlist>
+
+		<channel name="" prettyName="" id="2737498">
+<chapter title="FLV Trailer" thumbnail="assets/thumbnails/cars_trailer.jpg" type="multiple" description="Trailer FLV" id="1">
+<clip local="false" adcat="" audioart="">
+<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="disneypictures/xd09174_wdpm_car_2_cars_2_trailer_hi" progurl_low="disneypictures/xd09174_wdpm_car_2_cars_2_trailer_sw" id="1" length="" start="" reportingAccount="wdgdsec" reportingAssetName="ad|dis|xd06884_wdhe_sno_fun_facts_2_na_sm" mediaformat="flv" mediarating="TV-G" aspectRatio="16:9"/>
+</clip>
+</chapter>
+
+<chapter title="L4 Normal L6 FS" thumbnail="assets/thumbnails/cars2_trailer_jp.jpg" type="single" description="Trailer L4" id="5">
+<clip local="false" adcat="" audioart="">
+<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme" progurl="mp4:disneypictures/xd09174_wdpm_car_2_cars_2_trailer_L6.mp4" progurl_low="mp4:disneypictures/xd09174_wdpm_car_2_cars_2_trailer_L4.mp4" id="5" length="" start="" reportingAccount="wdgdsec" reportingAssetName="ad|dis|xd06857_dol_hah_hmn_40th_history_haunted_mansion_sm" mediaformat="mp4" mediarating="off" aspectRatio="2.352:1"/>
+</clip>
+
+</chapter>
+
+
+
+		</channel>
+
+	</playlist>
+
+</fsp>

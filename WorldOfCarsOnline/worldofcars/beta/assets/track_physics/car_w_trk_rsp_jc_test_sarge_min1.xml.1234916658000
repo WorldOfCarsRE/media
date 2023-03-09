@@ -1,0 +1,7 @@
+<track>
+	<segments>
+		<segment id='1' type='5' parents='' children='' px='557,546,666,689' py='297,193,182,301' mx='553,550,674,681' my='262,228,222,262' racingPoint='552,245' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='3000.000,3000.000,3000.000' />
+		</segment>
+	</segments>
+</track>

@@ -1,0 +1,58 @@
+-----------------------------
+-- Main game configuration --
+-----------------------------
+
+config={
+	shapesAndStylesURL="config/shapes_and_styles.xml",
+	dashboardURL="car_f_gui_gam_dashboard.swf",
+	shardSelectorURL="car_f_gui_dia_shardSelection.swf",
+	carsLogoURL="car_g_gui_lgo_worldOfCars.swf",
+	versionViewURL="car_f_gui_dia_versionView.swf",
+	racingGuiURL="car_f_gui_gam_racing.swf",
+	profileBarURL="car_f_gui_pnl_profileBar.swf",
+	mapContainerURL="car_f_gui_pnl_mapContainer.swf",
+	rsnViewURL="car_f_gui_pnl_rsnView.swf",
+	chatBubbleURL="car_f_gui_gam_chatBubble.swf",
+	reportUserURL="car_f_gui_dia_reportUser.swf",
+	fizzyFuelsURL="car_f_gui_dia_fizzieFuels.swf",
+	printableLogoURL="car_g_gui_lgo_printableLogo.swf",
+	
+	gatingDialogURL="car_f_gui_dia_gatingDialog.swf",
+	racingUpsellURL="car_g_pro_gam_racingUpsell.png",
+	yardUpsellURL="car_g_pro_gam_yardUpsell.png",
+	storeUpsellURL="car_g_pro_gam_storeUpsell.png",
+	minigameUpsellURL="car_g_pro_gam_minigameUpsell.png",
+	
+	getCoinsCheatID=10002,
+	getAllItemsCheatID=10005,
+	removeAllItemsCheatID=10006,
+	removeQuestsCheatID=121,
+	resetAllRacingAchievementsCheatId=11003,
+	resetAllRacingBadgesCheatId=10007,
+	garageLevelURL="scripts/garage/indoor_level.lua",
+	carModelsConfigURL="config/car_models.xml",
+	speedchatConfigURL="config/speedchat.xml",
+	gameAudioURL="config/game_audio.xml",
+	idleAnimationID=33274,
+	hornAnimationID=33273,
+	waveAnimationID=60025,
+	smileAnimationID=60021,
+	boredAnimationID=60001,
+	deductCoinsID=10008,
+	isoGUI="car_f_gui_pnl_singlePlayerGui.swf",
+	whiteListURL="whitelist.dpack",
+	rsnPromotionListURL="config/rsn_promotionlist.xml",
+	defaultFrameTexture="car_g_gui_cst_dotsTexture.swf",
+	loginSkinURL="car_f_gui_pnl_login.swf",
+	carShadowURL="car_t_chr_avt_shadow.png",
+	initialZone=100,
+	locale="en_US",
+	maxFizzyFuels=4,
+	joinQuestUIURL="car_f_gui_dia_quests.swf",
+	turnInQuestUIURL="car_f_gui_dia_quests.swf",
+	
+	-- Temporary --
+	profileBarX=350,
+	profileBarY=50,
+	profileBarForceVisible=false,
+}

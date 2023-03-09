@@ -1,0 +1,8 @@
+<map width="200" height="200">
+  <assets/>
+  <layers>
+    <layer name="ground" tileWidth="200" tileHeight="100"/>
+    <layer name="road" tileWidth="200" tileHeight="100"/>
+    <layer name="object" tileWidth="50" tileHeight="25"/>
+  </layers>
+</map>

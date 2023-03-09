@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracking>
+	<tracking>
+		<globalvars>
+			<variable name="account" value="disneypictures,cars" />
+			<variable name="site" value="fran_car" />
+			<variable name="property" value="car" />
+			<variable name="category" value="dcore" />
+			<variable name="brandSegment" value="franchise" />
+			<variable name="genre" value="pixar" />
+		</globalvars>
+		
+		<page id="http://disney.go.com/preschool/#/preschool/character/cars/" linkId="exit_car_menu_preschool" type="linkTrack" />
+		
+		<page id="http://www.facebook.com/PixarCars" linkId="exit_car_home_facebook_like" type="linkTrack" />
+		<page id="http://twitter.com/disneypixar" linkId="exit_car_home_twitter_follow" type="linkTrack" />
+		
+		<page id="splash" section="splash" pageName="main" contentType="regular" genre="fran_toy" />
+		
+		<page id="splash_enter_site" linkId="car_splash_enter_site" type="linkTrack" />
+		<page id="splash_fb" linkId="exit_car_splash_facebook_like" type="linkTrack" />
+		<page id="splash_twitter" linkId="exit_car_splash_twitter_follow" type="linkTrack" />
+		
+		<page id="location_tokyo" linkId="car_location_tokyo1" type="linkTrack" />
+		<page id="location_tokyo2" linkId="car_location_tokyo2" type="linkTrack" />
+		<page id="location_tokyo3" linkId="car_location_tokyo3" type="linkTrack" />
+		<page id="location_tokyo4" linkId="car_location_tokyo4" type="linkTrack" />
+		<page id="location_porto_corsa" linkId="car_location_italyportocorsa1" type="linkTrack" />
+		<page id="location_topolino" linkId="car_location_italyvillage" type="linkTrack" />
+		<page id="location_radiator_springs" linkId="car_location_radiatorsprings" type="linkTrack" />
+		<page id="location_radiator_springs2" linkId="car_location_radiatorsprings2" type="linkTrack" />
+		<page id="london" linkId="car_location_londonbigben1" type="linkTrack" />
+		
+		<page id="home" section="home" pageName="home" contentType="homepage" genre="fran_toy" />
+		<page id="home/queen_prince_highgear" linkId="car_charcombo_queen-prince-highgear" type="linkTrack" />
+		<page id="home/okuni_king_zen_pinion" linkId="car_charcombo_okuni-king-zen-pinion" type="linkTrack" />
+		<page id="home/max_miguel_lightning" linkId="car_charcombo_max-miguel-lightning" type="linkTrack" />
+		<page id="home/carla_raoul_lightning" linkId="car_charcombo_carla-raoul-lightning" type="linkTrack" />
+		<page id="home/lightning_holley_finn" linkId="car_charcombo_lightning-finn-holley" type="linkTrack" />
+		<page id="home/mater_luigi_guido" linkId="car_charcombo_mater-luigi-guido" type="linkTrack" />
+		<page id="home/fillmore_sarge_mack" linkId="car_charcombo_fillmore-sarge-mack" type="linkTrack" />
+		<page id="home/sally_flo_ramone" linkId="car_charcombo_sally-flo-ramone" type="linkTrack" />
+		<page id="home/mater_sheriff_lizzie" linkId="car_charcombo_mater-sheriff-lizzie" type="linkTrack" />
+		
+		<page id="characters/carla" section="characters:carla" pageName="main" contentType="regular" />
+		<page id="characters/carla/bio" section="characters:carla" pageName="bio" contentType="regular" />
+		<page id="characters/carla/downloads" section="characters:carla" pageName="downloads" contentType="regular" />
+		<page id="characters/carla/gallery" section="characters:carla" pageName="gallery" contentType="regular" />
+		
+		<page id="characters/raoul" section="characters:raoul" pageName="main" contentType="regular" />
+		<page id="characters/raoul/bio" section="characters:raoul" pageName="bio" contentType="regular" />
+		<page id="characters/raoul/downloads" section="characters:raoul" pageName="downloads" contentType="regular" />
+		<page id="characters/raoul/gallery" section="characters:raoul" pageName="gallery" contentType="regular" />
+		
+		<page id="characters/grem" section="characters:grem" pageName="main" contentType="regular" />
+		<page id="characters/grem/bio" section="characters:grem" pageName="bio" contentType="regular" />
+		<page id="characters/grem/downloads" section="characters:grem" pageName="downloads" contentType="regular" />
+		<page id="characters/grem/gallery" section="characters:grem" pageName="gallery" contentType="regular" />
+		
+		<page id="characters/acer" section="characters:acer" pageName="main" contentType="regular" />
+		<page id="characters/acer/bio" section="characters:acer" pageName="bio" contentType="regular" />
+		<page id="characters/acer/downloads" section="characters:acer" pageName="downloads" contentType="regular" />
+		<page id="characters/acer/gallery" section="characters:acer" pageName="gallery" contentType="regular" />
+		
+		<page id="characters/lightning" section="characters:lightning" pageName="main" contentType="regular" />
+		<page id="characters/lightning/bio" section="characters:lightning" pageName="bio" contentType="regular" />
+		<page id="characters/lightning/downloads" section="characters:lightning" pageName="downloads" contentType="regular" />
+		<page id="characters/lightning/gallery" section="characters:lightning" pageName="gallery" contentType="regular" />
+		
+		<page id="characters/luigi" section="characters:luigi" pageName="main" contentType="regular" />
+		<page id="characters/luigi/bio" section="characters:luigi" pageName="bio" contentType="regular" />
+		<page id="characters/luigi/downloads" section="characters:luigi" pageName="downloads" contentType="regular" />
+		<page id="characters/luigi/gallery" section="characters:luigi" pageName="gallery" contentType="regular" />
+		
+		<page id="characters/guido" section="characters:guido" pageName="main" contentType="regular" />
+		<page id="characters/guido/bio" section="characters:guido" pageName="bio" contentType="regular" />
+		<page id="characters/guido/downloads" section="characters:guido" pageName="downloads" contentType="regular" />
+		<page id="characters/guido/gallery" section="characters:guido" pageName="gallery" contentType="regular" />
+		
+		<page id="characters/fillmore" section="characters:fillmore" pageName="main" contentType="regular" />
+		<page id="characters/fillmore/bio" section="characters:fillmore" pageName="bio" contentType="regular" />
+		<page id="characters/fillmore/downloads" section="characters:fillmore" pageName="downloads" contentType="regular" />
+		<page id="characters/fillmore/gallery" section="characters:fillmore" pageName="gallery" contentType="regular" />
+		
+		<page id="characters/sarge" section="characters:sarge" pageName="main" contentType="regular" />
+		<page id="characters/sarge/bio" section="characters:sarge" pageName="bio" contentType="regular" />
+		<page id="characters/sarge/downloads" section="characters:sarge" pageName="downloads" contentType="regular" />
+		<page id="characters/sarge/gallery" section="characters:sarge" pageName="gallery" contentType="regular" />
+		
+		<page id="characters/mack" section="characters:mack" pageName="main" contentType="regular" />
+		<page id="characters/mack/bio" section="characters:mack" pageName="bio" contentType="regular" />
+		<page id="characters/mack/downloads" section="characters:mack" pageName="downloads" contentType="regular" />
+		<page id="characters/mack/gallery" section="characters:mack" pageName="gallery" contentType="regular" />
+		
+		<page id="characters/mater" section="characters:mater" pageName="main" contentType="regular" />
+		<page id="characters/mater/bio" section="characters:mater" pageName="bio" contentType="regular" />
+		<page id="characters/mater/downloads" section="characters:mater" pageName="downloads" contentType="regular" />
+		<page id="characters/mater/gallery" section="characters:mater" pageName="gallery" contentType="regular" />
+		
+		<page id="characters/sally" section="characters:sally" pageName="main" contentType="regular" />
+		<page id="characters/sally/bio" section="characters:sally" pageName="bio" contentType="regular" />
+		<page id="characters/sally/downloads" section="characters:sally" pageName="downloads" contentType="regular" />
+		<page id="characters/sally/gallery" section="characters:sally" pageName="gallery" contentType="regular" />
+		
+		<page id="characters/ramone" section="characters:ramone" pageName="main" contentType="regular" />
+		<page id="characters/ramone/bio" section="characters:ramone" pageName="bio" contentType="regular" />
+		<page id="characters/ramone/downloads" section="characters:ramone" pageName="downloads" contentType="regular" />
+		<page id="characters/ramone/gallery" section="characters:ramone" pageName="gallery" contentType="regular" />
+		
+		<page id="characters/flo" section="characters:flo" pageName="main" contentType="regular" />
+		<page id="characters/flo/bio" section="characters:flo" pageName="bio" contentType="regular" />
+		<page id="characters/flo/downloads" section="characters:flo" pageName="downloads" contentType="regular" />
+		<page id="characters/flo/gallery" section="characters:flo" pageName="gallery" contentType="regular" />
+		
+		<page id="characters/lizzie" section="characters:lizzie" pageName="main" contentType="regular" />
+		<page id="characters/lizzie/bio" section="characters:lizzie" pageName="bio" contentType="regular" />
+		<page id="characters/lizzie/downloads" section="characters:lizzie" pageName="downloads" contentType="regular" />
+		<page id="characters/lizzie/gallery" section="characters:lizzie" pageName="gallery" contentType="regular" />
+		
+		<page id="characters/sheriff" section="characters:sheriff" pageName="main" contentType="regular" />
+		<page id="characters/sheriff/bio" section="characters:sheriff" pageName="bio" contentType="regular" />
+		<page id="characters/sheriff/downloads" section="characters:sheriff" pageName="downloads" contentType="regular" />
+		<page id="characters/sheriff/gallery" section="characters:sheriff" pageName="gallery" contentType="regular" />
+		
+		<page id="characters/finn" section="characters:finn" pageName="main" contentType="regular" />
+		<page id="characters/finn/bio" section="characters:finn" pageName="bio" contentType="regular" />
+		<page id="characters/finn/downloads" section="characters:finn" pageName="downloads" contentType="regular" />
+		<page id="characters/finn/gallery" section="characters:finn" pageName="gallery" contentType="regular" />
+		
+		<page id="characters/holley" section="characters:holley" pageName="main" contentType="regular" />
+		<page id="characters/holley/bio" section="characters:holley" pageName="bio" contentType="regular" />
+		<page id="characters/holley/downloads" section="characters:holley" pageName="downloads" contentType="regular" />
+		<page id="characters/holley/gallery" section="characters:holley" pageName="gallery" contentType="regular" />
+		
+		<page id="characters/okuni" section="characters:okuni" pageName="main" contentType="regular" />
+		<page id="characters/okuni/bio" section="characters:okuni" pageName="bio" contentType="regular" />
+		<page id="characters/okuni/downloads" section="characters:okuni" pageName="downloads" contentType="regular" />
+		<page id="characters/okuni/gallery" section="characters:okuni" pageName="gallery" contentType="regular" />
+		
+		<page id="characters/pinion" section="characters:pinion" pageName="main" contentType="regular" />
+		<page id="characters/pinion/bio" section="characters:pinion" pageName="bio" contentType="regular" />
+		<page id="characters/pinion/downloads" section="characters:pinion" pageName="downloads" contentType="regular" />
+		<page id="characters/pinion/gallery" section="characters:pinion" pageName="gallery" contentType="regular" />
+		
+		<page id="characters/kingpin" section="characters:kingpin" pageName="main" contentType="regular" />
+		<page id="characters/kingpin/bio" section="characters:kingpin" pageName="bio" contentType="regular" />
+		<page id="characters/kingpin/downloads" section="characters:kingpin" pageName="downloads" contentType="regular" />
+		<page id="characters/kingpin/gallery" section="characters:kingpin" pageName="gallery" contentType="regular" />
+		
+		<page id="characters/zen" section="characters:zenmaster" pageName="main" contentType="regular" />
+		<page id="characters/zen/bio" section="characters:zenmaster" pageName="bio" contentType="regular" />
+		<page id="characters/zen/downloads" section="characters:zenmaster" pageName="downloads" contentType="regular" />
+		<page id="characters/zen/gallery" section="characters:zenmaster" pageName="gallery" contentType="regular" />
+		
+		<page id="characters/queen" section="characters:thequeen" pageName="main" contentType="regular" />
+		<page id="characters/queen/bio" section="characters:thequeen" pageName="bio" contentType="regular" />
+		<page id="characters/queen/downloads" section="characters:thequeen" pageName="downloads" contentType="regular" />
+		<page id="characters/queen/gallery" section="characters:thequeen" pageName="gallery" contentType="regular" />
+		
+		<page id="characters/topper" section="characters:topper" pageName="main" contentType="regular" />
+		<page id="characters/topper/bio" section="characters:topper" pageName="bio" contentType="regular" />
+		<page id="characters/topper/downloads" section="characters:topper" pageName="downloads" contentType="regular" />
+		<page id="characters/topper/gallery" section="characters:topper" pageName="gallery" contentType="regular" />
+		
+		<page id="characters/chauncy" section="characters:chauncy" pageName="main" contentType="regular" />
+		<page id="characters/chauncy/bio" section="characters:chauncy" pageName="bio" contentType="regular" />
+		<page id="characters/chauncy/downloads" section="characters:chauncy" pageName="downloads" contentType="regular" />
+		<page id="characters/chauncy/gallery" section="characters:chauncy" pageName="gallery" contentType="regular" />
+		
+		<page id="characters/highgear" section="characters:highgear" pageName="main" contentType="regular" />
+		<page id="characters/highgear/bio" section="characters:highgear" pageName="bio" contentType="regular" />
+		<page id="characters/highgear/downloads" section="characters:highgear" pageName="downloads" contentType="regular" />
+		<page id="characters/highgear/gallery" section="characters:highgear" pageName="gallery" contentType="regular" />
+		
+		<page id="characters/prince" section="characters:theprince" pageName="main" contentType="regular" />
+		<page id="characters/prince/bio" section="characters:theprince" pageName="bio" contentType="regular" />
+		<page id="characters/prince/downloads" section="characters:theprince" pageName="downloads" contentType="regular" />
+		<page id="characters/prince/gallery" section="characters:theprince" pageName="gallery" contentType="regular" />
+		
+		<page id="movies" section="movies:cars_2" pageName="main" contentType="regular" />
+		<page id="movies/cars2" section="movies:cars_2" pageName="main" contentType="regular" />
+		<page id="movies/cars2/synopsis" section="movies:cars_2" pageName="main" contentType="regular" />
+		<page id="movies/cars2/gallery" section="movies:cars_2" pageName="gallery" contentType="regular" />
+		<page id="movies/cars2/videos" section="movies:cars_2" pageName="videos" contentType="regular" />
+		
+		<page id="movies/cars_toons" section="movies:cars_toons" pageName="main" contentType="regular" />
+		<page id="movies/cars_toons/synopsis" section="movies:cars_toons" pageName="main" contentType="regular" />
+		<page id="movies/cars_toons/gallery" section="movies:cars_toons" pageName="gallery" contentType="regular" />
+		<page id="movies/cars_toons/videos" section="movies:cars_toons" pageName="videos" contentType="regular" />
+		<page id="movies/cars_toons/talltales" section="movies:cars_toons" pageName="talltales" contentType="regular" />
+		<page id="movies/cars_toons/bluray" section="movies:cars_toons" pageName="bluray" contentType="regular" />
+		
+		<page id="movies/cars" section="movies:cars_1" pageName="main" contentType="regular" />
+		<page id="movies/cars/synopsis" section="movies:cars_1" pageName="main" contentType="regular" />
+		<page id="movies/cars/gallery" section="movies:cars_1" pageName="gallery" contentType="regular" />
+		<page id="movies/cars/videos" section="movies:cars_1" pageName="videos" contentType="regular" />
+		<page id="movies/cars/dvd_features" section="movies:cars_1" pageName="dvd_bluray_bonus_features" contentType="regular" />
+		<page id="movies/cars/bluray" section="movies:cars_1" pageName="bluray" contentType="regular" />
+		<page id="movies/cars/filmmakers" section="movies:cars_1" pageName="filmmakers" contentType="regular" />
+		<page id="movies/cars/production_notes" section="movies:cars_1" pageName="production_notes" contentType="regular" />
+		
+		<page id="videos" section="videos" pageName="main" contentType="regular" />
+		<page id="downloads" section="downloads" pageName="main" contentType="regular" />
+		<page id="downloads/wallpapers" section="downloads" pageName="main" contentType="regular" />
+		<page id="downloads/icons" section="downloads" pageName="main" contentType="regular" />
+		<page id="characters" section="characters" pageName="main" contentType="regular" />
+		
+		
+		<page id="activities" section="activities" pageName="main" contentType="regular" />
+		<page id="http://family.go.com/disney/pkg-disney-crafts/craft-873558-guido-bookend-t/" linkId="car_activites_guidobookend" type="linkTrack" />
+		<page id="http://family.go.com/disney/pkg-disney-crafts/craft-864722-toy-gas-pump-t/?cmp=SYN-DIS_Dcom_Cars_GamesMain_ToyGasPump_Fcom" linkId="car_activites_toygaspump" type="linkTrack" />
+		<page id="http://family.go.com/disney/pkg-disney-crafts/craft-865531-lightning-bolt-keychain-t/?cmp=SYN-DIS_Dcom_Cars_GamesMain_LighteningBoltKeychain_Fcom" linkId="car_activites_lightningboltkeychain" type="linkTrack" />
+		<page id="http://disney.go.com/cars/promos/activities/Cars_ActivityPack.pdf" linkId="cars_activities_intlactivitypack" type="linkTrack" />
+		
+		<page id="products" section="products" pageName="main" contentType="regular" />
+		<page id="products/disney_store" section="products:disney_store" pageName="main" contentType="regular" />
+		
+		<page id="products/books" section="products:books" pageName="all_revved_up" contentType="regular" />
+		<page id="products/books/all_revved_up" section="products:books" pageName="all_revved_up" contentType="regular" />
+		<page id="products/books/read_along_storybook" section="products:books" pageName="read_along_storybook" contentType="regular" />
+		<page id="products/books/lightning_was_here" section="products:books" pageName="lightning_was_here" contentType="regular" />
+		
+		<page id="products/homevideos" section="products:homevideos" pageName="cars" contentType="regular" />
+		<page id="products/homevideos/cars" section="products:homevideos" pageName="cars" contentType="regular" />
+		<page id="products/homevideos/cars_toons" section="products:homevideos" pageName="cars_toons" contentType="regular" />
+		
+		<page id="products/videogames" section="products:videogames" pageName="cars_2_xbox360" contentType="regular" />
+		<page id="products/videogames/cars2-xbox" section="products:videogames" pageName="cars_2_xbox360" contentType="regular" />
+		<page id="products/videogames/cars2-xbox/gallery" section="products:videogames" pageName="cars_2_xbox360_gallery" contentType="regular" />
+		<page id="products/videogames/cars2-wii" section="products:videogames" pageName="cars_2_wii" contentType="regular" />
+		<page id="products/videogames/cars2-pc" section="products:videogames" pageName="cars_2_pc" contentType="regular" />
+		<page id="products/videogames/cars2-ps3" section="products:videogames" pageName="cars_2_ps3" contentType="regular" />
+		<page id="products/videogames/cars2-ps3/gallery" section="products:videogames" pageName="cars_2_ps3_gallery" contentType="regular" />
+		<page id="products/videogames/cars2-ds" section="products:videogames" pageName="cars_2_ds" contentType="regular" />
+		<page id="products/videogames/mater_tall_tales" section="products:videogames" pageName="cars_toons_wii" contentType="regular" />
+		<page id="products/videogames/mater_tall_tales/gallery" section="products:videogames" pageName="cars_toons_gallery" contentType="regular" />
+		
+		<page id="http://www.amazon.com/Cars-2-Video-Game-Xbox-360/dp/B004M8NR7E/ref=sr_1_2?s=videogames&ie=UTF8&qid=1297876648&sr=1-2" linkId="exit_car_products_videogames_cars_2_xbox360_buy" type="linkTrack" />
+		<page id="http://www.amazon.com/Cars-2-Video-Game-Nintendo-Wii/dp/B004M8K9AW/ref=sr_1_5?s=videogames&ie=UTF8&qid=1297876648&sr=1-5" linkId="exit_car_products_videogames_cars_2_wii_buy" type="linkTrack" />
+		<page id="http://www.disneystore.com/transfer/280559/cars-toon-maters-tall-tales-for-nintendo-wii/mp/1270355/1000375/?CMP=OTL-Dcom&att=CarsFranchise" linkId="exit_car_products_videogames_cars_2_wii_buy" type="linkTrack" />
+		<page id="http://www.amazon.com/Cars-2-Video-Game-Linux/dp/B004M8M2M0/ref=sr_1_4?s=videogames&ie=UTF8&qid=1297876648&sr=1-4" linkId="exit_car_products_videogames_cars_2_pc_buy" type="linkTrack" />
+		<page id="http://www.amazon.com/Cars-2-Video-Game-Playstation-3/dp/B004M8M30G/ref=sr_1_1?s=videogames&ie=UTF8&qid=1297876648&sr=1-1" linkId="exit_car_products_videogames_cars_2_ps3_buy" type="linkTrack" />
+		<page id="http://www.amazon.com/Cars-2-Video-Game-Nintendo-DS/dp/B004M8M2H0/ref=sr_1_3?s=videogames&ie=UTF8&qid=1297876648&sr=1-3" linkId="exit_car_products_videogames_cars_2_ds_buy" type="linkTrack" />
+		<page id="http://www.disneystore.com/gaming-toys-pre-order-cars-2-the-video-game-for-nintendo-ds/mp/1282267/1000261/?CMP=OTL-DOL&att=CarsFranchise" linkId="exit_car_products_videogames_cars_2_ds_buy" type="linkTrack" />
+		<page id="http://www.disneystore.com/transfer/280559/cars-toon-maters-tall-tales-for-nintendo-wii/mp/1270355/1000375/?CMP=OTL-Dcom&att=CarsFranchise" linkId="exit_car_products_videogames_cars_toons_buy" type="linkTrack" />
+		
+		<page id="http://www.bestbuy.com/site/CARS+2+-+Nintendo+Wii/2173108.p?id=1218312948135&skuId=2173108&st=cars" linkId="exit_car_products_videogames_cars_2_order_us_bestbuy" type="linkTrack" />
+		<page id="http://www.amazon.com/s/ref=amb_link_355343122_2?ie=UTF8&rh=n:468642,k:B004M8M2H0|B004M8M2M0|B004M8K9AW|B004M8NR7E|B004M8M30G" linkId="exit_car_products_videogames_cars_2_order_us_amazon" type="linkTrack" />
+		<page id="http://www.toysrus.com/search/index.jsp?kwCatId=&kw=cars%202%20the%20video%20game&origkw=Cars%202:%20The%20Video%20Game&f=Taxonomy/TRUS/2254197&sr=1" linkId="exit_car_products_videogames_cars_2_order_us_toysrus" type="linkTrack" />
+		<page id="http://www.target.com/Cars-2-Nintendo-Wii/dp/B004M8K9AW/ref=sr_1_2?ie=UTF8&searchView=grid5&keywords=Cars%202%20video%20game&fromGsearch=true&sr=1-2&qid=1298509875&rh=&searchRank=target104545&id=Cars%202%20Nintendo%20Wii&node=1038576%7C1287991011&searchSize=30&searchPage=1&searchNodeID=1038576%7C1287991011&searchBinNameList=subjectbin%2Cprice%2Ctarget_com_primary_color-bin%2Ctarget_com_size-bin%2Ctarget_com_brand-bin&frombrowse=0" linkId="exit_car_products_videogames_cars_2_order_us_target" type="linkTrack" />
+		<page id="http://www.walmart.com/ip/Cars-2-The-Video-Game-w-Bonus-10-Walmart.com-eGift-Card-Wii/15902564" linkId="exit_car_products_videogames_cars_2_order_us_walmart" type="linkTrack" />
+		<page id="http://www.gamestop.com/browse?nav=16k-Cars+2:+The+Video+Game" linkId="exit_car_products_videogames_cars_2_order_us_gamestop" type="linkTrack" /> 
+		<page id="http://www.bestbuy.ca/Search/SearchResults.aspx?path=ca77b9b4beca91fe414314b86bb581f8en20&pcname=MCCPCatalog&q=cars%202%20video%20game&sp=BBY_en-CA_Site-WideSP&Category=Entire%20Site" linkId="exit_car_products_videogames_cars_2_order_ca_bestbuy" type="linkTrack" />
+		<page id="http://www.toysrus.ca/refinement/index.jsp?categoryId=11228320&f=PAD&fg=Brand&fv=Brand+Name+Secondary%2FCars+2&fd=Cars+2&ab=RZ_HP_FLASH_052711_CARS2" linkId="exit_car_products_videogames_cars_2_order_ca_toysrus" type="linkTrack" />  
+		<page id="http://www.futureshop.ca/Search/SearchResults.aspx?path=ca77b9b4beca91fe414314b86bb581f8en20&q=cars%25202&sp=FS_en-CA_GameSP&Category=Gaming&targetCategory=Entire%2520Site&pcname=MCCPCatalog&AllowSecure=True" linkId="exit_car_products_videogames_cars_2_order_ca_futureshop" type="linkTrack" />  
+		<page id="http://www.gamestop.ca/browse?nav=16k-cars+2" linkId="exit_car_products_videogames_cars_2_order_ca_gamestop" type="linkTrack" />  
+		
+		<page id="http://disney.go.com/disneyjunior/cars/?cmp=SYN_Dcom_Cars_LeftNav_DJR" linkId="exit_car_leftnav_disneyjunior" type="linkTrack" />
+		
+		<page id="http://www.disneystore.com/transfer/280559/cars/mn/1000012/?CMP=OTL-Dcom&att=CarsFranchise" linkId="exit_car_products_disney_store_dotcom" type="linkTrack" />
+		
+		<page id="registration" section="registration" pageName="main" contentType="regular" floodLightTag="https://fls.doubleclick.net/activityi;src=568459;type=state338;cat=disne096;u1=[state];ord="/>
+		
+		<page id="sweepstakes" section="sweeps" pageName="main" contentType="regular" floodLightTag="https://fls.doubleclick.net/activityi;src=568459;type=state338;cat=disne862;u1=[state];ord=" comscore='{"uri":"http://ar.voicefive.com/b/recruitBeacon.pli","pid":"p101502402","prad":7001,"arc":71,"cpn":1,"cpn1":1}'/>
+		<page id="sweepstakes/sweeps" section="sweeps" pageName="main" contentType="regular" floodLightTag="https://fls.doubleclick.net/activityi;src=568459;type=state338;cat=disne862;u1=[state];ord=" comscore='{"uri":"http://ar.voicefive.com/b/recruitBeacon.pli","pid":"p101502402","prad":7001,"arc":71,"cpn":1,"cpn1":1}'/>
+		<page id="sweepstakes/briefing" section="sweeps" pageName="briefing" contentType="regular" floodLightTag="https://fls.doubleclick.net/activityi;src=568459;type=state338;cat=disne356;u1=[state];ord=" />
+		<page id="sweepstakes/prizes" section="sweeps" pageName="prizing" contentType="regular" floodLightTag="https://fls.doubleclick.net/activityi;src=568459;type=state338;cat=disne398;u1=[state];ord=" />
+		<page id="sweepstakes/rules" section="sweeps" pageName="rules" contentType="regular" floodLightTag="https://fls.doubleclick.net/activityi;src=568459;type=state338;cat=disne571;u1=[state];ord=" />
+		<page id="sweepstakes/statefarm" section="sweeps" pageName="statefarm" contentType="regular" floodLightTag="https://fls.doubleclick.net/activityi;src=568459;type=state338;cat=disne610;u1=[state];ord=" />
+		<page id="http://disney.promo.eprize.com/cars2/" linkId="exit_car_sweeps_entersweeps" type="linkTrack" floodLightTag="https://fls.doubleclick.net/activityi;src=568459;type=state338;cat=disne391;u1=[state];ord=" />
+		<page id="http://www.statefarmphotos.com/agents" linkId="exit_car_sweeps_eshots" type="linkTrack" floodLightTag="" />
+		<page id="http://online2.statefarm.com/b2c/sf/AgentLocator?wt.mc_id=cars2al1" linkId="exit_car_sweeps_statefarm_findagent" type="linkTrack" />
+		<page id="http://www.statefarm.com/landing/quote/index.html?wt.mc_id=cars2arq1" linkId="exit_car_sweeps_statefarm_getquote" type="linkTrack" />
+		<page id="http://pub.vitrue.com/9sJ" linkId="exit_car_sweeps_statefarmfacebook" type="linkTrack" />
+		
+		<page id="http://www.disneystore.com/transfer/280559/cars/toys/mn/1000012+1000208/?CMP=OTL-Dcom&att=CarsFranchise" linkId="exit_car_products_disney_store_toys" type="linkTrack" />
+		<page id="http://www.disneystore.com/transfer/280559/cars/clothes/mn/1000012+1000204/?CMP=OTL-Dcom&att=CarsFranchise" linkId="exit_car_products_disney_store_clothes" type="linkTrack" />
+		<page id="http://www.disneystore.com/transfer/280559/cars/home-decor/mn/1000012+1000207/?CMP=OTL-Dcom&att=CarsFranchise" linkId="exit_car_products_disney_store_homedecor" type="linkTrack" />
+		<page id="http://www.disneystore.com/transfer/280559/cars/accessories/mn/1000012+1000216/?CMP=OTL-Dcom&att=CarsFranchise" linkId="exit_car_products_disney_store_accessories" type="linkTrack" />
+		<page id="http://www.disneystore.com/transfer/280559/cars/dvds-music-books/mn/1000012+1000205/?CMP=OTL-Dcom&att=CarsFranchise" linkId="exit_car_products_disney_store_moviesmusicbooks" type="linkTrack" />
+		<page id="http://www.disneystore.com/transfer/280559/cars/pins-art-collectibles/mn/1000012+1000202/?CMP=OTL-Dcom&att=CarsFranchise" linkId="exit_car_products_disney_store_collectibles" type="linkTrack" />
+		<page id="http://www.disneystore.com/transfer/280559/cars/electronics/mn/1000012+1000206/?CMP=OTL-Dcom&att=CarsFranchise" linkId="exit_car_products_disney_store_electronics" type="linkTrack" />
+		<page id="http://disney.go.com/books/all-revved-up-142313141X" linkId="exit_car_products_books_allrevvedup_moredetails" type="linkTrack" />
+		<page id="http://disney.go.com/books/cars-read-along-storybook-and-cd-1423133323" linkId="exit_car_products_books_readalongstorybook_moredetails" type="linkTrack" />
+		<page id="http://disney.go.com/books/lightning-was-here-1423131541" linkId="exit_car_products_books_lightningwashere_moredetails" type="linkTrack" />
+		<page id="http://disneydvd.disney.go.com/cars.html" linkId="exit_car_products_disneystore_cars_buy" type="linkTrack" />
+		<page id="http://www.disneystore.com/transfer/280559/cars-dvds-music-books-cars-toon-maters-tall-tales-blu-ray-and-dvd-combo-pack/mp/1272856/1000012+1000205/?CMP=OTL-Dcom&att=CarsFranchise" linkId="exit_car_products_homevideos_cars_toons_buy" type="linkTrack" />
+		<page id="http://www.disneystore.com/cars-toon-maters-tall-tales-for-nintendo-wii/mp/1270355/1000375/?att=CarsFranchise&CMP=OTL-DOL" linkId="exit_car_products_videogames_cars_toons_buy" type="linkTrack" />
+		<page id="" linkId="cars_games_flos_v8_game" type="linkTrack" />
+		
+		<page id="activities" section="activities" pageName="main" contentType="regular" />
+		<page id="http://family.go.com/disney/pkg-disney-recipes/recipe-bakerella-903493-tow-mater-cupcakes-t/?cmp= SYN-DIS_Dcom_Cars_Activities_MaterCupcakes_Fcom" linkId="car_activities_towmatercupcakes" type="linkTrack" />
+		<page id="http://family.go.com/disney/pkg-disney-crafts/craft-865533-lightning-mcqueen-car-air-freshener-t/?cmp= SYN-DIS_Dcom_Cars_Activities_McQueenAirFreshener_Fcom" linkId="car_activities_lightningairfreshener" type="linkTrack" />
+		<page id="http://family.go.com/disney/pkg-disney-recipes/recipe-873542-whitewall-tire-cookies-t/?cmp= SYN-DIS_Dcom_Cars_Activities_WhitewallTireCookies_Fcom" linkId="car_activities_whitewalltirecookies" type="linkTrack" />
+		<page id="http://family.go.com/disney/pkg-disney-crafts/craft-864722-toy-gas-pump-t/?cmp=SYN-DIS_Dcom_Cars_GamesMain_ToyGasPump_Fcom" linkId="car_activities_toygaspump" type="linkTrack" />
+		<page id="http://family.go.com/disney/pkg-disney-printables/article-759396-disney-preschool-printable-cars-radiator-springs-playset-t/?cmp= SYN-DIS_Dcom_Cars_Activities_RadiatorSpringsPlayset_Fcom" linkId="car_activities_carsradiatorspringsplayset" type="linkTrack" />
+		<page id="http://family.go.com/disney/pkg-disney-recipes/recipe-873553-tow-mater-cookie-treats-t/?cmp= SYN-DIS_Dcom_Cars_Activities_TowMaterCookieTreats_Fcom" linkId="car_activities_towmatercookietreats" type="linkTrack" />
+		<page id="http://family.go.com/disney/pkg-disney-crafts/craft-872947-cozy-cone-motel-t/?cmp= SYN-DIS_Dcom_Cars_Activities_CozyConeMotel_Fcom" linkId="car_activities_cozyconemotel" type="linkTrack" />
+		<page id="http://family.go.com/disney/pkg-disney-crafts/craft-874462-oil-can-holders-t/?cmp= SYN-DIS_Dcom_Cars_Activities_OilCanHolders_Fcom" linkId="car_activities_oilcanholders" type="linkTrack" />
+		<page id="http://family.go.com/disney/pkg-disney-crafts/craft-873558-guido-bookend-t/?cmp=SYN-DIS_Dcom_Cars_Games_LuigiBookend_Fcom" linkId="car_activities_guidobookend" type="linkTrack" />
+		<page id="http://family.go.com/disney/pkg-disney-crafts/craft-874467-tippy-cardboard-tractor-t/?cmp= SYN-DIS_Dcom_Cars_Activities_TippyCardboardTractors_Fcom" linkId="car_activities_tippycardboardtractor" type="linkTrack" />
+		<page id="http://family.go.com/disney/pkg-disney-crafts/craft-865531-lightning-bolt-keychain-t/?cmp=SYN-DIS_Dcom_Cars_GamesMain_LighteningBoltKeychain_Fcom" linkId="car_activities_lightningboltkeychain" type="linkTrack" />
+		
+		
+		<page id="events" section="events" pageName="main" contentType="regular" comscore='{"uri":"http://ar.voicefive.com/b/recruitBeacon.pli","pid":"p101502402","prad":7002,"arc":72,"cpn":2,"cpn2":1}'/>
+		<page id="events/cars-tour" section="events:cars-tour" pageName="main" contentType="regular" comscore='{"uri":"http://ar.voicefive.com/b/recruitBeacon.pli","pid":"p101502402","prad":7002,"arc":72,"cpn":2,"cpn2":1}'/>
+		<page id="events/disney-network" section="events:disney-network" pageName="main" contentType="regular" />
+		
+		<page id="parks" section="parks_travel" pageName="main" contentType="regular" />
+		<page id="parks/disney-world" section="parks_travel:disneyworld" pageName="main" contentType="regular" />
+		<page id="parks/disney-world/flower-garden" section="parks_travel:disneyworld" pageName="epcot" contentType="regular" />
+		<page id="parks/disney-world/cars-characters" section="parks_travel:disneyworld" pageName="meetthecarstars" contentType="regular" />
+		<page id="parks/disneyland" section="parks_travel:disneyland" pageName="main" contentType="regular" />
+		<page id="parks/disneyland" section="parks_travel:disneyland" pageName="meetthecarstars" contentType="regular" />
+		<page id="parks/disneyland" section="parks_travel:disneyland" pageName="meetthecarstars" contentType="regular" />
+		
+		<page id="movies/cars2/synopsis" section="movies:cars_2" pageName="main" contentType="regular" />
+		
+		<page id="games" section="games" pageName="main" contentType="regular" />
+		<page id="games/matermemory" section="games:matermory" pageName="matermemory" contentType="regular" floodLightTag="https://fls.doubleclick.net/activityi;src=568459;type=state338;cat=disne423;u1=[state];ord="/>
+		<page id="games/worldgrandprix" section="games:worldgrandprix" pageName="worldgrandprix" contentType="regular" />
+		<page id="games/chrome" section="games:chrome" pageName="chrome" contentType="regular" />
+		<page id="games/music_maker" section="games:musicmaker" pageName="guidojuggle2" contentType="regular" />
+		<page id="games/carchinko" section="games:carchinko" pageName="carchinko" contentType="regular" />
+		<page id="games/juggle_game" section="games:guidojuggle2" pageName="guidojuggle2" contentType="regular" />
+		<page id="games/spyaerial" section="games:spyaerial" pageName="spyaerial" contentType="regular" /> 
+		<page id="games/megaposter" section="games:megaposter" pageName="megaposter" contentType="regular" /> 
+		<page id="http://disney.go.com/dxd/index.html?channel=187057&content=1826323&contentPlayerID=GameContent&" linkId="cars_games_world_grand_prix" type="linkTrack" />  
+		<page id="http://disney.go.com/cars/games/spy_trainer/site.html" linkId="cars_games_spytrainer" type="linkTrack" />  
+		
+		
+		<page id="http://disney.go.com/cars/games/tractor-tip/games-tractor-tip.html" linkId="cars_games_tractor_tipping" type="linkTrack" />
+		<page id="http://worldofcars.go.com/?source=PpWCWocDol00011&cmp=woc_BAC_Cars_FHome_170x270_Launch_ML_Extl" linkId="cars_games_world_of_cars" type="linkTrack" />
+		<page id="http://disney.go.com/cars/games/mater-rescue/games-mater-rescue.html" linkId="cars_games_maters_rescue" type="linkTrack" />
+		<page id="http://disney.go.com/cars/games/desert-dash/games-desert-dash.html" linkId="cars_games_desert_dash" type="linkTrack" />
+		<page id="http://disney.go.com/cars/games/luigi/games-luigi.html" linkId="cars_games_casa_della_tires" type="linkTrack" />
+		<page id="http://disney.go.com/cars/games/drag-race/games-drag-race.html" linkId="cars_games_docs_drag_race" type="linkTrack" />
+		<page id="http://disney.go.com/cars/games/flos/games-flo.html" linkId="cars_games_flos_v8_game" type="linkTrack" />
+		
+		
+		<page id="tickets" section="tickets" pageName="main" contentType="regular" />
+		<page id="http://showtimes.disneypictures.com/cars-2/" linkId="exit_car_2_ticketpage_gettickets" type="linkTrack" />
+		<page id="http://disneymovierewards.com" linkId="exit_car_2_ticketpage_dmr" type="linkTrack" />
+		<page id="http://www.disneymovierewards.go.com/articles/movietickets?cmp=dmov_dmr_syn_cars2micro" linkId="exit_car_2_ticketpage_dmr" type="linkTrack" />             
+		
+		
+		
+	</tracking>
+</tracking>

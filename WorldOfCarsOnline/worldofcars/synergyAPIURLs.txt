@@ -1,0 +1,2 @@
+APIRoot=http://title.disneyis.com/cars2/api/nds|SynergyGetLoginFields=http://title.disneyis.com/cars2/synergyLoginFields.txt|SynergyGetRSNNews=http://title.disneyis.com/cars2/rsn_synergy.txt|SynergyGetSavedEvents=http://title.disneyis.com/cars2/getachievements.txt|SynergyLogin=http://title.disneyis.com/cars2/login.txt|SynergySaveEvent=http://title.disneyis.com/cars2/saveevents.txt|SVLAuthentication=http://title.disneyis.com/cars2/success.txt 
+

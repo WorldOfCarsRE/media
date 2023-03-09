@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<boot app="FL_Preview_Site.swf" id="previewcars">
+	<libs dpack="libs.dpak">
+		<lib url="DVC_Trumpet3D.swf" />
+		<lib url="DVC_UI.swf" />
+		<lib url="DVC_Cars_UI.swf" />
+		<lib url="DVC_ISO.swf" />
+		<lib url="DVC_RegUtils.swf" />
+		<lib url="DVC_SANE.swf" />
+		<lib url="SharedAssetsLibrary_Fonts.swf" />
+		<lib url="SharedAssetsLibrary_Game.swf" />
+		<lib url="DVC_Tracking.swf" />
+		<lib url="DVC_AMF.swf" />
+	</libs>
+</boot>

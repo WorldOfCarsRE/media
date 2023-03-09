@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parks>
+	<page id="events" default="cars-tour">
+		
+		<nav id="cars-tour" href="events/cars-tour">CARS TOUR 2011</nav>
+		<nav id="disney-network" href="events/disney-network">DISNEY NETWORK</nav>
+
+		<page id="disney-network" preload="disney-network" template="com.disney.cars2.templates.DetailTemplate">
+				<desc><![CDATA[<font color="#c8fdff">Watch the original Cars movie on the Disney Network</font>
+
+<font color="#c8fdff">ABC Family</font>
+June 19 – 7 p.m. and 9:30 p.m. Cars]]>
+				</desc>
+		</page>
+		<page id="cars-tour" preload="events/cars-tour" template="com.disney.cars2.templates.DetailTemplate">
+			<title width="250">"Agents on a Mission" presented by State Farm</title>
+				<desc><![CDATA[<font color="#c8fdff">MINNEAPOLIS</font>			
+Tuesday, March 22, 2011
+10:00 AM – 9:00 PM
+MALL OF AMERICA
+(Best Buy Rotunda – East Side)
+8100 24th Avenue South
+Bloomington, MN  55425
+
+<font color="#c8fdff">KANSAS CITY</font>
+Thursday, March 24, 2011
+12:00 PM - 6:00 PM                          
+CROWN CENTER
+(Crown Center Square)
+2405 Grand Blvd.
+Kansas City, MO  64108
+
+<font color="#c8fdff">ST. LOUIS, MO</font>
+Saturday, March 26, 2011
+9:00 AM - 4:00 PM                                       
+MUSEUM OF TRANSPORTATION
+3015 Barrett Station Rd.
+St. Louis, MO 63122
+
+Sunday, March 27, 2011
+11:00 AM - 4:00 PM                                     
+MUSEUM OF TRANSPORTATION
+3015 Barrett Station Rd.
+St. Louis, MO 63122
+
+Monday, March 28, 2011
+4:00 PM – 7:00 PM
+WEHRENBERG RONNIES 20 CINE
+5320 S Lindbergh Blvd
+St. Louis, MO  63126
+
+<font color="#c8fdff">COLUMBUS, OH</font>
+Wednesday, March 30, 2011
+12:00 PM – 3:00 PM
+EASTON TOWN CENTER
+(Parking Lot or Town Square)
+160 Easton Town Center
+Columbus, OH  43219
+
+<font color="#c8fdff">CINCINNATI, OH</font>
+Thursday, March 31, 2011
+11:00 AM – 12:30 PM 
+CINCINNATI REDS OPENING DAY / FINDLAY MARKET PARADE
+Parade Participant
+Cincinnati, OH 45202
+
+Thursday, March 31, 2011
+3:30 PM - 7:00 PM 
+RAVE MOTION PICTURES MILFORD 16
+(Main Parking Lot)
+500 Rivers Edge Drive
+Milford, OH 45150
+
+Friday, April 1, 2011
+11:00 AM - 4:00 PM
+RAVE MOTION PICTURES FLORENCE 14
+(Main Parking Lot)
+7860 Mall Road
+Florence, KY  41042
+
+<font color="#c8fdff">CLEVELAND, OH</font>
+Monday, April 4, 2011
+12:00 PM - 7:00 PM       
+WESTFIELD GREAT NORTHERN
+(Center Court)
+4954 Great Northern Mall
+North Olmsted, OH 44070
+
+<font color="#c8fdff">DETROIT, MI</font>
+Wednesday, April 6, 2011
+2:00 PM - 7:00 PM   
+GREAT LAKES CROSSING OUTLETS
+(Adjacent to the AMC Theatre in district 6/7)
+4000 Baldwin Rd.
+Auburn Hills, MI  48326
+
+<font color="#c8fdff">TORONTO, ON</font>
+Saturday, April 9, 2011
+10:00 AM – 9:00 PM
+NASCAR SPEEDPARK
+1 Bass Pro Mills Drive
+Vaughan, Ontario L4K 5W4
+
+Sunday, April 10, 2011
+11:00 AM – 8:00 PM
+NASCAR SPEEDPARK
+1 Bass Pro Mills Drive
+Vaughan, Ontario L4K 5W4
+
+Monday, April 11, 2011
+10:00 AM – 9:00 PM
+NASCAR SPEEDPARK
+1 Bass Pro Mills Drive
+Vaughan, Ontario  L4K 5W4
+
+<font color="#c8fdff">OTTAWA, ON</font>
+Thursday, April 14, 2011
+9:30 AM - 9:00 PM
+Place d'Orleans Shopping Centre
+110 Place d'Orleans Drive
+Orleans, Ontario  K1C 2L9
+
+<font color="#c8fdff">PHILADELPHIA, PA</font>
+Sunday, April 17, 2011
+11:00 AM - 5:30 PM   
+CITIZENS BANK PARK – outside of ballpark
+(Philadelphia Phillies game)
+Corner of Pattison Ave. & Citizens Bank Way (adjacent to west side of ballpark) 
+Philadelphia, PA  19148
+
+Monday, April 18, 2011
+4:00 PM - 7:30 PM   
+CITIZENS BANK PARK – outside of ballpark
+(Philadelphia Phillies game)
+Corner of Pattison Ave. & Citizens Bank Way (adjacent to west side of ballpark) 
+Philadelphia, PA  19148
+
+<font color="#c8fdff">NEW YORK, NY</font>
+Friday, April 22, 2011 – Sunday, May 1, 2011
+NEW YORK INTERNATIONAL AUTO SHOW
+
+<font color="#c8fdff">ALLENTOWN, PA</font>
+Saturday, May 7, 2011
+9:00 AM - 1:00PM
+America on Wheels Auto Museum 
+5 North Front Street 
+Allentown, PA 18102
+
+<font color="#c8fdff">WASHINGTON, DC</font>
+Sunday, May 8, 2011
+12:00PM – 5:00 PM
+SILVER SPRING VETERAN'S PLAZA
+(Silver Spring Mother's Day Event)
+One Veterans Place
+Silver Spring, MD  20910
+
+Monday, May 9, 2011
+10:00 AM – 7:00 PM
+INTERNATIONAL SPY MUSEUM           
+800 F Street, NW 
+Washington, DC 20004
+
+<font color="#c8fdff">ORLANDO, FL</font>
+Friday, May 13, 2011 - Sunday, May 15, 2011
+10:30 AM - 6:00 PM
+WALT DISNEY WORLD RESORT / DOWNTOWN DISNEY WEST SIDE
+
+<font color="#c8fdff">MIAMI, FL</font>
+Wednesday, May 18, 2011 – Thursday, May 19, 2011
+12:00 PM - 6:00 PM
+MIAMI CHILDREN'S MUSEUM
+(Outside of museum next to Main entrance)
+980 Macarthur Cswy. 
+Miami, FL 33132
+
+<font color="#c8fdff">ATLANTA, GA</font>
+Sunday, May 22, 2011
+12:00 PM - 6:00 PM 
+PERIMETER MALL
+(Northeast Parking Lot at Ashford Dunwoody & Perimeter Center West)
+4400 Ashford-Dunwoody Road
+Atlanta, GA 30346
+
+Monday, May 23, 2011
+1:00 PM - 7:00 PM 
+STUDIO MOVIE GRILL
+2880 Holcomb Bridge Road
+Alpharetta, GA 30022
+
+<font color="#c8fdff">CHARLOTTE, NC</font>
+Thursday, May 26, 2011 – Saturday, May 28, 2011
+12:00 PM – 7:00 PM
+FOOD LION SPEED STREET
+TWO WELLS FARGO – PLAZA
+TRYON STREET AND THIRD STREET
+CHARLOTTE, NC  28202
+
+<font color="#c8fdff">DALLAS, TX</font>
+Wednesday, June 1, 2011
+1:00 PM – 7:00 PM
+NorthPark Mall
+(Northeast section of the parking lot next to N. Central Expressway)
+8687 North Central Expy
+Dallas, TX 75225
+
+<font color="#c8fdff">PHOENIX, AZ</font>
+Sunday, June 5, 2011
+11:00 AM – 5:00 PM
+ARIZONA DIAMONDBACKS – CHASE FIELD
+(on 4th Street in front of main plaza entry)
+401 E. Jefferson Street
+Phoenix, AZ  85004
+
+Monday, June 6, 2011
+1:00 PM – 7:00 PM
+HARKINS THEATRES TEMPE MARKET PLACE
+(South Parking Lot)
+2000 E. Rio Salado Parkway
+Tempe, AZ  85281
+
+<font color="#c8fdff">LAS VEGAS, NV</font>
+Thursday, June 9, 2011
+12:00 PM – 5:00 PM
+Town Square Mall
+(Center Park Area)
+6605 Las Vegas Boulevard South
+Las Vegas, NV 89119
+
+<font color="#c8fdff">SAN DIEGO, CA</font>
+Saturday, June 11, 2011 – Sunday, June 12, 2011
+10:00 AM – 10:00 PM
+SAN DIEGO COUNTY FAIR
+(Directly inside Arena Gate)
+2260 Jimmy Durante Blvd
+Del Mar, CA 92014
+
+<font color="#c8fdff">LOS ANGELES, CA</font>
+Wednesday, June 22, 2011
+12:00 PM - 7:00 PM
+The Americana at Brand
+(On The Green)
+889 Americana Way
+Glendale, CA 91210
+
+<font color="#c8fdff">SAN FRANCISCO, CA</font>
+Saturday, June 25, 2011
+Time / Location TBD]]></desc>
+	</page>
+	</page>
+	<images>
+		<!-- id="featured" is a hard coded value. The DetailTemplate looks to see if a feature has been loaded. If it has, it will display it, if not, the text box will fill the space. -->
+		<img id="featured" location="events/cars-tour" src="promos/live-events/cars2_events_cars_tour.jpg" />
+		<img id="featured" location="disney-network" src="promos/live-events/cars2_events_disney_network.jpg" />
+	</images>
+</parks>

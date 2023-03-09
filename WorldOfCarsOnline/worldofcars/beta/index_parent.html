@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+		<title>Disney Pixar The World of Cars Online - Test Track</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="description" content="Create, race and play in the World of Cars Online, the new online game from Disney & Pixar where you can create your own race car and meet thousands of other players on the ride of a lifetime." />
+		<meta name="author" content="Disney Interactive Media Group" />
+		<meta name="keywords" content="Cars, Pixar, Disney, Lightning McQueen, games, racing, MMO" />
+		<meta name="facet1" content="" /> 
+        <script type="text/javascript" src="js/flash_detect_min.js"></script>
+		<script type="text/javascript" >
+			var gameWindow;
+			function playWorldOfCars()
+			{
+				var questionMark = window.location.href.indexOf("?");
+				var qs = questionMark < 0 ? "" : "?"+window.location.href.substr(questionMark+1);
+				gameWindow = window.open("index.html"+qs,'mywindow','width=1005,height=700');//, toolbar=yes,location=yes,menubar=yes');
+				if(gameWindow!=null)
+				{
+					gameWindow.focus();
+				}
+				else
+				{
+					alert( "Could not open game window" );
+				}
+			}
+
+			function parentRedirect(xPage, xClose){
+				//alert("called parentRedirect page="+xPage+" close=" + xClose);
+				//top.window.location = this[xPage];
+				top.window.focus();
+				
+				if (xClose == "true"){
+
+					gameWindow.close();
+
+				}
+			}
+		</script>
+		<link rel="stylesheet" href="css/game.css" type="text/css" />
+	</head>
+	<body>
+		<div id="launch"><a href="javascript:playWorldOfCars();" title="Launch Game Popup">Play</a></div>
+	</body>
+</html>

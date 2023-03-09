@@ -1,0 +1,31 @@
+<Site_config>
+	<data src="site_data.xml" />
+	<tracking src="DVC_Tracking.swf" />
+	<!-- the flash references the id...the name corresponds to the Font Name in the fonts.fla. In this case...id and name are the same -->
+	<fonts swf="swfs/fonts.swf" >
+		<font id="Frut55Roman12" name="Frut55Roman12" />
+		<font id="Frut56Italic" name="Frut56Italic" />
+		<font id="Snyder18" name="Snyder18" />
+		<font id="Frut65Bold12" name="Frut65Bold12" />
+		<font id="SerpentineBoldOblique12" name="SerpentineBoldOblique12" />
+		<font id="MagnetoBold19" name="MagnetoBold19" />
+		<font id="Frut75Black12" name="Frut75Black12" />
+		<font id="SnyderRegular12" name="SnyderRegular12" />
+		<font id="Frut67BoldCondensed" name="Frut67BoldCondensed" />
+	</fonts>
+	<panel id="page_loader" swf="swfs/page_loader.swf" />
+	<panel id="stage_assets" swf="swfs/stage_assets.swf" />
+	<panel id="main_nav" swf="swfs/main_nav.swf" />
+	<panel id="home" swf="swfs/home.swf" />
+	<panel id="characters" swf="swfs/characters.swf" />
+	<panel id="videos" swf="swfs/videos.swf" />
+	<panel id="games" swf="swfs/games.swf" />
+	<panel id="movies" swf="swfs/movies-3tab.swf" />
+	<panel id="events" swf="swfs/live_events.swf" />
+	<panel id="parks" swf="swfs/parks.swf" />
+	<panel id="products" swf="swfs/products.swf" />
+	<panel id="home_promos" swf="swfs/home_promos.swf" />
+	<panel id="small_promos" swf="swfs/small_promos.swf" />
+</Site_config>
+<!-- 101012	1645 -->
+<!-- game-101018 release -->

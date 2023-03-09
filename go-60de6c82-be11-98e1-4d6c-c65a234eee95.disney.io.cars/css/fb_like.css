@@ -1,0 +1,24 @@
+body {
+  margin      : 0;
+  padding     : 0;
+  color       : #333;
+  font-size   : 11px;
+  font-family : "Lucida Grande", Verdana, Arial, sans-serif;
+}
+
+a, a:visited,a:link, a:active {
+  color           : #333;
+  text-decoration : none;
+}
+a:hover {
+  color           : #333;
+  text-decoration : underline;
+}
+
+#fb-padding {
+  padding: 20px;
+  width: 670px;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 15px;
+}

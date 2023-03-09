@@ -1,0 +1,25 @@
+<area xOffset="0" yOffset="0" width="1" height="4" defaultTile="ground_tile">
+  <assets>
+    <asset id="292"/>
+    <asset id="328"/>
+    <asset id="329"/>
+    <asset id="332"/>
+    <asset id="333"/>
+    <asset id="334"/>
+    <asset id="319"/>
+  </assets>
+  <layers>
+    <layer name="ground" sort="false" type="diamond" tileWidth="200" tileHeight="100" maxTileLayers="4">
+      <tile asset="319,,," x="0" y="0" flags=""/>
+      <tile asset="292,,," x="0" y="1" flags=""/>
+      <tile asset="329,,," x="0" y="2" flags=""/>
+      <tile asset="328,,," x="0" y="3" flags=""/>
+    </layer>
+    <layer name="road" sort="false" type="diamond" tileWidth="200" tileHeight="100" maxTileLayers="1"/>
+    <layer name="object" sort="false" type="diamond" tileWidth="100" tileHeight="50" maxTileLayers="1">
+      <tile asset="332" x="1" y="2" flags=""/>
+      <tile asset="333" x="1" y="4" flags=""/>
+      <tile asset="334" x="0" y="5" flags=""/>
+    </layer>
+  </layers>
+</area>

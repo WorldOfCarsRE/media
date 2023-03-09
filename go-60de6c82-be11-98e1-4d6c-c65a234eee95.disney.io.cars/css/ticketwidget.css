@@ -1,0 +1,90 @@
+/*********************************************** 
+ 
+ CSS for Disney Ticket Widget
+
+ Trapeze Media Ltd., Toronto, Ontario, Canada
+
+ Version: DTW 0.1.0  
+
+ From: June 2, 2005  
+ 
+************************************************/
+#ticket-widget {
+	height:37px;
+	width:100%;
+	background:url(../images/ticketwidget_bg.jpg) repeat-x;
+}
+#widget_form {
+	color:#FFFFFF;
+	text-align:right;
+	font-family:Arial, Helvetica, "sans serif";
+	font-size:10px;
+	width:700px;
+	height:37px;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+#widget_form .inline {
+	padding-top:5px;
+	float:left;
+}
+#widget_form .title {
+	float:left;
+	padding-top:8px;
+}
+
+.ticketwidget {
+	float:left;
+	font-family: verdana, sans-serif;
+	font-size: 9px;
+	vertical-align: top;
+	font-weight: bold;
+	margin-bottom: -15px;
+	color: #FFFFFF;
+}
+
+.ticketwidget2 {
+	float:left;
+	font-family: verdana, sans-serif;
+	font-size: 9px;
+	vertical-align: top;
+	font-weight: bold;
+	margin-bottom: -15px;
+	color: #FFFFFF;
+}
+
+.ticketwidget3 {
+	float:left;
+	font-family: verdana, sans-serif;
+	font-size: 9px;
+	vertical-align: top;
+	font-weight: bold;
+	margin-bottom: -15px;
+	color: #FFFFFF;
+}
+
+.findbutton {
+	position: relative;
+	left: -3px;
+	top: 4px;
+}
+
+.findbutton2 {
+	position: relative;
+	left: -3px;
+	top: 1px;
+}
+
+.findbutton3 {
+	position: relative;
+	left: -4px;
+	top: 1px;
+}
+
+.findbutton4 {
+	position: relative;
+	left: -5px;
+	top: 4px;
+}
+

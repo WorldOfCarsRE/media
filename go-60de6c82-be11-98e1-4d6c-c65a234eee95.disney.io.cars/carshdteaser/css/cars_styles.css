@@ -1,0 +1,190 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* - - - - - - - - - - - - - - - - - - - - - - */
+/* Cars Franchise Style Sheet                  */
+/* 091116                                      */
+/* - - - - - - - - - - - - - - - - - - - - - - */
+
+/* General Design */
+body { 
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:12px;
+	text-align: center;
+	margin: 0; 
+	padding:0;
+	height:100%;
+	background:#000000 url(../images/sitemap/cars_html_bg.jpg) repeat-x;
+}
+
+/* Chrome */
+#chrome { background:#000000;}
+
+/* Footer */
+#footer h6 { color: #666; font-size: 1em; font-weight: bold; margin: 15px 0 -.5em; padding: 0; }
+#footer td, #footer td span, #footer td a { color: #666 !important; }
+#footer td a { font-size: .8em !important; }
+
+
+/* Donwloads */
+#downloads { font-size: .7em; padding: 0; background: #040c1f; color: #E6E6E6}
+#downloads h3 { font-size: 1.1em; font-weight: bold; margin: 0 0 1em 0; }
+
+#downloads #instructions { background: #0f1a2f; padding: 10px; }
+#downloads #instructions div { text-align: left; }
+#downloads #instructions div.pc { float: left; width: 50%; }
+#downloads #instructions div.mac { float: right; width: 50%; }
+#downloads #instructions ol { margin: 0 0 0 2.2em; padding: 0; }
+#downloads #instructions li { margin-bottom: .5em; }
+#downloads #contentdownload { text-align: center; padding: 10px; }
+#downloads #contentdownload img { display: block; margin: 0 auto; }
+
+#downloads.screensavers { padding: 20px; }
+#downloads.screensavers #agreement, #downloads.screensavers #close { display: none; }
+#downloads.screensavers #eula_text { color: #000; text-align: left; height: 300px; padding: .8em; overflow: auto; background: #fff; }
+#downloads.screensavers div.form { text-align: left; }
+#downloads.screensavers div.form input.button, #downloads.screensavers #close a.button { color: #CEF3A6; font-weight: bold; text-decoration: none; width: 150px; margin: 0 auto; padding: .2em; border: 0; background: url(../media/images/html/bg_button.png) 0 50% repeat-x; display: block; cursor: pointer; }
+#downloads.screensavers div.form input.button:hover, #downloads.screensavers #close a.button:hover { color: #2B4F1A; background-image: url(../media/images/html/bg_button_over.png); }
+#downloads.screensavers div.form input.disabled, #downloads.screensavers div.form input.disabled:hover { color: #576991; background-image: url(../media/images/html/bg_button_disabled.png); cursor: default; }
+#downloads.screensavers #close { font-size: 1.3em; padding-top: 180px; display: none; }
+#downloads.screensavers #close a.button { font-size: .9em;  }
+
+/* Main content */
+#wrapper {
+	background:#000000 url(../images/sitemap/cars_sitemap_inner_bg.jpg) repeat-y;
+	width:1050px;
+	min-width:994px;
+	padding-left:4px;
+	padding-right:4px;
+	margin-left:auto;
+	margin-right:auto;
+	min-height:800px;
+	height:auto !important;
+	height:800px;
+	position:relative;
+}
+
+/* Site Map */
+#sitemap {
+	position:relative;
+	background: #000 url(../images/sitemap/cars_sitemap_bg_03.jpg) no-repeat;
+	width:1050px;
+	margin-left:auto;
+	margin-right:auto;
+	min-height:800px;
+	height:auto !important;
+	height:800px;
+}
+#sitemap h1 {
+	background: url(../images/sitemap/cars_sitemap_h1_03.jpg) no-repeat;
+	width:143px;
+	height:27px;
+	overflow:hidden;
+	text-indent:-9999px;
+	margin:0px;
+	padding:0px;
+}
+#sitemap #title {
+	position:absolute;
+	top:205px;
+	left:0px;
+	width:1050px;
+}
+#sitemap #content {
+	position:absolute;
+	top:260px;
+	left:180px;
+	width:760px;
+	height:386px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#sitemap .column {
+	float:left;
+	height:386px;
+	width:160px;
+	text-align:left;
+	padding-right:15px;
+}
+#sitemap a, #sitemap a:link, #sitemap:visited {
+	color:#000000;
+	text-decoration:none;
+	padding-left:10px;
+}
+#sitemap a:hover {
+	color:#c51415;
+}
+#sitemap .header a, #sitemap .header a:link, #sitemap .header a:visited {
+	color:#000000;
+	font-size:11px;
+	font-weight:bold;
+	text-transform:uppercase;
+	text-decoration:underline;
+	padding:0px;
+}
+#sitemap .header a:hover {
+	color:#c51415;
+}
+
+/* Flash Upgrade */
+#flash_upgrade {
+	position:relative;
+	background: #000 url(../images/flash_upgrade/cars_flash_upgrade_bg.jpg) no-repeat;
+	width:1050px;
+	margin-left:auto;
+	margin-right:auto;
+	min-height:800px;
+	height:auto !important;
+	height:800px;
+}
+#flash_upgrade h1 {
+	background: url(../images/flash_upgrade/cars_flash_upgrade.jpg) no-repeat;
+	width:205px;
+	height:31px;
+	overflow:hidden;
+	text-indent:-9999px;
+	margin:0px;
+	padding:0px;
+}
+#flash_upgrade #title {
+	position:absolute;
+	top:205px;
+	left:0px;
+	width:1050px;
+}
+#flash_upgrade #content {
+	position:absolute;
+	top:220px;
+	left:140px;
+	margin-top:40px;
+	width:740px;
+	height:346px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:left;
+	padding:20px;
+}
+#upgrade_link a, #upgrade_link a:link, #upgrade_link a:visited {
+	display:block;
+	width:264px;
+	height:18px;
+	background:#c51415;
+	color:#FFF;
+	text-transform:uppercase;
+	text-align:center;
+	padding-top:2px;
+	text-decoration:none;
+}
+#upgrade_link a:hover {
+	background:#212d59;
+}
+#flash_upgrade #note {
+	position:absolute;
+	top:630px;
+	left:125px;
+	color:#9c9c9c;
+	width:800px;
+	margin-left:auto;
+	margin-right:auto;
+	padding-top:30px;
+}

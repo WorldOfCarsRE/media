@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+<content>
+	<configUrl>http://a.dolimg.com/diamond/DCOM_Common_Views/DCOM_Common_Style_Small_Black/data/handshake.xml</configUrl>
+	<!--diamondUrl>http://disney.go.com/cars/diamond/flash_renderer/code/diamond.swf</diamondUrl-->
+	<diamondUrl>http://disney.go.com/signup/flash_renderer/code/diamond.swf</diamondUrl>
+	<!--siteConfig>Cars2Sweeps_SiteConfig</siteConfig-->
+	<siteConfig>Cars2Sweeps_SiteConfig100</siteConfig>
+	<templateId>1438</templateId>
+</content>
+</data>

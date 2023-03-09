@@ -1,0 +1,86 @@
+html {
+	background: #000000;
+	font: 12px/15px 'Verdana', 'Geneva', sans-serif;
+	color: #B4D1E3;
+}
+
+a {
+	color: #B4D1E3;
+	outline: none;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+h2 {
+	width: 460px;
+	font-size: 1.5em;
+	line-height: 1.5em;
+	text-transform: uppercase;
+	color: #FCCC5C;
+	font-weight: bold;
+	border-bottom: 1px solid #373B3E;
+}
+
+p {
+	padding-top: 10px;
+}
+
+.upg-upgradeWrapper {
+	width: 996px;
+	height: 667px;
+	padding-top: 20px;
+	margin: auto;
+	position: relative;
+}
+
+.upg-DIMGFlashUpgradeInstructionsContainer {
+	width: 520px;
+	float: left;
+	display: inline;
+	padding-right: 20px;
+}
+
+.upg-DIMGFlashUpgradeInstructionsContainer .upg-flashVersionTable {
+	margin-top: 10px;
+}
+
+.upg-DIMGFlashUpgradeInstructionsContainer .upg-flashVersionTable .upg-flashVersion {
+	padding-left: 10px;
+}
+
+.upg-DIMGFlashUpgradeInstructionsContainer .upg-flashVersionTable .upg-flashVersion {
+	font-weight: bold;
+	font-size: 1.2em;
+	line-height: 1.2em;
+}
+
+.upg-DIMGFlashUpgradeInstructionsContainer .upg-DIMGFlashUpgradeAction {
+	margin-top: 10px;
+}
+
+.upg-DIMGFlashUpgradeInstructionsContainer .upg-DIMGFlashUpgradeTrigger {
+	display: block;
+	width: 294px;
+	height: 36px;
+	overflow:hidden;
+	text-indent: -9999em;
+	background: url(../img/btn/btn-upgradeflash.png) no-repeat;
+	margin-top: 20px;
+}
+.upg-DIMGFlashUpgradeInstructionsContainer .upg-DIMGFlashUpgradeTrigger:hover {
+	background-position: 0 -36px;
+	text-decoration: none;
+}
+
+#DIMGFlashUpgrade {
+	float: left;
+	display: inline;
+	width: 300px;
+	height: 400px;
+	outline: none;
+	margin-left: 20px;
+}

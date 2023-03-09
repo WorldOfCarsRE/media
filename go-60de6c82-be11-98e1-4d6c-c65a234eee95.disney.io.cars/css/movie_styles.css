@@ -1,0 +1,12 @@
+/* - - - - - - - - - - - - - - - - - - - - - - */
+/* Cars Franchise Style Sheet                  */
+/* Movie Production Notes Page                 */
+/* - - - - - - - - - - - - - - - - - - - - - - */ 
+
+/* General Design */
+body { color: #000; font: normal .8em Arial, Helvetica, sans-serif; text-align: center; margin: 0; padding: 0 0 20px; background: url(images/movie/bg-bar-800x4.jpg) repeat; }
+a { color: #fff; text-decoration: underline; }
+a:hover { text-decoration: none !important; border-bottom: 1px dotted; }
+#wrapper { /*background: url(images/movie/bg-bar-800x4.jpg) repeat-x;*/ }
+form { margin: 0 auto; padding: 0; }
+.flowfix { width: auto !important; height: 1px !important; margin: 0 !important; padding: 0 !important; clear: both !important; display: block !important; position: relative !important; float: none !important; overflow: hidden !important; }

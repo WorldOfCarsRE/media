@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<poster>
+	<cars>
+		<entry>
+			<owner>mcqueen</owner>
+			<info><![CDATA[<b>Lightning McQueen (Owen Wilson)</b> <br />A hotshot rookie racecar, when McQueen gets lost in the forgotten town of Radiator Springs, he's introduced to a group of new friends that challenge him to reconsider the car he wants to be.]]></info>
+			<audio>mcqueen.mp3</audio>
+		</entry>
+		<entry>
+			<owner>mater</owner>
+			<info><![CDATA[<b>Mater (Larry the Cable Guy)</b> <br />The only tow truck in Radiator Springs, Mater's the sweetest, most loyal guy in town and the first to befriend McQueen.]]></info>
+			<audio>mater.mp3</audio>
+		</entry>
+		<entry>
+			<owner>sally</owner>
+			<info><![CDATA[<b>Sally (Bonnie Hunt)</b> <br />Sally is the town attorney and the car most dedicated to preserving and reviving the town with the hopes that one day it will get “back on the map”.]]></info>
+			<audio>sally.mp3</audio>
+		</entry>
+		<entry>
+			<owner>doc</owner>
+			<info><![CDATA[<b>Doc Hudson (Paul Newman)</b> <br />A cornerstone of Radiator Springs, Doc runs the local 'medical clinic' (mechanic shop) and serves as town judge.]]></info>
+			<audio>doc.mp3</audio>
+		</entry>
+		<entry>
+			<owner>fillmore</owner>
+			<info><![CDATA[<b>Fillmore (George Carlin)</b> <br />Fillmore is a 1960 VW Bus and Radiator Springs' resident hippie. A believer in individuality and all things natural, he brews his own organic fuel and preaches its many benefits.]]></info>
+			<audio>fillmore.mp3</audio>
+		</entry>
+		<entry>
+			<owner>sarge</owner>
+			<info><![CDATA[<b>Sarge (Paul Dooley)</b> <br />Sarge is a 1942 WW2 Willy's Army Jeep, a patriotic veteran to the core. He proudly flies the Stars and Stripes and begins each day with a rousing rendition of Reveille.]]></info>
+			<audio>sarge.mp3</audio>
+		</entry>
+		<entry>
+			<owner>ramone</owner>
+			<info><![CDATA[<b>Ramone (Cheech Marin)</b> <br />Ramone owns and operates Ramone's House of Body Art, the local custom body and paint shop.  He's married to his sweetheart of many years, Flo.]]></info>
+			<audio>ramone.mp3</audio>
+		</entry>
+		<entry>
+			<owner>flo</owner>
+			<info><![CDATA[<b>Flo (Jenifer Lewis)</b> <br />While traveling across country, Flo passed through Radiator Springs and met Ramone.  It was love at first sight and the two have been married ever since. Flo runs the local diner, Flo's V-8 Cafe.]]></info>
+			<audio>flo.mp3</audio>
+		</entry>
+		<entry>
+			<owner>luigi</owner>
+			<info><![CDATA[<b>Luigi (Tony Shalhoub)</b> <br />Luigi runs the local tire shop, Luigi's Casa Della Tires.  An avid racing fan, Luigi is excited to meet McQueen.]]></info>
+			<audio>luigi.mp3</audio>
+		</entry>
+		<entry>
+			<owner>guido</owner>
+			<info><![CDATA[<b>Guido (Guido Quaroni)</b> <br />Luigi's assistant and best friend.  Like his boss, Guido is an avid Ferrari racing fan who dreams of performing a real pit stop on a real race car. In fact, the only words Guido knows in English are "Pit Stop!"]]></info>
+			<audio>guido.mp3</audio>
+		</entry>
+		<entry>
+			<owner>chick</owner>
+			<info><![CDATA[<b>Chick Hicks (Michael Keaton)</b> <br />A racing veteran with a chip on his shoulder, Chick Hicks is the consummate runner-up, always finishing just behind the world's greatest racing champion, The King.]]></info>
+			<audio>chick.mp3</audio>
+		</entry>
+		<entry>
+			<owner>king</owner>
+			<info><![CDATA[<b>The King (Richard Petty)</b> <br />The King has won more Piston Cup races than any other car in history, but has managed to keep his priorities straight.  He's a down home guy who knows that it takes more than trophies to make a true champion.]]></info>
+			<audio>king.mp3</audio>
+		</entry>
+		<entry>
+			<owner>sheriff</owner>
+			<info><![CDATA[<b>Sheriff (Michael Wallis)</b> <br />He's the keeper of the peace in Radiator Springs.  Regular check-ups with his pal Doc keep him in chasing shape, ready to catch any would-be speeders who might want to barrel through his town.]]></info>
+			<audio>sheriff.mp3</audio>
+		</entry>
+		<entry>
+			<owner>mack</owner>
+			<info><![CDATA[<b>Mack (John Ratzenberger)</b> <br />McQueen's trusted driver.  An experienced trucker, Mack is willing to push the limits to get McQueen wherever he needs to go.]]></info>
+			<audio>mack.mp3</audio>
+		</entry>
+		<entry>
+			<owner>red</owner>
+			<info><![CDATA[<b>Red (Joe Ranft)</b> <br />Red is a gentle giant, who's painfully shy and quite sensitive.  When not cheerfully helping out his neighbors, you can find him lovingly watering the flowers he grows in town.]]></info>
+			<audio></audio>
+		</entry>
+		<entry>
+			<owner>lizzie</owner>
+			<info><![CDATA[<b>Lizzie (Katherine Helmond)</b> <br />A little old lady who's feisty as she is brash.  Lizzie is a Radiator Springs original - an active businesswoman who still relies on her moxie to sell bumper stickers, mud flaps and other Route 66 memorabilia from the curio shop.]]></info>
+			<audio>lizzie.mp3</audio>
+		</entry>
+		<entry>
+			<owner>semi</owner>
+			<info></info>
+			<audio>semi.mp3</audio>
+		</entry>
+		<entry>
+			<owner>blimp</owner>
+			<info></info>
+			<audio>blimp.mp3</audio>
+		</entry>
+		<entry>
+			<owner>darrell</owner>
+			<info></info>
+			<audio>darrell.mp3</audio>
+		</entry>
+		<entry>
+			<owner>miatas</owner>
+			<info></info>
+			<audio>miatas.mp3</audio>
+		</entry>
+	</cars>
+	<type>
+		<title><![CDATA[INTERACTIVE POSTER]]></title>
+		<help><![CDATA[Move the Magnifying glass on the left to zoom in on your favorite car.<br><b>CLICK ON A CAR TO HEAR AN AUDIO CLIP!</b>]]></help>
+	</type>
+</poster>

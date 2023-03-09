@@ -1,0 +1,18 @@
+
+#ratingsInfo,#ratingsInfo a,#ratingsInfo a:hover{color:#555555;font:10px verdana,arial,helvetica,sans-serif;}
+
+#disclaimer {
+   position: absolute;
+   width:300px;
+   margin: 0 auto;
+   padding:5px;
+   top: -5px;
+   left: 560px;
+   color:#555555;
+   text-align:center;
+   font-family:Arial, Helvetica, "sans serif";
+   font-size:11px;
+   background:#000000;
+   border:1px solid #555555;
+   display:none;
+}

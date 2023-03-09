@@ -1,0 +1,166 @@
+.tips_header{
+	float:left;
+	width:890px;
+	padding-bottom:6px;
+	margin:5px;
+	border-bottom:1px solid #1c1c1c;
+}
+.tips_header h2{
+	padding-top:3px;
+	float:left;
+	width:790px;
+	font-size:20px!important;
+}
+.tips_header h2 span{
+	font-weight:normal;
+	color:#666;
+}
+.back_btn{
+	float:left;
+	display:block;
+	width:92px;
+	height:26px;
+	text-indent:-9999em;
+	overflow:hidden;
+	background: url(../images/buttons/back.gif) left top no-repeat;
+	position: relative;
+}
+.back_btn:hover{
+	background-position: 0px -26px;
+}
+.mod_wrap{
+	float:left;
+	display: inline;
+	height:332px;
+	width: 900px;
+	visibility: hidden;
+}
+
+.mod{
+	display: inline;
+	padding:12px 12px 0 11px;
+	margin:0 4px 0 4px;
+	background: url(../images/backgrounds/tips_bg.gif) left top no-repeat;
+}
+.mod img{
+	float:left;
+	display: inline;
+	border:1px solid #666;
+	margin:8px 0;
+}
+.mod p{
+	float:left;
+	display: inline;
+	width:192px;
+	font-size:11px;
+	padding-top:8px;
+	border-top:1px solid #666;
+}
+
+.page_content_inner{
+	padding:0 0 20px 14px;
+}
+#paginator{
+	position:absolute;
+	height:33px;
+	padding-top:5px;
+	bottom:18px;
+	left:55px;
+	width:880px;
+	border-top:1px solid #838383;
+	z-index:7777;
+}
+.page_back,.page_next{
+	position:absolute;
+	top:3px;
+	width:47px;
+	height:16px;
+	padding-top:2px;
+	text-align:center;
+	color:#fff;
+	background:url(../images/buttons/page_btn_bg.gif) left top no-repeat;
+}
+.page_next{
+	right:0;
+}
+.page_back, .page_next {
+	cursor: pointer;
+}
+
+.jcarousel-container {
+    position: relative;
+}
+
+.jcarousel-clip {
+    z-index: 2;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    position: relative;
+}
+
+.jcarousel-list {
+    z-index: 1;
+    overflow: hidden;
+    position: relative;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.jcarousel-list li,
+.jcarousel-item {
+    float: left;
+	display: inline;
+    list-style: none;
+    /* We set the width/height explicitly. No width/height causes infinite loops. */
+	width: 192px;
+    height: 320px;
+}
+
+/**
+ * The buttons are added dynamically by jCarousel before
+ * the <ul> list (inside the <div> described above) and
+ * have the classnames "jcarousel-next" and "jcarousel-prev".
+ */
+.jcarousel-next {
+    z-index: 3;
+    display: none;
+}
+
+.jcarousel-prev {
+    z-index: 3;
+    display: none;
+}
+.jcarousel-container-horizontal {
+	float:left;
+    width: 890px;
+	display: inline;
+	margin-left: 5px;
+}
+.jcarousel-clip-horizontal {
+    width:  890px;
+		margin:0em auto;
+    height: 350px;
+}
+
+
+
+.jcarousel-item {
+    /*width: 137px;
+    height: 66px;*/
+}
+.jcarousel-item img{
+	border:none;
+}
+
+.jcarousel-item-horizontal {
+
+}
+
+.jcarousel-item-placeholder {
+    background: #fff;
+    color: #000;
+		float:left;
+}

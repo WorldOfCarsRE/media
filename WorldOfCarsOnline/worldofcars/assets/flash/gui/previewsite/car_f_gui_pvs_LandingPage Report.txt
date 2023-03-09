@@ -1,0 +1,160 @@
+car_f_gui_pvs_LandingPage.swf Movie Report
+-------------------------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1          89095          89095    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                             1777             0                     0
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+sparkle                               55             0                     0
+shimmer                                0             0                     0
+specular                              45             0                     0
+specular2                            863             0                     0
+specular3                              0             0                     0
+PushButtonLarge_disabled_base        470             0                     0
+PushButtonLarge_down_base            470             0                     0
+PushButtonLarge_over_base            470             0                     0
+PushButtonLarge_up_base              470             0                     0
+PushButtonLarge_up                     0            49                     0
+PushButtonLarge_over                   0            49                     0
+PushButtonLarge_down                   0            49                     0
+PushButtonLarge_disabled               0            49                     0
+PushButtonLarge                        0             0                     0
+ActionAdventureSuspension           1829             0                     0
+ComingSoon                           720             0                     0
+untilThenRace                       1211             0                     0
+TestTrackLogo                       2780             0                     0
+VideoFrame                           351             0                     0
+LinkButtonMedium_disabled_base        51             0                     0
+LinkButtonMedium_down_base            51             0                     0
+LinkButtonMedium_over_base            51             0                     0
+LinkButtonMedium_up_base              51             0                     0
+LinkButtonMedium_up                    0            64                     0
+LinkButtonMedium_over                  0            64                     0
+LinkButtonMedium_down                  0            64                     0
+LinkButtonMedium_disabled              0            64                     0
+LinkButtonMedium                       0             0                     0
+LandingPageCreateAccount               0            75                     0
+LandingPageLogin                       0            94                     0
+LinkButtonSmall_disabled_base         51             0                     0
+LinkButtonSmall_down_base             51             0                     0
+LinkButtonSmall_over_base             51             0                     0
+LinkButtonSmall_up_base               51             0                     0
+LinkButtonSmall_up                     0            58                     0
+LinkButtonSmall_over                   0            58                     0
+LinkButtonSmall_down                   0            58                     0
+LinkButtonSmall_disabled               0            58                     0
+LinkButtonSmall                        0             0                     0
+onePage                                0             0                     0
+testTrackBackground                  378             0                     0
+logo                                   0             0                     0
+pushButton_101_bg                      0             0                     0
+pushButton_101_disabled                0             0                     0
+pushButton_101_down                    0             0                     0
+pushButton_101_over                    0             0                     0
+pushButton_101_up                      0             0                     0
+<Compound Path>_1                      0             0                     0
+pushButtonSmall_down_base              0             0                     0
+pushButtonSmall_down                   0             0                     0
+pushButtonSmall_up_base                0             0                     0
+pushButtonSmall_up                     0             0                     0
+lib_PushButtonSmall                    0             0                     0
+textField_disabled_base                0             0                     0
+textField_disabled                     0             0                     0
+textField_down                         0             0                     0
+textField_over                         0             0                     0
+textField_up                           0             0                     0
+textField_selected                     0             0                     0
+textField_green                        0             0                     0
+TextInputMedium_errorIcon              0             0                     0
+lib_TextInputMedium                    0             0                     0
+pushButtonSmallTintable_base           0             0                     0
+pushButtonSmallTintable_disabled       0             0                     0
+pushButtonSmallTintable_down           0             0                     0
+pushButtonSmallTintable_over           0             0                     0
+pushButtonSmallTintable_up             0             0                     0
+lib_PushButtonMediumTintable           0             0                     0
+pushButtonMedium_disabled_base         0             0                     0
+pushButtonMedium_disabled              0             0                     0
+pushButtonMedium_down_base             0             0                     0
+pushButtonMedium_down                  0             0                     0
+pushButtonMedium_over_base             0             0                     0
+pushButtonMedium_over                  0             0                     0
+pushButtonMedium_up_base               0             0                     0
+pushButtonMedium_up                    0             0                     0
+lib_PushButtonMedium                   0             0                     0
+FrameBase_baseShape                    0             0                     0
+FrameBase_base_title                   0             0                     0
+FrameBase_controls                     0             0                     0
+btn_closeButton_disabled_base          0             0                     0
+gfx_xclose                             0             0                     0
+btn_closeButton_disabled               0             0                     0
+btn_closeButton_down_base              0             0                     0
+btn_closeButton_down                   0             0                     0
+btn_closeButton_over_base              0             0                     0
+btn_closeButton_over                   0             0                     0
+btn_closeButton_up_base                0             0                     0
+btn_closeButton_up                     0             0                     0
+lib_CloseButton                        0             0                     0
+gfx_help                               0             0                     0
+btn_helpBtn_disabled                   0             0                     0
+btn_helpBtn_down                       0             0                     0
+btn_helpBtn_over                       0             0                     0
+btn_helpBtn_up                         0             0                     0
+lib_HelpButton                         0             0                     0
+lib_ListBackground                     0             0                     0
+videoContainer                        32             0                     0
+pushButtonMediumAlt_down_base          0             0                     0
+pushButtonMediumAlt_down               0             0                     0
+pushButtonMediumAlt_up_base            0             0                     0
+pushButtonMediumAlt_up                 0             0                     0
+lib_PushButtonMediumAlternate          0             0                     0
+pushButtonMicro_disabled_base          0             0                     0
+pushButtonMicro_disabled               0             0                     0
+pushButtonMicro_down_base              0             0                     0
+pushButtonMicro_down                   0             0                     0
+pushButtonMicro_over_base              0             0                     0
+pushButtonMicro_over                   0             0                     0
+pushButtonMicro_up_base                0             0                     0
+pushButtonMicro_up                     0             0                     0
+lib_PushButtonMicro                    0             0                     0
+pushButtonMicroAlternate_down_base     0             0                     0
+pushButtonMicroAlternate_down          0             0                     0
+pushButtonMicroAlternate_up_base       0             0                     0
+pushButtonMicroAlternate_up            0             0                     0
+lib_PushButtonMicroAlternate           0             0                     0
+pushButtonSmall_disabled_base          0             0                     0
+pushButtonSmall_disabled               0             0                     0
+pushButtonSmallAlternate_down_base     0             0                     0
+pushButtonSmallAlternate_down          0             0                     0
+pushButtonSmall_over_base              0             0                     0
+pushButtonSmall_over                   0             0                     0
+pushButtonSmallAlternate_up_base       0             0                     0
+pushButtonSmallAlternate_up            0             0                     0
+lib_PushButtonSmallAlternate           0             0                     0
+
+
+Tweened Shapes: 3109 bytes
+
+ActionScript Bytes    Location
+------------------    --------
+              5545    ActionScript 3.0 Classes
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+car_g_gui_pvs_landingPage_oneSheetTop.png     14054      304640   JPEG Quality=45
+car_g_gui_pvs_landingPage_oneSheet.png     23537      441728   JPEG Quality=60
+car_g_gui_pvs_landingPage_mcqueenBottom.png      2570       97232   JPEG Quality=68
+car_g_gui_pvs_landingPage_testTrackLogo.png      4293       31800   Lossless
+car_g_gui_pvs_landingPage_tagLineBackground.png       987       90372   JPEG Quality=70
+ca_g_gui_pvs_landingPage_raceCodeTix.png      2724       16224   JPEG Quality=70
+car_g_gui_pvs_landingPage_logo.png     10794      224532   JPEG Quality=68
+
+
+
+

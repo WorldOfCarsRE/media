@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slides>
+	<slide>
+		<title>Chat Fearure Upgraded 1</title>
+		<dateTime>3/6/09 | 1:13 pm</dateTime>
+		<text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec elementum, felis vel egestas vestibulum, nunc risus vestibulum est, quis posuere nisi lorem eget purus.</text>
+		<url>#1</url>
+	</slide>
+	<slide>
+		<title>Chat Fearure Upgraded 2</title>
+		<dateTime>1/6/09 | 1:13 pm</dateTime>
+		<text>do sit amet, mollis et, volutpat et, lorem. Vivamus ac enim. Sed porttitor, neque ac molestie molestie, nisl dui bibendum nulla, eget ultrices velit sem non arcu. Nulla congue</text>
+		<url>#2</url>
+	</slide>
+	<slide>
+		<title>Chat Fearure Upgraded 3</title>
+		<dateTime>3/6/09 | 1:13 pm</dateTime>
+		<text>Curabitur diam turpis, ornare ut, pharetra vel, posuere sodales, orci. Nam semper. Vivamus aliquam blandit ipsum. Sed vel est. Praesent sit amet tellus.</text>
+		<url>#3</url>
+	</slide>
+</slides>

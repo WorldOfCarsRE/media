@@ -1,0 +1,34 @@
+<xml>
+	<sound id="0" name="accelerate1" soundType="fx" level="20" pan="0" loops="0" path="aud/fx/accelerate1.mp3"/>
+	<sound id="1" name="frankblades4" soundType="fx" level="80" pan="0" loops="0" path="aud/fx/frankblades4.mp3"/>
+	<sound id="2" name="jump1" soundType="fx" level="80" pan="0" loops="0" path="aud/fx/jump1.mp3"/>
+	<sound id="3" name="jump2" soundType="fx" level="80" pan="0" loops="0" path="aud/fx/jump2.mp3"/>
+	<sound id="4" name="land_accelerate" soundType="fx" level="40" pan="0" loops="0" path="aud/fx/land_accelerate.mp3"/>
+	<sound id="5" name="mcqueen_accelerate" soundType="fx" level="20" pan="0" loops="0" path="aud/fx/mcqueen_accelerate.mp3"/>
+	<sound id="6" name="frankroar1" soundType="dialog" level="80" pan="0" loops="0" path="aud/fx/silent.mp3"/>
+	<sound id="7" name="frankroar2" soundType="dialog" level="80" pan="0" loops="0" path="aud/fx/silent.mp3"/>
+	<sound id="8" name="materlaugh1" soundType="dialog" level="80" pan="0" loops="0" path="aud/dialog/materlaugh1.mp3"/>
+	<sound id="9" name="mcqueen_multiows" soundType="dialog" level="80" pan="0" loops="0" path="aud/fx/silent.mp3"/>
+	<sound id="10" name="mcqueen_ow1" soundType="dialog" level="80" pan="0" loops="0" path="aud/fx/silent.mp3"/>
+	<sound id="11" name="mcqueen_ow3" soundType="dialog" level="80" pan="0" loops="0" path="aud/fx/silent.mp3"/>
+	<sound id="12" name="thatsfunny" soundType="dialog" level="80" pan="0" loops="0" path="aud/dialog/thatsfunny.mp3"/>
+	<sound id="13" name="tractorfart2" soundType="dialog" level="80" pan="0" loops="0" path="aud/dialog/tractorfart2.mp3"/>
+	<sound id="14" name="tractorsaresodumb" soundType="dialog" level="80" pan="0" loops="0" path="aud/dialog/tractorsaresodumb.mp3"/>
+	<sound id="15" name="tractorsnore2" soundType="dialog" level="80" pan="0" loops="0" path="aud/dialog/tractorsnore2.mp3"/>
+	<sound id="16" name="tractortip2" soundType="dialog" level="80" pan="0" loops="0" path="aud/dialog/tractortip2.mp3"/>
+	<sound id="17" name="tractortippinsfun" soundType="dialog" level="80" pan="0" loops="0" path="aud/fx/silent.mp3"/>
+	<sound id="18" name="yourturnbud" soundType="dialog" level="80" pan="0" loops="0" path="aud/fx/silent.mp3"/>
+	<sound id="19" name="funbutton01" soundType="ui" level="80" pan="0" loops="0" path="aud/ui/funbutton01.mp3"/>
+	<sound id="20" name="funbutton02" soundType="ui" level="80" pan="0" loops="0" path="aud/ui/funbutton02.mp3"/>
+	<sound id="21" name="funbutton03" soundType="ui" level="80" pan="0" loops="0" path="aud/ui/funbutton03.mp3"/>
+	<sound id="22" name="funbutton04" soundType="ui" level="80" pan="0" loops="0" path="aud/ui/funbutton04.mp3"/>
+	<sound id="23" name="funbutton05" soundType="ui" level="80" pan="0" loops="0" path="aud/ui/funbutton05.mp3"/>
+	<sound id="24" name="pop1" soundType="ui" level="80" pan="0" loops="0" path="aud/ui/pop1.mp3"/>
+	<sound id="25" name="pop4" soundType="ui" level="80" pan="0" loops="0" path="aud/ui/pop4.mp3"/>
+	<sound id="26" name="whoosh1" soundType="ui" level="80" pan="0" loops="0" path="aud/ui/whoosh1.mp3"/>
+	<sound id="27" name="whoosh2" soundType="ui" level="80" pan="0" loops="0" path="aud/ui/whoosh2.mp3"/>
+	<sound id="28" name="whoosh3" soundType="ui" level="80" pan="0" loops="0" path="aud/ui/whoosh3.mp3"/>
+	<sound id="29" name="whoosh5" soundType="ui" level="80" pan="0" loops="0" path="aud/ui/whoosh5.mp3"/>
+	<sound id="30" name="skid01" soundType="fx" level="20" pan="0" loops="0" path="aud/fx/skid01.mp3"/>
+	<sound id="31" name="hay_bale_hit" soundType="fx" level="80" pan="0" loops="0" path="aud/fx/hay_bale_hit.mp3"/>
+</xml>

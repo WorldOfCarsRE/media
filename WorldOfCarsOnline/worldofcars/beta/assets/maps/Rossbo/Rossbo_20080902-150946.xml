@@ -1,0 +1,47 @@
+<area xOffset="0" yOffset="0" width="2" height="2" defaultTile="dark_ground">
+  <assets>
+    <asset id="472"/>
+    <asset id="402"/>
+    <asset id="299"/>
+    <asset id="499"/>
+    <asset id="461"/>
+  </assets>
+  <layers>
+    <layer name="ground" sort="false" type="diamond" tileWidth="200" tileHeight="100" maxTileLayers="4">
+      <tile asset="461,,," x="0" y="0" flags=""/>
+      <tile asset="461,,," x="0" y="1" flags=""/>
+      <tile asset="461,,," x="1" y="0" flags=""/>
+      <tile asset="461,,," x="1" y="1" flags=""/>
+    </layer>
+    <layer name="road" sort="false" type="diamond" tileWidth="200" tileHeight="100" maxTileLayers="1">
+      <tile asset="472" x="1" y="2" flags=""/>
+    </layer>
+    <layer name="object" sort="false" type="diamond" tileWidth="50" tileHeight="25" maxTileLayers="1">
+      <tile asset="299" x="1" y="5" flags=""/>
+      <tile asset="402" x="1" y="4" flags="r|hF"/>
+      <tile asset="402" x="7" y="8" flags="vF|hF"/>
+      <tile asset="299" x="2" y="7" flags=""/>
+      <tile asset="499" x="5" y="12" flags=""/>
+      <tile asset="402" x="3" y="11" flags="vF"/>
+      <tile asset="402" x="4" y="10" flags="hF"/>
+    </layer>
+  </layers>
+  <collisionGroups>
+    <group color="16711680" pointSize="5" lineSize="1" passability="0">
+      <p x="97" y="69"/>
+      <p x="159" y="114"/>
+      <p x="220" y="107"/>
+      <p x="272" y="82"/>
+      <p x="328" y="107"/>
+      <p x="398" y="117"/>
+      <p x="372" y="65"/>
+    </group>
+    <group color="16776960" pointSize="10" lineSize="2" passability="0.5544444444444445">
+      <p x="333" y="53"/>
+      <p x="289" y="41"/>
+      <p x="244" y="62"/>
+      <p x="203" y="64"/>
+      <p x="171" y="53"/>
+    </group>
+  </collisionGroups>
+</area>

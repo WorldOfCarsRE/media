@@ -1,0 +1,1399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<disney_cars>
+	<logo>images/logos/en-cars-logo.png</logo>
+	<main_navigation>
+		<!-- LEFT SIDE OF MAIN NAVIGATION -->
+		<nav id="characters" position="left" href="internal:characters">
+			<title>CHARACTERS</title>
+			<pagetitle>Characters</pagetitle>
+		</nav>
+		<nav id="videos" position="left" href="internal:videos">
+			<title>VIDEOS</title>
+			<pagetitle>Videos</pagetitle>
+		</nav>
+		<nav id="create_car" position="left" href="http://www.worldofcars.com/" target="_self">
+			<title>CREATE A CAR</title>
+			<pagetitle>Create a Car</pagetitle>
+		</nav>
+		<nav id="games" position="left" href="internal:games">
+			<title>GAMES</title>
+			<pagetitle>Games</pagetitle>
+		</nav>
+		<!-- RIGHT SIDE OF MAIN NAVIGATION -->
+		<nav id="movie" position="right" href="internal:movie">
+			<title>THE MOVIE</title>
+			<pagetitle>The Movie</pagetitle>
+		</nav>
+		<nav id="parks" position="right" href="internal:parks">
+			<title>PARKS</title>
+			<pagetitle>Parks</pagetitle>
+		</nav>
+		<nav id="events" position="right" href="internal:events">
+			<title>LIVE EVENTS</title>
+			<pagetitle>Live Events</pagetitle>
+		</nav>
+		<nav id="products" position="right" href="internal:products">
+			<title>PRODUCTS</title>
+			<pagetitle>Products</pagetitle>
+		</nav>
+	</main_navigation>
+	
+	<character_navigation>
+		<nav id="bio">
+			<title>Biography</title>
+		</nav>
+		<nav id="specs">
+			<title>Specifications</title>
+		</nav>
+		<nav id="downloads">
+			<title>Downloads</title>
+		</nav>
+		<nav id="photos">
+			<title>Photos</title>
+		</nav>
+		<nav id="videos">
+			<title>Videos</title>
+		</nav>
+	</character_navigation>
+	
+	<!-- SEND TO A FRIEND - REMOVED FOR NOW
+	<nav id="staf" href="mailto:">
+		<title>SEND TO A FRIEND</title>
+	</nav>
+	-->
+	
+	<characters>
+		<car id="lightning" rev_id="lightning_rev">
+			<name>Lightning McQueen</name>
+			<biography><![CDATA[Lightning McQueen, the hotshot rookie race car, was poised to become the youngest car ever to win the Piston Cup Championship. At the time, he had just two things on his mind: winning and the perks that come with it... but that was about to change. When Lightning got lost in Radiator Springs, he met a group of new friends that challenged him to reconsider the car he wanted to be.<br><br>Leaving town for the 200-lap tie-breaker race in Los Angeles, Lightning had the surprise of his life when his newfound friends arrived just in time to be his pit crew, headed by Doc Hudson. The rookie didn't win the race that day, but he won something far more important, the racing world's heart.<br><br>Although Lightning kept racing, he left the fast life behind. He made his headquarters in Radiator Springs and helped put the friendly little town back on the map.<br><br><b>Quotable Quote:</b> "Ka-Chow! Float like a Cadillac, sting like a Beemer."]]></biography>
+			<specs><![CDATA[- #95 Sponsored By Rust-eze Medicated Bumper Ointment<br><br>- V-8 Engine, 750 Horsepower<br><br>- 0-60: 4.5 seconds<br><br>- Top Speed: Capable of 200 MPH<br><br>- Piston Cup Rookie of the Year]]></specs>
+		</car>
+		<car id="mater" rev_id="mater_rev">
+			<name>Mater</name>
+			<biography><![CDATA[Mater is a good ol' boy with a big heart and the only tow truck in Radiator Springs. Mater runs Tow-Mater Towing and Salvage and manages the local impound lot. Mater has lived in Radiator Springs his whole life. In his younger days, he used to be a real handful around town, playing pranks on everyone, tippin' tractors, saying inappropriate things at the wrong time, but luckily he's matured a lot since then. <br><br>Though a little rusty, he's the quickest towrope in Carburetor County and is always the first to lend a helping hand. He's the heart and soul of Radiator Springs, and doesn't have a mean bolt on his chassis. Mater sees the bright side of any situation and was the first to befriend Lightning, who he now considers his best friend!<br><br><b>Quotable Quote:</b> "No need to watch where I'm goin'. Just need to know where I've been!"]]></biography>
+			<specs><![CDATA[- Vehicle Type: Haulital Hook'em <br><br>- V-8 Engine, 2 BBL Carb that runs on 6 or 7 cylinders <br><br>- Self-proclaimed "World's Best Backwards Driver" <br><br>- Favorite Pastime is Tow Hook Fishing <br><br>- Original Paint Color: Baby Blue]]></specs>
+		</car>
+		<car id="sally" rev_id="sally_rev">
+			<name>Sally</name>
+			<biography><![CDATA[Sally grew tired of her life in the fast lane as a high-powered attorney in Los Angeles, and made a new start in the small town of Radiator Springs. Charming, intelligent and witty, she became the town attorney and the car most dedicated to preserving the town's historical beauty. She bought the Cozy Cone Motel and restored it back to its original condition and had no plans of stopping there.<br><br>After race car Lightning McQueen made his headquarters in Radiator Springs and helped put the little town back on the map, Sally bought and restored the Wagon Wheel Motel to its original condition. Now, she and Lightning are happy to be cruisin' in the slow lane together.<br><br><b>Quotable Quote:</b> "Come on, let's take a drive!"]]></biography>
+			<specs><![CDATA[- Vehicle type: 2002 Porsche Carrera<br><br>- Owner of the Cozy Cone Motel<br><br>- Sports a pinstripe tattoo<br><br>- 3596 cc flat 6, 320 horsepower @ 6800 rpm<br><br>- 0-60: 4.9 seconds]]></specs>
+		</car>
+		<car id="dochudson" rev_id="doc_rev">
+			<name>Doc Hudson</name>
+			<biography><![CDATA[Doc Hudson is a car of few words, but many talents. He not only serves as the Town Judge he's also Radiator Springs' resident doctor. Doc is respected and admired by the townsfolk for the way he looks out for their health and tends to their aches and pains.<br><br>Before landing in Radiator Springs, Doc was a Piston Cup series racecar, when tracks were dirt and cars were tough. His low center of gravity and cornering ability were tough to beat.<br><br>Doc's racing days ended when he arrived in Radiator Springs, but with Lightning McQueen in town he tries on those old racing tires and realizes he's still got it. At the 200-lap Piston Cup tie-breaker, Doc became the rookie's pit crew chief... which continues to this day. <br><br><b>Quotable Quote:</b> "Turn right to go left."]]></biography>
+			<specs><![CDATA[- Vehicle Type: 1951 Hudson Hornet<br><br>- Doc is the town's doctor and judge<br><br>- Won the Piston Cup Championship three times<br><br>- Straight 6, Twin "H" power, 175 horsepower<br><br>- "Step-Down" chassis gives him excellent handling]]></specs>
+		</car>
+		<car id="chickhicks" rev_id="chick_rev">
+			<name>Chick Hicks</name>
+			<biography><![CDATA[Chick Hicks is a racing veteran with a chip on his shoulder, a ruthless competitor who has cheated his way into more second-place finishes than any other car. He always finished runner-up just behind the world's greatest racing champion, The King.<br><br>He'd been counting down the seasons to The King's retirement so that he could take over the Dinoco sponsorship. He was sure "the beginning of the Chick era" was set to kick off. Unfortunately, the only thing standing in his way was Lightning McQueen, the hotshot rookie.<br><br>In the final lap of the Piston Cup tiebreaker, there was nothing between Lightning and the finish line. But when Chick rammed The King into the wall, Lightning went back to help the race veteran... and Chick won that day, but nobody much noticed. It was Lightning who won their hearts. Chick didn't even get offered the big Dinoco sponsorship!<br><br><b>Quotable Quote:</b> "Seriously, that was some pretty darn nice racin' out there. By me!"]]></biography>
+			<specs><![CDATA[<br><br>- Vehicle Type: 1979 Shyster Cremlin<br><br>- Powered by a mean V-8 engine and 100% ambition<br><br>- #86 Sponsored by Hostile Takeover Bank<br><br>- Possesses an uncontrollable need to cheat<br><br>- Nicknamed "Thunder" by Lightning McQueen &#8212; because thunder always comes after lightning]]></specs>
+		</car>
+		<car id="king" rev_id="king_rev">
+			<name>The King</name>
+			<biography><![CDATA[The King, Strip Weathers, is a racing legend. He has won more Piston Cup races than any other car in history, but has managed to keep his priorities straight. He's a down-home guy who knows that it takes more than trophies to make a true champion. Above all else, The King values hard work and sticking together as a team. He planned on retiring at the end of the season.<br><br>The King has seen it all. From his humble beginnings on the Piston Cup circuit to the glitzy sponsorship and media attention he has today. This seven-time Piston Cup Champion is the winningest race car in all of Piston Cup history. He loved every second of his racing career, but The King was ready for a slower pace. He looked forward to more time with his queen, Mrs. The King.<br><br><b>Quotable Quote:</b> "He's the real deal, Junior. The Hudson Hornet was my inspiration."]]></biography>
+			<specs><![CDATA[<br><br>- Vehicle Type: 1970 Plymouth Superbird 426 c.i. HEMI<br><br>- #43 sponsored by Dinoco, the oil of champions<br><br>- Rear spoiler keeps The King on the track at high speeds<br><br>- Rides on Lightyear racing tires<br><br>- Pulled over 200 miles per hour on the Superspeedways]]></specs>
+		</car>
+		<car id="fillmore" rev_id="fillmore_rev">
+			<name>Fillmore</name>
+			<biography><![CDATA[Fillmore is Radiator Springs' resident hippie. A believer in individuality and all things natural, he brews his own organic fuel and preaches its many benefits. Visitors can try Fillmore's special flavors in the tasting room behind this love-bead and tie-dye-covered geodesic dome. His many conspiracy theories and "naturally" unkempt yard drive his neighbor Sarge, absolutely crazy.<br><br>Fillmore is ready at a moment's notice to take his organic fuel wherever it's needed. Whether helping out his buddy Lightning McQueen in the Piston Cup tie-breaker or hitting the road to give out free samples, he is ready to go with his durable, yet attractive tie-dye headband.<br><br><b>Quotable Quote:</b> "You know, some automotive yoga could really lower your RPM's, man."]]></biography>
+			<specs><![CDATA[<br><br>- Vehicle Type: 1960 VW Volkswagen Type 2 Bus<br><br>- His oil, fuel and brake shoes are all organic material<br><br>- 0 to 60 MPH... "Why the rush, man?"<br><br>- Recycled long before it was cool and hip<br><br>- Philosophy is "let's just get along, man"]]></specs>
+		</car>
+		<car id="luigi" rev_id="luigi_rev">
+			<name>Luigi</name>
+			<biography><![CDATA[Luigi runs the local tire shop in Radiator Springs, Luigi's Casa Della Tires. If someone's going to drive through this world, why not look good doing it? That's Luigi's motto. Cars may not get to choose their body type, but they all have a choice when it comes to the tires they wear. Luigi offers the finest selection of tires west of the Mississippi. Luigi's Casa Della Tires is known far and wide for impeccable service, competitive prices, and of course, its very stylish proprietor.<br><br>A big-hearted, gregarious and excitable Italian, Luigi serves up more than a new set of wheels for his customers with his positive energy. An avid racing fan, Luigi was thrilled to meet Lightning McQueen. He thought the most exciting day of his life was the day he outfitted Lightning with brand-new white walls... that is until the time Michael Schumacher and two Maseratis drove into his shop looking for tires.<br><br><b>Quotable Quote:</b> "Whitewalls say 'Look at me, LOVE me...'"]]></biography>
+			<specs><![CDATA[- Vehicle Type: 1959 Fiat 500<br><br>- 0 to 60 MPH in 5 seconds... only in his dreams<br><br>- Die-hard Ferrari race fan<br><br>- Can charm customers both in English and Italian<br><br>- Started the Willy's Butte race between Doc and Lightning]]></specs>
+		</car>
+		<car id="guido" rev_id="guido_rev">
+			<name>Guido</name>
+			<biography><![CDATA[Guido is a little Italian forklift, Luigi's assistant and best friend. He and Luigi are the biggest Ferrari racing fans in Radiator Springs. Unfortunately, they're a long way from Italy, so when there's a race in town, Ferraris or not, they get out their team colors.  This may be their only opportunity to show off their home pride.<br><br>Guido had always dreamt of performing a pit stop on a real race car... he finally had his chance when Lightning McQueen competed in the Piston Cup tie-breaker. The boys from Casa Della Tires put every other pit crew to shame that day. Guido changed out Lightning's tires in record time during a pit stop. The rookie was back on the track before both challengers because of Guido's tireless energy and skill.<br><br><b>Quotable Quote:</b> "Pit stop!"]]></biography>
+			<specs><![CDATA[- Vehicle Type: Alza/Tutto forklift<br><br>- Can change a tire in 2.5 seconds flat<br><br>- Amazingly good at juggling tires<br><br>- Top speed: 20 MPH on a good day and traveling downhill<br><br>- Helped build the landmark leaning tower... of tires]]></specs>
+		</car>
+		<car id="ramone" rev_id="ramone_rev">
+			<name>Ramone</name>
+			<biography><![CDATA[Ramone owns and operates Ramone's House of Body Art, the local custom body and paint shop. Ramone is an artist &#8212; a true magician with paint and metal, but prior to Lightning McQueen putting Radiator Springs back on the map, he hadn't had anyone to paint in years. In those days, his only canvas was himself, so he repainted himself daily.<br><br>Ramone isn't afraid to take chances, explore new ways to express himself, or push the limits of culture. Ramone believes that the automotive body can be a vehicle of expression, which is why every day for Ramone is a new chance to explore new paint jobs and push the limitless boundaries of his art.<br><br>Before heading off to the Piston Cup tie-breaker, Lightning's stopped by Ramone's for a whole new paint job... and Ramone did him up good.<br><br><b>Quotable Quote:</b> "Low and slow."]]></biography>
+			<specs><![CDATA[<br><br>- Vehicle Type: 1959 Chevrolet Impala Low-rider<br><br>- Juiced with Hydraulics, chrome undercarriage<br><br>- Married to Flo, his sweetheart of many years<br><br>- Favorite paint job is always his latest paint job<br><br>- His philosophy is cruise low and slow]]></specs>
+		</car>
+		<car id="flo" rev_id="flo_rev">
+			<name>Flo</name>
+			<biography><![CDATA[Flo is a sassy, no-nonsense lady with the biggest heart in town. She runs the local diner, Flo's V-8 Caf&#233;, the only gas station for miles around, where she still serves the "finest fuel in 50 states."<br><br>Flo first arrived in Radiator Springs as a touring Motorama girl in the '50s. She was headed west with a transport of models, when her chaperone blew her transmission just outside of town. Flo and the other Motorama girls spent an unforgettable weekend in Radiator Springs: New tires from Luigi's, souvenirs from Lizzy's, and new paint jobs from Ramone.<br><br>But when it came time to paint Flo, Ramone threw down his airbrush. Not because he was too good to paint her, but because she was too good to paint. The next day when the girls left, Flo stayed. She and Ramone have been together ever since.<br><br><b>Quotable Quote:</b> "Well, then let's cruise, baby."]]></biography>
+			<specs><![CDATA[<br><br>- Vehicle Type: Custom one-of-a-kind 1957 Motorama Show Car<br><br>- Owns Flo's V-8 Cafe<br><br>- Runs a small block V-8<br><br>- A good example of why a huge engine isn't needed to turn heads<br><br>- Serves the "Finest Fuel in 50 States"]]></specs>
+		</car>
+		<car id="mack" rev_id="mack_horn">
+			<name>Mack</name>
+			<biography><![CDATA[Mack is Lightning McQueen's trusted driver. Before spending time in Radiator Springs, Lightning didn't realize what a true friend Mack was. Endless days on the road and sleepless nights criss-crossing the country... For some this life would quickly grow old. But not for Mack. No sir.<br><br>Mack knows how important his role is. He is driving Lightning McQueen, the world's fastest race car. He's part of the team, and everyone knows there's no "I" in team, just like there's no "I" in Mack.<br><br>If Mack is one thing, he's loyal, and when his boss Lightning McQueen needed help he'd help, even if it meant slapping two gas can rigs on and turning himself into a one man pit crew before the Piston Cup tie-breaker.<br><br><b>Quotable Quote:</b> "Thank the manufacturer! You're alive!"]]></biography>
+			<specs><![CDATA[<br><br>- Vehicle type:  1985 Mack Super-Liner/Semi Hauler<br><br>- Loyal member of the Rust-eze Medicated Bumper Ointment race team<br><br>- Recommended Lightning McQueen to Rust-eze for sponsorship<br><br>- Enjoys singing while he drives to pass the time<br><br>- "Gas Can" is not his middle name]]></specs>
+		</car>
+		<car id="sarge" rev_id="sarge_rev">
+			<name>Sarge</name>
+			<biography><![CDATA[Sarge is a patriotic veteran to the core. He proudly flies the Stars and Stripes and begins each day with a rousing rendition of "Reveille". If he's not busy running the local army surplus store, Sarge's Surplus Hut, Sarge spends his time arguing with his next door neighbor, Fillmore. Truth be told, Sarge knows that his life is more interesting with Fillmore in it to "question authority."<br><br>Sarge is a decorated war hero! When his tank friend lost a track in The Battle of the Bulge, Sarge towed him to safety. For his bravery, Sarge received the Grille Badge of True Mettle! This and medals like it are displayed front and center at Sarge's Surplus Hut.<br><br>Sarge's bark is worse than his bite, though. When the town's residents formed a pit crew for Lightning McQueen in the Piston Cup tie-breaker, he was one of the first to sign up!<br><br><b>Quotable Quote:</b>"The '60s weren't good to you, were they?"]]></biography>
+			<specs><![CDATA[<br><br>- Vehicle Type: 1942 WWII Willy's Army Jeep<br><br>- 4 Cylinder "Go Devil" Engine<br><br>- Sarge's Surplus Hut stocks every kind of military gear<br><br>- Mows his lawn twice a day<br><br>- Runs Sarge's SUV Bootcamp]]></specs>
+		</car>
+		<car id="sheriff" rev_id="sheriff_rev">
+			<name>Sheriff</name>
+			<biography><![CDATA[Sheriff is the type of cop who has had a few too many doughnuts in his time. He is the keeper of the peace in Radiator Springs and takes his job very seriously. Sheriff has a long history of law enforcement in his family. His father was a traffic cop. His uncle was a traffic cop. His aunt, his two cousins on his mother's side, his little brother... even his grandfather was a traffic cop, directing traffic at Times Square in New York around the turn of the century.<br><br>Sheriff enjoys telling stories about his beloved Mother Road and taking the occasional nap behind the Radiator Springs billboard. That's where he was when Lightning McQueen first zoomed into Radiator Springs.<br><br><b>Quotable Quote:</b> "Not in my town you don't!"]]></biography>
+			<specs><![CDATA[- Vehicle Type: 1949 Mercury Police Cruiser<br><br>- Radiator Springs Law Enforcement<br><br>- 0 to 60? Fast enough to stop crime (pursuit speed is classified)<br><br>- Equipped with siren, spotlights and two-way radio<br><br>- Tends to backfire at high speeds]]></specs>
+		</car>
+		<car id="lizzie" rev_id="lizzie_rev">
+			<name>Lizzie</name>
+			<biography><![CDATA[Lizzie is a little old lady who's as feisty as she is brash. She doesn't give a hoot what anyone else thinks, she always "tells it like it is." Lizzie's unswerving frankness and offbeat comments keep the townsfolk on their toes, even though she often can't remember what she's just said. She's a Radiator Springs original &#8212; an active businesswoman who still relies on her moxie to sell bumper stickers, mud flaps and other Route 66 memorabilia from the curio shop.<br><br>When Lizzie first rolled into Radiator Springs, it was love at first sight &#8212; love for the town and love for Stanley, the town founder. Way back then, Lizzie and he were the first two folks in town. But she kept Stanley on the soft shoulder for months &#8212; until one day she realized that Stanley's vision for a new oasis in the desert had enraptured her too. And, from that day on, they became the heart and soul of the town &#8212; and a couple that was never apart.<br><br><b>Quotable Quote:</b> "You keep talking to yourself people will think you're crazy."]]></biography>
+			<specs><![CDATA[- Vehicle Type: 1923 Ford Model T 2-door sedan<br><br>- Four-cylinder, four-stroke engine<br><br>- Sports pneumatic tires on her wheels<br><br>- Watched the Piston Cup tie-breaker race with Sally and Red]]></specs>
+		</car>
+		<car id="red" rev_id="red_rev">
+			<name>Red</name>
+			<biography><![CDATA[Red is a gentle giant; a big strong fire engine who's painfully shy and quite sensitive. When he's not cheerfully helping out his neighbors, you can find him lovingly watering the flowers he grows in town, or hiding out in the firehouse where he lives beneath the Court House.<br><br>Red may not be a fire truck of many words, but what he doesn't say he shows through his generous actions. Whether it's putting out a tire fire or caring for the beautiful flowers in town, Red is there to support and protect his beloved town.<br><br>Red takes negative comments about his town very personally. So if you have something bad to say about Radiator Springs you'd better watch out. Because, if there's one thing Red is not afraid of, it's his emotions.<br><br><b>Quotable Quote:</b> Red's too shy for words]]></biography>
+			<specs><![CDATA[- Vehicle Type: 1950's Fire Truck/Torchy Truck Co.<br><br>- Two diesel engines: one to drive to the fire, one to power the water pump<br><br>- On board water tank holds 1,000 gallons<br><br>- Devoted to his community<br><br>- Siren and engine roar interrupt many court cases]]></specs>
+		</car>
+	</characters>
+	
+	<home_promos>
+		<!-- "welcome" animation -->
+		<promo id="0" type="media" time="10" src="promos/swfs/homepage/welcome.swf" href="internal:videos" />
+		<!-- Cars Toon -->
+		
+		<promo id="1" type="video" src="promos/images/homepage/cars_vid_promo.jpg" href="">
+			<video id="0" location_page="home_promo" character_id="" movie_id="" server_location="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" src="xd05341_wdpm_car_rescue_squad_mater_st" fullsize_location="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" fullsize="xd05341_wdpm_car_rescue_squad_mater_hi">
+				<title>Rescue Squad Mater</title>
+				<runtime>2:32</runtime>
+			</video>
+		</promo>
+		
+		<!-- Blu-ray & DVD -->
+		<promo id="2" type="media" time="10" src="promos/swfs/homepage/blu-ray-dvd.swf" href="internal:movie" />
+		
+		<!-- Mobile -->
+		<!-- REMOVED FOR LAUNCH
+		<promo id="3" type="media" time="10" src="promos/swfs/homepage/mobile-090511-292x195.swf" href="internal:products/mobile" />
+		-->
+	</home_promos>
+	
+	<left_home_promos>
+		<promo id="0" src="promos/images/homepage/cars-toons-left.jpg" time="20" href="internal:videos">
+			<nav id="0">
+				<title>WATCH NOW</title>
+			</nav>
+		</promo>
+	</left_home_promos>
+	
+	<right_home_promos>
+		<promo id="0" src="promos/images/homepage/mobile-090608-right.jpg" href="internal:products/mobile">
+			<nav id="0">
+				<title>LEARN MORE</title>
+			</nav>
+		</promo>
+	</right_home_promos>
+	
+	<side_promos>
+		<promo id="top" src="promos/images/tower/woc-test-track-1-170x270.jpg" href="http://www.worldofcars.com" target="_self" />
+	</side_promos>
+
+	<promos>
+		<promo id="0" page_id="videos" position="1" src="promos/images/footer/games-memory-left.jpg" href="internal:games/all_games/maters_memory_game" />
+		<promo id="1" page_id="videos" position="2" src="promos/images/footer/products-center.jpg" href="internal:products" />
+		<promo id="2" page_id="videos" position="3" src="promos/images/footer/characters-right.jpg" href="internal:characters" />
+		<promo id="3" page_id="characters" position="1" src="promos/images/footer/games-luigi-left.jpg" href="internal:games/all_games/luigis_casa_della_tires" />
+		<promo id="4" page_id="characters" position="2" src="promos/images/footer/cars-toons-center.jpg" href="internal:videos" />
+		<promo id="5" page_id="characters" position="3" src="promos/images/footer/products-right.jpg" href="internal:products" />
+		<promo id="6" page_id="games" position="1" src="promos/images/footer/characters-left.jpg" href="internal:characters" />
+		<promo id="7" page_id="games" position="2" src="promos/images/footer/cars-toons-center.jpg" href="internal:videos" />
+		<promo id="8" page_id="games" position="3" src="promos/images/footer/products-right.jpg" href="internal:products" />
+		<promo id="9" page_id="events" position="1" src="promos/images/footer/games-luigi-left.jpg" href="internal:games/all_games/luigis_casa_della_tires" />
+		<promo id="10" page_id="events" position="2" src="promos/images/footer/cars-toons-center.jpg" href="internal:videos" />
+		<promo id="11" page_id="events" position="3" src="promos/images/footer/products-right.jpg" href="internal:products" />
+		<promo id="12" page_id="movie" position="1" src="promos/images/footer/games-memory-left.jpg" href="internal:games/all_games/maters_memory_game" />
+		<promo id="13" page_id="movie" position="2" src="promos/images/footer/cars-toons-center.jpg" href="internal:videos" />
+		<promo id="14" page_id="movie" position="3" src="promos/images/footer/characters-right.jpg" href="internal:characters" />
+		<promo id="15" page_id="parks" position="1" src="promos/images/footer/games-memory-left.jpg" href="internal:games/all_games/maters_memory_game" />
+		<promo id="16" page_id="parks" position="2" src="promos/images/footer/cars-toons-center.jpg" href="internal:videos" />
+		<promo id="17" page_id="parks" position="3" src="promos/images/footer/characters-right.jpg" href="internal:characters" />
+		<promo id="18" page_id="products" position="1" src="promos/images/footer/games-memory-left.jpg" href="internal:games/all_games/maters_memory_game" />
+		<promo id="19" page_id="products" position="2" src="promos/images/footer/cars-toons-center.jpg" href="internal:videos" />
+		<promo id="20" page_id="products" position="3" src="promos/images/footer/characters-right.jpg" href="internal:characters" />
+	</promos>
+	
+	<game_promo>
+		<promo id="21" page_id="games" position="0" src="promos/images/games/woc-test-track-1-885x175.jpg" href="http://www.worldofcars.com/" target="_self" />
+	</game_promo>
+	
+	
+	<downloads>
+		<downloadType id="wallpaper"><title>WALLPAPERS</title></downloadType>
+		<downloadType id="icon"><title>ICONS</title></downloadType>
+		<downloadType id="screensaver"><title>SCREENSAVERS</title></downloadType>
+		<downloadType id="sticker"><title>STICKERS</title></downloadType>
+		
+		<download id="51" type="icon" character_id="mater" thumb="downloads/icons/mater-icon-1.gif" options="width=500,height=250,scrollbars=0,resizable=1,location=0" target="popup" href="activities/icons/mater-icon-1.html" />
+		<download id="52" type="icon" character_id="lightning" thumb="downloads/icons/lightning-icon-1.gif" options="width=500,height=250,scrollbars=0,resizable=1,location=0" target="popup" href="activities/icons/lightning-icon-1.html" />
+		<download id="53" type="icon" character_id="sally" thumb="downloads/icons/sally-icon-1.gif" options="width=500,height=250,scrollbars=0,resizable=1,location=0" target="popup" href="activities/icons/sally-icon-1.html" />
+		<download id="54" type="icon" character_id="dochudson" thumb="downloads/icons/dochudson-icon-1.gif" options="width=500,height=250,scrollbars=0,resizable=1,location=0" target="popup" href="activities/icons/dochudson-icon-1.html" />
+		<download id="55" type="icon" character_id="chickhicks" thumb="downloads/icons/chickhicks-icon-1.gif" options="width=500,height=250,scrollbars=0,resizable=1,location=0" target="popup" href="activities/icons/chickhicks-icon-1.html" />
+		<download id="56" type="icon" character_id="king" thumb="downloads/icons/king-icon-1.gif" options="width=500,height=250,scrollbars=0,resizable=1,location=0" target="popup" href="activities/icons/king-icon-1.html" />
+		<download id="57" type="icon" character_id="fillmore" thumb="downloads/icons/fillmore-icon-1.gif" options="width=500,height=250,scrollbars=0,resizable=1,location=0" target="popup" href="activities/icons/fillmore-icon-1.html" />
+		<download id="58" type="icon" character_id="luigi" thumb="downloads/icons/luigi-icon-1.gif" options="width=500,height=250,scrollbars=0,resizable=1,location=0" target="popup" href="activities/icons/luigi-icon-1.html" />
+		<download id="59" type="icon" character_id="guido" thumb="downloads/icons/guido-icon-1.gif" options="width=500,height=250,scrollbars=0,resizable=1,location=0" target="popup" href="activities/icons/guido-icon-1.html" />
+		<download id="60" type="icon" character_id="ramone" thumb="downloads/icons/ramone-icon-1.gif" options="width=500,height=250,scrollbars=0,resizable=1,location=0" target="popup" href="activities/icons/ramone-icon-1.html" />
+		<download id="61" type="icon" character_id="flo" thumb="downloads/icons/flo-icon-1.gif" options="width=500,height=250,scrollbars=0,resizable=1,location=0" target="popup" href="activities/icons/flo-icon-1.html" />
+		<download id="62" type="icon" character_id="mack" thumb="downloads/icons/mack-icon-1.gif" options="width=500,height=250,scrollbars=0,resizable=1,location=0" target="popup" href="activities/icons/mack-icon-1.html" />
+		<download id="63" type="icon" character_id="sarge" thumb="downloads/icons/sarge-icon-1.gif" options="width=500,height=250,scrollbars=0,resizable=1,location=0" target="popup" href="activities/icons/sarge-icon-1.html" />
+		<download id="64" type="icon" character_id="sheriff" thumb="downloads/icons/sheriff-icon-1.gif" options="width=500,height=250,scrollbars=0,resizable=1,location=0" target="popup" href="activities/icons/sheriff-icon-1.html" />
+		<download id="65" type="icon" character_id="lizzie" thumb="downloads/icons/lizzie-icon-1.gif" options="width=500,height=250,scrollbars=0,resizable=1,location=0" target="popup" href="activities/icons/lizzie-icon-1.html" />
+		<download id="66" type="icon" character_id="red" thumb="downloads/icons/red-icon-1.gif" options="width=500,height=250,scrollbars=0,resizable=1,location=0" target="popup" href="activities/icons/red-icon-1.html" />
+				
+		<download id="4" type="sticker" character_id="mater" thumb="downloads/thumbs/" src="" />
+		
+		<!-- WALLPAPER SEAMLESS -->
+		
+		<download id="lightning1" type="wallpaper" character_id="lightning" thumb="downloads/thumbs/lightning-seamless-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/lightning-seamless-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/lightning-seamless-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/lightning-seamless-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/lightning-seamless-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="mater1" type="wallpaper" character_id="mater" thumb="downloads/thumbs/mater-seamless-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/mater-seamless-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/mater-seamless-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/mater-seamless-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/mater-seamless-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="sally1" type="wallpaper" character_id="sally" thumb="downloads/thumbs/sally-seamless-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/sally-seamless-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/sally-seamless-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/sally-seamless-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/sally-seamless-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="dochudson1" type="wallpaper" character_id="dochudson" thumb="downloads/thumbs/dochudson-seamless-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/dochudson-seamless-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/dochudson-seamless-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/dochudson-seamless-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/dochudson-seamless-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="chickhicks1" type="wallpaper" character_id="chickhicks" thumb="downloads/thumbs/chickhicks-seamless-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/chickhicks-seamless-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/chickhicks-seamless-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/chickhicks-seamless-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/chickhicks-seamless-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="king1" type="wallpaper" character_id="king" thumb="downloads/thumbs/king-seamless-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/king-seamless-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/king-seamless-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/king-seamless-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/king-seamless-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="fillmore1" type="wallpaper" character_id="fillmore" thumb="downloads/thumbs/fillmore-seamless-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/fillmore-seamless-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/fillmore-seamless-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/fillmore-seamless-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/fillmore-seamless-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="luigi1" type="wallpaper" character_id="luigi" thumb="downloads/thumbs/luigi-seamless-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/luigi-seamless-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/luigi-seamless-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/luigi-seamless-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/luigi-seamless-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="guido1" type="wallpaper" character_id="guido" thumb="downloads/thumbs/guido-seamless-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/guido-seamless-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/guido-seamless-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/guido-seamless-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/guido-seamless-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="ramone1" type="wallpaper" character_id="ramone" thumb="downloads/thumbs/ramone-seamless-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/ramone-seamless-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/ramone-seamless-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/ramone-seamless-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/ramone-seamless-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="flo1" type="wallpaper" character_id="flo" thumb="downloads/thumbs/flo-seamless-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/flo-seamless-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/flo-seamless-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/flo-seamless-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/flo-seamless-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="mack1" type="wallpaper" character_id="mack" thumb="downloads/thumbs/mack-seamless-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/mack-seamless-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/mack-seamless-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/mack-seamless-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/mack-seamless-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="mack1a" type="wallpaper" character_id="mack" thumb="downloads/thumbs/mack-trailer-seamless-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/mack-trailer-seamless-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/mack-trailer-seamless-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/mack-trailer-seamless-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/mack-trailer-seamless-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="sarge1" type="wallpaper" character_id="sarge" thumb="downloads/thumbs/sarge-seamless-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/sarge-seamless-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/sarge-seamless-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/sarge-seamless-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/sarge-seamless-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="sheriff1" type="wallpaper" character_id="sheriff" thumb="downloads/thumbs/sheriff-seamless-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/sheriff-seamless-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/sheriff-seamless-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/sheriff-seamless-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/sheriff-seamless-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="lizzie1" type="wallpaper" character_id="lizzie" thumb="downloads/thumbs/lizzie-seamless-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/lizzie-seamless-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/lizzie-seamless-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/lizzie-seamless-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/lizzie-seamless-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="red1" type="wallpaper" character_id="red" thumb="downloads/thumbs/red-seamless-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/red-seamless-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/red-seamless-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/red-seamless-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/red	-seamless-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<!-- WALLPAPER SCENE -->
+		
+		<download id="lightning2" type="wallpaper" character_id="lightning" thumb="downloads/thumbs/lightning-scene-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/lightning-scene-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/lightning-scene-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/lightning-scene-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/lightning-scene-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="mater2" type="wallpaper" character_id="mater" thumb="downloads/thumbs/mater-scene-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/mater-scene-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/mater-scene-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/mater-scene-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/mater-scene-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="sally2" type="wallpaper" character_id="sally" thumb="downloads/thumbs/sally-scene-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/sally-scene-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/sally-scene-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/sally-scene-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/sally-scene-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="dochudson2" type="wallpaper" character_id="dochudson" thumb="downloads/thumbs/dochudson-scene-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/dochudson-scene-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/dochudson-scene-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/dochudson-scene-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/dochudson-scene-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="chickhicks2" type="wallpaper" character_id="chickhicks" thumb="downloads/thumbs/chickhicks-scene-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/chickhicks-scene-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/chickhicks-scene-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/chickhicks-scene-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/chickhicks-scene-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="king2" type="wallpaper" character_id="king" thumb="downloads/thumbs/king-scene-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/king-scene-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/king-scene-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/king-scene-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/king-scene-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="fillmore2" type="wallpaper" character_id="fillmore" thumb="downloads/thumbs/fillmore-scene-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/fillmore-scene-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/fillmore-scene-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/fillmore-scene-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/fillmore-scene-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="luigi2" type="wallpaper" character_id="luigi" thumb="downloads/thumbs/luigi-scene-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/luigi-scene-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/luigi-scene-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/luigi-scene-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/luigi-scene-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="guido2" type="wallpaper" character_id="guido" thumb="downloads/thumbs/guido-scene-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/guido-scene-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/guido-scene-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/guido-scene-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/guido-scene-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="ramone2" type="wallpaper" character_id="ramone" thumb="downloads/thumbs/ramone-scene-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/ramone-scene-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/ramone-scene-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/ramone-scene-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/ramone-scene-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="flo2" type="wallpaper" character_id="flo" thumb="downloads/thumbs/flo-scene-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/flo-scene-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/flo-scene-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/flo-scene-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/flo-scene-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="mack2" type="wallpaper" character_id="mack" thumb="downloads/thumbs/mack-scene-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/mack-scene-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/mack-scene-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/mack-scene-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/mack-scene-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="mack2a" type="wallpaper" character_id="mack" thumb="downloads/thumbs/mack-trailer-scene-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/mack-trailer-scene-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/mack-trailer-scene-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/mack-trailer-scene-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/mack-trailer-scene-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="sarge2" type="wallpaper" character_id="sarge" thumb="downloads/thumbs/sarge-scene-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/sarge-scene-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/sarge-scene-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/sarge-scene-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/sarge-scene-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="sheriff2" type="wallpaper" character_id="sheriff" thumb="downloads/thumbs/sheriff-scene-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/sheriff-scene-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/sheriff-scene-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/sheriff-scene-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/sheriff-scene-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="lizzie2" type="wallpaper" character_id="lizzie" thumb="downloads/thumbs/lizzie-scene-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/lizzie-scene-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/lizzie-scene-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/lizzie-scene-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/lizzie-scene-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="red2" type="wallpaper" character_id="red" thumb="downloads/thumbs/red-scene-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/red-scene-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/red-scene-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/red-scene-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/red	-scene-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<!-- WALLPAPERS OTHER -->
+		
+		<download id="lightning3" type="wallpaper" character_id="lightning" thumb="downloads/thumbs/lightning-storm-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/lightning-storm-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/lightning-storm-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/lightning-storm-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/lightning-storm-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="mater3" type="wallpaper" character_id="mater" thumb="downloads/thumbs/mater-mechanic-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/mater-mechanic-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/mater-mechanic-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/mater-mechanic-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/mater-mechanic-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="sally3" type="wallpaper" character_id="sally" thumb="downloads/thumbs/sally-radiator-springs-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/sally-radiator-springs-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/sally-radiator-springs-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/sally-radiator-springs-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/sally-radiator-springs-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<download id="dochudson3" type="wallpaper" character_id="dochudson" thumb="downloads/thumbs/dochudson-fabulous-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/dochudson-fabulous-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/dochudson-fabulous-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/dochudson-fabulous-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/dochudson-fabulous-iPhone.html"><title>iPhone</title></option>
+		</download>
+				
+		<download id="ramone3" type="wallpaper" character_id="ramone" thumb="downloads/thumbs/ramone-hydraulics-97x73.jpg">
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/ramone-hydraulics-1024x768.html"><title>1024x768</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/ramone-hydraulics-1280x1024.html"><title>1280x1024</title></option>
+			<option options="width=800,height=600,scrollbars=1,resizable=1,location=0" target="popup" href="activities/wallpapers/ramone-hydraulics-1600x1200.html"><title>1600x1200</title></option>
+			<option options="width=500,height=600,scrollbars=0,resizable=1,location=0" target="popup" href="activities/wallpapers/ramone-hydraulics-iPhone.html"><title>iPhone</title></option>
+		</download>
+		
+		<!-- WALLPAPER END -->		
+	</downloads>
+	
+	<photos>
+	
+		<!-- HOME PAGE CAROUSEL IMAGES -->
+		
+		<photo id="0" location_page="home_image" thumb="" src="images/characters/blimp.png" character_id="blimp" movie_id="" />
+		<photo id="1" location_page="home_image" thumb="" src="images/characters/boost.png" character_id="boost" movie_id="" />
+		<photo id="2" location_page="home_image" thumb="" src="images/characters/cartrip.png" character_id="cartrip" movie_id="" />
+		<photo id="3" location_page="home_image" thumb="" src="images/characters/chickhicks.png" character_id="chickhicks" movie_id="" />
+		<photo id="4" location_page="home_image" thumb="" src="images/characters/cutlass.png" character_id="cutlass" movie_id="" />
+		<photo id="5" location_page="home_image" thumb="" src="images/characters/dale.png" character_id="dale" movie_id="" />
+		<photo id="6" location_page="home_image" thumb="" src="images/characters/dj.png" character_id="dj" movie_id="" />
+		<photo id="7" location_page="home_image" thumb="" src="images/characters/dochudson.png" character_id="dochudson" movie_id="" />
+		<photo id="8" location_page="home_image" thumb="" src="images/characters/ferrari.png" character_id="ferrari" movie_id="" />
+		<photo id="9" location_page="home_image" thumb="" src="images/characters/fillmore.png" character_id="fillmore" movie_id="" />
+		<photo id="10" location_page="home_image" thumb="" src="images/characters/flo.png" character_id="flo" movie_id="" />
+		<photo id="11" location_page="home_image" thumb="" src="images/characters/guido.png" character_id="guido" movie_id="" />
+		<photo id="12" location_page="home_image" thumb="" src="images/characters/king.png" character_id="king" movie_id="" />
+		<photo id="13" location_page="home_image" thumb="" src="images/characters/leakless.png" character_id="leakless" movie_id="" />
+		<photo id="14" location_page="home_image" thumb="" src="images/characters/lightning.png" character_id="lightning" movie_id="" />
+		<photo id="15" location_page="home_image" thumb="" src="images/characters/lizzie.png" character_id="lizzie" movie_id="" />
+		<photo id="16" location_page="home_image" thumb="" src="images/characters/luigi.png" character_id="luigi" movie_id="" />
+		<photo id="17" location_page="home_image" thumb="" src="images/characters/mack.png" character_id="mack" movie_id="" />
+		<photo id="18" location_page="home_image" thumb="" src="images/characters/mario.png" character_id="mario" movie_id="" />
+		<photo id="19" location_page="home_image" thumb="" src="images/characters/mater.png" character_id="mater" movie_id="" />
+		<photo id="20" location_page="home_image" thumb="" src="images/characters/miatia.png" character_id="miatia" movie_id="" />
+		<photo id="21" location_page="home_image" thumb="" src="images/characters/nitroade.png" character_id="nitroade" movie_id="" />
+		<photo id="22" location_page="home_image" thumb="" src="images/characters/ramone.png" character_id="ramone" movie_id="" />
+		<photo id="23" location_page="home_image" thumb="" src="images/characters/red.png" character_id="red" movie_id="" />
+		<photo id="24" location_page="home_image" thumb="" src="images/characters/rpm.png" character_id="rpm" movie_id="" />
+		<photo id="25" location_page="home_image" thumb="" src="images/characters/sally.png" character_id="sally" movie_id="" />
+		<photo id="26" location_page="home_image" thumb="" src="images/characters/sarge.png" character_id="sarge" movie_id="" />
+		<photo id="27" location_page="home_image" thumb="" src="images/characters/sheriff.png" character_id="sheriff" movie_id="" />
+		<photo id="28" location_page="home_image" thumb="" src="images/characters/snotrod.png" character_id="snotrod" movie_id="" />
+		<photo id="29" location_page="home_image" thumb="" src="images/characters/tex.png" character_id="tex" movie_id="" />
+		<photo id="30" location_page="home_image" thumb="" src="images/characters/tractor.png" character_id="tractor" movie_id="" />
+		<photo id="31" location_page="home_image" thumb="" src="images/characters/wingo.png" character_id="wingo" movie_id="" />
+		
+		<!-- CHARACTER SELECTOR IMAGES -->
+		
+		<photo id="100" location_page="character_selector" thumb="" src="images/characters/selector/blimp.png" character_id="blimp" />
+		<photo id="101" location_page="character_selector" thumb="" src="images/characters/selector/boost.png" character_id="boost" />
+		<photo id="102" location_page="character_selector" thumb="" src="images/characters/selector/cartrip.png" character_id="cartrip" />
+		<photo id="103" location_page="character_selector" thumb="" src="images/characters/selector/chickhicks.png" character_id="chickhicks" />
+		<photo id="104" location_page="character_selector" thumb="" src="images/characters/selector/cutlass.png" character_id="cutlass" />
+		<photo id="105" location_page="character_selector" thumb="" src="images/characters/selector/dale.png" character_id="dale" />
+		<photo id="106" location_page="character_selector" thumb="" src="images/characters/selector/dj.png" character_id="dj" />
+		<photo id="107" location_page="character_selector" thumb="" src="images/characters/selector/dochudson.png" character_id="dochudson" />
+		<photo id="108" location_page="character_selector" thumb="" src="images/characters/selector/ferrari.png" character_id="ferrari" />
+		<photo id="109" location_page="character_selector" thumb="" src="images/characters/selector/fillmore.png" character_id="fillmore" />
+		<photo id="110" location_page="character_selector" thumb="" src="images/characters/selector/flo.png" character_id="flo" />
+		<photo id="111" location_page="character_selector" thumb="" src="images/characters/selector/guido.png" character_id="guido" />
+		<photo id="112" location_page="character_selector" thumb="" src="images/characters/selector/king.png" character_id="king" />
+		<photo id="113" location_page="character_selector" thumb="" src="images/characters/selector/leakless.png" character_id="leakless" />
+		<photo id="114" location_page="character_selector" thumb="" src="images/characters/selector/lightning.png" character_id="lightning" />
+		<photo id="115" location_page="character_selector" thumb="" src="images/characters/selector/lizzie.png" character_id="lizzie" />
+		<photo id="116" location_page="character_selector" thumb="" src="images/characters/selector/luigi.png" character_id="luigi" />
+		<photo id="117" location_page="character_selector" thumb="" src="images/characters/selector/mack.png" character_id="mack" />
+		<photo id="118" location_page="character_selector" thumb="" src="images/characters/selector/mario.png" character_id="mario" />
+		<photo id="119" location_page="character_selector" thumb="" src="images/characters/selector/mater.png" character_id="mater" />
+		<photo id="120" location_page="character_selector" thumb="" src="images/characters/selector/miatia.png" character_id="miatia" />
+		<photo id="121" location_page="character_selector" thumb="" src="images/characters/selector/nitroade.png" character_id="nitroade" />
+		<photo id="122" location_page="character_selector" thumb="" src="images/characters/selector/ramone.png" character_id="ramone" />
+		<photo id="123" location_page="character_selector" thumb="" src="images/characters/selector/red.png" character_id="red" />
+		<photo id="124" location_page="character_selector" thumb="" src="images/characters/selector/rpm.png" character_id="rpm" />
+		<photo id="125" location_page="character_selector" thumb="" src="images/characters/selector/sally.png" character_id="sally" />
+		<photo id="126" location_page="character_selector" thumb="" src="images/characters/selector/sarge.png" character_id="sarge" />
+		<photo id="127" location_page="character_selector" thumb="" src="images/characters/selector/sheriff.png" character_id="sheriff" />
+		<photo id="128" location_page="character_selector" thumb="" src="images/characters/selector/snotrod.png" character_id="snotrod" />
+		<photo id="129" location_page="character_selector" thumb="" src="images/characters/selector/tex.png" character_id="tex" />
+		<photo id="130" location_page="character_selector" thumb="" src="images/characters/selector/tractor.png" character_id="tractor" />
+		<photo id="131" location_page="character_selector" thumb="" src="images/characters/selector/wingo.png" character_id="wingo" />
+		
+		<!-- MOVIE GALLERY IMAGES -->
+		
+		<photo id="200" location_page="movie_gallery" thumb="images/gallery/movie/thumbs/m-lightning-racegroup-74x38.jpg" src="images/gallery/movie/m-lightning-racegroup-570x295.jpg" character_id="" />
+		<photo id="204" location_page="movie_gallery" thumb="images/gallery/movie/thumbs/m-lightning-chick-74x38.jpg" src="images/gallery/movie/m-lightning-chick-570x295.jpg" character_id="" />
+		<photo id="208" location_page="movie_gallery" thumb="images/gallery/movie/thumbs/m-lightning-raceexit-74x38.jpg" src="images/gallery/movie/m-lightning-raceexit-570x295.jpg" character_id="" />
+		<photo id="212" location_page="movie_gallery" thumb="images/gallery/movie/thumbs/m-gang-mack-74x38.jpg" src="images/gallery/movie/m-gang-mack-570x295.jpg" character_id="" />
+		<photo id="216" location_page="movie_gallery" thumb="images/gallery/movie/thumbs/m-lightning-mater-towyard-74x38.jpg" src="images/gallery/movie/m-lightning-mater-towyard-570x295.jpg" character_id="" />
+		<photo id="220" location_page="movie_gallery" thumb="images/gallery/movie/thumbs/m-lightning-courthouse-74x38.jpg" src="images/gallery/movie/m-lightning-courthouse-570x295.jpg" character_id="" />
+		<photo id="224" location_page="movie_gallery" thumb="images/gallery/movie/thumbs/m-lightning-court-mater-74x38.jpg" src="images/gallery/movie/m-lightning-court-mater-570x295.jpg" character_id="" />
+		<photo id="228" location_page="movie_gallery" thumb="images/gallery/movie/thumbs/m-sally-frame-74x38.jpg" src="images/gallery/movie/m-sally-frame-570x295.jpg" character_id="" />
+		<photo id="232" location_page="movie_gallery" thumb="images/gallery/movie/thumbs/m-mater-lightning-town-74x38.jpg" src="images/gallery/movie/m-mater-lightning-town-570x295.jpg" character_id="" />
+		<photo id="236" location_page="movie_gallery" thumb="images/gallery/movie/thumbs/m-doc-lightning-dirt-74x38.jpg" src="images/gallery/movie/m-doc-lightning-dirt-570x295.jpg" character_id="" />
+		<photo id="240" location_page="movie_gallery" thumb="images/gallery/movie/thumbs/m-doc-dirt-lightning-74x38.jpg" src="images/gallery/movie/m-doc-dirt-lightning-570x295.jpg" character_id="" />
+		<photo id="244" location_page="movie_gallery" thumb="images/gallery/movie/thumbs/m-doc-dirtdrift-74x38.jpg" src="images/gallery/movie/m-doc-dirtdrift-570x295.jpg" character_id="" />
+		<photo id="248" location_page="movie_gallery" thumb="images/gallery/movie/thumbs/m-luigi-guido-street-74x38.jpg" src="images/gallery/movie/m-luigi-guido-street-570x295.jpg" character_id="" />
+		<photo id="252" location_page="movie_gallery" thumb="images/gallery/movie/thumbs/m-lightning-gasgroup-74x38.jpg" src="images/gallery/movie/m-lightning-gasgroup-570x295.jpg" character_id="" />
+		<photo id="256" location_page="movie_gallery" thumb="images/gallery/movie/thumbs/m-ramone-bodyart-74x38.jpg" src="images/gallery/movie/m-ramone-bodyart-570x295.jpg" character_id="" />
+		<photo id="260" location_page="movie_gallery" thumb="images/gallery/movie/thumbs/m-fillmore-lightning-74x38.jpg" src="images/gallery/movie/m-fillmore-lightning-570x295.jpg" character_id="" />
+		<photo id="264" location_page="movie_gallery" thumb="images/gallery/movie/thumbs/m-lightning-luigi-dirty-74x38.jpg" src="images/gallery/movie/m-lightning-luigi-dirty-570x295.jpg" character_id="" />
+		<photo id="268" location_page="movie_gallery" thumb="images/gallery/movie/thumbs/m-lightning-gasstation-74x38.jpg" src="images/gallery/movie/m-lightning-gasstation-570x295.jpg" character_id="" />
+		<photo id="272" location_page="movie_gallery" thumb="images/gallery/movie/thumbs/m-sally-bridge-74x38.jpg" src="images/gallery/movie/m-sally-bridge-570x295.jpg" character_id="" />
+		<photo id="276" location_page="movie_gallery" thumb="images/gallery/movie/thumbs/m-doc-lightning-garage-74x38.jpg" src="images/gallery/movie/m-doc-lightning-garage-570x295.jpg" character_id="" />
+		<photo id="280" location_page="movie_gallery" thumb="images/gallery/movie/thumbs/m-mater-group-74x38.jpg" src="images/gallery/movie/m-mater-group-570x295.jpg" character_id="" />
+		<photo id="284" location_page="movie_gallery" thumb="images/gallery/movie/thumbs/m-lightning-mack-stadium-74x38.jpg" src="images/gallery/movie/m-lightning-mack-stadium-570x295.jpg" character_id="" />
+		<photo id="288" location_page="movie_gallery" thumb="images/gallery/movie/thumbs/m-race-trio-74x38.jpg" src="images/gallery/movie/m-race-trio-570x295.jpg" character_id="" />
+		<photo id="292" location_page="movie_gallery" thumb="images/gallery/movie/thumbs/m-cars-title-74x38.jpg" src="images/gallery/movie/m-cars-title-570x295.jpg" character_id="" />
+		
+		<!-- CHARACTER GALLERY IMAGES -->
+
+		<!-- CHICK HICKS 500 -->
+		
+		<photo id="501" location_page="gallery" thumb="images/gallery/characters/thumbs/c-chick-hicks-track-110x75.jpg" src="images/gallery/characters/c-chick-hicks-track-385x245.jpg" character_id="chickhicks" />
+		<photo id="502" location_page="gallery" thumb="images/gallery/characters/thumbs/c-chick-hicks-racing-lightning-110x75.jpg" src="images/gallery/characters/c-chick-hicks-racing-lightning-385x245.jpg" character_id="chickhicks" />
+
+		<!-- DOC HUDSON 510 -->
+
+		<photo id="511" location_page="gallery" thumb="images/gallery/characters/thumbs/c-doc-clinic-110x75.jpg" src="images/gallery/characters/c-doc-clinic-385x245.jpg" character_id="dochudson" />
+		<photo id="512" location_page="gallery" thumb="images/gallery/characters/thumbs/c-doc-dirt2-110x75.jpg" src="images/gallery/characters/c-doc-dirt2-385x245.jpg" character_id="dochudson" />
+		<photo id="513" location_page="gallery" thumb="images/gallery/characters/thumbs/c-doc-garage-110x75.jpg" src="images/gallery/characters/c-doc-garage-385x245.jpg" character_id="dochudson" />
+		<photo id="514" location_page="gallery" thumb="images/gallery/characters/thumbs/c-doc-night-110x75.jpg" src="images/gallery/characters/c-doc-night-385x245.jpg" character_id="dochudson" />
+		<photo id="515" location_page="gallery" thumb="images/gallery/characters/thumbs/c-doc-track-110x75.jpg" src="images/gallery/characters/c-doc-track-385x245.jpg" character_id="dochudson" />
+		<photo id="516" location_page="gallery" thumb="images/gallery/characters/thumbs/c-doc-dirt-110x75.jpg" src="images/gallery/characters/c-doc-dirt-385x245.jpg" character_id="dochudson" />
+
+		<!-- FILLMORE 520 -->
+
+		<photo id="521" location_page="gallery" thumb="images/gallery/characters/thumbs/c-fillmore-110x75.jpg" src="images/gallery/characters/c-fillmore-385x245.jpg" character_id="fillmore" />
+		<photo id="522" location_page="gallery" thumb="images/gallery/characters/thumbs/c-fillmore-lightning-110x75.jpg" src="images/gallery/characters/c-fillmore-lightning-385x245.jpg" character_id="fillmore" />
+
+		<!-- FLO 530 -->
+
+		<photo id="531" location_page="gallery" thumb="images/gallery/characters/thumbs/c-flo-110x75.jpg" src="images/gallery/characters/c-flo-417x250.jpg" character_id="flo" />
+		<photo id="532" location_page="gallery" thumb="images/gallery/characters/thumbs/c-flo-ramone-110x75.jpg" src="images/gallery/characters/c-flo-ramone-385x245.jpg" character_id="flo" />
+
+		<!-- GUIDO 540 -->
+		
+		<photo id="541" location_page="gallery" thumb="images/gallery/characters/thumbs/c-guido-110x75.jpg" src="images/gallery/characters/c-guido-417x250.jpg" character_id="guido" />
+		<photo id="542" location_page="gallery" thumb="images/gallery/characters/thumbs/c-guido-luigi-110x75.jpg" src="images/gallery/characters/c-guido-luigi-385x245.jpg" character_id="guido" />
+		<photo id="543" location_page="gallery" thumb="images/gallery/characters/thumbs/c-guido-lightning-110x75.jpg" src="images/gallery/characters/c-guido-lightning-385x245.jpg" character_id="guido" />
+		<photo id="544" location_page="gallery" thumb="images/gallery/characters/thumbs/c-guido-ferrari-fan-110x75.jpg" src="images/gallery/characters/c-guido-ferrari-fan-385x245.jpg" character_id="guido" />
+				
+		<!-- THE KING 550 -->
+		
+		<photo id="551" location_page="gallery" thumb="images/gallery/characters/thumbs/c-king-110x75.jpg" src="images/gallery/characters/c-king-385x245.jpg" character_id="king" />
+		<photo id="552" location_page="gallery" thumb="images/gallery/characters/thumbs/c-king-track-110x75.jpg" src="images/gallery/characters/c-king-track-385x245.jpg" character_id="king" />
+
+		<!-- LIGHTNING 560 -->
+
+		<photo id="561" location_page="gallery" thumb="images/gallery/characters/thumbs/c-lightning-track-110x75.jpg" src="images/gallery/characters/c-lightning-track-385x245.jpg" character_id="lightning" />
+		<photo id="562" location_page="gallery" thumb="images/gallery/characters/thumbs/c-lightning-140-110x75.jpg" src="images/gallery/characters/c-lightning-chick-385x245.jpg" character_id="lightning" />
+		<photo id="563" location_page="gallery" thumb="images/gallery/characters/thumbs/c-lightning-racing-110x75.jpg" src="images/gallery/characters/c-lightning-racing-385x245.jpg" character_id="lightning" />
+		<photo id="564" location_page="gallery" thumb="images/gallery/characters/thumbs/c-lightning-tongue-out-side-110x75.jpg" src="images/gallery/characters/c-lightning-tongue-out-side-385x245.jpg" character_id="lightning" />
+		<photo id="565" location_page="gallery" thumb="images/gallery/characters/thumbs/c-lightning-court-110x75.jpg" src="images/gallery/characters/c-lightning-court-385x245.jpg" character_id="lightning" />
+		<photo id="566" location_page="gallery" thumb="images/gallery/characters/thumbs/c-doc-lightning-110x75.jpg" src="images/gallery/characters/c-doc-lightning-385x245.jpg" character_id="lightning" />
+		<photo id="567" location_page="gallery" thumb="images/gallery/characters/thumbs/c-mater-lightning-wall-110x75.jpg" src="images/gallery/characters/c-mater-lightning-wall-385x245.jpg" character_id="lightning" />
+		<photo id="568" location_page="gallery" thumb="images/gallery/characters/thumbs/c-lightning-hooked-110x75.jpg" src="images/gallery/characters/c-lightning-hooked-385x245.jpg" character_id="lightning" />
+		<photo id="569" location_page="gallery" thumb="images/gallery/characters/thumbs/c-lightning-sally-110x75.jpg" src="images/gallery/characters/c-lightning-sally-385x245.jpg" character_id="lightning" />
+
+		<!-- LIZZIE 590 -->		
+
+		<photo id="591" location_page="gallery" thumb="images/gallery/characters/thumbs/c-lizzie-garage-110x75.jpg" src="images/gallery/characters/c-lizzie-garage-385x245.jpg" character_id="lizzie" />
+		<photo id="592" location_page="gallery" thumb="images/gallery/characters/thumbs/c-lizzie-sally-110x75.jpg" src="images/gallery/characters/c-lizzie-sally-385x245.jpg" character_id="lizzie" />
+
+		<!-- LUIGI 600 -->
+		
+		<photo id="601" location_page="gallery" thumb="images/gallery/characters/thumbs/c-luigi-110x75.jpg" src="images/gallery/characters/c-luigi-417x250.jpg" character_id="luigi" />
+		<photo id="602" location_page="gallery" thumb="images/gallery/characters/thumbs/c-luigi-guido-110x75.jpg" src="images/gallery/characters/c-luigi-guido-385x245.jpg" character_id="luigi" />
+		<photo id="603" location_page="gallery" thumb="images/gallery/characters/thumbs/c-luigi-casa-della-tires-110x75.jpg" src="images/gallery/characters/c-luigi-casa-della-tires-385x245.jpg" character_id="luigi" />
+		<photo id="604" location_page="gallery" thumb="images/gallery/characters/thumbs/c-luigi-lightning-110x75.jpg" src="images/gallery/characters/c-luigi-lightning-385x245.jpg" character_id="luigi" />
+		<photo id="605" location_page="gallery" thumb="images/gallery/characters/thumbs/c-luigi-ferrari-fan-110x75.jpg" src="images/gallery/characters/c-luigi-ferrari-fan-385x245.jpg" character_id="luigi" />
+
+		<!-- MACK 610 -->
+		
+		<photo id="611" location_page="gallery" thumb="images/gallery/characters/thumbs/c-mack-trailer-open-road-110x75.jpg" src="images/gallery/characters/c-mack-trailer-open-road-385x245.jpg" character_id="mack" />
+		<photo id="612" location_page="gallery" thumb="images/gallery/characters/thumbs/c-mack-track-110x75.jpg" src="images/gallery/characters/c-mack-track-385x245.jpg" character_id="mack" />
+		<photo id="613" location_page="gallery" thumb="images/gallery/characters/thumbs/c-mack-neon-110x75.jpg" src="images/gallery/characters/c-mack-neon-385x245.jpg" character_id="mack" />
+
+
+		<!-- MATER 620 -->
+
+		<photo id="621" location_page="gallery" thumb="images/gallery/characters/thumbs/c-mater-110x75.jpg" src="images/gallery/characters/c-mater-385x245.jpg" character_id="mater" />
+		<photo id="622" location_page="gallery" thumb="images/gallery/characters/thumbs/c-mater-lightning-wall-110x75.jpg" src="images/gallery/characters/c-mater-lightning-wall-385x245.jpg" character_id="mater" />
+		<photo id="623" location_page="gallery" thumb="images/gallery/characters/thumbs/c-mater-tailwhip-110x75.jpg" src="images/gallery/characters/c-mater-tailwhip-385x245.jpg" character_id="mater" />
+		<photo id="624" location_page="gallery" thumb="images/gallery/characters/thumbs/c-lightning-court-110x75.jpg" src="images/gallery/characters/c-lightning-court-385x245.jpg" character_id="mater" />
+		<photo id="625" location_page="gallery" thumb="images/gallery/characters/thumbs/c-mater-hooked-something-110x75.jpg" src="images/gallery/characters/c-mater-hooked-something-385x245.jpg" character_id="mater" />
+		<photo id="626" location_page="gallery" thumb="images/gallery/characters/thumbs/c-mater-red-others-110x75.jpg" src="images/gallery/characters/c-mater-red-others-385x245.jpg" character_id="mater" />
+
+		<!-- RAMONE 640 -->		
+
+		<photo id="641" location_page="gallery" thumb="images/gallery/characters/thumbs/c-ramone-110x75.jpg" src="images/gallery/characters/c-ramone-417x250.jpg" character_id="ramone" />
+		<photo id="642" location_page="gallery" thumb="images/gallery/characters/thumbs/c-ramone-neon-red-110x75.jpg" src="images/gallery/characters/c-ramone-neon-red-385x245.jpg" character_id="ramone" />
+		<photo id="643" location_page="gallery" thumb="images/gallery/characters/thumbs/c-ramone-hoba-purple-110x75.jpg" src="images/gallery/characters/c-ramone-hoba-purple-385x245.jpg" character_id="ramone" />
+		<photo id="644" location_page="gallery" thumb="images/gallery/characters/thumbs/c-ramone-ridinlow-110x75.jpg" src="images/gallery/characters/c-ramone-ridinlow-385x245.jpg" character_id="ramone" />
+		<photo id="645" location_page="gallery" thumb="images/gallery/characters/thumbs/c-ramone-neon-yellow-110x75.jpg" src="images/gallery/characters/c-ramone-neon-yellow-385x245.jpg" character_id="ramone" />
+
+		<!-- RED 650 -->
+		
+		<photo id="651" location_page="gallery" thumb="images/gallery/characters/thumbs/c-red-garage-110x75.jpg" src="images/gallery/characters/c-red-garage-385x245.jpg" character_id="red" />
+
+		<!-- SALLY 660 -->
+		
+		<photo id="661" location_page="gallery" thumb="images/gallery/characters/thumbs/c-sally-110x75.jpg" src="images/gallery/characters/c-sally-385x245.jpg" character_id="sally" />
+		<photo id="662" location_page="gallery" thumb="images/gallery/characters/thumbs/c-sally-court-110x75.jpg" src="images/gallery/characters/c-sally-court-385x245.jpg" character_id="sally" />
+		<photo id="663" location_page="gallery" thumb="images/gallery/characters/thumbs/c-sally-frame-110x75.jpg" src="images/gallery/characters/c-sally-frame-385x245.jpg" character_id="sally" />
+		<photo id="664" location_page="gallery" thumb="images/gallery/characters/thumbs/c-sally-bridge-110x75.jpg" src="images/gallery/characters/c-sally-bridge-385x245.jpg" character_id="sally" />
+		<photo id="665" location_page="gallery" thumb="images/gallery/characters/thumbs/c-lightning-sally-110x75.jpg" src="images/gallery/characters/c-lightning-sally-385x245.jpg" character_id="sally" />
+		<photo id="666" location_page="gallery" thumb="images/gallery/characters/thumbs/c-sally-desert-road-110x75.jpg" src="images/gallery/characters/c-sally-desert-road-385x245.jpg" character_id="sally" />
+
+		<!-- SARGE 670 -->
+		
+		<photo id="671" location_page="gallery" thumb="images/gallery/characters/thumbs/c-sarge-110x75.jpg" src="images/gallery/characters/c-sarge-417x250.jpg" character_id="sarge" />
+
+		<!-- SHERIFF 680 -->
+				
+		<photo id="681" location_page="gallery" thumb="images/gallery/characters/thumbs/c-sheriff-110x75.jpg" src="images/gallery/characters/c-sheriff-385x245.jpg" character_id="sheriff" />
+		<photo id="682" location_page="gallery" thumb="images/gallery/characters/thumbs/c-mater-red-others-110x75.jpg" src="images/gallery/characters/c-mater-red-others-385x245.jpg" character_id="sheriff" />
+
+	</photos>
+	
+	<videos>
+		
+		<!-- VIDEOS PAGE VIDEOS - 48x38 thumbs -->
+		
+		<video id="mater_the_greater" location_page="video_page" character_id="" thumb="images/video_thumbs/mater-greater-48x38.jpg" server_location="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" src="xd05340_wdpm_car_mater_great_st" fullsize="xd05340_wdpm_car_mater_great_hi">
+			<title>MATER THE GREATER</title>
+			<description>Mater the Greater proves to be quite the stunt daredevil.</description>
+			<runtime>3:32</runtime>
+		</video>
+		<video id="el_materdor" location_page="video_page" character_id="" thumb="images/video_thumbs/el-materdor-48x38.jpg" server_location="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" src="xd05342_wdpm_car_el_materdor_st" fullsize="xd05342_wdpm_car_el_materdor_hi">
+			<title>EL MATERDOR</title>
+			<description>Brave El Materdor is Spain's prize bulldozer fighter.</description>
+			<runtime>3:17</runtime>
+		</video>
+		<video id="rescue_squad_mater" location_page="video_page" character_id="" thumb="images/video_thumbs/rescue-mater-48x38.jpg" server_location="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" src="xd05341_wdpm_car_rescue_squad_mater_st" fullsize="xd05341_wdpm_car_rescue_squad_mater_hi">
+			<title>RESCUE SQUAD MATER</title>
+			<description>Fire truck Mater rescues Lightning McQueen in distress.</description>
+			<runtime>2:32</runtime>
+		</video>
+		
+		<!-- MOVIE/VIDEOS PAGE VIDEOS - 48x38 thumbs -->
+		
+		<video id="movie_trailer" location_page="movie_page" character_id="" thumb="images/video_thumbs/lightning-trailer-48x38.jpg" server_location="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneydxd/" src="xd00265_car_trailer2_480x208_500k" fullsize="xd00265_car_trailer2_704x304_700k" >
+			<title>THE MOVIE TRAILER</title>
+			<description>Disney/Pixar's Cars hits Route 66 for Radiator Springs.</description>
+			<runtime>2:38</runtime>
+		</video>
+		<video id="my_names_mater" location_page="movie_page" character_id="" thumb="images/video_thumbs/mater-impound-48x38.jpg" server_location="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/bventertainment/" src="xd00942_bvhe_car_my-names-mater_st" fullsize="xd00942_bvhe_car_my-names-mater_hi" >
+			<title>MY NAME'S MATER</title>
+			<description>Mater introduces himself to an impounded Lightning McQueen.</description>
+			<runtime>0:53</runtime>
+		</video>
+		<video id="welcome-guests" location_page="movie_page" character_id="" thumb="images/video_thumbs/mini-van-48x38.jpg" server_location="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/bventertainment/" src="xd00941_bvhe_car_extended-clip_st" fullsize="xd00941_bvhe_car_extended-clip_hi" >
+			<title>BE OUR GUEST</title>
+			<description>In Radiator Springs, lost travelers are welcomed as future customers.</description>
+			<runtime>1:43</runtime>
+		</video>
+		<video id="race_with_doc" location_page="movie_page" character_id="" thumb="images/video_thumbs/doc-race-48x38.jpg" server_location="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/bventertainment/" src="xd00944_bvhe_car_race-with-doc_st" fullsize="xd00944_bvhe_car_race-with-doc_hi" >
+			<title>RACE WITH DOC</title>
+			<description>Doc knows he doesn't have to go fast to beat Lightning.</description>
+			<runtime>0:52</runtime>
+		</video>
+		<video id="truck-stop" location_page="movie_page" character_id="" thumb="images/video_thumbs/truck-stop-48x38.jpg" server_location="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/bventertainment/" src="xd00933_bvhe_car_deleted-truck-scene_st" fullsize="xd00933_bvhe_car_deleted-truck-scene_hi" >
+			<title>DELETED 'TRUCK STOP' SCENE</title>
+			<description>See original pencil sketch drawings for the deleted truck stop scene.</description>
+			<runtime>0:25</runtime>
+		</video>
+		
+		<!-- CHARACTER VIDEOS - 90x62 thumbs -->
+		
+		<!-- Mater -->
+		<video id="my_names_mater" location_page="character_video" character_id="mater" thumb="images/video_thumbs/mater-impound-90x62.jpg" server_location="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/bventertainment/" src="xd00942_bvhe_car_my-names-mater_st" fullsize="xd00942_bvhe_car_my-names-mater_hi" >
+			<title>MY NAME'S MATER</title>
+			<description>Mater introduces himself to an impounded Lightning McQueen.</description>
+			<runtime>0:53</runtime>
+		</video>
+		<video id="tractor_tippin" location_page="character_video" character_id="mater" thumb="images/video_thumbs/tractor-tip-90x62.jpg" server_location="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/bventertainment/" src="xd00940_bvhe_car_tractor-tipping_st" fullsize="xd00940_bvhe_car_tractor-tipping_hi" >
+			<title>TRACTOR TIPPIN'</title>
+			<description>Mater takes Lightning McQueen tractor tipping.</description>
+			<runtime>0:59</runtime>
+		</video>
+		<video id="el_materdor" location_page="character_video" character_id="mater" thumb="images/video_thumbs/el-materdor-90x62.jpg" server_location="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" src="xd05342_wdpm_car_el_materdor_st" fullsize="xd05342_wdpm_car_el_materdor_hi">
+			<title>EL MATERDOR</title>
+			<description>Brave El Materdor is Spain's prize bulldozer fighter.</description>
+			<runtime>3:17</runtime>
+		</video>
+		<video id="mater_the_greater" location_page="character_video" character_id="mater" thumb="images/video_thumbs/mater-greater-90x62.jpg" server_location="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" src="xd05340_wdpm_car_mater_great_st" fullsize="xd05340_wdpm_car_mater_great_hi">
+			<title>MATER THE GREATER</title>
+			<description>Mater the Greater proves to be quite the stunt daredevil.</description>
+			<runtime>3:32</runtime>
+		</video>
+		<video id="rescue_squad_mater" location_page="character_video" character_id="mater" thumb="images/video_thumbs/rescue-mater-90x62.jpg" server_location="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" src="xd05341_wdpm_car_rescue_squad_mater_st" fullsize="xd05341_wdpm_car_rescue_squad_mater_hi">
+			<title>RESCUE SQUAD MATER</title>
+			<description>Fire truck Mater rescues Lightning McQueen in distress.</description>
+			<runtime>2:32</runtime>
+		</video>
+		
+		<!-- Lightning McQueen -->
+		<video id="too-close" location_page="character_video" character_id="lightning" thumb="images/video_thumbs/bob-cutlass-90x62.jpg" server_location="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/bventertainment/" src="xd00937_bvhe_car_too-close-to-call_st" fullsize="xd00937_bvhe_car_too-close-to-call_hi" >
+			<title>TOO CLOSE TO CALL</title>
+			<description>With two blown tires, Lighting McQueen struggles to reach the checkered flag before the others beat him to it.</description>
+			<runtime>1:20</runtime>
+		</video>
+		<video id="abandoned" location_page="character_video" character_id="lightning" thumb="images/video_thumbs/lightning-scared-90x62.jpg" server_location="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/bventertainment/" src="xd00938_bvhe_car_abandoned_st" fullsize="xd00938_bvhe_car_abandoned_hi" >
+			<title>ABANDONED</title>
+			<description>Lightning McQueen literally rips up the road when he falls out of a truck and is left behind in Radiator Springs.</description>
+			<runtime>1:39</runtime>
+		</video>
+		<video id="lightning_focuses_on_winning" location_page="character_video" character_id="lightning" thumb="images/video_thumbs/townspeople-90x62.jpg" server_location="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/bventertainment/" src="xd00935_bvhe_car_focus_st" fullsize="xd00935_bvhe_car_focus_hi" >
+			<title>LIGHTNING MCQUEEN FOCUSES ON WINNING THE CHAMPIONSHIP</title>
+			<description>Lightning McQueen concentrates on speed, then puts that to good use out on the racetrack.</description>
+			<runtime>1:42</runtime>
+		</video>
+		
+		<!-- Sally -->
+		<video id="you-saw-that" location_page="character_video" character_id="sally" thumb="images/video_thumbs/sally-motel-90x62.jpg" server_location="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/bventertainment/" src="xd00945_bvhe_car_you-saw-that_st" fullsize="xd00945_bvhe_car_you-saw-that_st" >
+			<title>YOU SAW THAT?</title>
+			<description>Sally Carrera becomes flustered after inviting Lightning McQueen to be her guest at the Cozy Cone.</description>
+			<runtime>0:52</runtime>
+		</video>
+		<video id="welcome-guests" location_page="character_video" character_id="sally" thumb="images/video_thumbs/mini-van-90x62.jpg" server_location="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/bventertainment/" src="xd00941_bvhe_car_extended-clip_st" fullsize="xd00941_bvhe_car_extended-clip_hi" >
+			<title>BE OUR GUEST</title>
+			<description>In Radiator Springs, lost travelers are welcomed as future customers.</description>
+			<runtime>1:43</runtime>
+		</video>
+		
+		<!-- Doc Hudson -->
+		<video id="race-with-doc" location_page="character_video" character_id="dochudson" thumb="images/video_thumbs/doc-race-90x62.jpg" server_location="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/bventertainment/" src="xd00944_bvhe_car_race-with-doc_st" fullsize="xd00944_bvhe_car_race-with-doc_hi" >
+			<title>RACE WITH DOC</title>
+			<description>Doc Hudson and Lightning McQueen race, but Doc knows he doesn't have to actually go fast to beat Lightning to the finish.</description>
+			<runtime>1:01</runtime>
+		</video>
+		
+		<!-- Chick Hicks -->
+		<video id="youre-stupid" location_page="character_video" character_id="chickhicks" thumb="images/video_thumbs/chick-hicks-90x62.jpg" server_location="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/bventertainment/" src="xd00946_bvhe_car_but-youre-stupid_st" fullsize="xd00946_bvhe_car_but-youre-stupid_hi" >
+			<title>BUT YOU'RE STUPID</title>
+			<description>Lightning McQueen trades put-downs with Chick Hicks.</description>
+			<runtime>0:39</runtime>
+		</video>
+		
+		<!-- The King -->
+		<video id="youre-stupid" location_page="character_video" character_id="king" thumb="images/video_thumbs/the-king-90x62.jpg" server_location="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/bventertainment/" src="xd00946_bvhe_car_but-youre-stupid_st" fullsize="xd00946_bvhe_car_but-youre-stupid_hi" >
+			<title>BUT YOU'RE STUPID</title>
+			<description>Lightning McQueen meets The King - who calls him stupid.</description>
+			<runtime>0:39</runtime>
+		</video>
+		
+		<!-- Luigi -->
+		<video id="only-ferraris" location_page="character_video" character_id="luigi" thumb="images/video_thumbs/luigi-guido-90x62.jpg" server_location="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/bventertainment/" src="xd00943_bvhe_car_only-the-ferraris_st" fullsize="xd00943_bvhe_car_only-the-ferraris_hi" >
+			<title>ONLY THE FERRARIS</title>
+			<description>Luigi is overjoyed to meet a real race car, but snubs Lightning after hearing he doesn't know any Ferraris.</description>
+			<runtime>0:35</runtime>
+		</video>
+		
+		<!-- Guido -->
+		<video id="only-ferraris" location_page="character_video" character_id="guido" thumb="images/video_thumbs/luigi-guido-90x62.jpg" server_location="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/bventertainment/" src="xd00943_bvhe_car_only-the-ferraris_st" fullsize="xd00943_bvhe_car_only-the-ferraris_hi" >
+			<title>ONLY THE FERRARIS</title>
+			<description>Luigi is overjoyed to meet a real race car, but snubs Lightning after hearing he doesn't know any Ferraris.</description>
+			<runtime>0:35</runtime>
+		</video>
+		
+		<!-- Mack -->
+		<video id="mack-drive-in" location_page="character_video" character_id="mack" thumb="images/video_thumbs/mack-drive-in-90x62.jpg" server_location="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/bventertainment/" src="xd00934_bvhe_car_pixar-spoofs_st" fullsize="xd00934_bvhe_car_pixar-spoofs_hi" >
+			<title>AT THE MOVIES</title>
+			<description>Mack enjoys his visits to the drive-in movies, until he notices something strange.</description>
+			<runtime>1:11</runtime>
+		</video>
+
+	</videos>	
+	<sounds>
+		<sound preload="false" type="music" id="radiatorsprings_bg" src="sounds/cars_background.mp3" />
+		<sound preload="false" type="music" id="garage_bg" src="sounds/movie_garage.mp3" />
+		<sound preload="false" type="sfx" id="lightning_rev" src="sounds/LightningRevShort1.mp3" />
+		<sound preload="false" type="sfx" id="mater_rev" src="sounds/MaterRevShort.mp3" />
+		<sound preload="false" type="sfx" id="doc_rev" src="sounds/DocRevShort1.mp3" />
+		<sound preload="false" type="sfx" id="fillmore_rev" src="sounds/FillmoreRevs.mp3" />
+		<sound preload="false" type="sfx" id="luigi_rev" src="sounds/LuigiRevShort2.mp3" />
+		<sound preload="false" type="sfx" id="guido_rev" src="sounds/GuidoRev.mp3" />
+		<sound preload="false" type="sfx" id="flo_rev" src="sounds/FloRevShort.mp3" />
+		<sound preload="false" type="sfx" id="ramone_rev" src="sounds/RamoneRevShort1.mp3" />
+		<sound preload="false" type="sfx" id="sally_rev" src="sounds/Sally_rev.mp3" />
+		<sound preload="false" type="sfx" id="sarge_rev" src="sounds/SargeRevs.mp3" />
+		<sound preload="false" type="sfx" id="sheriff_rev" src="sounds/SheriffRevShort1.mp3" />
+		<sound preload="false" type="sfx" id="mack_horn" src="sounds/VEHSemiHornForMack_M_16b.mp3" />
+		<sound preload="false" type="sfx" id="chick_rev" src="sounds/ChickRevShort.mp3" />
+		<sound preload="false" type="sfx" id="king_rev" src="sounds/KingRevShort2.mp3" />
+		<sound preload="false" type="sfx" id="lizzie_rev" src="sounds/LizzieRevs.mp3" />
+		<sound preload="false" type="sfx" id="red_rev" src="sounds/RedRevShort.mp3" />
+		<sound preload="true" type="sfx" id="topnav" src="sounds/cars-topnav.mp3" />
+		<sound preload="true" type="sfx" id="towernav" src="sounds/tower_btn_hit.mp3" />
+		<sound preload="true" type="sfx" id="pushbtn" src="sounds/whats_new_btns.mp3" />
+		<sound preload="true" type="sfx" id="promos" src="sounds/home_promos_btn.mp3" />
+		<sound preload="true" type="sfx" id="character_subnav" src="sounds/Character_subnav_btn.mp3" />
+		<sound preload="true" type="sfx" id="loader_intro" src="sounds/Whoosh_1.mp3" />
+		<sound preload="true" type="sfx" id="page_transition" src="sounds/cars_transition.mp3" />
+	</sounds>
+	
+	<games>
+		<game id="luigis_casa_della_tires" options="width=728,height=540,scrollbars=0,resizable=0,location=0" target="popup" href="games/luigi/games-luigi.html" asset_type="game" character_id="" thumb="promos/images/games/thumbs/luigi-127x70.jpg" fullsize="promos/images/games/luigi-306x195.jpg" src="">
+			<title>Luigi's Casa della Tires</title>
+			<list_title>Casa della Tires</list_title>
+			<description>Help Guido create a "Leaning Tower of Tires."</description>
+		</game>
+		<!--
+		<game id="make_a_picture" frame="kerpoof" asset_type="game" character_id="" thumb="promos/images/games/thumbs/make-a-picture-127x70.jpg" fullsize="promos/images/games/make-a-picture-306x195.jpg" src="games/cars-make-a-picture/main.swf" >
+		-->
+		<game id="make_a_picture" options="width=700,height=610,scrollbars=0,resizable=0,location=0" target="popup" href="games/cars-make-a-picture/games-make-a-picture.html" asset_type="game" character_id="" thumb="promos/images/games/thumbs/make-a-picture-127x70.jpg" fullsize="promos/images/games/make-a-picture-306x195.jpg" src="">
+			<title>Make A Picture</title>
+			<list_title>Make A Picture</list_title>
+			<description>Create your own scene with your favorite Cars.</description>
+		</game>
+		<!-- -->
+		<game id="maters_memory_game" asset_type="game" character_id="" thumb="promos/images/games/thumbs/memory-127x70.jpg" fullsize="promos/images/games/memory-306x195.jpg" src="games/memory/memory_game.swf" >
+			<title>Mater's Memory Game</title>
+			<list_title>Mater's Memory</list_title>
+			<description>Test your memory by matching pictures of Mater and his friends.</description>
+		</game>
+		<game id="personality_quiz" asset_type="game" character_id="" thumb="promos/images/games/thumbs/personality-127x70.jpg" fullsize="promos/images/games/personality-306x195.jpg" src="games/quiz/cars_quiz.swf" >
+			<title>Personality Quiz</title>
+			<description>Take a quiz to see which character you are most like.</description>
+		</game>
+		<game id="flos_v8_cafe" options="width=728,height=540,scrollbars=0,resizable=0,location=0" target="popup" href="games/flos/games-flo.html" asset_type="game" character_id="" thumb="promos/images/games/thumbs/flos-127x70.jpg" fullsize="promos/images/games/flos-306x195.jpg" src="">
+			<title>Flo's V-8 Game</title>
+			<list_title>Flo's V-8 Game</list_title>
+			<description>Fight for your gas!  Everyone wants Flo's finest fuel in all fifty states, but you will have to beat the clock.</description>
+		</game>
+		<game id="desert-dash" options="width=600,height=450,scrollbars=0,resizable=0,location=0" target="popup" href="games/desert-dash/games-desert-dash.html" asset_type="game" character_id="" thumb="promos/images/games/thumbs/desert-dash-127x70.jpg" fullsize="promos/images/games/desert-dash-306x195.jpg" src="">
+			<title>Desert Dash</title>
+			<list_title>Desert Dash</list_title>
+			<description>Race through the desert against tough challengers. Try to finish in first place!</description>
+		</game>
+		<game id="tractor_tip" options="width=590,height=440,scrollbars=0,resizable=0,location=0" target="popup" href="games/tractor-tip/games-tractor-tip.html" asset_type="game" character_id="" thumb="promos/images/games/thumbs/tractor-tip-127x70.jpg" fullsize="promos/images/games/tractor-tip-306x195.jpg" src="">
+			<title>Tractor Tippin'</title>
+			<list_title>Tractor Tippin'</list_title>
+			<description>See how many tractors you can tip without being caught by Frank the Bull!</description>
+		</game>
+		<game id="drag-race" options="width=600,height=460,scrollbars=0,resizable=0,location=0" target="popup" href="games/drag-race/games-drag-race.html" asset_type="game" character_id="" thumb="promos/images/games/thumbs/drag-race-127x70.jpg" fullsize="promos/images/games/drag-race-306x195.jpg" src="">
+			<title>Doc's Drag Race Challenge</title>
+			<list_title>Doc's Drag Race</list_title>
+			<description>Put the pedal down and see if you can beat Doc on the straightaway.</description>
+		</game>
+		<game id="mater_rescue" options="width=600,height=460,scrollbars=0,resizable=0,location=0" target="popup" href="games/mater-rescue/games-mater-rescue.html" asset_type="game" character_id="" thumb="promos/images/games/thumbs/mater-rescue-127x70.jpg" fullsize="promos/images/games/mater-rescue-306x195.jpg" src="">
+			<title>Mater to the Rescue</title>
+			<list_title>Mater's Rescue</list_title>
+			<description>Help Mater haul the stranded Lightning McQueen out of trouble.</description>
+		</game>
+		<game id="interactive_poster" options="width=728,height=540,scrollbars=0,resizable=0,location=0" target="popup" href="games/poster/games-poster.html" asset_type="game" character_id="" thumb="promos/images/games/thumbs/poster-127x70.jpg" fullsize="promos/images/games/poster-306x195.jpg" src="">
+			<title>Interactive Movie Poster</title>
+			<list_title>Interactive Poster</list_title>
+			<description>Zoom in and get a closer look at your favorite car.</description>
+		</game>
+	</games>
+	
+	<movie_pages>
+		<page id="story" href="internal:movie/story">	
+			<title>The Story</title>
+			<copy><![CDATA[<p><font size="18" color="#CC0000">SYNOPSIS</font></p><p>From the acclaimed creators of TOY STORY, THE INCREDIBLES, and FINDING NEMO comes a high-octane adventure comedy that shows life is about the journey, not the finish line. Hotshot rookie race car Lightning McQueen (Owen Wilson) is living life in the fast lane until he hits a detour on his way to the most important race of his life. <br><br>Stranded in Radiator Springs, a forgotten town on the old Route 66, he meets a snazzy Porsche named Sally (Bonnie Hunt), the wise-cracking tow truck Mater (Larry The Cable Guy), Doc Hudson (Paul Newman), and a variety of quirky characters who help him discover that there's more to life than trophies and fame. Revved up with a sensational soundtrack, featuring Rascal Flatts, Sheryl Crow, John Mayer, James Taylor, and others, plus exciting bonus features, including the exclusive short movie "Mater And The Ghostlight," CARS is full of freewheeling fun for everyone.<br></p>]]></copy>
+		</page>
+		<page id="videos" href="internal:movie/videos">
+			<title>Videos</title>
+		</page>
+		<page id="gallery" href="internal:movie/gallery">
+			<title>Gallery</title>
+		</page>
+		<page id="bluray" href="internal:movie/bluray">
+			<title>Blu-ray Features</title>
+			<copy><![CDATA[<p><font size="18" color="#CC0000">BLU-RAY&#8482; BONUS FEATURES</font></p><p><font color="#CC0000">Backstage</font></p><p>- Cine-Explore<br><p>   For the Ultimate Interactive, Behind-The-Scenes Experience</p></p><p>- Carfinder:</p><p>   Delve Deeper Inside The World Of Cars Than Ever Before. 217 Individual &quot;Car-     acters&quot; In This Immersive Game</p><p>- Inspiration For Cars</p><p>- Epilogue</p><p></p><p><font color="#CC0000">Pixar Shorts</font></p><p>- Mater And The Ghostlight</p><p>- One Man Band</p><p></p><p><font color="#CC0000">Never-Before-Seen-Deleted Scene:</font></p><p>- Traffic School</p><p></p><p><font color="#CC0000">Deleted Scenes</font></p><p>- Top-Down Truck Stop</p><p>- Lost</p><p>- Community Service</p><p>- Motorama Girls</p><p></p><p><font color="#CC0000">Radiator Springs Featurettes</font></p><p>- Radiator Springs</p><p>- Character Design</p><p>- Animation And Acting</p><p>- Real-World Racing: Getting Geeky With The Details</p><p>- Hudson Hornet</p><p>- Graphics</p><p>- Darrell Waltrip Museum Tour</p><p></p><p><font color="#CC0000">Movie Showcase</font><br><p>- Instant Access To Select Movie Scenes That Showcase The Ultimate In High            Definition Picture And Sound</p></p><p></p><p><font color="#CC0000">Seamless Menus</font></p><p></p><p><font color="#CC0000">Plus All DVD Bonus Features</font></p>]]></copy>
+		</page>
+		<page id="dvd_features" href="internal:movie/dvd_features">
+			<title>DVD Features</title>
+			<copy><![CDATA[<p><font size="18" color="#CC0000">DVD BONUS FEATURES</font></p><p><font color="#CC0000">MATER AND THE GHOSTLIGHT <br>(All New, Exclusive Animated Short)</font></p><p>Mischievous Mater likes to sneak up, honk his horn and spook his friends for laughs, but the lovable prankster changes his tune once he hears the story of "The Ghostlight." So ride along with Mater as he learns it's not what you can see that'll scare you, it's what you can't see, but wanna see, but wish you hadn't seen, if it really was there after all, that is. Anyway, enjoy the fun in this all-new exclusive animated short film.</p><br><p><font color="#CC0000">ONE MAN BAND <br>(Academy Award&#174; Nominated Short)</font></p><p>With just one coin to make a wish at a fountain, a peasant girl named Tippy encounters two street musicians competing for her money. It's musical mayhem as the little girl gets caught between dueling one man bands in this wonderful Academy Award nominated short film.</p><br><p><font color="#CC0000">INSPIRATION FOR CARS</font></p><p>Join Cars' creator John Lasseter as he shares his personal video footage and insights into the many inspirations behind the film. From the blazing speed of the racetrack to the slow lane of historic Route 66, John offers a firsthand account of how he discovered that life's not about the destination; it's about the journey. And More!<br></p>]]></copy>
+		</page>
+		<page id="filmmakers" href="internal:movie/filmmakers">
+			<title>Filmmakers</title>
+			<copy><![CDATA[<p><font size="18" color="#CC0000">THE FILMMAKERS</font></p><p><font color="#CC0000">JOHN LASSETER</font> (Director) made movie history in 1995 as director of the first feature-length computer-animated film, "Toy Story," for which he received a special achievement Academy Award&#174;. He has gone on to further acclaim as director of "A Bug's Life" (1998) and Golden Globe-winning "Toy Story 2" (1999), and executive producer of "Monsters, Inc." "Finding Nemo," and "The Incredibles." Among his most recent milestones, Lasseter was honored at this year's ShoWest convention with their first-ever "Pioneer of Animation" Award, and received the prestigious "Georges Melies Award for Artistic Excellence." in February from the Visual Effects Society.<br /></p><p>An award-winning director and animator, Lasseter continues to serve as executive vice president of creative for Pixar. He has written and directed a number of short films and television commercials at Pixar, including "Luxo Jr." (a 1996 Oscar&#174; nominee), "Red's Dream" (1987), "Tin Toy," which won the 1989 Academy Award&#174; for Best Animated Short Film, and "Knick Knack" (1989).<br /></p><p><font color="#CC0000">DARLA K. ANDERSON</font> (Producer) once again brings her knowledge and experience in computer animation to her latest producing assignment for Pixar. She had previously produced the 1998 Disney/Pixar release "A Bug's Life" and the 2001 blockbuster, "Monsters, Inc." Anderson began her association with Pixar in 1992, when she came on board as executive producer for the commercial and short film divisions. Her professional background includes a diverse and successful career in live-action and animation production.<br /></p><p><font color="#CC0000">RANDY NEWMAN</font> (Composer, Song and Score) marks his fourth collaboration with Pixar on this film, and reteams with director John Lasseter to create a score worthy of this entertaining and ambitious road trip.<br /></p><p>Newman was born into a famously musical family. Perhaps then it's no surprise that at seventeen Randy Newman was already a professional songwriter, knocking out tunes for a Los Angeles publishing house. In 1968 he made his debut with the orchestral recording, <u>Randy Newman</u>, and before long Newman's extraordinary and eclectic compositions were being recorded by a wide range of artists, from Pat Boone to Ray Charles, Peggy Lee to Wilson Pickett.<br /></p>]]></copy>
+		</page>
+		<page id="production_notes" href="internal:movie/production_notes">
+			<title>Production Notes</title>
+			<copy><![CDATA[<p><font size="18" color="#CC0000">PRODUCTION NOTES</font></p><p>After taking moviegoers magically into the realm of toys, bugs, monsters, fish, and superheroes, the masterful storytellers and technical wizards at Pixar Animation Studios ("The Incredibles," "Finding Nemo," "Monsters, Inc.") and Academy Award&#174;-winning director John Lasseter ("Toy Story," "Toy Story 2," "A Bug's Life"), hit the road with a fast-paced comedy adventure set inside the world of cars. A Pixar Animation Studios film presented by Walt Disney Pictures, "CARS" is a high octane delight for moviegoers of all ages, fueled with plenty of humor, action, heartfelt drama, and amazing new technical feats. Adding to the fun is a driving score and new songs by Oscar&#174;-winner Randy Newman, along with original musical performances by such top talents as Sheryl Crow, James Taylor, Brad Paisley, Rascal Flatts, and John Mayer. The film coincides with the celebration of Pixar's 20th anniversary, and the company's recent acquisition by Disney.<br /></p><p><a href="movie-production-notes.html" target="_blank"><font color="#CC0000"><u>Click here to read the complete production notes.</u></font></a><br /></p>]]></copy>
+		</page>
+		<!-- page id="partners">
+			<title>Partners</title>
+			<copy></copy>
+		</page> -->
+		<list_promo>
+			<nav id="bluray" href="http://www.disneystore.com/transfer/280559/movies-music-books-cars-blu-ray-disc/p/1212162/15003/?CMP=OTL-DOL&att=CarsFranchise">
+				<title>BLU-RAY</title>
+			</nav>
+			<nav id="dvd" href="http://www.disneystore.com/transfer/280559/movies-music-books-cars-widescreen-dvd/p/1197885/15003/?CMP=OTL-DOL&att=CarsFranchise">
+				<title>DVD</title>
+			</nav>
+			<nav id="order_now" href="http://www.disneystore.com/transfer/280559/movies-music-books-cars-blu-ray-disc/p/1212162/15003/?CMP=OTL-DOL&att=CarsFranchise">
+				<title>ORDER NOW</title>
+			</nav>
+		</list_promo>
+		<dmr id="dmr" src="promos/images/movie/cars_dmr_logo.png" target="_blank" href="http://disney.go.com/disneymovierewards/">
+			<title>PARTICIPATING TITLE</title>
+		</dmr>
+		<default_page>
+			<nav id="bluray" href="http://www.disneystore.com/transfer/280559/movies-music-books-cars-blu-ray-disc/p/1212162/15003/?CMP=OTL-DOL&att=CarsFranchise">
+				<title>BUY BLU-RAY</title>
+			</nav>
+			<nav id="dvd" href="http://www.disneystore.com/transfer/280559/movies-music-books-cars-widescreen-dvd/p/1197885/15003/?CMP=OTL-DOL&att=CarsFranchise">
+				<title>BUY DVD</title>
+			</nav>
+		</default_page>
+	</movie_pages>
+	
+	<page id="events">
+		<title>Live Events</title>
+		<description><![CDATA[Rev up for non-stop fun with four of your favorite Disney stories. Thrill to high-speed stunts as Lightning McQueen, Mater and the crew of Disney/Pixar's "Cars" race across the ice. Then, your family's favorite Disney moments from "The Little Mermaid," "The Lion King," and "Tinker Bell" come to life with beloved characters certain to create a lifetime of memories.]]></description>
+		<nav id="live_events_promo" href="http://www.disneyonice.com" target="_self">
+			<title>Go to DisneyOnIce.com</title>
+		</nav>
+	</page>
+	
+	<parks>
+		<title>Parks & Attractions</title>
+		<page id="disney_world">
+			<promo id="main" src="promos/swfs/parks/disney_land_main.swf" href="https://www.disneyvacations.com/dv/en_US/VacationPlanningDVD/index?sourcecode=14284" target="_self" />
+			<promo id="overview" src="promos/swfs/parks/meet_lm_shop.swf" href="http://disneyworld.disney.go.com/parks/hollywood-studios/entertainment/character-greetings-hollywood-studios/" target="_self" >
+				<title>OVERVIEW</title>
+			</promo>
+		</page>
+		<page id="disney_land">
+			<promo id="main" src="promos/swfs/parks/disney_land_main.swf" href="https://www.disneyvacations.com/dv/en_US/VacationPlanningDVD/index?sourcecode=14284" target="_self" />
+			<promo id="overview" src="promos/swfs/parks/meet_lm_condor.swf" href="http://disneyland.disney.go.com/disneyland/en_US/parks/landing?name=DisneysCaliforniaAdventureLandingPage" target="_self" >
+				<title>OVERVIEW</title>
+			</promo>
+		</page>
+		<page id="disney_cruise">
+			<promo id="main" src="promos/swfs/parks/disney_cruise_main.swf" href="http://disneycruise.disney.go.com/dcl/en_US/vpk/landing?name=eBrochureLandingPage&sourcecode=14347&CMP=LEC-FY09Q3CMRVPDCars101" target="_self" />
+			<promo id="overview" src="promos/swfs/parks/disney_cruise_attractions.swf" href="http://disneycruise.disney.go.com/dcl/en_US/onboard/activities/venueDetail?name=OceaneerClubLandingPage" target="_self" >
+				<title>ATTRACTIONS & ENTERTAINMENT</title>
+			</promo>
+		</page>
+	</parks>
+	
+	<products>
+		<product id="bluray_dvd" src="promos/swfs/products/products_bluray_dvd.swf" href="internal:products/bluray_dvd">
+			<title>Blu-ray & DVD</title>
+		</product>
+		<product id="books" target="_self" href="http://disneybooks.disney.go.com/characters/cars.html">
+			<title>Books</title>
+		</product>
+		<product id="video_games" target="_blank" href="http://home.disney.go.com/guestservices/disclaimers/redirect?destination=http://www.carsvideogame.com">
+			<title>Video Games</title>
+		</product>
+		<product id="music" target="_blank" href="http://disneymusic.disney.go.com/albums/cars.html">
+			<title>Music</title>
+		</product>
+		<product id="mobile" src="promos/swfs/products/products_mobile.swf" href="internal:products/mobile">
+			<title>Mobile</title>
+		</product>
+		<product id="apparel" target="_blank" href="http://www.disneystore.com/transfer/280559/cars/apparel-accessories/c/15002/?CMP=OTL-DOL&att=CarsFranchise">
+			<title>Apparel</title>
+		</product>
+		<product id="toys" target="_blank" href="http://www.disneystore.com/transfer/280559/cars/toys/c/15000/?CMP=OTL-DOL&att=CarsFranchise">
+			<title>Toys</title>
+		</product>
+		<product id="home" target="_blank" href="http://www.disneystore.com/transfer/280559/cars/home-dcor/c/15001/?CMP=OTL-DOL&att=CarsFranchise">
+			<title>Home & D&#233;cor</title>
+		</product>
+		<product id="collectibles" target="_blank" href="http://www.disneystore.com/transfer/280559/cars/collectibles/c/15004/?CMP=OTL-DOL&att=CarsFranchise">
+			<title>Collectibles</title>
+		</product>
+		<featured>
+			<title>Featured</title>
+			
+			<!-- round -->
+			<product src="promos/images/products/featured/product-carrying-case-130x100.png" href="http://www.disneystore.com/transfer/280559/gift-with-purchase-cars-carrying-case-for-die-cast-cars/p/1241459/73494/?CMP=OTL-DOL&att=carssite">
+				<title>CARRYING CASE</title>
+				<nav id="book">
+					<title>LEARN MORE</title>
+				</nav>
+			</product>
+			<product src="promos/images/products/featured/product-comic-tee-130x100.png" href="http://www.disneystore.com/transfer/280559/apparel-accessories-comic-strip-cars-tee/p/1245959/15002/?CMP=OTL-DOL&att=carssite">
+				<title>COMIC STRIP Cars Tee</title>
+				<nav id="book">
+					<title>CLICK TO ORDER</title>
+				</nav>
+			</product>	
+			<product src="promos/images/products/featured/book-ready-set-go-130x100.png" href="http://disneybooks.disney.go.com/books/1423112261.html">
+				<title>READY, SET, GO! Play Set</title>
+				<nav id="book">
+					<title>CLICK TO ORDER</title>
+				</nav>
+			</product>
+			
+			<!-- round -->
+			<product src="promos/images/products/featured/product-tv-dvd-player-130x100.png" href="http://www.disneystore.com/transfer/280559/home-dcor-lightning-mcqueen-tv-dvd-player/p/1207443/15001/?CMP=OTL-DOL&att=carssite">
+				<title>TV & DVD Player</title>
+				<nav id="book">
+					<title>COMPLETE DETAILS</title>
+				</nav>
+			</product>		
+			<product src="promos/images/products/featured/book-meet-the-cars-130x100.png" href="http://disneybooks.disney.go.com/books/1423114558.html">
+				<title>MEET THE CARS Book</title>
+				<nav id="book">
+					<title>FIND OUT MORE</title>
+				</nav>
+			</product>		
+			<product src="promos/images/products/featured/book-on-the-go-130x100.png" href="http://disneybooks.disney.go.com/books/1423118421.html">
+				<title>ON THE GO Book and Play Set</title>
+				<nav id="book">
+					<title>GET DETAILS</title>
+				</nav>
+			</product>	
+			
+			<!-- round -->
+			<product src="promos/images/products/featured/book-race-to-the-finish-130x100.png" href="http://disneybooks.disney.go.com/books/1423108205.html">
+				<title>RACE TO THE FINISH Play Set</title>
+				<nav id="book">
+					<title>LEARN MORE</title>
+				</nav>
+			</product>	
+			<product src="promos/images/products/featured/product-remote-lightning-130x100.png" href="http://www.disneystore.com/transfer/280559/gift-with-purchase-cars-lightning-mcqueen-remote-control-vehicle/p/1237018/73494/?CMP=OTL-DOL&att=carssite">
+				<title>REMOTE-CONTROL LIGHTNING MCQUEEN</title>
+				<nav id="book">
+					<title>GET DETAILS</title>
+				</nav>
+			</product>
+			<product src="promos/images/products/featured/product-lithograph-130x100.png" href="http://www.disneystore.com/transfer/280559/collectibles-cars-framed-lithograph/p/1212836/15004/?CMP=OTL-DOL&att=carssite">
+				<title>FRAMED LITHOGRAPH</title>
+				<nav id="book">
+					<title>CLOSER LOOK</title>
+				</nav>
+			</product>
+			
+			<!-- round -->
+			<product src="promos/images/products/featured/product-blu-ray-130x100.png" href="http://www.disneystore.com/transfer/280559/movies-music-books-cars-blu-ray-disc/p/1212162/15003/?CMP=OTL-DOL&att=carssite">
+				<title>BLU-RAY DISC</title>
+				<nav id="book">
+					<title>CLICK TO ORDER</title>
+				</nav>
+			</product>			
+			<product src="promos/images/products/featured/product-tool-box-130x100.png" href="http://www.disneystore.com/transfer/280559/gift-with-purchase-cars-tool-box-play-set/p/1240033/73494/?CMP=OTL-DOL&att=carssite">
+				<title>TOOL BOX Play Set</title>
+				<nav id="book">
+					<title>SEE ALL 18 PIECES</title>
+				</nav>
+			</product>				
+			<product src="promos/images/products/featured/book-world-of-cars-130x100.png" href="http://disneybooks.disney.go.com/books/1423108736.html">
+				<title>WORLD OF CARS Storybook</title>
+				<nav id="book">
+					<title>FIND OUT MORE</title>
+				</nav>
+			</product>
+			
+			<!-- round -->	
+			<product src="promos/images/products/featured/product-game-psp-130x100.png" href="http://www.disneystore.com/transfer/280559/video-games-cars-game-for-psp/p/1196170/69501/?CMP=OTL-DOL&att=carssite">
+				<title>GAME FOR PSP</title>
+				<nav id="book">
+					<title>GET DETAILS</title>
+				</nav>
+			</product>
+			<product src="promos/images/products/featured/book-mater-saves-xmas-130x100.png" href="">
+				<title>MATER SAVES CHRISTMAS</title>
+				<nav id="book">
+					<title>COMING IN AUGUST</title>
+				</nav>
+			</product>		
+			<product src="promos/images/products/featured/product-soundtrack-130x100.png" href="http://www.disneystore.com/transfer/280559/movies-music-books-cars-soundtrack-cd/p/1195972/15003/?CMP=OTL-DOL&att=carssite">
+				<title>SOUNDTRACK CD</title>
+				<nav id="book">
+					<title>SAMPLE TRACKS</title>
+				</nav>
+			</product>	
+			
+		</featured>
+		<left_promo id="left" src="promos/images/products/world-of-cars-280x120.jpg">
+			<title>Books</title>
+			<nav id="left_side" href="http://disneybooks.disney.go.com/books/1423108736.html">
+				<title>NOW AVAILABLE</title>
+			</nav>
+		</left_promo>
+		<right_promo id="right" src="promos/images/products/videogame-280x120.jpg">
+			<title>Video Games</title>
+			<nav id="right_side" href="http://home.disney.go.com/guestservices/disclaimers/redirect?destination=http://www.carsvideogame.com">
+				<title>FIND OUT MORE</title>
+			</nav>
+		</right_promo>
+		<inner_nav>
+			<nav id="bluray" target="_blank" href="http://www.disneystore.com/transfer/280559/movies-music-books-cars-blu-ray-disc/p/1212162/15003/?CMP=OTL-DOL&att=CarsFranchise" />
+			<nav id="dvd" target="_blank" href="http://www.disneystore.com/transfer/280559/movies-music-books-cars-widescreen-dvd/p/1197885/15003/?CMP=OTL-DOL&att=CarsFranchise" />
+			<nav id="itunes" target="_blank" href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewMovie?id=188764984&s=143441" />
+			<nav id="buy_games" target="_blank" href="http://home.disney.go.com/guestservices/disclaimers/redirect?destination=http://offers.playphone.com/Cars?storefrontid=0001-0001-3200-0008" />
+			<nav id="buy_graphics" target="_blank" href="http://home.disney.go.com/guestservices/disclaimers/redirect?destination=http://offers.playphone.com/Cars?storefrontid=0001-0001-3200-0008" />
+			<nav id="buy_voicetones" target="popup" href="http://home.disney.go.com/guestservices/disclaimers/redirect?destination=http://offers.playphone.com/Cars?storefrontid=0001-0001-3200-0008" />
+		</inner_nav>
+		<disneystore>
+			<nav id="disneystore" src="promos/images/products/cars_disneystore_logo.png" target="_blank" href="http://www.disneystore.com/cars/c/14626/" />
+		</disneystore>
+	</products>
+	
+	<localization>
+		<!-- GENERAL -->
+		<string id="now_playing_title">NOW PLAYING</string>
+		<string id="now_playing_thumb">Now Playing</string>
+		<string id="dvd">DVD</string>
+		
+		<!-- MOVIE PAGE -->
+		<string id="movie_home_title">Blu-ray & DVD</string>
+		<string id="movie_home_header">NOW AVAILABLE ON</string>
+		<string id="movie_list_header">Movie</string>
+		
+		<!-- PROMOS -->
+		<string id="sidepromo_title">Create a Car</string>
+		<string id="whats_new">What's New</string>
+		
+		<!-- PRODUCT PAGE -->
+		<string id="featured">Featured</string>
+		<string id="products">Products</string>
+		
+		<!-- GAMES PAGE -->
+		<string id="all_games_list_title">All Games</string>
+		<string id="all_downloads_title">All Downloads</string>
+		<string id="all_downloads_wallpapers">WALLPAPERS</string>
+		<string id="all_downloads_icons">ICONS</string>
+		<string id="all_downloads_screensavers">SCREENSAVERS</string>
+		<string id="view_all_downloads">VIEW ALL DOWNLOADS</string>
+		<string id="view_all_games">VIEW ALL GAMES</string>
+		<string id="games">Games</string>
+		<string id="downloads">Downloads</string>
+		<string id="play_now">PLAY NOW</string>
+		
+		<!-- SOUND CONTROLLER -- >
+		<string id="sound">SOUND</string>
+		<string id="music">MUSIC</string>
+		<string id="sfx">SFX</string>
+		
+		<!-- CHARACTER PAGE -->
+		<string id="character_selector">CHARACTER SELECTOR</string>
+		<string id="characters">CHARACTERS</string>
+		<string id="character_selector_title">Select A Character</string>
+		<string id="prev_character"><![CDATA[PREVIOUS<br>CHARACTER]]></string>
+		<string id="next_character"><![CDATA[NEXT<br>CHARACTER]]></string>
+		<string id="character_label_photos">PHOTOS</string>
+		<string id="character_label_videos">VIDEOS</string>
+		<string id="character_label_photo">PHOTO</string>
+		<string id="character_label_video">VIDEO</string>
+		
+		<!-- VIDEOS PAGE -->
+		<string id="watch_these_videos">Watch These Videos</string>
+	</localization>
+
+	<intro_phrases>
+		<phrase>Life is about the journey, not the destination</phrase>
+		<phrase>It's drive time with Cars</phrase>
+		<phrase>Our Cars speak for themselves</phrase>
+		<phrase>Gearin' up for high-octane thrills</phrase>
+		<phrase>Jump startin' the fun...</phrase>
+		<phrase>More smiles per hour</phrase>
+		<phrase>Puttin' your best tire forward</phrase>
+		<phrase>Cruisin' the scene with the coolest Cars</phrase>
+		<phrase>Acceleratin' the high-octane fun</phrase>
+	</intro_phrases>
+	
+	<page_titles>
+		<title id="persistent">Disney/Pixar Cars</title>
+		<title id="characters">Characters</title>
+		<title id="videos">Videos</title>
+		<title id="games">Games</title>
+		<title id="movie">The Movie</title>
+		<title id="parks">Parks</title>
+		<title id="events">Live Events</title>
+		<title id="products">Products</title>
+		<title id="gallery">Gallery</title>
+		<title id="production_notes">Production Notes</title>
+		<title id="filmmakers">Filmmakers</title>
+		<title id="dvd_features">DVD Features</title>
+		<title id="story">The Story</title>
+		<title id="bluray_dvd">Blu-ray & DVD</title>
+		<title id="mobile">Mobile</title>
+		<title id="all_games">All Games</title>
+		<title id="all_downloads">All Downloads</title>
+		<title id="bluray">Blu-ray Features</title>
+		<title id="disney_land">Disneyland</title>
+		<title id="disney_world">Walt Disney World</title>
+		<title id="disney_cruise">Disney Cruise Lines</title>
+	</page_titles>
+	
+	<page_sounds>
+		<page id="characters" sound_id="garage_bg" />
+		<page id="movie" sound_id="garage_bg" />
+		<page id="videos" sound_id="radiatorsprings_bg" />
+		<page id="games" sound_id="radiatorsprings_bg" />
+		<page id="home" sound_id="radiatorsprings_bg" />
+		<page id="parks" sound_id="radiatorsprings_bg" />
+		<page id="products" sound_id="radiatorsprings_bg" />
+		<page id="events" sound_id="radiatorsprings_bg" />
+	</page_sounds>
+
+	<tracking>
+		<page id="/home" section="home" page_title="home" />
+		
+		<!-- VIDEO PAGES -->
+		<page id="/videos" section="videos" page_title="videos_home" content_type="videos_assets" />
+		
+		<!-- MOVIE PAGES -->
+		<page id="/movie" section="movie" page_title="movie_home" />
+		<page id="/movie/story" section="movie:story" page_title="movie_story" />
+		<page id="/movie/videos" section="movie:videos" page_title="movie_videos" content_type="videos_assets" />
+		<page id="/movie/gallery" section="movie:gallery" page_title="movie_gallery" />
+		<page id="/movie/bluray" section="movie:bd_features" page_title="movie_bd" />
+		<page id="/movie/dvd_features" section="movie:dvd_features" page_title="movie_dvd" />
+		<page id="/movie/filmmakers" section="movie:filmmakers" page_title="movie_filmmakers" />
+		<page id="/movie/production_notes" section="movie:production_notes" page_title="movie_production_notes" />
+		<page id="/movie/partners" section="movie:partners" page_title="movie_partners" />
+		
+		<!-- PARKS PAGES -->
+		<page id="/parks" section="parks" page_title="parks_home" />
+		<page id="/parks/disney_world" section="parks" page_title="disney_world" />
+		<page id="/parks/disney_land" section="parks" page_title="disneyland" />
+		<page id="/parks/disney_cruise" section="parks" page_title="disney_cruise" />
+		
+		<!-- PRODUCT PAGES -->
+		<page id="/products" section="products" page_title="products_home" />
+		<page id="/products/bluray_dvd" section="products:db_dvds" page_title="db_dvds_home" />
+		<page id="/products/mobile" section="products:mobile" page_title="mobile_home" />
+		
+		<!-- LIVE EVENTS -->
+		<page id="/events" section="live_events" page_title="live_events_home" />
+		
+		<!-- GAMES PAGES -->
+		<page id="/games" section="games" page_title="games_home" content_type="activities" />
+		<page id="/games/all_games" section="games:mini_game" page_title="all_games" content_type="activities" />
+		<page id="/games/all_games/maters_memory_game" section="games:mini_game" page_title="maters_memory_game" content_type="activities" />
+		<page id="/games/all_games/personality_quiz" section="games:mini_game" page_title="personality_quiz" content_type="activities" />
+		<page id="/games/all_games/make_a_picture" section="games:mini_game" page_title="make_a_picture" content_type="activities" />
+		<page id="/games/all_downloads" section="downloads" page_title="all_downloads" content_type="downloads" />
+		
+		<!-- CHARACTER PAGES -->
+		<!-- This is a workaround for the character subpages, which are not accessible via deep-link. the page_title will take the character id (eg. mater) and append this page_title to the end.
+			The id attribute is related to the <character_navigation> id's listed on lines appx: 40-50 -->
+		<character_subpages>
+			<page id="bio" section="characters:bio" page_title="_bio" />
+			<page id="specs" section="characters:specs" page_title="_specs" />
+			<page id="downloads" section="characters:downloads" page_title="_downloads" />
+			<page id="photos" section="characters:photos" page_title="_photos" />
+			<page id="videos" section="characters:videos" page_title="_videos" />
+		</character_subpages>
+		
+		<page id="/characters" section="characters" page_title="characters_home" />
+		
+		<page id="/characters/mcqueen" section="characters:bio" page_title="mcqueen_bio" />
+		<page id="/characters/mater" section="characters:bio" page_title="mater_bio" />
+		<page id="/characters/sally" section="characters:bio" page_title="sally_bio" />
+		<page id="/characters/doc" section="characters:bio" page_title="doc_bio" />
+		<page id="/characters/ramone" section="characters:bio" page_title="ramone_bio" />
+		<page id="/characters/chickhicks" section="characters:bio" page_title="chickhicks_bio" />
+		<page id="/characters/king" section="characters:bio" page_title="king_bio" />
+		<page id="/characters/sheriff" section="characters:bio" page_title="sheriff_bio" />
+		<page id="/characters/guido" section="characters:bio" page_title="guido_bio" />
+		<page id="/characters/luigi" section="characters:bio" page_title="luigi_bio" />
+		<page id="/characters/flo" section="characters:bio" page_title="flo_bio" />
+		<page id="/characters/sarge" section="characters:bio" page_title="sarge_bio" />
+		<page id="/characters/fillmore" section="characters:bio" page_title="fillmore_bio" />
+		<page id="/characters/mack" section="characters:bio" page_title="mack_bio" />
+		<page id="/characters/red" section="characters:bio" page_title="red_bio" />
+		<page id="/characters/tractor" section="characters:bio" page_title="tractor_bio" />
+		<page id="/characters/lizzie" section="characters:bio" page_title="lizzie_bio" />
+		<page id="/characters/tex" section="characters:bio" page_title="tex_bio" />
+		<page id="/characters/dj" section="characters:bio" page_title="dj_bio" />
+		<page id="/characters/wingo" section="characters:bio" page_title="wingo_bio" />
+		<page id="/characters/boost" section="characters:bio" page_title="boost_bio" />
+		<page id="/characters/snot" section="characters:bio" page_title="snot_bio" />
+		<page id="/characters/mia_tia" section="characters:bio" page_title="mia_tia_bio" />
+		<page id="/characters/dusty" section="characters:bio" page_title="dusty_bio" />
+		<page id="/characters/rusty" section="characters:bio" page_title="rusty_bio" />
+		<page id="/characters/ferarri" section="characters:bio" page_title="ferarri_bio" />
+		<page id="/characters/al_oft" section="characters:bio" page_title="al_oft_bio" />
+		<page id="/characters/cartrip" section="characters:bio" page_title="cartrip_bio" />
+		<page id="/characters/cutlass" section="characters:bio" page_title="cutlass_bio" />
+		<page id="/characters/earnhardt" section="characters:bio" page_title="earnhardt_bio" />
+		<page id="/characters/fred" section="characters:bio" page_title="fred_bio" />
+		<page id="/characters/frank" section="characters:bio" page_title="frank_bio" />
+		<page id="/characters/andretti" section="characters:bio" page_title="andretti_bio" />
+		<page id="/characters/leakless" section="characters:bio" page_title="leakless_bio" />
+		<page id="/characters/nitroade" section="characters:bio" page_title="nitroade_bio" />
+		<page id="/characters/rpm" section="characters:bio" page_title="rpm_bio" />
+	</tracking>
+
+</disney_cars>
+<!-- 090728 1430 mw -->

@@ -1,0 +1,33 @@
+<character3D id="mcqueen">
+	<model type="smod" model="assets/rig/character/avatar/car_r_chr_avt_sports.smod" x="0" y="0" z="0" />
+	<anims>
+		<!-- <anim url="assets/animation/character/avatar/car_a_chr_avt_sports_racingBoost.sani" />
+		<anim url="assets/animation/character/avatar/car_a_chr_avt_sports_racingFwd.sani" />
+		<anim url="assets/animation/character/avatar/car_a_chr_avt_sports_racingTurnLeft.sani" />
+		<anim url="assets/animation/character/avatar/car_a_chr_avt_sports_racingTurnRight.sani" />
+		<anim url="assets/animation/character/avatar/car_a_chr_avt_sports_racingLeftTransition.sani" />
+		<anim url="assets/animation/character/avatar/car_a_chr_avt_sports_racingRightTransition.sani" />
+		<anim url="assets/models/car_anim/car_a_chr_avt_sportsA_bored.sani" />
+		<anim url="assets/models/car_anim/car_a_chr_avt_sportsA_checkMyself.sani" />
+		<anim url="assets/models/car_anim/car_a_chr_avt_sportsA_sad.sani" />
+		<anim url="assets/models/car_anim/car_a_chr_avt_sportsA_smile.sani" />
+		<anim url="assets/models/car_anim/car_a_chr_avt_sportsA_surpriseBig.sani" />
+		<anim url="assets/models/car_anim/car_a_chr_avt_sportsA_wink.sani" />
+		<anim url="assets/models/car_anim/car_a_chr_avt_sportsA_worry.sani" />
+		<anim url="assets/models/car_anim/car_a_chr_avt_sportsA_idle.sani" />
+		<anim url="assets/models/car_anim/car_a_chr_avt_sportsA_donutBig.sani" />
+		<anim url="assets/models/car_anim/car_a_chr_avt_sportsA_donutBigRepeat.sani" />
+		<anim url="assets/models/car_anim/car_a_chr_avt_sportsA_donutRepeat.sani" /> -->
+	</anims>
+	<rotation value="270" />
+	<camera hFov="0.6981" aspect="1" near="21" far="50" left="-9" right="9" top="9" bottom="-9">
+		<viewPoint x="0" y="14" z="28" />
+		<atPoint x="0" y="0" z="0" />
+		<upDir x="0" y="1" z="0" />
+	</camera>
+	<sprite width="110" height="110" />
+	<scale value="0.85"/>
+	<direction x="-1.0" y="0" />
+	<circle x="0.5" y="0.35" r="0.21" />
+	<baked frames="36" />
+</character3D>

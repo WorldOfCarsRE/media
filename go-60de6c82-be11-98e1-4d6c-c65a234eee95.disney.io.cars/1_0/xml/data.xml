@@ -1,0 +1,1551 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<page id="mainnav">
+		<nav id="characters" href="characters">CHARACTERS</nav>
+		<nav id="movies" href="movies">MOVIES</nav>
+		<nav id="games" href="games">GAMES</nav>
+		<nav id="downloads" href="downloads">DOWNLOADS</nav>
+		<nav id="videos" href="videos">VIDEOS</nav>
+		<nav id="activities" href="activities">ACTIVITIES</nav>
+		<nav id="sweepstakes" href="sweepstakes">SWEEPSTAKES</nav>
+		<nav id="events" href="events">EVENTS</nav>
+		<nav id="tickets" href="tickets">TICKETS</nav>
+		<!--<nav id="parks" href="parks">PARKS & TRAVEL</nav>-->
+		<nav id="products/videogames" href="products/videogames">VIDEO GAMES</nav>
+		<nav id="products" href="products">PRODUCTS</nav>
+		<nav id="disney_junior" target="_blank" href="http://disney.go.com/disneyjunior/cars/?cmp=SYN_Dcom_Cars_LeftNav_DJR">DISNEY JUNIOR</nav>
+		<desc>IN THEATERS JUNE 24</desc>
+	</page>
+	
+	<page id="share_btns">
+		<title><![CDATA[TEXT <font color="#990000">"RACE"</font> TO <font color="#990000">DISNEY</font> (347639) FOR EXCLUSIVE CARS MOVIE ALERTS!*]]></title>
+		<promo id="facebook" image_id="facebook_icon">
+			<nav id="facebook" ageGate="true" target="facebook" href="http://www.facebook.com/">SHARE</nav>
+			<nav id="like" ageGate="true" target="_blank" href="http://www.facebook.com/PixarCars">LIKE</nav>
+		</promo>
+		<promo id="twitter" image_id="twitter_icon">
+			<nav id="follow" ageGate="true" target="_blank" href="http://twitter.com/disneypixar">FOLLOW</nav>
+			<nav id="tweet" ageGate="true" target="_blank" href="http://twitter.com/disneypixar">TWEET</nav>
+		</promo>
+		
+	</page>
+	
+	<strings>
+		<str id="visit">VISIT</str>
+		<str id="back">BACK</str>
+		<str id="incoming">INCOMING TRANSMISSION</str>
+		<str id="view_all_characters">VIEW ALL CHARACTERS</str>
+	</strings>
+	
+	<page id="age_gate">
+		<desc>PLEASE ENTER YOUR BIRTHDAY</desc>
+		<nav id="day">DAY</nav>
+		<nav id="month">MONTH</nav>
+		<nav id="year">YEAR</nav>
+		<nav id="submit">SUBMIT</nav>
+		<page id="underage"><desc>SORRY. YOU ARE NOT OLD ENOUGH TO USE THIS FEATURE.</desc></page>
+		<page id="error"><desc>ALL FIELDS ARE REQUIRED.</desc></page>
+	</page>
+	
+	<page id="characters">
+		<title>CHARACTERS</title>
+	</page>
+	
+	<page id="home">
+		<!-- each of these <page> tags require an <image> tag with a matching id and a location of "home_selector" . Those are the thumbs that link to these pages. -->		
+		<!-- there is a max of 5 home page groupings. The thumbnail selector does not expand to accomodate more than that. -->  
+		
+		<page id="francesco_carla_lightning" template="swfs/groupings/francesco_carla_lightning.swf" bg="porto_corsa3" offset='{"x":40,"y":5}'>
+			<nav id="1" href="characters/carla">CARLA VELOSO</nav>
+			<nav id="2" href="characters/francesco">FRANCESCO BERNOULLI</nav>
+			<nav id="3" href="characters/lightning">LIGHTNING McQUEEN</nav>
+		</page>   
+		
+		<page id="finn_mater_lightning" template="swfs/groupings/finn_mater_lightning.swf" bg="porto_corsa" offset='{"x":30,"y":0}'>
+			<nav id="1" href="characters/mater">MATER</nav>
+			<nav id="2" href="characters/finn">FINN McMISSILE</nav>
+			<nav id="3" href="characters/lightning">LIGHTNING McQUEEN</nav>
+		</page>
+		
+		<page id="fillmore_sarge_mack" template="swfs/groupings/fillmore_sarge_mack.swf" bg="tokyo" offset='{"x":30,"y":5}'>
+			<nav id="1" href="characters/sarge">SARGE</nav>
+			<nav id="2" href="characters/fillmore">FILLMORE</nav>
+			<nav id="3" href="characters/mack">MACK</nav>
+		</page>
+		
+		<page id="miguel_max_lewis" template="swfs/groupings/miguel_max_lewis.swf" bg="porto_corsa4" offset='{"x":40,"y":10}'>
+			<nav id="1" href="characters/max">MAX SCHNELL</nav>
+			<nav id="2" href="characters/miguel">MIGUEL CAMINO</nav> 
+			<nav id="3" href="characters/lewis">LEWIS HAMILTON</nav> 
+			<nav id="promo" href="registration" location="_self"></nav>
+		</page> 
+		                  
+		<page id="jeff_raoul_darrell" template="swfs/groupings/jeff_raoul_darrell.swf" bg="porto_corsa" offset='{"x":40,"y":0}'>
+			<nav id="1" href="characters/raoul"><![CDATA[RAOUL &#199;<font size="10">A</font>ROULE]]></nav>
+			<nav id="2" href="characters/jeff">JEFF GORVETTE</nav>
+			<nav id="3" href="characters/darrell">DARRELL CARTRIP</nav>
+		</page>    
+ 	
+		   
+		
+		
+		
+		<!--<page id="lightning_holley_finn" template="swfs/groupings/lightning_holley_finn.swf" bg="porto_corsa" offset='{"x":30,"y":-10}'>
+			<nav id="1" href="characters/holley">HOLLEY SHIFTWELL</nav>
+			<nav id="2" href="characters/lightning">LIGHTNING McQUEEN</nav>
+			<nav id="3" href="characters/finn">FINN McMISSILE</nav>
+		</page>   
+		
+		<page id="mater_luigi_guido" template="swfs/groupings/mater_luigi_guido.swf" bg="topolino_village" offset='{"x":30,"y":-10}'>
+			<nav id="1" href="characters/luigi">LUIGI</nav>
+			<nav id="2" href="characters/mater">MATER</nav>
+			<nav id="3" href="characters/guido">GUIDO</nav>
+		</page>                    
+		<page id="carla_raoul_shu" template="swfs/groupings/carla_raoul_shu.swf" bg="tokyo3" offset='{"x":30,"y":-10}'>
+			<nav id="1" href="characters/carla">CARLA VELOSO</nav>
+			<nav id="2" href="characters/shu">SHU TODOROKI</nav>
+			<nav id="3" href="characters/raoul"><![CDATA[RAOUL &#199;<font size="10">A</font>ROULE]]></nav>
+		</page>
+		
+		<page id="francesco_lightning" template="swfs/groupings/francesco_lightning.swf" bg="porto_corsa" offset='{"x":30,"y":0}'>
+			<nav id="1" href="characters/lightning">LIGHTNING McQUEEN</nav>
+			<nav id="2" href="characters/francesco">FRANCESCO BERNOULLI</nav>
+		</page> 	
+		<page id="okuni_king_zen_pinion" template="swfs/groupings/okuni_king_zen_pinion.swf" bg="tokyo4" offset='{"x":116,"y":30}'>
+			<nav id="1" href="characters/okuni">OKUNI</nav>
+			<nav id="2" href="characters/pinion">PINION TANAKA</nav>
+			<nav id="3" href="characters/kingpin">KINGPIN NOBUNAGA</nav>
+			<nav id="4" href="characters/zen">ZEN MASTER</nav>
+			<!-- <nav id="promo" target="_blank" href="http://disney.review.eprize.com/cars2/rti_enter?BLUE=TEST,%7bfe570%7d,Danfow,44,1967"></nav>
+			<nav id="promo" href="registration" location="_self"></nav>
+		</page>
+		<page id="max_miguel_lightning" template="swfs/groupings/max_miguel_lightning.swf" bg="porto_corsa3" offset='{"x":14,"y":0}'>
+			<nav id="1" href="characters/francesco">FRANCESCO BERNOULLI</nav>
+			<nav id="2" href="characters/miguel">MIGUEL CAMINO</nav>
+			<nav id="3" href="characters/max">MAX SCHNELL</nav>
+		</page>
+		<page id="queen_prince_highgear" template="swfs/groupings/queen_prince_highgear.swf" bg="london2" offset='{"x":36,"y":20}'>
+			<nav id="1" href="characters/prince">PRINCE WHEELIAM</nav>
+			<nav id="2" href="characters/queen">THE QUEEN</nav>
+			<nav id="3" href="characters/highgear">SGT. HIGHGEAR</nav>
+		</page> 
+		<page id="finn_mater_lightning" template="swfs/groupings/lightning_holley_finn.swf" bg="porto_corsa" offset='{"x":8,"y":-10}'>
+			<nav id="1" href="characters/mater">MATER</nav>
+			<nav id="2" href="characters/finn">FINN McMISSILE</nav>
+			<nav id="3" href="characters/lightning">LIGHTNING McQUEEN</nav>
+		</page>
+		<page id="lightning_david_lewis" template="swfs/groupings/lightning_david_lewis.swf" bg="london" offset='{"x":50,"y":-10}'>
+			<nav id="1" href="characters/david">DAVID HOBBSCAP</nav>
+			<nav id="2" href="characters/lightning">LIGHTNING McQUEEN</nav>
+			<nav id="3" href="characters/lewis">LEWIS HAMILTON</nav>
+		</page>
+		<page id="jeff_raoul_darrell" template="swfs/groupings/jeff_raoul_darrell.swf" bg="porto_corsa" offset='{"x":40,"y":0}'>
+			<nav id="1" href="characters/raoul"><![CDATA[RAOUL &#199;<font size="10">A</font>ROULE]]></nav>
+			<nav id="2" href="characters/jeff">JEFF GORVETTE</nav>
+			<nav id="3" href="characters/darrell">DARRELL CARTRIP</nav>
+		</page>
+		<page id="professor_tomber_grem" template="swfs/groupings/professor_tomber_grem.swf" bg="tokyo2" offset='{"x":18,"y":0}'>
+			<nav id="1" href="characters/tomber">TOMBER</nav>
+			<nav id="2" href="characters/professor">PROFESSOR Z</nav>
+			<nav id="3" href="characters/grem">GREM</nav>
+		</page>
+		<page id="rod_finn_mater" template="swfs/groupings/rod_finn_mater.swf" bg="tokyo" offset='{"x":36,"y":0}'>
+			<nav id="1" href="characters/finn">FINN McMISSILE</nav>
+			<nav id="2" href="characters/rod">ROD "TORQUE" REDLINE</nav>
+			<nav id="3" href="characters/mater">MATER</nav>
+		</page>
+		<page id="lightning_nigel_miles" template="swfs/groupings/lightning_nigel_miles.swf" bg="tokyo3" offset='{"x":36,"y":0}'>
+			<nav id="1" href="characters/nigel">NIGEL GEARSLEY</nav>
+			<nav id="2" href="characters/lightning">LIGHTNING McQUEEN</nav>
+			<nav id="3" href="characters/miles">MILES AXLEROD</nav>
+		</page>
+		<!--<page id="francesco_lightning" template="swfs/groupings/francesco_lightning.swf" bg="porto_corsa" offset='{"x":30,"y":0}'>
+			<nav id="1" href="characters/lightning">LIGHTNING McQUEEN</nav>
+			<nav id="2" href="characters/francesco">FRANCESCO BERNOULLI</nav>
+		</page>
+		<!--<page id="luigi_mama_uncle" template="swfs/groupings/luigi_mama_uncle.swf" bg="topolino_village" offset='{"x":30,"y":-10}'>
+			<nav id="1" href="characters/mama">MAMA TOPOLINO</nav>
+			<nav id="2" href="characters/luigi">LUIGI</nav>
+			<nav id="3" href="characters/uncle">UNCLE TOPOLINO</nav>
+		</page>
+		<page id="acer_grem_mater" template="swfs/groupings/acer_grem_mater.swf" bg="topolino_village2" offset='{"x":30,"y":-10}'>
+			<nav id="1" href="characters/acer">ACER</nav>
+			<nav id="2" href="characters/grem">GREM</nav>
+			<nav id="3" href="characters/mater">MATER</nav>
+		</page>   
+		<page id="carla_raoul_lightning" template="swfs/groupings/carla_raoul_lightning.swf" bg="porto_corsa" offset='{"x":85,"y":0}'>
+			<nav id="1" href="characters/raoul"><![CDATA[RAOUL &#199;<font size="10">A</font>ROULE]]></nav>
+			<nav id="2" href="characters/carla">CARLA VELOSO</nav>
+			<nav id="3" href="characters/lightning">LIGHTNING McQUEEN</nav>
+		</page>  
+		<page id="carla_raoul_shu" template="swfs/groupings/carla_raoul_shu.swf" bg="tokyo3" offset='{"x":30,"y":-10}'>
+			<nav id="1" href="characters/carla">CARLA VELOSO</nav>
+			<nav id="2" href="characters/shu">SHU TODOROKI</nav>
+			<nav id="3" href="characters/raoul"><![CDATA[RAOUL &#199;<font size="10">A</font>ROULE]]></nav>
+		</page>
+		-->
+	</page>
+	
+	<!-- to localize the URL's, change the <promo id="">. do not change the <promo image_id="jp">, or <page id="location_selector"> for any reason. -->
+	<page id="location_selector">
+		<!--<promo id="paris" image_id="fr">
+			<title>PARIS, FRANCE</title>
+		</promo>-->
+		<nav id="tab">CHANGE LOCATION</nav>
+		
+		<promo id="tokyo" target="newLocation" href="tokyo" image_id="tokyo" position="road" x="-292" y="72">
+			<title>TOKYO, JAPAN</title>
+		</promo>
+		<promo id="tokyo2" target="newLocation" href="tokyo2" image_id="tokyo2" position="road" x="-292" y="72">
+			<title>TOKYO, JAPAN</title>
+		</promo>
+		<promo id="tokyo3" target="newLocation" href="tokyo3" image_id="tokyo3" position="road" x="-292" y="72">
+			<title>TOKYO, JAPAN</title>
+		</promo>
+		<promo id="tokyo4" target="newLocation" href="tokyo4" image_id="tokyo4" position="road" x="-292" y="72">
+			<title>TOKYO, JAPAN</title>
+		</promo>
+		<promo id="topolino_village" target="newLocation" href="topolino_village" image_id="topolino_village" position="road" x="11" y="99">
+			<title>TOPOLINO'S VILLAGE, ITALY</title>
+		</promo>
+		<promo id="topolino_village2" target="newLocation" href="topolino_village2" image_id="topolino_village2" position="road" x="11" y="99">
+			<title>TOPOLINO'S VILLAGE, ITALY</title>
+		</promo>
+		<promo id="porto_corsa" target="newLocation" href="porto_corsa" image_id="porto_corsa" position="road" x="11" y="99">
+			<title>PORTO CORSA, ITALY</title>
+		</promo>
+		<promo id="porto_corsa2" target="newLocation" href="porto_corsa2" image_id="porto_corsa2" position="sky" x="11" y="99">
+			<title>PORTO CORSA, ITALY</title>
+		</promo>
+		<promo id="porto_corsa3" target="newLocation" href="porto_corsa3" image_id="porto_corsa3" position="road" x="11" y="99">
+			<title>PORTO CORSA, ITALY</title>
+		</promo>
+		<promo id="porto_corsa4" target="newLocation" href="porto_corsa4" image_id="porto_corsa4" position="road" x="11" y="99">
+			<title>PORTO CORSA, ITALY</title>
+		</promo>
+		<promo id="porto_corsa5" target="newLocation" href="porto_corsa5" image_id="porto_corsa5" position="road" x="11" y="99">
+			<title>PORTO CORSA, ITALY</title>
+		</promo>
+		<promo id="porto_corsa6" target="newLocation" href="porto_corsa6" image_id="porto_corsa6" position="road" x="11" y="99">
+			<title>PORTO CORSA, ITALY</title>
+		</promo>
+		<promo id="radiator_springs" target="newLocation" href="radiator_springs" image_id="radiator_springs" position="road" x="303" y="75">
+			<title>RADIATOR SPRINGS, USA</title>
+		</promo>
+		<promo id="radiator_springs2" target="newLocation" href="radiator_springs2" image_id="radiator_springs2" position="road" x="303" y="75">
+			<title>RADIATOR SPRINGS, USA</title>
+		</promo>
+		<promo id="london" target="newLocation" href="london" image_id="london" position="road" x="33" y="120">
+			<title>LONDON, ENGLAND</title>
+		</promo>
+		<promo id="london2" target="newLocation" href="london2" image_id="london2" position="road" x="33" y="120">
+			<title>LONDON, ENGLAND</title>
+		</promo>
+		<promo id="paris1" target="newLocation" href="paris1" image_id="paris1" position="road" x="45" y="100">
+			<title>PARIS, FRANCE</title>
+		</promo>
+		<promo id="paris2" target="newLocation" href="paris2" image_id="paris2" position="road" x="45" y="100">
+			<title>PARIS, FRANCE</title>
+		</promo>
+	</page>
+	
+	<!-- character promos above character_selector -->
+	<page id="character_selector">
+		<promo id="featured0" href="characters/queen" />
+		<promo id="featured1" href="characters/prince" />
+		<promo id="featured2" href="characters/topper" />
+		<promo id="featured3" href="characters/chauncy" />
+		<promo id="featured4" href="characters/highgear" />
+		<promo id="featured5" href="characters/miguel" />
+		<promo id="featured6" href="characters/max" />
+		<promo id="featured7" href="characters/david" />
+		<promo id="featured8" href="characters/lewis" />
+		<promo id="featured9" href="characters/jeff" />
+		<promo id="featured10" href="characters/professor" />
+		<promo id="featured11" href="characters/carla" />
+		<promo id="featured12" href="characters/clutchgoneski" />
+		<promo id="featured13" href="characters/finn" />
+		<promo id="featured14" href="characters/francesco" />
+		<promo id="featured15" href="characters/holley" />
+		<promo id="featured16" href="characters/miles" />
+		<promo id="featured17" href="characters/darrell" />
+		<promo id="featured18" href="characters/acer" />
+		<promo id="featured19" href="characters/fillmore" />
+		<promo id="featured20" href="characters/flo" />
+		<promo id="featured21" href="characters/grem" />
+		<promo id="featured22" href="characters/guido" />
+		<promo id="featured23" href="characters/lightning" />
+		<promo id="featured24" href="characters/lizzie" />
+		<promo id="featured25" href="characters/luigi" />
+		<promo id="featured26" href="characters/mack" />
+		<promo id="featured27" href="characters/mama" />
+		<promo id="featured28" href="characters/mater" />
+		<promo id="featured29" href="characters/nigel" />
+		<promo id="featured30" href="characters/raoul" />
+		<promo id="featured31" href="characters/rod" />
+		<promo id="featured32" href="characters/sally" />
+		<promo id="featured33" href="characters/sarge" />
+		<promo id="featured34" href="characters/sheriff" />
+		<promo id="featured35" href="characters/shu" />
+		<promo id="featured36" href="characters/siddeley" />
+		<promo id="featured37" href="characters/tomber" />
+		<promo id="featured38" href="characters/uncle" />
+		<promo id="featured39" href="characters/okuni" />
+		<promo id="featured40" href="characters/kingpin" />
+		<promo id="featured41" href="characters/pinion" />
+		
+	</page>
+	
+	<page id="ticker">
+		<promo href="movies/cars2">
+			<title>THE MOVIES</title>
+			<description>"Cars 2" coming to theaters June 24</description>
+		</promo>
+		<promo>
+			<title>MOBILE</title>
+			<description>Text "RACE" to DISNEY (347639) for exclusive Cars movie alerts!*</description>
+		</promo>
+		<promo href="sweepstakes">
+			<title>SWEEPSTAKES</title>
+			<description>Enter the Agents on A Mission Sweepstakes</description>
+		</promo>
+		<promo href="events">
+			<title>EVENTS</title>
+			<description>Check out the Cars Tour, see if the tour is coming to a location near you!</description>
+		</promo>
+		<promo href="videos/monster_truck_mater">
+			<title>VIDEOS</title>
+			<description>Watch Mater's Tall Tale "Monster Truck Mater"</description>
+		</promo>
+		<promo href="videos/trailer">
+			<title>THE MOVIES</title>
+			<description>Watch the "Cars 2" trailer</description>
+		</promo>
+		<promo target="_blank" href="http://transfer.go.com/cgi/transfer.dll?name=PpWCWocDol00007&SOURCE=PpWCWocDol00007&srvc=dolsubsrvc&goto=http%3A%2F%2Fworldofcars.go.com%2F%3Fsource%3DPpWCWocDol00007%26cmp%3Dwoc_BAC_Cars_FHome_MainNavButton_CreateaCar_Extl">
+			<title>GAMES</title>
+			<description>Create your car in the World of Cars Online</description>
+		</promo>
+		<promo href="products/homevideos/cars_toons">
+			<title><![CDATA[BLU-RAY&#8482; & DVD]]></title>
+			<description><![CDATA[Cars Toons now available on Blu-Ray&#8482; Combo Pack]]></description>
+		</promo>
+		<promo href="downloads">
+			<title>DOWNLOADS</title>
+			<description>Get Cars wallpapers for your computer and iPhone</description>
+		</promo>
+	</page>
+	
+	<promos>
+		                 
+		
+		<promo id="left1" position="left" location="default" src="promos/bottom/180X150_backfire_logo.jpg" target="_blank" href="http://transfer.go.com/cgi/transfer.dll?name=PpWCWocCfs00008&SOURCE=PpWCWocCfs00008&srvc=dolsubsrvc&goto=http%3A%2F%2Fworldofcars.go.com%2F%3Fsource%3DPpWCWocCfs00008%26cmp%3Dwoc_BAC_Cars_FhomeBackfire_180x150_Backfire+180x150+Logo+_Extl" />
+		<promo id="left1" position="left" location="default" src="promos/bottom/180x150_Carchinko.jpg" href="games/carchinko" /> 
+		<promo id="left2" position="left" location="default" src="promos/bottom/180x150_Guido-_Tire_Juggle.jpg" href="games/juggle_game" />
+		<promo id="left3" position="left" location="default" src="promos/bottom/180x150_topper.jpg" href="characters/topper" />
+		<promo id="left4" position="left" location="default" src="promos/bottom/180x150_Cars2dcp_A.jpg" target="_blank" href="http://www.disneystore.com/transfer/280559/cars/mn/1000012/?CMP=OTL-Dcom&att=CarsFranchise" />
+		<promo id="left5" position="left" location="default" src="promos/bottom/180x150_Parks_Travel_v2.jpg" href="parks" />
+		<promo id="left6" position="left" location="default" src="promos/bottom/180x150_okuni.jpg" href="characters/okuni" />
+		<promo id="left7" position="left" location="default" src="promos/bottom/WOC_Promo_180x150.jpg" target="_blank" href="http://worldofcars.go.com/?source=PpWCWocCfs00001&cmp=woc_BAC_Cars_FHome_300x250_CreateaCar_O_Extl" />
+		<promo id="left8" position="left" location="default" src="promos/bottom/180x150_Get-Downloads.jpg" href="downloads" />
+		<promo id="left9" position="left" location="default" src="promos/bottom/180x150_cars2_videogame.jpg" href="products/videogames" />
+		<promo id="left10" position="left" location="default" src="promos/bottom/cars_toons_combo_180x150.jpg" href="movies/cars_toons" />
+		
+		<promo id="right1" position="right" location="default" src="promos/bottom/180x150_Music_Maker.jpg" href="games/music_maker" />
+		<promo id="right2" position="right" location="default" src="promos/bottom/180x150_Spy_Trainer.jpg" options="width=605,height=385,scrollbars=0,resizable=0,location=0" target="popup" href="games/spy_trainer/site.html" />
+		<promo id="right3" position="right" location="default" src="promos/bottom/180x150_prince.jpg" href="characters/prince" />
+		<promo id="right4" position="right" location="default" src="promos/bottom/180x150_highgear.jpg" href="characters/highgear" />
+		<promo id="right5" position="right" location="default" src="promos/bottom/180x150_Cars2_dcp_B.jpg" target="_blank"  href="http://www.disneystore.com/transfer/280559/cars/mn/1000012/?CMP=OTL-Dcom&att=CarsFranchise" />
+		<promo id="right6" position="right" location="default" src="promos/bottom/180x150_kingpin.jpg" href="characters/kingpin" />
+		<promo id="right7" position="right" location="default" src="promos/bottom/180x150_zen.jpg" href="characters/zen" />
+		<promo id="right8" position="right" location="default" src="promos/bottom/180x150_Latest_Trailer.jpg" href="videos/trailer-3" />
+		<promo id="right9" position="right" location="default" src="promos/bottom/mater_comingWii_180x150.jpg" href="products/videogames" />
+		<promo id="right10" position="right" location="default" src="promos/bottom/products_WDSHE_packart_180x150.jpg" href="products/homevideos" />
+		
+		<promo id="center1" position="center" location="default" src="promos/bottom/mega_poster_promo.swf" href="games/megaposter" />
+		<promo id="center2" position="center" location="default" src="promos/bottom/300x250_SPY_AERIAL.jpg" href="games/spyaerial" /> 
+		<promo id="center3" position="center" location="default" src="promos/bottom/woc_matersSlingShoot_300x250.swf" target="_blank"  href="http://transfer.go.com/cgi/transfer.dll?name=PpWCWocCfs00007&SOURCE=PpWCWocCfs00007&srvc=dolsubsrvc&goto=http%3A%2F%2Fworldofcars.go.com%2F%3Fsource%3DPpWCWocCfs00007%26cmp%3Dwoc_BAC_Cars_FhomeSline_300x250_Flash_+SlingFlash_Extl" />  
+		<promo id="center4" position="center" location="default" src="promos/bottom/300x250_CHROME.jpg" href="games/chrome" />
+		<promo id="center5" position="center" location="default" src="promos/bottom/300x250_DisneyXD_Event.jpg" href="events/disney-network" /> 
+		
+		<promo id="center6" position="center" location="default" src="promos/bottom/300x250_cars2dcp.jpg" target="_blank" href="http://www.disneystore.com/transfer/280559/cars/mn/1000012/?CMP=OTL-Dcom&att=CarsFranchise" />
+		<promo id="center7" position="center" location="default" src="promos/bottom/300x250_Mater_Memory_Game.jpg" href="games/matermemory" />
+		<promo id="center8" position="center" location="default" src="promos/bottom/300x250_WGP_Game.jpg" href="games/worldgrandprix" />
+		<promo id="center9" position="center" location="default" src="promos/bottom/woc_createacar_300x250_40k.swf" target="_blank" href="http://worldofcars.go.com/?source=PpWCWocCfs00001&cmp=woc_BAC_Cars_FHome_300x250_CreateaCar_O_Extl" />
+		
+		
+		<promo id="center10" position="center" location="default" src="promos/bottom/Cars_BluRayDVD_v1_cs4.swf" target="_blank" href="http://disneymovierewards.go.com/promotions/special-offers/cars2movie?cmp=dmov_dmr_syn_gwp_cars2_tix" />
+		<!--<promo id="center2" position="center" location="default" src="promos/bottom/300x250_Latest_Trailer.jpg" href="videos/trailer-2" />--> 
+		<!--<promo id="center5" position="center" location="default" src="promos/bottom/300x250_Get-Downloads.jpg" href="downloads" />-->
+		<!--<promo id="center9" position="center" location="default" src="promos/bottom/300x250_cars2_videogame.jpg" href="products/videogames" />
+		<promo id="center10" position="center" location="default" src="promos/bottom/cars_toons_combo-wn_cs4.swf" href="movies/cars_toons" />
+		<promo id="center7" position="center" location="default" src="promos/bottom/wii-coming-wn_v2_cs4.swf" href="products/videogames/mater_tall_tales" />
+		<promo id="center11" position="center" location="default" src="promos/bottom/sweeps_300x250.jpg" href="sweepstakes" />   --> 
+		
+	</promos>
+	
+	<characters>
+		<character id="mater" offset='{"x":-48,"y":40}' bg="topolino_village">
+			<name>MATER</name>
+			<cast>Larry the Cable Guy</cast>
+			<bio><![CDATA[In the now popular tourist destination of Radiator Springs, the rusty old tow truck Mater has a number of roles, including proprietor of Tow Mater Towing and Salvage, grand storyteller and the heart and soul of the town. But Mater's favorite title is best friend to Lightning McQueen. Mater values each and every dent he's earned on his escapades with Lightning over the years, and anxiously awaits further fun with his friend when Lightning returns with his latest Piston Cup. <br><br>Cheerful, honest and loyal to a fault, Mater rushes to his best friend's defense, which ultimately lands the off-duty Lightning in an international racing exhibition: the World Grand Prix. When Lightning invites Mater to come along as a member of his pit crew, Mater leaves Carburetor County for the first time ever. <br><br>Not long after their arrival in Tokyo, Mater learns that the world outside of Radiator Springs is decidedly different and its newfangled ways may take some getting used to.  But when he's mistaken for an American secret agent, he falls into an intriguing adventure of his own. Caught between supporting his best friend on a globe-trotting racing competition and his new role in international espionage, Mater ends up in an explosive chase through the streets of Tokyo and Europe alongside a team of British spies and international bad guys.]]></bio>
+			<nav id="bio" image_id="mater_thumb1" href="characters/mater/bio">BIO</nav>
+			<nav id="downloads" image_id="mater_thumb3" href="characters/mater/downloads">DOWNLOADS</nav>
+			<nav id="videos" image_id="mater_thumb4" href="characters/mater/videos">VIDEOS</nav>
+			<nav id="games1" image_id="mater_thumb9" href="games/chrome">C.H.R.O.M.E.  MISSIONS</nav> 
+			<nav id="games1" image_id="mater_thumb5" href="games/matermemory">MATER MEMORY GAME</nav>
+			<nav id="games2" image_id="mater_thumb6" href="games/worldgrandprix">WORLD GRAND PRIX</nav>
+			<nav id="games3" image_id="mater_thumb8" options="width=600,height=460,scrollbars=0,resizable=0,location=0" target="popup" href="http://disney.go.com/cars/games/mater-rescue/games-mater-rescue.html">MATER'S RESCUE</nav>
+			<nav id="360" image_id="mater_thumb7" href="characters/mater/360">360</nav>
+			<nav id="gallery" image_id="mater_thumb2" href="characters/mater/gallery">GALLERY</nav>
+		</character>
+		<character id="lightning" offset='{"x":-8,"y":36}' bg="porto_corsa3">
+			<name>LIGHTNING McQUEEN</name>
+			<cast>Owen Wilson</cast>
+			<bio><![CDATA[Number 95 Lightning McQueen is still a hotshot racecar, but his rookie days are past him. Now a permanent resident of Radiator Springs, Lightning has become a bona fide worldwide celebrity as winner of four Piston Cups.<br><br>After his latest win, Lightning returns home to enjoy life in the slow lane for a while with sweetheart Sally, best friend Mater and the rest of his Radiator Springs family. His off-season is unexpectedly cut short when Mater inadvertently prompts Lightning to enter the World Grand Prix, a high profile, three-part exhibition race that will take him around the globe.<br><br>With a fresh custom paint job and real, working headlights, Lightning sets off to Japan, Italy and England with Mater in tow for the adventure of a lifetime. But competing against the fastest cars in the world tests more than his racing skills when Lightning realizes his wide-eyed best friend may not be the pit chief nor ambassador he needs to navigate the unfamiliar international terrain.
+]]></bio>
+			<nav id="bio" image_id="lightning_thumb1" href="characters/lightning/bio">BIO</nav>
+			<nav id="downloads" image_id="lightning_thumb3" href="characters/lightning/downloads">DOWNLOADS</nav>
+			<nav id="videos" image_id="lightning_thumb4" href="characters/lightning/videos">VIDEOS</nav>
+			<nav id="games1" image_id="lightning_thumb5" href="games/worldgrandprix">WORLD GRAND PRIX</nav> 
+			<nav id="games2" image_id="lightning_thumb10" options="width=600,height=450,scrollbars=0,resizable=0,location=0" target="popup" href="http://disney.go.com/cars/games/desert-dash/games-desert-dash.html">DESERT DASH</nav> 
+			<nav id="games3" image_id="lightning_thumb7" options="width=600,height=460,scrollbars=0,resizable=0,location=0" target="popup" href="http://disney.go.com/cars/games/drag-race/games-drag-race.html">DOC'S DRAG RACE</nav> 
+			<nav id="games4" image_id="lightning_thumb8" options="width=600,height=460,scrollbars=0,resizable=0,location=0" target="popup" href="http://disney.go.com/cars/games/mater-rescue/games-mater-rescue.html">MATER'S RESCUE</nav> 
+			<nav id="games5" image_id="lightning_thumb9" options="width=590,height=440,scrollbars=0,resizable=0,location=0" target="popup" href="http://disney.go.com/cars/games/tractor-tip/games-tractor-tip.html">TRACTOR TIPPIN'</nav>
+			
+			<nav id="360" image_id="lightning_thumb6" href="characters/lightning/360">360</nav>
+			<nav id="gallery" image_id="lightning_thumb2" href="characters/lightning/gallery">GALLERY</nav>
+		</character>
+		<character id="finn" offset='{"x":8,"y":35}' bg="london2">
+			<name>FINN McMISSILE</name>
+			<cast>Michael Caine</cast>
+			<bio><![CDATA[Finn McMissile is a master British spy. Though charming and eloquent, it's his stealth maneuvering, intelligence and years in the field that enable him to thwart unexpected attacks from bad guys, making quick daredevil escapes. <br><br>Finn's design is sleek and timeless, but he's also prepared for any tricky situation with an arsenal of ultra-cool gadgets and weaponry, including front and rear grappling hooks, a missile launcher, deployable magnetic explosives and a holographic disguise emitter. <br><br>As a seasoned professional in the game of international espionage, Finn believes there is a conspiracy brewing during the World Grand Prix. His clandestine work surrounding the global exhibition race puts him on a collision course with Mater, whom he mistakes for an undercover American agent with a genius disguise.]]></bio>
+			<specs><![CDATA[<font size="10">- Vehicle type: 2002 Porsche Carrera<br><br>- Owner of the Cozy Cone Motel<br><br>- Sports a pinstripe tattoo<br><br>- 3596 cc flat 6, 320 horsepower @ 6800 rpm<br><br>- 0-60: 4.9 seconds</font>]]></specs>
+			<nav id="bio" image_id="finn_thumb1" href="characters/finn/bio">BIO</nav>
+			<nav id="downloads" image_id="finn_thumb3" href="characters/finn/downloads">DOWNLOADS</nav>
+			<nav id="videos" image_id="finn_thumb4" href="characters/finn/videos">VIDEOS</nav>
+			<nav id="games2" image_id="finn_thumb7" href="games/spyaerial">SPY AERIAL SUPPORT</nav> 
+			<nav id="games1" image_id="finn_thumb6" href="games/chrome">C.H.R.O.M.E.  MISSIONS</nav> 
+			<nav id="360" image_id="finn_thumb5" href="characters/finn/360">360</nav>
+			<nav id="gallery" image_id="finn_thumb2" href="characters/finn/gallery">GALLERY</nav>
+		</character>
+		<character id="holley" offset='{"x":-30,"y":50}' bg="london">
+			<name>HOLLEY SHIFTWELL</name>
+			<cast>Emily Mortimer</cast>
+
+			<bio><![CDATA[Holley Shiftwell is a beautiful young British desk agent, turned rookie field spy who's stationed in Tokyo. Well-educated and sharp, she knows every trick in the book—or rather, she relies on every trick in the spy manual. <br><br>She's armed with the latest state-of-the-art spy equipment imaginable, from hidden cameras and concealed weapons to a telescoping utility arm and a holographic pop-up display. Holley is a highly motivated agent, but is fresh out of the academy, so her experience is based on lessons learned in school rather than real-life situations.<br><br>When seasoned international spy Finn McMissile requires Holley's technical expertise for his latest top-secret field operation, she finds herself pursuing a rendezvous with the most unlikely candidate — Mater, an innocent caught up in the intrigue, who is mesmerized by the beauty of his newest friend.]]></bio>
+			<specs><![CDATA[<font size="10">- Vehicle Type: 1951 Hudson Hornet<br><br>- Doc is the town's doctor and judge<br><br>- Won the Piston Cup Championship three times<br><br>- Straight 6, Twin "H" power, 175 horsepower<br><br>- "Step-Down" chassis gives him excellent handling</font>]]></specs>
+			<nav id="bio" image_id="holley_thumb1" href="characters/holley/bio">BIO</nav>
+			<nav id="downloads" image_id="holley_thumb3" href="characters/holley/downloads">DOWNLOADS</nav>
+			<nav id="videos" image_id="holley_thumb4" href="characters/holley/videos">VIDEOS</nav>
+			<nav id="games2" image_id="holley_thumb7" href="games/spyaerial">SPY AERIAL SUPPORT</nav>
+			<nav id="games1" image_id="holley_thumb6" href="games/chrome">C.H.R.O.M.E.  MISSIONS</nav> 
+			<nav id="360" image_id="holley_thumb5" href="characters/holley/360">360</nav>
+			<nav id="gallery" image_id="holley_thumb2" href="characters/holley/gallery">GALLERY</nav>  
+			
+			<sweeps xpos="240" ypos="-120" textW="400">
+				<title size="12"><![CDATA[SECRET CODE:]]></title>
+				<code size="16"><![CDATA[SPECIALAGENT]]></code>
+				<desc size="11"><![CDATA[<font size="14">REMEMBER YOUR AGENTS ON A MISSION CODE!</font><br>CLICK HERE TO GO BACK TO THE DOSSIER TO ENTER YOUR SPECIAL AGENT CODE FOR MORE ENTRIES TO WIN PRIZES BROUGHT TO YOU BY STATE FARM AND DISNEY/PIXAR.]]></desc>  
+				<href>registration</href> 
+				<target>internal</target> 
+			</sweeps>  
+			
+		</character>
+		<character id="queen" offset='{"x":0,"y":8,"z":-1}' bg="london2">
+			<name>THE QUEEN</name>
+			<cast>Vanessa Redgrave</cast>
+			<bio><![CDATA[With the final stage of the World Grand Prix racing through the historic streets of London, England, the Queen is quietly elated she was invited to preside over the finish line by Sir Miles Axlerod.<br><br>Painted in shades of the most royal blues and never without her jeweled crown, the Queen is the definition of decorum and regality, but that doesn’t mean she doesn’t enjoy a bit of first-rate competition!]]></bio>
+			<nav id="bio" image_id="queen_thumb1" href="characters/queen/bio">BIO</nav>
+			<nav id="downloads" image_id="queen_thumb3" href="characters/queen/downloads">DOWNLOADS</nav>
+			<nav id="360" image_id="queen_thumb4" href="characters/queen/360">360</nav>
+			<nav id="gallery" image_id="queen_thumb2" href="characters/queen/gallery">GALLERY</nav>
+		</character>
+		<character id="prince" offset='{"x":22,"y":0,"z":-1}' bg="london2">
+			<name>PRINCE WHEELIAM</name>
+			<cast></cast>
+			<bio><![CDATA[Prince Wheeliam of England is an avid racing fan. He can’t believe his luck that the final race of the one-of-a-kind World Grand Prix is happening on the streets of London. <br><br>Though he must remain impartial when by his grandmother the Queen’s side, he is privately rooting for his fellow Brits Lewis Hamilton and Nigel Gearsley to cross the finish line first.]]></bio>
+			<nav id="bio" image_id="prince_thumb1" href="characters/prince/bio">BIO</nav>
+			<nav id="downloads" image_id="prince_thumb3" href="characters/prince/downloads">DOWNLOADS</nav>
+			<nav id="gallery" image_id="prince_thumb2" href="characters/prince/gallery">GALLERY</nav>
+		</character>
+		<character id="highgear" offset='{"x":-70,"y":0,"z":-1}' bg="london2">
+			<name>SGT. HIGHGEAR</name>
+			<cast></cast>
+			<bio><![CDATA[Sgt. Highgear is a member of the regiment assigned to London’s landmark Buckingham Palace. With a recognizable tall bearskin cap atop his scarlet body, he stands guard at his sentry box with pride and conviction.]]></bio>
+			<nav id="bio" image_id="highgear_thumb1" href="characters/highgear/bio">BIO</nav>
+			<nav id="downloads" image_id="highgear_thumb3" href="characters/highgear/downloads">DOWNLOADS</nav>
+			<nav id="gallery" image_id="highgear_thumb2" href="characters/highgear/gallery">GALLERY</nav>
+		</character>
+		<character id="chauncy" offset='{"x":12,"y":-8,"z":-1}' bg="london2">
+			<name>CHAUNCY FARES</name>
+			<cast></cast>
+			<bio><![CDATA[No one knows the sites, streets or shortcuts of London better than the jovial Chauncy Fares, a quintessential London black cab.]]></bio>
+			<nav id="bio" image_id="chauncy_thumb1" href="characters/chauncy/bio">BIO</nav>
+			<nav id="downloads" image_id="chauncy_thumb3" href="characters/chauncy/downloads">DOWNLOADS</nav>
+			<nav id="gallery" image_id="chauncy_thumb2" href="characters/chauncy/gallery">GALLERY</nav>
+		</character>
+		<character id="topper" offset='{"x":-94,"y":30,"z":-1}' bg="london2">
+			<name>TOPPER DECKINGTON III</name>
+			<cast></cast>
+			<bio><![CDATA[Topper Deckington III is a classic British double-decker bus in a vivid shade of red who relishes in his daily Killswitch route through London’s famous bustling Petroldilly Circus.]]></bio>
+			<nav id="bio" image_id="topper_thumb1" href="characters/topper/bio">BIO</nav>
+			<nav id="downloads" image_id="topper_thumb3" href="characters/topper/downloads">DOWNLOADS</nav>
+			<nav id="gallery" image_id="topper_thumb2" href="characters/topper/gallery">GALLERY</nav>
+		</character>
+		<character id="okuni" offset='{"x":-30,"y":-8,"z":-1}' bg="tokyo4">
+			<name>OKUNI</name>
+			<cast></cast>
+			<bio><![CDATA[Okuni is a micro car Kabuki dancer who dons the traditional white-painted face and an exquisite colorful kimono for her performances at the Kabuki theater in Tokyo, Japan.]]></bio>
+			<nav id="bio" image_id="okuni_thumb1" href="characters/okuni/bio">BIO</nav>
+			<nav id="downloads" image_id="okuni_thumb3" href="characters/okuni/downloads">DOWNLOADS</nav>
+			<nav id="gallery" image_id="okuni_thumb2" href="characters/okuni/gallery">GALLERY</nav>
+		</character>
+		<character id="kingpin" offset='{"x":-30,"y":-8,"z":-1}' bg="tokyo4">
+			<name>KINGPIN NOBUNAGA</name>
+			<cast></cast>
+			<bio><![CDATA[As a professional Sumo wrestler at an arena in Tokyo, Japan, Kingpin Nobunaga is a gold-painted micro van who fights his fiercest matches when he’s wearing his lucky purple mawashi.]]></bio>
+			<nav id="bio" image_id="kingpin_thumb1" href="characters/kingpin/bio">BIO</nav>
+			<nav id="downloads" image_id="kingpin_thumb3" href="characters/kingpin/downloads">DOWNLOADS</nav>
+			<nav id="gallery" image_id="kingpin_thumb2" href="characters/kingpin/gallery">GALLERY</nav>
+		</character>
+		<character id="pinion" offset='{"x":-18,"y":-8,"z":-1}' bg="tokyo4">
+			<name>PINION TANAKA</name>
+			<cast></cast>
+			<bio><![CDATA[Pinion Tanaka is a gold-painted micro van and a professional Sumo wrestler from Tokyo, Japan, who’s always a menacing sight in the ring in his signature teal mawashi.]]></bio>
+			<nav id="bio" image_id="pinion_thumb1" href="characters/pinion/bio">BIO</nav>
+			<nav id="downloads" image_id="pinion_thumb3" href="characters/pinion/downloads">DOWNLOADS</nav>
+			<nav id="gallery" image_id="pinion_thumb2" href="characters/pinion/gallery">GALLERY</nav>
+		</character>
+		<character id="zen" offset='{"x":-30,"y":-8,"z":-1}' bg="tokyo4">
+			<name>ZEN MASTER</name>
+			<cast></cast>
+			<bio><![CDATA[A master in the art of sculpting the serene zen rock garden at the Tokyo museum, Zen Master wears his old woven reed hat and uses his antique wood rake to create mesmerizing patterns in the garden’s sand.]]></bio>
+			<nav id="bio" image_id="zen_thumb1" href="characters/zen/bio">BIO</nav>
+			<nav id="downloads" image_id="zen_thumb3" href="characters/zen/downloads">DOWNLOADS</nav>
+			<nav id="gallery" image_id="zen_thumb2" href="characters/zen/gallery">GALLERY</nav>
+		</character>
+		<character id="max" offset='{"x":-36,"y":-8,"z":-1}' bg="porto_corsa3">
+			<name>MAX SCHNELL</name>
+			<cast></cast>
+			<bio><![CDATA[Max Schnell started as a humble production sedan from Stuttgart, Germany. An avid amateur racer, Max would practice alone in the back roads of the dense Black Forest — a trek that eventually caught the eye of a racing team owner. <br><br>Soon Max was on a professional circuit, bearing the #4, and as his horsepower increased, he converted himself to carbon fiber, dropping his weight and getting into prime racing shape. <br><br>He's won more races at Motorheimring than any other World Torque Champion League car in history. A naturally brilliant engineer, he used logic and analytics to refine his build, and plans to approach the World Grand Prix in the same perfectly calculated manner.]]></bio>
+			<nav id="bio" image_id="max_thumb1" href="characters/max/bio">BIO</nav>
+			<nav id="downloads" image_id="max_thumb3" href="characters/max/downloads">DOWNLOADS</nav>
+			<nav id="360" image_id="max_thumb4" href="characters/max/360">360</nav>
+			<nav id="games1" image_id="max_thumb5" href="games/worldgrandprix">WORLD GRAND PRIX</nav>
+			<nav id="gallery" image_id="max_thumb2" href="characters/max/gallery">GALLERY</nav>
+		</character>
+		<!--<character id="miguel" offset='{"x":-36,"y":-8,"z":-1}' bg="porto_corsa3">-->
+		<character id="miguel" offset='{"x":45,"y":8}' bg="porto_corsa3">
+			<name>MIGUEL CAMINO</name>
+			<cast></cast>
+			<bio><![CDATA[Spain's most renowned, admired and captivating car is Pamplona's Miguel Camino. He first caught his home country's attention by participating in the infamous Running of the Bulldozers. <br><br>His flair, style and speed as a toreador in the dozer ring has inspired a generation of young bulldozer fighters, and soon that same speed and verve turned headlights of fans and competitors alike on the Grand Touring Sport racing circuit. <br><br>Bearing the #5 and the fiery colors of the Spanish flag, Miguel Camino is hoping to race his way into more hearts at the World Grand Prix.]]></bio>
+			<nav id="bio" image_id="miguel_thumb1" href="characters/miguel/bio">BIO</nav>
+			<nav id="downloads" image_id="miguel_thumb3" href="characters/miguel/downloads">DOWNLOADS</nav>
+			<nav id="games1" image_id="miguel_thumb5" href="games/worldgrandprix">WORLD GRAND PRIX</nav>
+			<nav id="360" image_id="miguel_thumb4" href="characters/miguel/360">360</nav>
+			<nav id="gallery" image_id="miguel_thumb2" href="characters/miguel/gallery">GALLERY</nav>
+		</character>
+		<character id="david" offset='{"x":-8,"y":-10}' bg="london">
+			<name>DAVID HOBBSCAP</name>
+			<cast>David Hobbs</cast>
+			<bio><![CDATA[As a handsome forest green 1963 Jaguar Coombs Lightweight E-Type, David Hobbscap, originally from Royal Leamington Spa, England, is a worldwide racing luminary. His 30-year career in professional racing spans the globe and all types of motorsports. <br><br>Now David shares that priceless knowledge as an announcer, where he's also well known for providing comic relief during race broadcasts. A former champion with 20 starts at 24 Hours of Le Mans, his storytelling comes from personal experience. <br><br>Anything but your ordinary television sportscaster, David can't wait to enlighten and entertain the World Grand Prix audiences.]]></bio>
+			<nav id="bio" image_id="david_thumb1" href="characters/david/bio">BIO</nav>
+			<nav id="downloads" image_id="david_thumb3" href="characters/david/downloads">DOWNLOADS</nav>
+			<nav id="gallery" image_id="david_thumb2" href="characters/david/gallery">GALLERY</nav>
+			<!--<nav id="360" image_id="david_thumb4" href="characters/david/360">360</nav>-->
+		</character>
+		<!--<character id="lewis" offset='{"x":-54,"y":-12,"z":-1}' bg="london"> --> 
+		<character id="lewis" offset='{"x":54,"y":30}' bg="london">  
+			<name>LEWIS HAMILTON</name>
+			<cast>Lewis Hamilton</cast>
+			<bio><![CDATA[Lewis Hamilton, the famously sleek and seriously fast #2 Grand Touring Sports champion, has been a determined and winning racer for nearly his entire young life. <br><br>Like all youngster cars, Lewis spent his childhood going to school, taking karate lessons and winning the British Karting Championship by the age of 10. Today, the celebrated native Brit continues to bring an exceptional work ethic and soft-spoken confidence to the race course where his extraordinary achievements speak for themselves via a spotless track record on the junior and professional circuits. <br><br>With his striking metallic black and yellow paint scheme, Lewis will represent Great Britain at the World Grand Prix. His car also carries the flag of Grenada, home to his family who emigrated to Britain in the 1950s. His unrivaled technical skills, natural speed ability and cool, karate-inspired attitude make him a powerful contender too.]]></bio>
+			<nav id="bio" image_id="lewis_thumb1" href="characters/lewis/bio">BIO</nav>
+			<nav id="downloads" image_id="lewis_thumb3" href="characters/lewis/downloads">DOWNLOADS</nav>
+			<nav id="360" image_id="lewis_thumb4" href="characters/lewis/360">360</nav>
+			<nav id="gallery" image_id="lewis_thumb2" href="characters/lewis/gallery">GALLERY</nav>
+		</character>
+		<!--<character id="jeff" offset='{"x":-40,"y":-10,"z":-1}' bg="porto_corsa">-->
+		<character id="jeff" offset='{"x":25,"y":30}' bg="porto_corsa">
+			<name>JEFF GORVETTE</name>
+			<cast>Jeff Gordon</cast>
+			<bio><![CDATA[Jeff Gorvette is one of the greatest American racecars alive today. Donning the stars and stripes of his country's flag, the #24 Corvette C6.R has proven his ability to succeed on the big ovals and the road courses of the Grand Touring Sports circuits. <br><br>Having moved from his hometown of Vallejo, California to Indiana to be closer to the racing world, Gorvette's ability to accelerate at such a young age has turned hoods wherever he competes. <br><br>His championships and number of victories are unmatched, making him a respected competitor — and legitimate threat — at the World Grand Prix.]]></bio>
+			<nav id="bio" image_id="jeff_thumb1" href="characters/jeff/bio">BIO</nav>
+			<nav id="downloads" image_id="jeff_thumb3" href="characters/jeff/downloads">DOWNLOADS</nav>
+			<nav id="360" image_id="jeff_thumb4" href="characters/jeff/360">360</nav>
+			<nav id="gallery" image_id="jeff_thumb2" href="characters/jeff/gallery">GALLERY</nav>
+		</character>
+		<character id="clutchgoneski" offset='{"x":-76,"y":-15,"z":-1}' bg="porto_corsa">
+			<name>RIP CLUTCHGONESKI</name>
+			<cast></cast>
+			<bio><![CDATA[The former European colony and newly independent Republic of New Rearendia is desperate to put their name on the map – the #10 open-wheeled racer Rip Clutchgoneski is their best bet. After putting together a remarkable string of qualifying races, Rip’s entry into the World Grand Prix is clearly the Cinderella story of the competition. Though Rip credits luck for his chance on the international stage, it’s really skill and exuberance that brought the proud New Rearendian racer to the starting line.]]></bio>
+			<nav id="bio" image_id="clutchgoneski_thumb1" href="characters/clutchgoneski/bio">BIO</nav>
+			<nav id="downloads" image_id="clutchgoneski_thumb3" href="characters/clutchgoneski/downloads">DOWNLOADS</nav>
+			<nav id="gallery" image_id="clutchgoneski_thumb2" href="characters/clutchgoneski/gallery">GALLERY</nav>
+			<!--<nav id="360" image_id="clutchgoneski_thumb3" href="characters/clutchgoneski/360">360</nav>-->
+		</character>
+		<character id="darrell" offset='{"x":-24,"y":-4,"z":-1}' bg="porto_corsa">
+			<name>DARRELL CARTRIP</name>
+			<cast>Darrell Waltrip</cast>
+			<bio><![CDATA[Darrell Cartrip is a legendary multi-Piston Cup champion turned beloved racing announcer. The Kentucky-born #17 Chevrolet Monte Carlo is known for his wild color commentary, delighting Piston Cup fans with his humor, charisma and signature catch phrases—"Boogity, Boogity, Boogity! Let's go racin' boys!" <br><br>He's spent years on the track, in the pits and in the grease, and he'll tell you all about it. This American Southern gentleman knows what it takes to win, and plans to bring that fervent expertise to calling the World Grand Prix.]]></bio>
+			<nav id="bio" image_id="darrell_thumb1" href="characters/darrell/bio">BIO</nav>
+			<nav id="downloads" image_id="darrell_thumb3" href="characters/darrell/downloads">DOWNLOADS</nav>
+			<nav id="videos" image_id="darrell_thumb4" href="characters/darrell/videos">VIDEOS</nav>
+			<nav id="gallery" image_id="darrell_thumb2" href="characters/darrell/gallery">GALLERY</nav>
+		</character>
+		<!--<character id="professor" offset='{"x":-12,"y":-15,"z":-1}' bg="tokyo"> -->
+		<character id="professor" offset='{"x":12,"y":15}' bg="tokyo">
+			<name>PROFESSOR Z</name>
+			<cast>Thomas Kretschmann</cast>
+			<bio><![CDATA[Professor Z, aka "The Professor," is an internationally-wanted weapons designer in a small, sophisticated German package. He is a brilliant, but mad monocle-wearing scientist who is plotting to sabotage the World Grand Prix. <br><br>Though his true motive is unclear, Professor Z is willing to do whatever it takes to eliminate all obstacles and keep the "project" on schedule.]]></bio>
+			<nav id="bio" image_id="professor_thumb1" href="characters/professor/bio">BIO</nav>
+			<nav id="downloads" image_id="professor_thumb3" href="characters/professor/downloads">DOWNLOADS</nav>
+			<nav id="videos" image_id="professor_thumb4" href="characters/professor/videos">VIDEOS</nav>
+			<nav id="360" image_id="professor_thumb5" href="characters/professor/360">360</nav>
+			<nav id="gallery" image_id="professor_thumb2" href="characters/professor/gallery">GALLERY</nav>
+		</character>
+		<character id="tomber" offset='{"x":-12,"y":-5,"z":-1}' bg="topolino_village2">
+			<name>TOMBER</name>
+			<cast>Michel Michelis</cast>
+			<bio><![CDATA[Tomber is a dubious little French car with an unusual, and very unstable, three-wheeled design that befits the meaning of his name – to fall. By trade he deals car parts from a stall in a Parisian market—though his questionable merchandise sources have led to his reluctant acquaintance with British secret agent Finn McMissile.]]></bio>
+			<nav id="bio" image_id="tomber_thumb1" href="characters/tomber/bio">BIO</nav>
+			<nav id="downloads" image_id="tomber_thumb3" href="characters/tomber/downloads">DOWNLOADS</nav>
+			<nav id="gallery" image_id="tomber_thumb2" href="characters/tomber/gallery">GALLERY</nav>
+			<!--<nav id="videos" image_id="tomber_thumb4" href="characters/tomber/360">360</nav>-->
+		</character>
+		<!--<character id="rod" offset='{"x":-20,"y":-6,"z":-1}' bg="tokyo">-->
+		<character id="rod" offset='{"x":0,"y":6}' bg="tokyo">
+			<name>ROD "TORQUE" REDLINE</name>
+			<cast>Bruce Campbell</cast>
+			<bio><![CDATA[Rod "Torque" Redline is considered by many as the greatest American spy in the world. Recruited after the Cold War for both his brains and brawn, Torque is a tough-as-nails Detroit muscle car with a mastery of disguises. <br><br>In his latest deep-cover operation, he obtained vital information about the plot to sabotage the World Grand Prix. So Rod plans a rendezvous with his British counterparts to share his discoveries at the World Grand Prix welcome reception in Tokyo, Japan. <br><br>But with the bad guys hot on his tailpipe, Rod is forced to ditch the intel early and with the first party guest he sees – a rusty American tow truck named Mater.]]></bio>
+			<nav id="bio" image_id="rod_thumb1" href="characters/rod/bio">BIO</nav>
+			<nav id="downloads" image_id="rod_thumb3" href="characters/rod/downloads">DOWNLOADS</nav>
+			<nav id="games1" image_id="rod_thumb5" href="games/chrome">C.H.R.O.M.E.  MISSIONS</nav> 
+			<nav id="360" image_id="rod_thumb4" href="characters/rod/360">360</nav>
+			<nav id="gallery" image_id="rod_thumb2" href="characters/rod/gallery">GALLERY</nav>
+		</character>
+		<character id="nigel" offset='{"x":10,"y":-10}' bg="porto_corsa">
+			<name>NIGEL GEARSLEY</name>
+			<cast></cast>
+			<bio><![CDATA[Nigel Gearsley from Warwickshire, England, is an Aston Martin DB9R racer bearing #9. He got his start racing the Speed Hill Climb—a unique, completely uphill race through the Aston Hill Mountain Area that his family has run for generations. <br><br>Nigel's racing career has been anything but an uphill challenge, as he's won nearly every start in the past few years on the Grand Touring Sports Car circuit, including a string of podiums at Nurburgring and Le Mans. <br><br>His cool British refinement makes him an imposing presence on the World Grand Prix courses.]]></bio>
+			<nav id="bio" image_id="nigel_thumb1" href="characters/nigel/bio">BIO</nav>
+			<nav id="downloads" image_id="nigel_thumb3" href="characters/nigel/downloads">DOWNLOADS</nav>
+			<nav id="360" image_id="nigel_thumb4" href="characters/nigel/360">360</nav>
+			<nav id="gallery" image_id="nigel_thumb2" href="characters/nigel/gallery">GALLERY</nav>
+		</character>
+		<character id="miles" offset='{"x":-30,"y":-10}' bg="tokyo3">
+			<name>MILES AXLEROD</name>
+			<cast>Eddie Izzard</cast>
+			<bio><![CDATA[Sir Miles Axlerod is a former oil baron who has sold off his fortune, converted himself into an electric vehicle and has devoted his life to finding the renewable, clean-burning energy source of the future—ultimately discovering what he believes is the fuel everyone should be using. <br><br>Axlerod is also the car behind the World Grand Prix, a three-country race he created that attracts the world's top athletes — but it's really an excuse to show off his new wonder-fuel, Allinol.]]></bio>
+			<nav id="bio" image_id="miles_thumb1" href="characters/miles/bio">BIO</nav>
+			<nav id="downloads" image_id="miles_thumb3" href="characters/miles/downloads">DOWNLOADS</nav>
+			<nav id="360" image_id="miles_thumb4" href="characters/miles/360">360</nav>
+			<nav id="gallery" image_id="miles_thumb2" href="characters/miles/gallery">GALLERY</nav>
+		</character>
+		<character id="francesco" offset='{"x":-15,"y":60}' bg="porto_corsa3">
+		<!--<character id="francesco" offset='{"x":50,"y":10}' bg="tokyo3">-->
+			<name>FRANCESCO BERNOULLI</name>
+			<cast>John Turturro</cast>
+			<bio><![CDATA[Francesco Bernoulli grew up in the shadow of the famous Monza race course in Italy where he and his friends would sneak onto the track and race the famous Pista di Alta Velocita bank turn. <br><br>He was an instant winner on the amateur circuit and soon became an international Formula Racer champion. The ladies love Francesco's open wheels, youngsters look up to his winning spirit and fellow racers envy his speed. But Francesco's biggest fan is Francesco himself, as evidenced by his racing number. <br><br>As the most famous race car in Europe, #1 Francesco is a favorite to win the World Grand Prix, which also makes him Lightning McQueen's chief rival.]]></bio>
+			<nav id="bio" image_id="francesco_thumb1" href="characters/francesco/bio">BIO</nav>
+			<nav id="downloads" image_id="francesco_thumb3" href="characters/francesco/downloads">DOWNLOADS</nav>
+			<nav id="videos" image_id="francesco_thumb4" href="characters/francesco/videos">VIDEOS</nav>
+			<nav id="games1" image_id="francesco_thumb5" href="games/worldgrandprix">WORLD GRAND PRIX</nav>
+			<nav id="360" image_id="francesco_thumb6" href="characters/francesco/360">360</nav>
+			<nav id="gallery" image_id="francesco_thumb2" href="characters/francesco/gallery">GALLERY</nav>
+		</character>
+		<character id="mama" offset='{"x":-26,"y":-10}' bg="topolino_village">
+			<name>MAMA TOPOLINO</name>
+			<cast>Vanessa Redgrave</cast>
+			<bio><![CDATA[To all who know her, Luigi's aunt, Mama Topolino, is a masterful cook with the best fuel in the village of Santa Ruotina, near Porto Corsa, Italy. <br><br>Though she has a loving, but fiery relationship with her husband, Uncle Topolino, she shows her love and generosity for both family and friends by feeding everyone her renowned delizioso fuel.]]></bio>
+			<nav id="bio" image_id="mama_thumb1" href="characters/mama/bio">BIO</nav>
+			<nav id="downloads" image_id="mama_thumb3" href="characters/mama/downloads">DOWNLOADS</nav>
+			<nav id="gallery" image_id="mama_thumb2" href="characters/mama/gallery">GALLERY</nav>
+		</character>
+		<character id="uncle" offset='{"x":-26,"y":-10}' bg="topolino_village2">
+			<name>UNCLE TOPOLINO</name>
+			<cast>Franco Nero</cast>
+			<bio><![CDATA[In the small village of Santa Ruotina, near Porto Corsa, Italy, Luigi's favorite uncle, Uncle Topolino, resides with his beloved wife, Mama Topolino. <br><br>Uncle Topolino is the owner of the village's tire shop, where he taught Luigi and Guido everything they know, though Uncle Topolino is full of sage advice about more than just tires.]]></bio>
+			<nav id="bio" image_id="uncle_thumb1" href="characters/uncle/bio">BIO</nav>
+			<nav id="downloads" image_id="uncle_thumb3" href="characters/uncle/downloads">DOWNLOADS</nav>
+			<nav id="gallery" image_id="uncle_thumb2" href="characters/uncle/gallery">GALLERY</nav>
+		</character>
+		
+		<character id="acer" offset='{"x":-15,"y":40}' bg="tokyo">
+		<!--<character id="acer" offset='{"x":-10,"y":0}' bg="tokyo">-->
+			<name>ACER</name>
+			<cast>Peter Jacobson</cast>
+			<bio><![CDATA[Acer has always felt like an outcast in the car world. The beat-up green AMC Pacer joined forces with fellow "lemon" cars as henchmen for the devious Professor Z, whose clandestine mission is to wreak havoc at the highly visible World Grand Prix. <br><br>Acer must hunt down the American and British secret agents who've stolen crucial information about Professor Z's underhanded plot &#8212; his primary target just happens to be Mater, who's been mistaken for a spy. Acer tries very hard to be a tough guy, but he's over-eager compared to his no-nonsense accomplice Grem.]]></bio>
+			<nav id="bio" image_id="acer_thumb1" href="characters/acer/bio">BIO</nav>
+			<nav id="downloads" image_id="acer_thumb3" href="characters/acer/downloads">DOWNLOADS</nav>
+			<nav id="videos" image_id="acer_thumb4" href="characters/acer/videos">VIDEOS</nav>
+			<nav id="360" image_id="acer_thumb5" href="characters/acer/360">360</nav>
+			<nav id="gallery" image_id="acer_thumb2" href="characters/acer/gallery">GALLERY</nav>
+		</character>
+		<!--<character id="grem" offset='{"x":-10,"y":-6}' bg="tokyo"> -->
+		<character id="grem" offset='{"x":20,"y":20}' bg="tokyo"> 
+			<name>GREM</name>
+			<cast>Joe Mantegna</cast>
+			<bio><![CDATA[Grem is a dented, rusty orange AMC Gremlin. After years of being dismissed for his design, even being called a "lemon," Grem has a big chip on his fender that has led him to the underworld of international espionage. <br><br>As a henchman for a villainous boss Professor Z, Grem and his partner-in-crime Acer are trying to sabotage the World Grand Prix and the famous race cars competing in it. When Grem and Acer mistake Mater for an American agent with important top-secret information, the ruthless lemons set out on a round-the-globe chase to stop Mater from foiling their evil scheme.]]></bio>
+			<nav id="bio" image_id="grem_thumb1" href="characters/grem/bio">BIO</nav>
+			<nav id="downloads" image_id="grem_thumb3" href="characters/grem/downloads">DOWNLOADS</nav>
+			<nav id="videos" image_id="grem_thumb4" href="characters/grem/videos">VIDEOS</nav>
+			<nav id="360" image_id="grem_thumb5" href="characters/grem/360">360</nav>
+			<nav id="gallery" image_id="grem_thumb2" href="characters/grem/gallery">GALLERY</nav>
+		</character>
+		<!--<character id="carla" offset='{"x":0,"y":-6}' bg="porto_corsa"> -->  
+		<character id="carla" offset='{"x":30,"y":30}' bg="porto_corsa">
+			<name>CARLA VELOSO</name>
+			<cast></cast>
+			<bio><![CDATA[World Grand Prix contender Carla Veloso hails from Rio de Janeiro, Brazil. The sweet but powerful Latin diva can dance the night away at "Car-nival," but spends most of her time on the racetrack. After setting a new track record at the local Interlagos circuit, she was drafted to join the 24-hour endurance racing team in Europe, where she posted a consistent series of podium finishes. <br><br>In the World Grand Prix, the proud Brazilian Le Motor Prototype racer is the only female in the field, and Carla is ready to prove to the world that #8 is there to win for her home country.]]></bio>
+			<nav id="bio" image_id="carla_thumb1" href="characters/carla/bio">BIO</nav>
+			<nav id="downloads" image_id="carla_thumb3" href="characters/carla/downloads">DOWNLOADS</nav>
+			<nav id="games1" image_id="carla_thumb5" href="games/worldgrandprix">WORLD GRAND PRIX</nav>
+			<nav id="360" image_id="carla_thumb4" href="characters/carla/360">360</nav>
+			<nav id="gallery" image_id="carla_thumb2" href="characters/carla/gallery">GALLERY</nav>
+		</character>
+		<!--<character id="shu" offset='{"x":20,"y":-6}' bg="tokyo3">-->
+		<character id="shu" offset='{"x":40,"y":26}' bg="tokyo3">
+			<name>SHU TODOROKI</name>
+			<cast></cast>
+			<bio><![CDATA[Shu Todoroki is a Le Motor Prototype racer representing Japan and bearing #7 in the World Grand Prix. Shu was raised at the base of the active Mount Asama volcano in Japan, and soon became a champion on the Suzuka Circuit. <br><br>His sleek design sports a fiery red Ka-Riu dragon, which Shu borrowed from Japanese legend because he relates to the small, yet fierce nature of the dragon. His team legacy is filled with victories &#8212; his coach, a Mazda, was the only Japanese car to ever win at Le Mans &#8212; and Shu hopes to prove his champion-level racing on the international stage of the World Grand Prix.]]></bio>
+			<nav id="bio" image_id="shu_thumb1" href="characters/shu/bio">BIO</nav>
+			<nav id="downloads" image_id="shu_thumb3" href="characters/shu/downloads">DOWNLOADS</nav>
+			<nav id="videos" image_id="shu_thumb4" href="characters/shu/videos">VIDEOS</nav>
+			<nav id="games1" image_id="shu_thumb5" href="games/worldgrandprix">WORLD GRAND PRIX</nav>
+			<nav id="360" image_id="shu_thumb6" href="characters/shu/360">360</nav>
+			<nav id="gallery" image_id="shu_thumb2" href="characters/shu/gallery">GALLERY</nav>
+		</character>
+		<character id="raoul" offset='{"x":10,"y":60}' bg="paris2">
+		<!--<character id="raoul" offset='{"x":6,"y":-12}' bg="porto_corsa">-->
+			<name><![CDATA[RAOUL &#199;<font size="12">A</font>ROULE]]></name>
+			<cast></cast>
+			<bio><![CDATA[Known as the "World's Greatest Rally Car," #6 Raoul &#199;aRoule was born in Alsace, France. A restless soul, Raoul joined the famous 'Cirque du Voiture' French circus where he learned Gymkhana – a graceful, drift-filled motorsport that taught him pinpoint timing and an unparalleled ability to navigate tricky courses with ease. <br><br>He's the first car to ever win nine consecutive rallies. Raoul is confident he can use his rally experience to pull ahead of his fellow World Grand Prix racers during the three courses' touchy dirt sections, especially with his fans in the stands waving banners that read: "&#199;aRoule Ca-Rules!"]]></bio>
+			<nav id="bio" image_id="raoul_thumb1" href="characters/raoul/bio">BIO</nav>
+			<nav id="downloads" image_id="raoul_thumb3" href="characters/raoul/downloads">DOWNLOADS</nav>
+			<nav id="games1" image_id="raoul_thumb5" href="games/worldgrandprix">WORLD GRAND PRIX</nav>
+			<nav id="360" image_id="raoul_thumb4" href="characters/raoul/360">360</nav>
+			<nav id="gallery" image_id="raoul_thumb2" href="characters/raoul/gallery">GALLERY</nav>
+		</character>	
+		<character id="siddeley" offset='{"x":120,"y":-85,"z":-1}' bg="porto_corsa2">
+			<name>SIDDELEY</name>
+			<cast>Jason Isaacs</cast>
+			<bio><![CDATA[Siddeley is a state-of-the-art British twin-engine spy jet. At 176 feet from nose to tail and an impressive 157-foot wingspan, the super sleek silver-bodied Siddeley streaks through international skies at record-breaking Mach 1 speeds. <br><br>Outfitted with all the latest in high-tech spy equipment, including cloaking technology, defensive weaponry and afterburners, Siddeley is Finn's steadfast partner-in-fighting-crime around the globe.]]></bio>
+			<nav id="bio" image_id="siddeley_thumb1" href="characters/siddeley/bio">BIO</nav>
+			<nav id="downloads" image_id="siddeley_thumb3" href="characters/siddeley/downloads">DOWNLOADS</nav>
+			<nav id="videos" image_id="siddeley_thumb4" href="characters/siddeley/videos">VIDEOS</nav>
+			<nav id="games1" image_id="siddeley_thumb5" href="games/spyaerial">SPY AERIAL SUPPORT</nav> 
+			<nav id="gallery" image_id="siddeley_thumb2" href="characters/siddeley/gallery">GALLERY</nav>
+		</character>
+		<character id="luigi" offset='{"x":0,"y":-28}' bg="tokyo">
+			<name>LUIGI</name>
+			<cast>Tony Shalhoub</cast>
+			<bio><![CDATA[Radiator Springs resident Luigi is a big-hearted, gregarious and excitable Italian Fiat 500. A tire virtuoso and owner of Luigi's Casa Della Tires, he and his sidekick Guido join Lightning and Mater as members of Team Lightning McQueen for the World Grand Prix. <br><br>Luigi is also an aficionado and fanatic for all things Italian, and is particularly enchanted with Ferrari race cars. When the competition takes the team to his hometown of Porto Corsa, Italy, Luigi is over the moon to introduce the Radiator Springs crew to his charming village and the wonderful ways of Italy. His family welcomes the gang from Radiator Springs in a big, passionate Italian way: Amore!]]></bio>
+			<specs><![CDATA[<font size="10">- Vehicle Type: 1959 Fiat 500<br><br>- 0 to 60 MPH in 5 seconds... only in his dreams<br><br>- Die-hard Ferrari race fan<br><br>- Can charm customers both in English and Italian<br><br>- Started the Willy's Butte race between Doc and Lightning</font>]]></specs>
+			<nav id="bio" image_id="luigi_thumb1" href="characters/luigi/bio">BIO</nav>
+			<nav id="downloads" image_id="luigi_thumb3" href="characters/luigi/downloads">DOWNLOADS</nav>    
+			<nav id="videos" image_id="luigi_thumb4" href="characters/luigi/videos">VIDEOS</nav>     
+			<nav id="games1" image_id="luigi_thumb5" options="width=728,height=540,scrollbars=0,resizable=0,location=0" target="popup" href="http://disney.go.com/cars/games/luigi/games-luigi.html">GUIDO'S TIRE STACKING</nav>  
+			<nav id="gallery" image_id="luigi_thumb2" href="characters/luigi/gallery">GALLERY</nav>
+		</character>
+		<character id="guido" offset='{"x":0,"y":-20}' bg="tokyo">
+			<name>GUIDO</name>
+			<cast>Guido Quaroni</cast>
+			<bio><![CDATA[Guido, the little Italian forklift, is the backbone of Casa Della Tires. He's Luigi's assistant and best friend, and together they are the biggest Ferrari racing fans in Carburetor County. <br><br>A car of few English words other than "pit stop," Guido is a force to be reckoned with when he's changing tires in the pits during a race. Joining Team Lightning McQueen for the World Grand Prix, Guido will get to show off his turbo-charged, pedal-to-the-metal pit stops on the global stage…and maybe, just maybe, he'll see some Ferraris!]]></bio>
+			<specs><![CDATA[<font size="10">- Vehicle Type: Alza/Tutto forklift<br><br>- Can change a tire in 2.5 seconds flat<br><br>- Amazingly good at juggling tires<br><br>- Top speed: 20 MPH on a good day and traveling downhill<br><br>- Helped build the landmark leaning tower... of tires</font>]]></specs>
+			<nav id="bio" image_id="guido_thumb1" href="characters/guido/bio">BIO</nav>
+			<nav id="downloads" image_id="guido_thumb3" href="characters/guido/downloads">DOWNLOADS</nav>     
+			<nav id="games1" image_id="guido_thumb4" options="width=728,height=540,scrollbars=0,resizable=0,location=0" target="popup" href="http://disney.go.com/cars/games/luigi/games-luigi.html">GUIDO'S TIRE STACKING</nav> 
+			<nav id="gallery" image_id="guido_thumb2" href="characters/guido/gallery">GALLERY</nav>
+		</character>
+		<character id="sarge" offset='{"x":0,"y":-15}' bg="tokyo">
+			<name>SARGE</name>
+			<cast>Paul Dooley</cast>
+			<bio><![CDATA[Green Army Jeep Sarge is a patriotic veteran who runs the Radiator Springs Army surplus store, Sarge's Surplus Hut. Sarge's no-nonsense attitude often leads to bickering with his hippie friend, neighbor and polar opposite, Fillmore. <br><br>Despite their differences, the two are almost inseparable – even throughout their world travels. A security specialist with military connections around the globe, Sarge joins Lightning and Mater at the World Grand Prix as a member of Team Lightning McQueen.]]></bio>
+			<specs><![CDATA[<font size="10"><br><br>- Vehicle Type: 1979 Shyster Cremlin<br><br>- Powered by a mean V-8 engine and 100% ambition<br><br>- #86 Sponsored by Hostile Takeover Bank<br><br>- Possesses an uncontrollable need to cheat<br><br>- Nicknamed "Thunder" by Lightning McQueen &#8212; because thunder always comes after lightning</font>]]></specs>
+			<nav id="bio" image_id="sarge_thumb1" href="characters/sarge/bio">BIO</nav>
+			<nav id="downloads" image_id="sarge_thumb3" href="characters/sarge/downloads">DOWNLOADS</nav>
+			<nav id="videos" image_id="sarge_thumb4" href="characters/sarge/videos">VIDEOS</nav>
+			<nav id="gallery" image_id="sarge_thumb2" href="characters/sarge/gallery">GALLERY</nav>
+		</character>
+		<character id="fillmore" offset='{"x":0,"y":-20}' bg="tokyo">
+			<name>FILLMORE</name>
+			<cast>Lloyd Sherr</cast>
+			<bio><![CDATA[Radiator Springs' resident hippie Fillmore is an easy-going, peace-loving 1960s Volkswagen van. And as his friend and neighbor Sarge likes to say, "once a hippie, always a hippie." At his popular shop Fillmore's Organic Fuel, Fillmore brews his own fuel, which he sells with Bohemian accessories like tie-dyed mud flaps. <br><br>But when he learns that the World Grand Prix will be run exclusively on the alternative fuel Allinol, Fillmore closes up shop and signs on as the fuel expert for Team Lightning McQueen.]]></bio>
+			<specs><![CDATA[<font size="10"><br><br>- Vehicle Type: 1960 VW Volkswagen Type 2 Bus<br><br>- His oil, fuel and brake shoes are all organic material<br><br>- 0 to 60 MPH... "Why the rush, man?"<br><br>- Recycled long before it was cool and hip<br><br>- Philosophy is "let's just get along, man"</font>]]></specs>
+			<nav id="bio" image_id="fillmore_thumb1" href="characters/fillmore/bio">BIO</nav>
+			<nav id="downloads" image_id="fillmore_thumb3" href="characters/fillmore/downloads">DOWNLOADS</nav>
+			<nav id="videos" image_id="fillmore_thumb4" href="characters/fillmore/videos">VIDEOS</nav>
+			<nav id="gallery" image_id="fillmore_thumb2" href="characters/fillmore/gallery">GALLERY</nav>
+		</character>
+		<character id="mack" offset='{"x":12,"y":32}' bg="radiator_springs">
+			<name>MACK</name>
+			<cast>John Ratzenberger</cast>
+			<bio><![CDATA[Mack is Lightning McQueen's trusted long-haul driver, crisscrossing the country from race to race, always with a smile on his grill. <br><br>After dropping Lightning off in Radiator Springs with his fourth Piston Cup championship trophy, Mack sets off with the rest of the pit crew for a well-deserved vacation. Who knew that Lightning would end up jetting off to a race around the globe in the World Grand Prix?]]></bio>
+			<specs><![CDATA[<font size="10"><br><br>- Vehicle type:  1985 Mack Super-Liner/Semi Hauler<br><br>- Loyal member of the Rust-eze Medicated Bumper Ointment race team<br><br>- Recommended Lightning McQueen to Rust-eze for sponsorship<br><br>- Enjoys singing while he drives to pass the time<br><br>- "Gas Can" is not his middle name</font>]]></specs>
+			<nav id="bio" image_id="mack_thumb1" href="characters/mack/bio">BIO</nav>
+			<nav id="downloads" image_id="mack_thumb3" href="characters/mack/downloads">DOWNLOADS</nav>
+			<nav id="videos" image_id="mack_thumb4" href="characters/mack/videos">VIDEOS</nav>
+			<nav id="gallery" image_id="mack_thumb2" href="characters/mack/gallery">GALLERY</nav>
+		</character>		
+		<character id="sally" offset='{"x":0,"y":8}' bg="radiator_springs2">
+			<name>SALLY</name>
+			<cast>Bonnie Hunt</cast>
+			<bio><![CDATA[Sally, a baby blue Porsche 911 Carrera, is the proprietor of Radiator Springs' Cozy Cone and Wheel Wagon Motels and the apple of Lightning McQueen's eye. Longing for Lightning's return from his latest Piston Cup race season, Sally is looking forward to a long drive with "Stickers," as she affectionately calls Lightning. <br><br>When Lightning commits to racing in the World Grand Prix the same night of his return, Sally remains steadfastly supportive of her star racecar. She even convinces Lightning to take his best friend Mater along for the ride of a lifetime. Though Sally stays behind in Radiator Springs, even she lights up for the open-wheeled racing cars from Europe – but only Lightning truly makes her motor purr.]]></bio>
+			<nav id="bio" image_id="sally_thumb1" href="characters/sally/bio">BIO</nav>
+			<nav id="downloads" image_id="sally_thumb3" href="characters/sally/downloads">DOWNLOADS</nav>
+			<nav id="videos" image_id="sally_thumb4" href="characters/sally/videos">VIDEOS</nav>
+			<nav id="gallery" image_id="sally_thumb2" href="characters/sally/gallery">GALLERY</nav>
+		</character>
+		<character id="sheriff" offset='{"x":2,"y":-6}' bg="radiator_springs">
+			<name>SHERIFF</name>
+			<cast>Michael Wallis</cast>
+			<bio><![CDATA[Sheriff is the local law enforcement and the keeper of the peace in Radiator Springs. He takes his job very seriously. <br><br>Sheriff enjoys telling stories and taking the occasional nap behind the Radiator Springs billboard. That's where he was when Lightning McQueen first zoomed into town years ago, which led to a messy car chase that didn't end well. These days, Sheriff welcomes the hotshot racer Lightning home to Radiator Springs with all four tires.]]></bio>
+			<specs><![CDATA[<font size="10"><br><br>- Vehicle Type: 1979 Shyster Cremlin<br><br>- Powered by a mean V-8 engine and 100% ambition<br><br>- #86 Sponsored by Hostile Takeover Bank<br><br>- Possesses an uncontrollable need to cheat<br><br>- Nicknamed "Thunder" by Lightning McQueen &#8212; because thunder always comes after lightning</font>]]></specs>
+			<nav id="bio" image_id="sheriff_thumb1" href="characters/sheriff/bio">BIO</nav>
+			<nav id="downloads" image_id="sheriff_thumb3" href="characters/sheriff/downloads">DOWNLOADS</nav>
+			<nav id="videos" image_id="sheriff_thumb4" href="characters/sheriff/videos">VIDEOS</nav>
+			<nav id="gallery" image_id="sheriff_thumb2" href="characters/sheriff/gallery">GALLERY</nav>
+		</character>
+		<character id="lizzie" offset='{"x":0,"y":-5}' bg="radiator_springs">
+			<name>LIZZIE</name>
+			<cast>Katherine Helmond</cast>
+			<bio><![CDATA[Lizzie is a Radiator Springs original. She's a little old lady, but still an active businesswoman who uses her moxie to sell bumper stickers, mud flaps and other Route 66 memorabilia from her curio shop. <br><br>She's as feisty as she is brash. Lizzie's unswerving frankness and offbeat comments keep the townsfolk and tourists on their toes, even though she has no idea what she's just said.]]></bio>
+			<specs><![CDATA[<font size="10"><br><br>- Vehicle Type: 1970 Plymouth Superbird 426 c.i. HEMI<br><br>- #43 sponsored by Dinoco, the oil of champions<br><br>- Rear spoiler keeps The King on the track at high speeds<br><br>- Rides on Lightyear racing tires<br><br>- Pulled over 200 miles per hour on the Superspeedways</font>]]></specs>
+			<nav id="bio" image_id="lizzie_thumb1" href="characters/lizzie/bio">BIO</nav>
+			<nav id="downloads" image_id="lizzie_thumb3" href="characters/lizzie/downloads">DOWNLOADS</nav>
+			<nav id="videos" image_id="lizzie_thumb4" href="characters/lizzie/videos">VIDEOS</nav>
+			<nav id="gallery" image_id="lizzie_thumb2" href="characters/lizzie/gallery">GALLERY</nav>
+		</character>
+		<character id="flo" offset='{"x":-30,"y":16}' bg="radiator_springs2">
+			<name>FLO</name>
+			<cast>Jenifer Lewis</cast>
+			<bio><![CDATA[Flo is a sassy, no-nonsense lady with the biggest heart in Radiator Springs. She runs the local diner, Flo's V-8 Café, the only gas station for miles around, where she still serves the "finest fuel in 50 states." <br><br>Flo is Ramone's main squeeze. As a touring Motorama girl in the 1950s, Flo was passing through Radiator Springs and when she met Ramone, she was hooked.]]></bio>
+			<specs><![CDATA[<font size="10"><br><br>- Vehicle Type: 1970 Plymouth Superbird 426 c.i. HEMI<br><br>- #43 sponsored by Dinoco, the oil of champions<br><br>- Rear spoiler keeps The King on the track at high speeds<br><br>- Rides on Lightyear racing tires<br><br>- Pulled over 200 miles per hour on the Superspeedways</font>]]></specs>
+			<nav id="bio" image_id="flo_thumb1" href="characters/flo/bio">BIO</nav>
+			<nav id="downloads" image_id="flo_thumb3" href="characters/flo/downloads">DOWNLOADS</nav>
+			<nav id="videos" image_id="flo_thumb4" href="characters/flo/videos">VIDEOS</nav>
+			<nav id="games1" image_id="flo_thumb5" options="width=728,height=540,scrollbars=0,resizable=0,location=0" target="popup" href="http://disney.go.com/cars/games/flos/games-flo.html">FLO'S V8 GAME</nav>
+			<nav id="gallery" image_id="flo_thumb2" href="characters/flo/gallery">GALLERY</nav>
+		</character>
+		<character id="ramone" offset='{"x":-24,"y":26}' bg="radiator_springs2">
+			<name>RAMONE</name>
+			<cast>Cheech Marin</cast>
+			<bio><![CDATA[Ramone owns and operates Ramone's House of Body Art, Radiator Springs' custom body and paint shop. Ramone is an artist — a true magician with paint and metal. <br><br>There was a time when his only canvas was himself, so he repainted himself daily.  But since Lightning McQueen helped put Radiator Springs back on the map, Ramone has had his share of customers—including the star race car himself. Before heading off to the World Grand Prix, Lightning stops by Ramone's for a new paint job... and Ramone does him up gooood.]]></bio>
+			<specs><![CDATA[<font size="10"><br><br>- Vehicle Type: 1970 Plymouth Superbird 426 c.i. HEMI<br><br>- #43 sponsored by Dinoco, the oil of champions<br><br>- Rear spoiler keeps The King on the track at high speeds<br><br>- Rides on Lightyear racing tires<br><br>- Pulled over 200 miles per hour on the Superspeedways</font>]]></specs>
+			<nav id="bio" image_id="ramone_thumb1" href="characters/ramone/bio">BIO</nav>
+			<nav id="downloads" image_id="ramone_thumb3" href="characters/ramone/downloads">DOWNLOADS</nav>
+			<nav id="videos" image_id="ramone_thumb4" href="characters/ramone/videos">VIDEOS</nav>
+			<nav id="gallery" image_id="ramone_thumb2" href="characters/ramone/gallery">GALLERY</nav>
+		</character>
+	</characters>
+	
+	<turns>
+		
+	</turns>
+	
+	<sounds>
+		<sound id="gallery_click" src="sounds/gallery_click.mp3" />
+		<sound id="gallery_thumb_maximize" src="sounds/gallery_thumb_maximize.mp3" />
+		<sound id="gallery_transition" src="sounds/gallery_transition.mp3" />
+	
+		<sound id="global_click" src="sounds/global_click.mp3" />
+		<sound id="global_rollover" src="sounds/global_rollover.mp3" />
+		<sound id="promo_intro" src="sounds/global_promos_intro.mp3" />
+		
+		<sound id="homepage_character_rollover" src="sounds/homepage_character_rollover.mp3" />
+		
+		<sound id="leftnav_click" src="sounds/leftnav_click.mp3" />
+		<sound id="leftnav_rollover" src="sounds/leftnav_rollover.mp3" />
+		
+		<sound id="location_loader_animation" src="sounds/location_loader_animation.mp3" />
+		<sound id="location_loader_complete" src="sounds/location_loader_complete.mp3" />
+		<sound id="location_loader_intro" src="sounds/location_loader_intro.mp3" />
+		
+		<sound id="module_intro" src="sounds/module_intro.mp3" />
+		<sound id="splash_transition" src="sounds/splash_transition.mp3" />
+		
+		<sound id="london" type="music" src="sounds/music/your_own_disguise.mp3" />
+		<sound id="london2" type="music" src="sounds/music/your_own_disguise.mp3" />
+		<sound id="paris1" type="music" src="sounds/music/your_own_disguise.mp3" />
+		<sound id="paris2" type="music" src="sounds/music/your_own_disguise.mp3" />
+		
+		<sound id="tokyo" type="music" src="sounds/music/your_own_disguise.mp3" />
+		<sound id="toky2" type="music" src="sounds/music/your_own_disguise.mp3" />
+		<sound id="tokyo3" type="music" src="sounds/music/your_own_disguise.mp3" />
+		<sound id="tokyo4" type="music" src="sounds/music/your_own_disguise.mp3" />
+		
+		<sound id="porto_corsa" type="music" src="sounds/music/your_own_disguise.mp3" />
+		<sound id="porto_corsa2" type="music" src="sounds/music/your_own_disguise.mp3" />
+		<sound id="porto_corsa3" type="music" src="sounds/music/your_own_disguise.mp3" />
+		<sound id="porto_corsa4" type="music" src="sounds/music/your_own_disguise.mp3" />
+		<sound id="porto_corsa5" type="music" src="sounds/music/your_own_disguise.mp3" />
+		<sound id="porto_corsa6" type="music" src="sounds/music/your_own_disguise.mp3" />
+		
+		<sound id="radiator_springs" type="music" src="sounds/music/your_own_disguise.mp3" />
+		<sound id="radiator_springs2" type="music" src="sounds/music/your_own_disguise.mp3" />
+		
+		<sound id="topolino_village" type="music" src="sounds/music/italy_music.mp3" />
+		<sound id="topolino_village2" type="music" src="sounds/music/italy_music.mp3" />
+		
+		<sound id="cars2_soundtrack_01" type="music" src="sounds/music/collision_of_worlds.mp3" />
+		<sound id="cars2_soundtrack_02" type="music" src="sounds/music/nobodys_fool.mp3" />
+		<sound id="cars2_soundtrack_03" type="music" src="sounds/music/you_might_think.mp3" />
+		
+		<sound id="cars_soundtrack_01" type="music" src="sounds/music/france_music.mp3" />
+		<sound id="cars_soundtrack_02" type="music" src="sounds/music/italy_music.mp3" />
+		<sound id="cars_soundtrack_03" type="music" src="sounds/music/england_music.mp3" />
+		
+		
+		
+	</sounds>
+	
+	<images>
+		<!-- main nav images -->
+		<img id="main_nav_logo" location="main" src="promos/main_nav/cars2_logo.png" />
+		
+		<!-- homepage thumbs. -->
+	    <img id="francesco_carla_lightning" location="home_selector" src="images/home_selector/francesco_carla_lightning_thumb.jpg" /> 
+		<img id="finn_mater_lightning" location="home_selector" src="images/home_selector/finn_mater_lightning_thumb.jpg" />
+		<img id="fillmore_sarge_mack" location="home_selector" src="images/home_selector/fillmore_sarge_mack_thumb.jpg" />
+		<img id="miguel_max_lewis" location="home_selector" src="images/home_selector/miguel_max_lewis_thumb.jpg" />  
+		<img id="jeff_raoul_darrell" location="home_selector" src="images/home_selector/jeff_raoul_darrell_thumb.jpg" />  
+		      
+		<!-- <img id="max_miguel_lightning" location="home_selector" src="images/home_selector/miguel_francesco_max_thumb.jpg" />   
+		<img id="lightning_david_lewis" location="home_selector" src="images/home_selector/lightning_david_lewis_thumb.jpg" />
+		<img id="lightning_holley_finn" location="home_selector" src="images/home_selector/lightning_holley_finn_thumb.jpg" />
+		<img id="carla_raoul_shu" location="home_selector" src="images/home_selector/shu_carla_raoul_thumb.jpg" /> 
+		<img id="queen_prince_highgear" location="home_selector" src="images/home_selector/queen_prince_highgear_thumb.jpg" />  
+		<img id="francesco_lightning" location="home_selector" src="images/home_selector/francesco_lightning_thumb.jpg" />
+		<img id="mater_luigi_guido" location="home_selector" src="images/home_selector/mater_luigi_guido_thumb.jpg" />
+		<img id="rod_finn_mater" location="home_selector" src="images/home_selector/rod_finn_mater_thumb.jpg" />
+		<img id="lightning_nigel_miles" location="home_selector" src="images/home_selector/lightning_nigel_miles_thumb.jpg" />
+		<img id="okuni_king_zen_pinion" location="home_selector" src="images/home_selector/okuni_pinion_king_zen_thumb.jpg" />  
+		<img id="luigi_mama_uncle" location="home_selector" src="images/home_selector/luigi_mama_uncle_thumb.jpg" />
+		<img id="acer_grem_mater" location="home_selector" src="images/home_selector/acer_grem_mater_thumb.jpg" />
+		<img id="carla_raoul_shu" location="home_selector" src="images/home_selector/shu_carla_raoul_thumb.jpg" />
+	    <img id="professor_tomber_grem" location="home_selector" src="images/home_selector/professor_tomber_grem_thumb.jpg" /> 
+		-->
+		
+		<!-- location backgrounds. these id's must be unique. no other <image id=""> should be the same as these. -->
+		<img id="tokyo" location="bg" src="images/locations/cars2_bg_tokyo_01.jpg" />
+		<img id="tokyo2" location="bg" src="images/locations/cars2_bg_tokyo_02.jpg" />
+		<img id="tokyo3" location="bg" src="images/locations/cars2_bg_tokyo_03.jpg" />
+		<img id="tokyo4" location="bg" src="images/locations/cars2_bg_tokyo_04.jpg" />
+		<img id="porto_corsa" location="bg" src="images/locations/cars2_bg_porto_corsa_01.jpg" />
+		<img id="porto_corsa2" location="bg" src="images/locations/cars2_bg_porto_corsa_02.jpg" />
+		<img id="porto_corsa3" location="bg" src="images/locations/cars2_bg_porto_corsa_03.jpg" />
+		<img id="porto_corsa4" location="bg" src="images/locations/cars2_bg_porto_corsa_04.jpg" />
+		<img id="porto_corsa5" location="bg" src="images/locations/cars2_bg_porto_corsa_05.jpg" />
+		<img id="porto_corsa6" location="bg" src="images/locations/cars2_bg_porto_corsa_06.jpg" />
+		<img id="radiator_springs" location="bg" src="images/locations/cars2_bg_radiator_springs_01.jpg" />
+		<img id="radiator_springs2" location="bg" src="images/locations/cars2_bg_radiator_springs_02.jpg" />
+		<img id="topolino_village" location="bg" src="images/locations/cars2_bg_topolino_village_01.jpg" />
+		<img id="topolino_village2" location="bg" src="images/locations/cars2_bg_topolino_village_02.jpg" />
+		<img id="london" location="bg" src="images/locations/cars2_bg_london_01.jpg" />
+		<img id="london2" location="bg" src="images/locations/cars2_bg_london_02.jpg" />
+		<img id="paris1" location="bg" src="images/locations/cars2_bg_paris_01.jpg" />
+		<img id="paris2" location="bg" src="images/locations/cars2_bg_paris_02.jpg" />
+		
+		<img id="tokyo" location="location_selector" thumb="images/flags/flag_ON_tokyo_01.jpg" src="images/flags/flag_jp.jpg" />
+		<img id="porto_corsa" location="location_selector" thumb="images/flags/flag_ON_porto_corsa.jpg" src="images/flags/flag_it.jpg" />
+		<img id="radiator_springs" location="location_selector" thumb="images/flags/flag_ON_radiator_springs_01.jpg" src="images/flags/flag_us.jpg" />
+		<img id="topolino_village" location="location_selector" thumb="images/flags/flag_ON_topolinos_village_01.jpg" src="images/flags/flag_it.jpg" />
+		<img id="london" location="location_selector" thumb="images/flags/flag_ON_london_01.jpg" src="images/flags/flag_en.jpg" />
+		<img id="paris1" location="location_selector" thumb="images/flags/flag_ON_paris_01.jpg" src="images/flags/flag_fr.jpg" />
+		<img id="porto_corsa2" location="location_selector" thumb="images/flags/flag_ON_porto_corsa_02.jpg" src="images/flags/flag_it.jpg" />
+		<img id="tokyo2" location="location_selector" thumb="images/flags/flag_ON_tokyo_02.jpg" src="images/flags/flag_jp.jpg" />
+		<img id="porto_corsa3" location="location_selector" thumb="images/flags/flag_ON_porto_corsa_03.jpg" src="images/flags/flag_it.jpg" />
+		<img id="radiator_springs2" location="location_selector" thumb="images/flags/flag_ON_radiator_springs_02.jpg" src="images/flags/flag_us.jpg" />
+		<img id="topolino_village2" location="location_selector" thumb="images/flags/flag_ON_topolinos_village_02.jpg" src="images/flags/flag_it.jpg" />
+		<img id="porto_corsa4" location="location_selector" thumb="images/flags/flag_ON_porto_corsa_04.jpg" src="images/flags/flag_it.jpg" />
+		<img id="tokyo3" location="location_selector" thumb="images/flags/flag_ON_tokyo_03.jpg" src="images/flags/flag_jp.jpg" />
+		<img id="paris2" location="location_selector" thumb="images/flags/flag_ON_paris_02.jpg" src="images/flags/flag_fr.jpg" />
+		<img id="porto_corsa5" location="location_selector" thumb="images/flags/flag_ON_porto_corsa_05.jpg" src="images/flags/flag_it.jpg" />
+		<img id="london2" location="location_selector" thumb="images/flags/flag_ON_london_02.jpg" src="images/flags/flag_en.jpg" />
+		<img id="tokyo4" location="location_selector" thumb="images/flags/flag_ON_tokyo_04.jpg" src="images/flags/flag_jp.jpg" />
+		<img id="porto_corsa6" location="location_selector" thumb="images/flags/flag_ON_porto_corsa_06.jpg" src="images/flags/flag_it.jpg" />
+		
+		<!-- character top promos for character_selector -->
+		<img id="featured0" location="characters" src="promos/char_selector/char_selector_promo_queen.jpg" />
+		<img id="featured1" location="" src="promos/char_selector/char_selector_promo_prince.jpg" />
+		<img id="featured2" location="" src="promos/char_selector/char_selector_promo_topper.jpg" />
+		<img id="featured3" location="" src="promos/char_selector/char_selector_promo_chauncy.jpg" />
+		<img id="featured4" location="" src="promos/char_selector/char_selector_promo_highgear.jpg" />
+		<img id="featured5" location="" src="promos/char_selector/char_selector_promo_miguel.jpg" />
+		<img id="featured6" location="" src="promos/char_selector/char_selector_promo_max.jpg" />
+		<img id="featured7" location="" src="promos/char_selector/char_selector_promo_david.jpg" />
+		<img id="featured8" location="" src="promos/char_selector/char_selector_promo_lewis.jpg" />
+		<img id="featured9" location="" src="promos/char_selector/char_selector_promo_jeff.jpg" />
+		<img id="featured10" location="" src="promos/char_selector/char_selector_promo_professorz.jpg" />
+		<img id="featured11" location="" src="promos/char_selector/char_selector_promo_carla.jpg" />
+		<img id="featured12" location="" src="promos/char_selector/char_selector_promo_clutchgoneski.jpg" />
+		<img id="featured13" location="" src="promos/char_selector/char_selector_promo_finn.jpg" />
+		<img id="featured14" location="" src="promos/char_selector/char_selector_promo_francesco.jpg" />
+		<img id="featured15" location="" src="promos/char_selector/char_selector_promo_holley.jpg" />
+		<img id="featured16" location="" src="promos/char_selector/char_selector_promo_miles.jpg" />
+		<img id="featured17" location="" src="promos/char_selector/char_selector_promo_darrell.jpg" />
+		<img id="featured18" location="" src="promos/char_selector/char_selector_promo_acer.jpg" />
+		<img id="featured19" location="" src="promos/char_selector/char_selector_promo_fillmore.jpg" />
+		<img id="featured20" location="" src="promos/char_selector/char_selector_promo_flo.jpg" />
+		<img id="featured21" location="" src="promos/char_selector/char_selector_promo_grem.jpg" />
+		<img id="featured22" location="" src="promos/char_selector/char_selector_promo_guido.jpg" />
+		<img id="featured23" location="" src="promos/char_selector/char_selector_promo_lightning.jpg" />
+		<img id="featured24" location="" src="promos/char_selector/char_selector_promo_lizzie.jpg" />
+		<img id="featured25" location="" src="promos/char_selector/char_selector_promo_luigi.jpg" />
+		<img id="featured26" location="" src="promos/char_selector/char_selector_promo_mack.jpg" />
+		<img id="featured27" location="" src="promos/char_selector/char_selector_promo_mama.jpg" />
+		<img id="featured28" location="" src="promos/char_selector/char_selector_promo_mater.jpg" />
+		<img id="featured29" location="" src="promos/char_selector/char_selector_promo_nigel.jpg" />
+		<img id="featured30" location="" src="promos/char_selector/char_selector_promo_raoul.jpg" />
+		<img id="featured31" location="" src="promos/char_selector/char_selector_promo_rod.jpg" />
+		<img id="featured32" location="" src="promos/char_selector/char_selector_promo_sally.jpg" />
+		<img id="featured33" location="" src="promos/char_selector/char_selector_promo_sarge.jpg" />
+		<img id="featured34" location="" src="promos/char_selector/char_selector_promo_sheriff.jpg" />
+		<img id="featured35" location="" src="promos/char_selector/char_selector_promo_shu.jpg" />
+		<img id="featured36" location="" src="promos/char_selector/char_selector_promo_siddeley.jpg" />
+		<img id="featured37" location="" src="promos/char_selector/char_selector_promo_tomber.jpg" />
+		<img id="featured38" location="" src="promos/char_selector/char_selector_promo_uncle.jpg" />
+		<img id="featured39" location="" src="promos/char_selector/char_selector_promo_okuni.jpg" />
+		<img id="featured40" location="" src="promos/char_selector/char_selector_promo_kingpin.jpg" />
+		<img id="featured41" location="" src="promos/char_selector/char_selector_promo_pinion.jpg" />
+		
+		
+		<!-- character thumbs for character_selector -->
+		<img id="mater" location="characters" offset='{"x":-12,"y":-5}' src="images/characters/selector_thumbs/mater_char_thumb.png" />
+		<img id="lightning" location="characters" offset='{"x":-5,"y":-10}' src="images/characters/selector_thumbs/lightning_char_thumb.png" />
+		<img id="queen" location="characters" offset='{"x":-6,"y":-4}' src="images/characters/selector_thumbs/queen_char_thumb.png" />
+		<img id="prince" location="characters" offset='{"x":-8,"y":-12}' src="images/characters/selector_thumbs/prince_char_thumb.png" />
+		<img id="topper" location="characters" offset='{"x":-8,"y":6}' src="images/characters/selector_thumbs/topper_char_thumb.png" />
+		<img id="chauncy" location="characters" offset='{"x":-6,"y":-6}' src="images/characters/selector_thumbs/chauncy_char_thumb.png" />
+		<img id="highgear" location="characters" offset='{"x":-24,"y":7}' src="images/characters/selector_thumbs/highgear_char_thumb.png" />
+		<img id="okuni" location="characters" offset='{"x":-8,"y":4}' src="images/characters/selector_thumbs/okuni_char_thumb.png" />
+		<img id="kingpin" location="characters" offset='{"x":-7,"y":-8}' src="images/characters/selector_thumbs/kingpin_char_thumb.png" />
+		<img id="pinion" location="characters" offset='{"x":-11,"y":-10}' src="images/characters/selector_thumbs/pinion_char_thumb.png" />
+		<img id="zen" location="characters" offset='{"x":-4,"y":-6}' src="images/characters/selector_thumbs/zen_char_thumb.png" />
+		<img id="max" location="characters" offset='{"x":-8,"y":-6}' src="images/characters/selector_thumbs/max_char_thumb.png" />
+		<img id="miguel" location="characters" offset='{"x":-9,"y":-10}' src="images/characters/selector_thumbs/miguel_char_thumb.png" />
+		<img id="david" location="characters" offset='{"x":-4,"y":-10}' src="images/characters/selector_thumbs/david_char_thumb.png" />
+		<img id="lewis" location="characters" offset='{"x":-9,"y":-10}' src="images/characters/selector_thumbs/lewis_char_thumb.png" />
+		<img id="jeff" location="characters" offset='{"x":-10,"y":-10}' src="images/characters/selector_thumbs/jeff_char_thumb.png" />
+		<img id="darrell" location="characters" offset='{"x":-4,"y":-10}' src="images/characters/selector_thumbs/darrell_char_thumb.png" />
+		<img id="clutchgoneski" location="characters" offset='{"x":-8,"y":-8}' src="images/characters/selector_thumbs/clutchgoneski_char_thumb.png" />
+		<img id="professor" location="characters" offset='{"x":-10,"y":-8}' src="images/characters/selector_thumbs/professor_char_thumb.png" />
+		<img id="tomber" location="characters" offset='{"x":-14,"y":-12}' src="images/characters/selector_thumbs/tomber_char_thumb.png" />
+		<img id="rod" location="characters" offset='{"x":-6,"y":-10}' src="images/characters/selector_thumbs/rod_char_thumb.png" />
+		<img id="nigel" location="characters" offset='{"x":-14,"y":-8}' src="images/characters/selector_thumbs/nigel_char_thumb.png" />
+		<img id="miles" location="characters" offset='{"x":-16,"y":-12}' src="images/characters/selector_thumbs/miles_char_thumb.png" />
+		<img id="francesco" location="characters" offset='{"x":2,"y":-10}' src="images/characters/selector_thumbs/francesco_char_thumb.png" />
+		<img id="mama" location="characters" offset='{"x":-9,"y":-10}' src="images/characters/selector_thumbs/mama_char_thumb.png" />
+		<img id="uncle" location="characters" offset='{"x":-7,"y":-10}' src="images/characters/selector_thumbs/uncle_char_thumb.png" />
+		<img id="acer" location="characters" offset='{"x":-7,"y":-10}' src="images/characters/selector_thumbs/acer_char_thumb.png" />
+		<img id="grem" location="characters" offset='{"x":-7,"y":-10}' src="images/characters/selector_thumbs/grem_char_thumb.png" />
+		<img id="carla" location="characters" offset='{"x":-3,"y":-10}' src="images/characters/selector_thumbs/carla_char_thumb.png" />
+		<img id="shu" location="characters" offset='{"x":-3,"y":-10}' src="images/characters/selector_thumbs/shu_char_thumb.png" />
+		<img id="raoul" location="characters" offset='{"x":-3,"y":-8}' src="images/characters/selector_thumbs/raoul_char_thumb.png" />
+		<img id="finn" location="characters" offset='{"x":-3,"y":-10}' src="images/characters/selector_thumbs/finn_char_thumb.png" />
+		<img id="holley" location="characters" offset='{"x":-8,"y":-10}' src="images/characters/selector_thumbs/holley_char_thumb.png" />
+		<img id="siddeley" location="characters" offset='{"x":8,"y":-10}' src="images/characters/selector_thumbs/siddeley_char_thumb.png" />
+		<img id="luigi" location="characters" offset='{"x":-11,"y":-10}' src="images/characters/selector_thumbs/luigi_char_thumb.png" />
+		<img id="guido" location="characters" offset='{"x":-11,"y":-6}' src="images/characters/selector_thumbs/guido_char_thumb.png" />
+		<img id="sarge" location="characters" offset='{"x":-8,"y":-8}' src="images/characters/selector_thumbs/sarge_char_thumb.png" />
+		<img id="fillmore" location="characters" offset='{"x":-10,"y":-10}' src="images/characters/selector_thumbs/fillmore_char_thumb.png" />
+		<img id="sally" location="characters" offset='{"x":-3,"y":-10}' src="images/characters/selector_thumbs/sally_char_thumb.png" />
+		<img id="mack" location="characters" offset='{"x":-8,"y":-6}' src="images/characters/selector_thumbs/mack_char_thumb.png" />
+		<img id="sheriff" location="characters" offset='{"x":6,"y":-10}' src="images/characters/selector_thumbs/sheriff_char_thumb.png" />
+		<img id="lizzie" location="characters" offset='{"x":-12,"y":-10}' src="images/characters/selector_thumbs/lizzie_char_thumb.png" />
+		<img id="flo" location="characters" offset='{"x":-8,"y":-10}' src="images/characters/selector_thumbs/flo_char_thumb.png" />
+		<img id="ramone" location="characters" offset='{"x":-6,"y":-10}' src="images/characters/selector_thumbs/ramone_char_thumb.png" /> 
+		
+		<!--character thumbs for Cars 1 Cast Preload -->
+		
+		<img id="lightning" location="cars1_characters" offset='{"x":-5,"y":-10}' src="images/characters/selector_thumbs/lightning_char_thumb.png" /> 
+		<img id="mater" location="cars1_characters" offset='{"x":-12,"y":-5}' src="images/characters/selector_thumbs/mater_char_thumb.png" />
+		<img id="sally" location="cars1_characters" offset='{"x":-3,"y":-10}' src="images/characters/selector_thumbs/sally_char_thumb.png" />  
+		<img id="luigi" location="cars1_characters" offset='{"x":-11,"y":-10}' src="images/characters/selector_thumbs/luigi_char_thumb.png" />
+		<img id="guido" location="cars1_characters" offset='{"x":-11,"y":-6}' src="images/characters/selector_thumbs/guido_char_thumb.png" /> 
+		<img id="sheriff" location="cars1_characters" offset='{"x":6,"y":-10}' src="images/characters/selector_thumbs/sheriff_char_thumb.png" /> 
+		<img id="mack" location="cars1_characters" offset='{"x":-8,"y":-6}' src="images/characters/selector_thumbs/mack_char_thumb.png" /> 
+		<img id="darrell" location="cars1_characters" offset='{"x":-4,"y":-10}' src="images/characters/selector_thumbs/darrell_char_thumb.png" />
+		<img id="mama" location="cars1_characters" offset='{"x":-9,"y":-10}' src="images/characters/selector_thumbs/mama_char_thumb.png" />
+		<img id="uncle" location="cars1_characters" offset='{"x":-7,"y":-10}' src="images/characters/selector_thumbs/uncle_char_thumb.png" />
+		<img id="sarge" location="cars1_characters" offset='{"x":-8,"y":-8}' src="images/characters/selector_thumbs/sarge_char_thumb.png" />
+		<img id="fillmore" location="cars1_characters" offset='{"x":-10,"y":-10}' src="images/characters/selector_thumbs/fillmore_char_thumb.png" />
+		<img id="lizzie" location="cars1_characters" offset='{"x":-12,"y":-10}' src="images/characters/selector_thumbs/lizzie_char_thumb.png" />
+		<img id="flo" location="cars1_characters" offset='{"x":-8,"y":-10}' src="images/characters/selector_thumbs/flo_char_thumb.png" />
+		<img id="ramone" location="cars1_characters" offset='{"x":-6,"y":-10}' src="images/characters/selector_thumbs/ramone_char_thumb.png" /> 
+		
+		
+		<!-- character poses -->
+		<img id="character_pose" location="mater" src="images/characters/poses/mater_char_pose.png" />
+		<img id="mater" location="character_animation" src="http://a.dolimg.com/franchise/cars/content/video/mater.flv" />
+		
+		<img id="character_pose" location="lightning" src="images/characters/poses/lightning_char_pose.png" />
+		<img id="lightning" location="character_animation" src="http://a.dolimg.com/franchise/cars/content/video/lightning.flv" />
+		
+		<img id="character_pose" location="jeff" src="images/characters/poses/jeff_char_pose.png" />
+		<img id="jeff" location="character_animation" src="http://a.dolimg.com/franchise/cars/content/video/jeff.flv" />
+				
+		<img id="character_pose" location="francesco" src="images/characters/poses/francesco_char_pose.png" />
+		<img id="francesco" location="character_animation" src="http://a.dolimg.com/franchise/cars/content/video/francesco.flv" />
+		
+		<img id="character_pose" location="acer" src="images/characters/poses/acer_char_pose.png" />
+		<img id="acer" location="character_animation" src="http://a.dolimg.com/franchise/cars/content/video/acer.flv" />		
+		
+		<img id="character_pose" location="carla" src="images/characters/poses/carla_char_pose.png" />
+		<img id="carla" location="character_animation" src="http://a.dolimg.com/franchise/cars/content/video/carla.flv" />
+		
+		<img id="character_pose" location="shu" src="images/characters/poses/shu_char_pose.png" />
+		<img id="shu" location="character_animation" src="http://a.dolimg.com/franchise/cars/content/video/shu.flv" />
+		
+		<img id="character_pose" location="raoul" src="images/characters/poses/raoul_char_pose.png" />
+		<img id="raoul" location="character_animation" src="http://a.dolimg.com/franchise/cars/content/video/raoul.flv" />
+		
+		<img id="character_pose" location="finn" src="images/characters/poses/finn_char_pose.png" />
+		<img id="finn" location="character_animation" src="http://a.dolimg.com/franchise/cars/content/video/finn.flv" />
+		
+		<img id="character_pose" location="holley" src="images/characters/poses/holley_char_pose.png" />
+		<img id="holley" location="character_animation" src="http://a.dolimg.com/franchise/cars/content/video/holley.flv" />
+		
+		<img id="character_pose" location="rod" src="images/characters/poses/rod_char_pose.png" />
+		<img id="rod" location="character_animation" src="http://a.dolimg.com/franchise/cars/content/video/rod.flv" />
+		
+		<img id="character_pose" location="miguel" src="images/characters/poses/miguel_char_pose.png" />
+		<img id="miguel" location="character_animation" src="http://a.dolimg.com/franchise/cars/content/video/miguel.flv" />     
+		
+		<img id="character_pose" location="professor" src="images/characters/poses/professor_char_pose.png" />  
+		<img id="professor" location="character_animation" src="http://a.dolimg.com/franchise/cars/content/video/professor.flv" />  
+		
+		<img id="character_pose" location="grem" src="images/characters/poses/grem_char_pose.png" />   
+		<img id="grem" location="character_animation" src="http://a.dolimg.com/franchise/cars/content/video/grem.flv" />
+		
+		<img id="character_pose" location="lewis" src="images/characters/poses/lewis_char_pose.png" /> 
+		<img id="lewis" location="character_animation" src="http://a.dolimg.com/franchise/cars/content/video/lewis.flv" /> 
+		
+		<img id="character_pose" location="darrell" src="images/characters/poses/darrell_char_pose.png" />
+		<img id="character_pose" location="clutchgoneski" src="images/characters/poses/clutchgoneski_char_pose.png" />
+		<img id="character_pose" location="tomber" src="images/characters/poses/tomber_char_pose.png" />
+		<img id="character_pose" location="nigel" src="images/characters/poses/nigel_char_pose.png" />
+		<img id="character_pose" location="miles" src="images/characters/poses/miles_char_pose.png" />
+		<img id="character_pose" location="mama" src="images/characters/poses/mama_char_pose.png" />
+		<img id="character_pose" location="uncle" src="images/characters/poses/uncle_char_pose.png" />
+		<img id="character_pose" location="siddeley" src="images/characters/poses/siddeley_char_pose.png" />
+		<img id="character_pose" location="luigi" src="images/characters/poses/luigi_char_pose.png" />
+		<img id="character_pose" location="guido" src="images/characters/poses/guido_char_pose.png" />
+		<img id="character_pose" location="fillmore" src="images/characters/poses/fillmore_char_pose.png" />
+		<img id="character_pose" location="mack" src="images/characters/poses/mack_char_pose.png" />
+		<img id="character_pose" location="sheriff" src="images/characters/poses/sheriff_char_pose.png" />
+		<img id="character_pose" location="lizzie" src="images/characters/poses/lizzie_char_pose.png" />
+		<img id="character_pose" location="sarge" src="images/characters/poses/sarge_char_pose.png" />
+		<img id="character_pose" location="flo" src="images/characters/poses/flo_char_pose.png" />
+		<img id="character_pose" location="ramone" src="images/characters/poses/ramone_char_pose.png" />
+		<img id="character_pose" location="sally" src="images/characters/poses/sally_char_pose.png" />
+		<img id="character_pose" location="david" src="images/characters/poses/david_char_pose.png" />
+		<img id="character_pose" location="max" src="images/characters/poses/max_char_pose.png" />
+		<img id="character_pose" location="okuni" src="images/characters/poses/okuni_char_pose.png" />
+		<img id="character_pose" location="kingpin" src="images/characters/poses/kingpin_char_pose.png" />
+		<img id="character_pose" location="pinion" src="images/characters/poses/pinion_char_pose.png" />
+		<img id="character_pose" location="zen" src="images/characters/poses/zen_char_pose.png" />
+		<img id="character_pose" location="queen" src="images/characters/poses/queen_char_pose.png" />
+		<img id="character_pose" location="topper" src="images/characters/poses/topper_char_pose.png" />
+		<img id="character_pose" location="chauncy" src="images/characters/poses/chauncy_char_pose.png" />
+		<img id="character_pose" location="highgear" src="images/characters/poses/highgear_char_pose.png" />
+		<img id="character_pose" location="prince" src="images/characters/poses/prince_char_pose.png" />
+		
+		<!-- character thumbs -->
+		<img id="lightning_thumb1" location="lightning" src="images/characters/content_thumbs/bio_lightning_thumb.jpg" />
+		<img id="mater_thumb1" location="mater" src="images/characters/content_thumbs/bio_mater_thumb.jpg" />
+		<img id="carla_thumb1" location="carla" src="images/characters/content_thumbs/bio_carla_thumb.jpg" />
+		<img id="shu_thumb1" location="shu" src="images/characters/content_thumbs/bio_shu_thumb.jpg" />
+		<img id="raoul_thumb1" location="raoul" src="images/characters/content_thumbs/bio_raoul_thumb.jpg" />
+		<img id="finn_thumb1" location="finn" src="images/characters/content_thumbs/bio_finn_thumb.jpg" />
+		<img id="holley_thumb1" location="holley" src="images/characters/content_thumbs/bio_holley_thumb.jpg" />
+		<img id="luigi_thumb1" location="luigi" src="images/characters/content_thumbs/bio_luigi_thumb.jpg" />
+		<img id="guido_thumb1" location="guido" src="images/characters/content_thumbs/bio_guido_thumb.jpg" />
+		<img id="fillmore_thumb1" location="fillmore" src="images/characters/content_thumbs/bio_fillmore_thumb.jpg" />
+		<img id="mack_thumb1" location="mack" src="images/characters/content_thumbs/bio_mack_thumb.jpg" />
+		<img id="finn_thumb1" location="finn" src="images/characters/content_thumbs/bio_finn_thumb.jpg" />
+		<img id="sheriff_thumb1" location="sheriff" src="images/characters/content_thumbs/bio_sheriff_thumb.jpg" />
+		<img id="sarge_thumb1" location="sarge" src="images/characters/content_thumbs/bio_sarge_thumb.jpg" />
+		<img id="lizzie_thumb1" location="lizzie" src="images/characters/content_thumbs/bio_lizzie_thumb.jpg" />
+		<img id="ramone_thumb1" location="ramone" src="images/characters/content_thumbs/bio_ramone_thumb.jpg" />
+		<img id="flo_thumb1" location="flo" src="images/characters/content_thumbs/bio_flo_thumb.jpg" />
+		<img id="sally_thumb1" location="sally" src="images/characters/content_thumbs/bio_sally_thumb.jpg" />
+		<img id="acer_thumb1" location="acer" src="images/characters/content_thumbs/bio_acer_thumb.jpg" />
+		<img id="grem_thumb1" location="grem" src="images/characters/content_thumbs/bio_grem_thumb.jpg" />
+		<img id="francesco_thumb1" location="francesco" src="images/characters/content_thumbs/bio_francesco_thumb.jpg" />
+		<img id="mama_thumb1" location="mama" src="images/characters/content_thumbs/bio_mama_thumb.jpg" />
+		<img id="uncle_thumb1" location="uncle" src="images/characters/content_thumbs/bio_uncle_thumb.jpg" />
+		<img id="nigel_thumb1" location="nigel" src="images/characters/content_thumbs/bio_nigel_thumb.jpg" />
+		<img id="miles_thumb1" location="miles" src="images/characters/content_thumbs/bio_miles_thumb.jpg" />
+		<img id="rod_thumb1" location="rod" src="images/characters/content_thumbs/bio_rod_thumb.jpg" />
+		<img id="siddeley_thumb1" location="siddeley" src="images/characters/content_thumbs/bio_siddeley_thumb.jpg" />
+		<img id="professor_thumb1" location="professor" src="images/characters/content_thumbs/bio_professor_thumb.jpg" />
+		<img id="tomber_thumb1" location="tomber" src="images/characters/content_thumbs/bio_tomber_thumb.jpg" />
+		<img id="clutchgoneski_thumb1" location="clutchgoneski" src="images/characters/content_thumbs/bio_clutchgoneski_thumb.jpg" />
+		<img id="jeff_thumb1" location="jeff" src="images/characters/content_thumbs/bio_jeff_thumb.jpg" />
+		<img id="darrell_thumb1" location="darrell" src="images/characters/content_thumbs/bio_darrell_thumb.jpg" />
+		<img id="david_thumb1" location="david" src="images/characters/content_thumbs/bio_david_thumb.jpg" />
+		<img id="lewis_thumb1" location="lewis" src="images/characters/content_thumbs/bio_lewis_thumb.jpg" />
+		<img id="max_thumb1" location="max" src="images/characters/content_thumbs/bio_max_thumb.jpg" />
+		<img id="miguel_thumb1" location="miguel" src="images/characters/content_thumbs/bio_miguel_thumb.jpg" />
+		<img id="okuni_thumb1" location="okuni" src="images/characters/content_thumbs/bio_okuni_thumb.jpg" />
+		<img id="kingpin_thumb1" location="kingpin" src="images/characters/content_thumbs/bio_kingpin_thumb.jpg" />
+		<img id="pinion_thumb1" location="pinion" src="images/characters/content_thumbs/bio_pinion_thumb.jpg" />
+		<img id="zen_thumb1" location="zen" src="images/characters/content_thumbs/bio_zen_thumb.jpg" />
+		<img id="queen_thumb1" location="queen" src="images/characters/content_thumbs/bio_queen_thumb.jpg" />
+		<img id="topper_thumb1" location="topper" src="images/characters/content_thumbs/bio_topper_thumb.jpg" />
+		<img id="chauncy_thumb1" location="chauncy" src="images/characters/content_thumbs/bio_chauncy_thumb.jpg" />
+		<img id="highgear_thumb1" location="highgear" src="images/characters/content_thumbs/bio_highgear_thumb.jpg" />
+		<img id="prince_thumb1" location="prince" src="images/characters/content_thumbs/bio_prince_thumb.jpg" />
+		
+		<img id="lightning_thumb2" location="lightning" src="images/characters/content_thumbs/gallery_lightning_thumb.jpg" />
+		<img id="mater_thumb2" location="mater" src="images/characters/content_thumbs/gallery_mater_thumb.jpg" />
+		<img id="carla_thumb2" location="carla" src="images/characters/content_thumbs/gallery_carla_thumb.jpg" />
+		<img id="shu_thumb2" location="shu" src="images/characters/content_thumbs/gallery_shu_thumb.jpg" />
+		<img id="raoul_thumb2" location="raoul" src="images/characters/content_thumbs/gallery_raoul_thumb.jpg" />
+		<img id="finn_thumb2" location="finn" src="images/characters/content_thumbs/gallery_finn_thumb.jpg" />
+		<img id="holley_thumb2" location="holley" src="images/characters/content_thumbs/gallery_holley_thumb.jpg" />
+		<img id="luigi_thumb2" location="luigi" src="images/characters/content_thumbs/gallery_luigi_thumb.jpg" />
+		<img id="guido_thumb2" location="guido" src="images/characters/content_thumbs/gallery_guido_thumb.jpg" />
+		<img id="fillmore_thumb2" location="fillmore" src="images/characters/content_thumbs/gallery_fillmore_thumb.jpg" />
+		<img id="mack_thumb2" location="mack" src="images/characters/content_thumbs/gallery_mack_thumb.jpg" />
+		<img id="finn_thumb2" location="finn" src="images/characters/content_thumbs/gallery_finn_thumb.jpg" />
+		<img id="sheriff_thumb2" location="sheriff" src="images/characters/content_thumbs/gallery_sheriff_thumb.jpg" />
+		<img id="sarge_thumb2" location="sarge" src="images/characters/content_thumbs/gallery_sarge_thumb.jpg" />
+		<img id="lizzie_thumb2" location="lizzie" src="images/characters/content_thumbs/gallery_lizzie_thumb.jpg" />
+		<img id="ramone_thumb2" location="ramone" src="images/characters/content_thumbs/gallery_ramone_thumb.jpg" />
+		<img id="flo_thumb2" location="flo" src="images/characters/content_thumbs/gallery_flo_thumb.jpg" />
+		<img id="sally_thumb2" location="sally" src="images/characters/content_thumbs/gallery_sally_thumb.jpg" />
+		<img id="acer_thumb2" location="acer" src="images/characters/content_thumbs/gallery_acer_thumb.jpg" />
+		<img id="grem_thumb2" location="grem" src="images/characters/content_thumbs/gallery_grem_thumb.jpg" />
+		<img id="francesco_thumb2" location="francesco" src="images/characters/content_thumbs/gallery_francesco_thumb.jpg" />
+		<img id="mama_thumb2" location="mama" src="images/characters/content_thumbs/gallery_mama_thumb.jpg" />
+		<img id="uncle_thumb2" location="uncle" src="images/characters/content_thumbs/gallery_uncle_thumb.jpg" />
+		<img id="nigel_thumb2" location="nigel" src="images/characters/content_thumbs/gallery_nigel_thumb.jpg" />
+		<img id="miles_thumb2" location="miles" src="images/characters/content_thumbs/gallery_miles_thumb.jpg" />
+		<img id="siddeley_thumb2" location="siddeley" src="images/characters/content_thumbs/gallery_siddeley_thumb.jpg" />
+		<img id="rod_thumb2" location="rod" src="images/characters/content_thumbs/gallery_rod_thumb.jpg" />
+		<img id="professor_thumb2" location="professor" src="images/characters/content_thumbs/gallery_professor_thumb.jpg" />
+		<img id="tomber_thumb2" location="tomber" src="images/characters/content_thumbs/gallery_tomber_thumb.jpg" />
+		<img id="clutchgoneski_thumb2" location="clutchgoneski" src="images/characters/content_thumbs/gallery_clutchgoneski_thumb.jpg" />
+		<img id="jeff_thumb2" location="jeff" src="images/characters/content_thumbs/gallery_jeff_thumb.jpg" />
+		<img id="darrell_thumb2" location="darrell" src="images/characters/content_thumbs/gallery_darrell_thumb.jpg" />
+		<img id="david_thumb2" location="david" src="images/characters/content_thumbs/gallery_david_thumb.jpg" />
+		<img id="lewis_thumb2" location="lewis" src="images/characters/content_thumbs/gallery_lewis_thumb.jpg" />
+		<img id="max_thumb2" location="max" src="images/characters/content_thumbs/gallery_max_thumb.jpg" />
+		<img id="miguel_thumb2" location="miguel" src="images/characters/content_thumbs/gallery_miguel_thumb.jpg" />
+		<img id="okuni_thumb2" location="okuni" src="images/characters/content_thumbs/gallery_okuni_thumb.jpg" />
+		<img id="kingpin_thumb2" location="kingpin" src="images/characters/content_thumbs/gallery_kingpin_thumb.jpg" />
+		<img id="pinion_thumb2" location="pinion" src="images/characters/content_thumbs/gallery_pinion_thumb.jpg" />
+		<img id="zen_thumb2" location="zen" src="images/characters/content_thumbs/gallery_zen_thumb.jpg" />
+		<img id="queen_thumb2" location="queen" src="images/characters/content_thumbs/gallery_queen_thumb.jpg" />
+		<img id="topper_thumb2" location="topper" src="images/characters/content_thumbs/gallery_topper_thumb.jpg" />
+		<img id="chauncy_thumb2" location="chauncy" src="images/characters/content_thumbs/gallery_chauncy_thumb.jpg" />
+		<img id="highgear_thumb2" location="highgear" src="images/characters/content_thumbs/gallery_highgear_thumb.jpg" />
+		<img id="prince_thumb2" location="prince" src="images/characters/content_thumbs/gallery_prince_thumb.jpg" />
+		
+		<img id="lizzie_thumb3" location="lizzie" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_lizzie.jpg" />
+		<img id="fillmore_thumb3" location="fillmore" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_fillmore.jpg" />
+		<img id="finn_thumb3" location="finn" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_finn.jpg" />
+		<img id="flo_thumb3" location="flo" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_flo.jpg" />
+		<img id="guido_thumb3" location="guido" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_guido.jpg" />
+		<img id="holley_thumb3" location="holley" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_holley.jpg" />
+		<img id="lightning_thumb3" location="lightning" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_lightning.jpg" />
+		<img id="luigi_thumb3" location="luigi" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_luigi.jpg" />
+		<img id="mack_thumb3" location="mack" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_mack.jpg" />
+		<img id="mater_thumb3" location="mater" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_mater.jpg" />
+		<img id="ramone_thumb3" location="ramone" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_ramone.jpg" />
+		<img id="sally_thumb3" location="sally" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_sally.jpg" />
+		<img id="sarge_thumb3" location="sarge" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_sarge.jpg" />
+		<img id="sheriff_thumb3" location="sheriff" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_sheriff.jpg" />
+		<img id="carla_thumb3" location="carla" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_carla.jpg" />
+		<img id="shu_thumb3" location="shu" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_shu.jpg" />
+		<img id="raoul_thumb3" location="raoul" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_raoul.jpg" />
+		<img id="acer_thumb3" location="acer" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_acer.jpg" />
+		<img id="grem_thumb3" location="grem" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_grem.jpg" />
+		<img id="francesco_thumb3" location="francesco" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_francesco.jpg" />
+		<img id="mama_thumb3" location="mama" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_mama.jpg" />
+		<img id="uncle_thumb3" location="uncle" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_uncle.jpg" />
+		<img id="nigel_thumb3" location="nigel" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_nigel.jpg" />
+		<img id="miles_thumb3" location="miles" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_miles.jpg" />
+		<img id="siddeley_thumb3" location="siddeley" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_siddeley.jpg" />
+		<img id="rod_thumb3" location="rod" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_rod.jpg" />
+		<img id="professor_thumb3" location="professor" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_professor.jpg" />
+		<img id="tomber_thumb3" location="tomber" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_tomber.jpg" />
+		<img id="clutchgoneski_thumb3" location="clutchgoneski" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_clutchgoneski.jpg" />
+		<img id="jeff_thumb3" location="jeff" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_jeff.jpg" />
+		<img id="darrell_thumb3" location="darrell" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_darrell.jpg" />
+		<img id="david_thumb3" location="david" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_david.jpg" />
+		<img id="lewis_thumb3" location="lewis" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_lewis.jpg" />
+		<img id="max_thumb3" location="max" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_max.jpg" />
+		<img id="miguel_thumb3" location="miguel" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_miguel.jpg" />
+		<img id="okuni_thumb3" location="okuni" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_okuni.jpg" />
+		<img id="kingpin_thumb3" location="kingpin" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_kingpin.jpg" />
+		<img id="pinion_thumb3" location="pinion" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_pinion.jpg" />
+		<img id="zen_thumb3" location="zen" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_zen.jpg" />
+		<img id="queen_thumb3" location="queen" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_queen.jpg" />
+		<img id="topper_thumb3" location="topper" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_topper.jpg" />
+		<img id="chauncy_thumb3" location="chauncy" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_chauncy.jpg" />
+		<img id="highgear_thumb3" location="highgear" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_highgear.jpg" />
+		<img id="prince_thumb3" location="prince" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_prince.jpg" />
+
+		
+		
+		<img id="mater_thumb4" location="mater" src="images/characters/content_thumbs/video_mater_thumb.jpg" />
+		<img id="lightning_thumb4" location="lightning" src="images/characters/content_thumbs/video_lightning_thumb.jpg" />
+		<img id="finn_thumb4" location="finn" src="images/characters/content_thumbs/video_finn_thumb.jpg" />
+		<img id="holley_thumb4" location="holley" src="images/characters/content_thumbs/video_holley_thumb.jpg" />
+		<img id="carla_thumb4" location="carla" src="images/characters/content_thumbs/360_carla_thumb.jpg" />
+		<img id="raoul_thumb4" location="raoul" src="images/characters/content_thumbs/360_raoul_thumb.jpg" />
+		<img id="shu_thumb4" location="shu" src="images/characters/content_thumbs/video_shu_thumb.jpg" />
+		<img id="acer_thumb4" location="acer" src="images/characters/content_thumbs/video_acer_thumb.jpg" />
+		<img id="grem_thumb4" location="grem" src="images/characters/content_thumbs/video_grem_thumb.jpg" />
+		<img id="francesco_thumb4" location="francesco" src="images/characters/content_thumbs/video_francesco_thumb.jpg" />
+		<img id="nigel_thumb4" location="nigel" src="images/characters/content_thumbs/360_nigel_thumb.jpg" />
+		<img id="miles_thumb4" location="miles" src="images/characters/content_thumbs/360_miles_thumb.jpg" />
+		<img id="siddeley_thumb4" location="siddeley" src="images/characters/content_thumbs/video_siddeley_thumb.jpg" />
+		<img id="rod_thumb4" location="rod" src="images/characters/content_thumbs/360_rod_thumb.jpg" />
+		<img id="professor_thumb4" location="professor" src="images/characters/content_thumbs/video_professor_thumb.jpg" />
+		<img id="jeff_thumb4" location="jeff" src="images/characters/content_thumbs/360_jeff_thumb.jpg" />
+		<img id="david_thumb4" location="david" src="images/characters/content_thumbs/video_david_thumb.jpg" />
+		<img id="lewis_thumb4" location="lewis" src="images/characters/content_thumbs/360_lewis_thumb.jpg" />
+		<img id="max_thumb4" location="max" src="images/characters/content_thumbs/360_max_thumb.jpg" />
+		<img id="miguel_thumb4" location="miguel" src="images/characters/content_thumbs/360_miguel_thumb.jpg" />
+		<img id="okuni_thumb4" location="okuni" src="images/characters/content_thumbs/video_okuni_thumb.jpg" />
+		<img id="kingpin_thumb4" location="kingpin" src="images/characters/content_thumbs/video_kingpin_thumb.jpg" />
+		<img id="pinion_thumb4" location="pinion" src="images/characters/content_thumbs/video_pinion_thumb.jpg" />
+		<img id="zen_thumb4" location="zen" src="images/characters/content_thumbs/video_pinion_thumb.jpg" />
+		<img id="queen_thumb4" location="queen" src="images/characters/content_thumbs/360_queen_thumb.jpg" />
+		<img id="topper_thumb4" location="topper" src="images/characters/content_thumbs/video_pinion_thumb.jpg" />
+		<img id="chauncy_thumb4" location="chauncy" src="images/characters/content_thumbs/video_pinion_thumb.jpg" />
+		<img id="highgear_thumb4" location="highgear" src="images/characters/content_thumbs/video_pinion_thumb.jpg" />
+		<img id="prince_thumb4" location="prince" src="images/characters/content_thumbs/video_pinion_thumb.jpg" />
+		<img id="fillmore_thumb4" location="fillmore" src="images/characters/content_thumbs/video_fillmore_thumb.jpg" />
+		<img id="sarge_thumb4" location="sarge" src="images/characters/content_thumbs/video_sarge_thumb.jpg" />
+		<img id="mack_thumb4" location="mack" src="images/characters/content_thumbs/video_mack_thumb.jpg" />
+		<img id="sally_thumb4" location="sally" src="images/characters/content_thumbs/video_sally_thumb.jpg" />
+		<img id="ramone_thumb4" location="ramone" src="images/characters/content_thumbs/video_ramone_thumb.jpg" />
+		<img id="flo_thumb4" location="flo" src="images/characters/content_thumbs/video_flo_thumb.jpg" />
+		<img id="sheriff_thumb4" location="sheriff" src="images/characters/content_thumbs/video_sheriff_thumb.jpg" />
+		<img id="lizzie_thumb4" location="lizzie" src="images/characters/content_thumbs/video_lizzie_thumb.jpg" />
+		<img id="darrell_thumb4" location="darrell" src="images/characters/content_thumbs/video_darrell_thumb.jpg" />   
+		<img id="luigi_thumb4" location="luigi" src="images/characters/content_thumbs/video_luigi_thumb.jpg" />   
+		<img id="guido_thumb4" location="guido" src="promos/games/games_thumb_casa_tires.jpg" />   
+		
+		
+		
+		<img id="mater_thumb5" location="mater" src="promos/games/games_mater_memory.jpg" />
+		<img id="lightning_thumb5" location="lightning" src="promos/games/games_WGP.jpg" />
+		<img id="finn_thumb5" location="finn" src="images/characters/content_thumbs/360_finn_thumb.jpg" />
+		<img id="holley_thumb5" location="holley" src="images/characters/content_thumbs/360_holley_thumb.jpg" />
+		<img id="max_thumb5" location="max" src="promos/games/games_WGP.jpg" />
+		<img id="miguel_thumb5" location="miguel" src="promos/games/games_WGP.jpg" />
+		<img id="francesco_thumb5" location="francesco" src="promos/games/games_WGP.jpg" />
+		<img id="carla_thumb5" location="carla" src="promos/games/games_WGP.jpg" />
+		<img id="shu_thumb5" location="shu" src="promos/games/games_WGP.jpg" />
+		<img id="raoul_thumb5" location="raoul" src="promos/games/games_WGP.jpg" />
+		<img id="professor_thumb5" location="professor" src="images/characters/content_thumbs/360_professor_thumb.jpg" />
+		<img id="acer_thumb5" location="acer" src="images/characters/content_thumbs/360_acer_thumb.jpg" />
+		<img id="grem_thumb5" location="grem" src="images/characters/content_thumbs/360_grem_thumb.jpg" />  
+		<img id="luigi_thumb5" location="luigi" src="promos/games/games_thumb_casa_tires.jpg" />   
+		<img id="flo_thumb5" location="flo" src="promos/games/games_thumb_flo.jpg" />
+		<img id="rod_thumb5" location="rod" src="promos/games/games_chrome.jpg" />
+		<img id="siddeley_thumb5" location="siddeley" src="promos/games/games_spy_aerial.jpg" />
+		
+		<img id="mater_thumb6" location="mater" src="promos/games/games_WGP.jpg" />
+		<img id="lightning_thumb6" location="lightning" src="images/characters/content_thumbs/360_lightning_thumb.jpg" />
+		<img id="francesco_thumb6" location="francesco" src="images/characters/content_thumbs/360_francesco_thumb.jpg" />
+		<img id="shu_thumb6" location="shu" src="images/characters/content_thumbs/360_shu_thumb.jpg" />
+		<img id="finn_thumb6" location="finn" src="promos/games/games_chrome.jpg" />
+		<img id="holley_thumb6" location="holley" src="promos/games/games_chrome.jpg" />
+		
+		<img id="finn_thumb7" location="finn" src="promos/games/games_spy_aerial.jpg" />
+		<img id="holley_thumb7" location="holley" src="promos/games/games_spy_aerial.jpg" />
+		<img id="mater_thumb7" location="mater" src="images/characters/content_thumbs/360_mater_thumb.jpg" />    
+		<img id="lightning_thumb7" location="lightning" src="promos/games/games_thumb_drag_race.jpg" /> 
+		
+		<img id="mater_thumb8" location="mater" src="promos/games/games_thumb_mater_rescue.jpg" />  
+		<img id="lightning_thumb8" location="lightning" src="promos/games/games_thumb_mater_rescue.jpg" /> 
+		
+		<img id="lightning_thumb9" location="lightning" src="promos/games/games_thumb_tractor_tipping.jpg" /> 
+		<img id="mater_thumb9" location="mater" src="promos/games/games_chrome.jpg" /> 
+		
+		<img id="lightning_thumb10" location="lightning" src="promos/games/games_thumb_desert_dash.jpg" /> 
+		
+		<!-- character gallery images -->
+		<img id="lightning_gallery1" location="lightning/gallery" thumb="images/galleries/characters/thumbs/cars2_lightning_gallerythumb_01.jpg" src="images/galleries/characters/cars2_lightning_gallery_01.jpg" />
+		<img id="lightning_gallery2" location="lightning/gallery" thumb="images/galleries/characters/thumbs/cars2_mater_lightning_gallerythumb_02.jpg" src="images/galleries/characters/cars2_mater_lightning_gallery_02.jpg" />
+		<img id="lightning_gallery3" location="lightning/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_01.jpg" src="images/galleries/movies/cars_2/cars2_gallery_01.jpg" />
+		<img id="lightning_gallery4" location="lightning/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_03.jpg" src="images/galleries/movies/cars_2/cars2_gallery_03.jpg" />
+		<img id="lightning_gallery5" location="lightning/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_04.jpg" src="images/galleries/movies/cars_2/cars2_gallery_04.jpg" />
+		<img id="lightning_gallery6" location="lightning/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_16.jpg" src="images/galleries/movies/cars_2/cars2_gallery_16.jpg" />
+		<img id="lightning_gallery7" location="lightning/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_19.jpg" src="images/galleries/movies/cars_2/cars2_gallery_19.jpg" />
+		<img id="lightning_gallery8" location="lightning/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_21.jpg" src="images/galleries/movies/cars_2/cars2_gallery_21.jpg" />
+		<img id="lightning_gallery9" location="lightning/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_22.jpg" src="images/galleries/movies/cars_2/cars2_gallery_22.jpg" />
+		<img id="lightning_gallery10" location="lightning/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_23.jpg" src="images/galleries/movies/cars_2/cars2_gallery_23.jpg" />
+		<img id="fillmore_gallery1" location="fillmore/gallery" thumb="images/galleries/characters/thumbs/cars2_fillmore_gallerythumb_01.jpg" src="images/galleries/characters/cars2_fillmore_gallery_01.jpg" />
+		<img id="fillmore_gallery2" location="fillmore/gallery" thumb="images/galleries/characters/thumbs/cars2_pitcrew_gallerythumb_01.jpg" src="images/galleries/characters/cars2_pitcrew_gallery_01.jpg" />
+		<img id="guido_gallery1" location="guido/gallery" thumb="images/galleries/characters/thumbs/cars2_guido_gallerythumb_01.jpg" src="images/galleries/characters/cars2_guido_gallery_01.jpg" />
+		<img id="guido_gallery2" location="guido/gallery" thumb="images/galleries/characters/thumbs/cars2_luigi_guido_gallerythumb_02.jpg" src="images/galleries/characters/cars2_luigi_guido_gallery_02.jpg" />
+		<img id="guido_gallery3" location="guido/gallery" thumb="images/galleries/characters/thumbs/cars2_pitcrew_gallerythumb_01.jpg" src="images/galleries/characters/cars2_pitcrew_gallery_01.jpg" />
+		<img id="luigi_gallery1" location="luigi/gallery" thumb="images/galleries/characters/thumbs/cars2_luigi_gallerythumb_01.jpg" src="images/galleries/characters/cars2_luigi_gallery_01.jpg" />
+		<img id="luigi_gallery2" location="luigi/gallery" thumb="images/galleries/characters/thumbs/cars2_luigi_guido_gallerythumb_02.jpg" src="images/galleries/characters/cars2_luigi_guido_gallery_02.jpg" />
+		<img id="luigi_gallery3" location="luigi/gallery" thumb="images/galleries/characters/thumbs/cars2_pitcrew_gallerythumb_01.jpg" src="images/galleries/characters/cars2_pitcrew_gallery_01.jpg" />
+		<img id="mack_gallery1" location="mack/gallery" thumb="images/galleries/characters/thumbs/cars2_mack_gallerythumb_01.jpg" src="images/galleries/characters/cars2_mack_gallery_01.jpg" />
+		<img id="sarge_gallery1" location="sarge/gallery" thumb="images/galleries/characters/thumbs/cars2_sarge_gallerythumb_01.jpg" src="images/galleries/characters/cars2_sarge_gallery_01.jpg" />
+		<img id="mater_gallery1" location="mater/gallery" thumb="images/galleries/characters/thumbs/cars2_mater_gallerythumb_01.jpg" src="images/galleries/characters/cars2_mater_gallery_01.jpg" />
+		<img id="mater_gallery2" location="mater/gallery" thumb="images/galleries/characters/thumbs/cars2_mater_lightning_gallerythumb_02.jpg" src="images/galleries/characters/cars2_mater_lightning_gallery_02.jpg" />
+		<img id="mater_gallery3" location="mater/gallery" thumb="images/galleries/characters/thumbs/cars2_pitcrew_gallerythumb_01.jpg" src="images/galleries/characters/cars2_pitcrew_gallery_01.jpg" />
+		<img id="mater_gallery4" location="mater/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_01.jpg" src="images/galleries/movies/cars_2/cars2_gallery_01.jpg" />
+		<img id="mater_gallery5" location="mater/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_02.jpg" src="images/galleries/movies/cars_2/cars2_gallery_02.jpg" />
+		<img id="mater_gallery6" location="mater/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_14.jpg" src="images/galleries/movies/cars_2/cars2_gallery_14.jpg" />
+		<img id="mater_gallery7" location="mater/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_16.jpg" src="images/galleries/movies/cars_2/cars2_gallery_16.jpg" />
+		<img id="mater_gallery8" location="mater/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_17.jpg" src="images/galleries/movies/cars_2/cars2_gallery_17.jpg" />
+		<img id="mater_gallery9" location="mater/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_19.jpg" src="images/galleries/movies/cars_2/cars2_gallery_19.jpg" />
+		<img id="mater_gallery10" location="mater/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_22.jpg" src="images/galleries/movies/cars_2/cars2_gallery_22.jpg" />
+		<img id="mater_gallery11" location="mater/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_24.jpg" src="images/galleries/movies/cars_2/cars2_gallery_24.jpg" />
+		<img id="holley_gallery1" location="holley/gallery" thumb="images/galleries/characters/thumbs/cars2_holley_gallerythumb_01.jpg" src="images/galleries/characters/cars2_holley_gallery_01.jpg" />
+		<img id="holley_gallery2" location="holley/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_02.jpg" src="images/galleries/movies/cars_2/cars2_gallery_02.jpg" />
+		<img id="holley_gallery3" location="holley/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_07.jpg" src="images/galleries/movies/cars_2/cars2_gallery_07.jpg" />
+		<img id="holley_gallery4" location="holley/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_24.jpg" src="images/galleries/movies/cars_2/cars2_gallery_24.jpg" />
+		<img id="ramone_gallery1" location="ramone/gallery" thumb="images/galleries/characters/thumbs/cars2_ramone_gallerythumb_01.jpg" src="images/galleries/characters/cars2_ramone_gallery_01.jpg" />
+		<img id="flo_gallery1" location="flo/gallery" thumb="images/galleries/characters/thumbs/cars2_flo_gallerythumb_01.jpg" src="images/galleries/characters/cars2_flo_gallery_01.jpg" />
+		<img id="sally_gallery1" location="sally/gallery" thumb="images/galleries/characters/thumbs/cars2_sally_gallerythumb_01.jpg" src="images/galleries/characters/cars2_sally_gallery_01.jpg" />
+		<img id="lizzie_gallery1" location="lizzie/gallery" thumb="images/galleries/characters/thumbs/cars2_lizzie_gallerythumb_01.jpg" src="images/galleries/characters/cars2_lizzie_gallery_01.jpg" />
+		<img id="finn_gallery1" location="finn/gallery" thumb="images/galleries/characters/thumbs/cars2_finn_gallerythumb_01.jpg" src="images/galleries/characters/cars2_finn_gallery_01.jpg" />
+		<img id="finn_gallery2" location="finn/gallery" thumb="images/galleries/characters/thumbs/cars2_finn_gallerythumb_02.jpg" src="images/galleries/characters/cars2_finn_gallery_02.jpg" />
+		<img id="finn_gallery3" location="finn/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_01.jpg" src="images/galleries/movies/cars_2/cars2_gallery_01.jpg" />
+		<img id="finn_gallery4" location="finn/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_02.jpg" src="images/galleries/movies/cars_2/cars2_gallery_02.jpg" />
+		<img id="finn_gallery5" location="finn/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_08.jpg" src="images/galleries/movies/cars_2/cars2_gallery_08.jpg" />
+		<img id="finn_gallery6" location="finn/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_14.jpg" src="images/galleries/movies/cars_2/cars2_gallery_14.jpg" />
+		<img id="finn_gallery7" location="finn/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_15.jpg" src="images/galleries/movies/cars_2/cars2_gallery_15.jpg" />
+		<img id="finn_gallery8" location="finn/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_18.jpg" src="images/galleries/movies/cars_2/cars2_gallery_18.jpg" />
+		<img id="finn_gallery9" location="finn/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_20.jpg" src="images/galleries/movies/cars_2/cars2_gallery_20.jpg" />
+		<img id="sheriff_gallery1" location="sheriff/gallery" thumb="images/galleries/characters/thumbs/cars2_sheriff_gallerythumb_01.jpg" src="images/galleries/characters/cars2_sheriff_gallery_01.jpg" />
+		<img id="raoul_gallery1" location="raoul/gallery" thumb="images/galleries/characters/thumbs/cars2_raoul_gallerythumb_01.jpg" src="images/galleries/characters/cars2_raoul_gallery_01.jpg" />
+		<img id="carla_gallery1" location="carla/gallery" thumb="images/galleries/characters/thumbs/cars2_carla_gallerythumb_01.jpg" src="images/galleries/characters/cars2_carla_gallery_01.jpg" />
+		<img id="acer_gallery1" location="acer/gallery" thumb="images/galleries/characters/thumbs/cars2_acer_gallerythumb_01.jpg" src="images/galleries/characters/cars2_acer_gallery_01.jpg" />
+		<img id="acer_gallery2" location="acer/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_05.jpg" src="images/galleries/movies/cars_2/cars2_gallery_05.jpg" />
+		<img id="grem_gallery1" location="grem/gallery" thumb="images/galleries/characters/thumbs/cars2_grem_gallerythumb_01.jpg" src="images/galleries/characters/cars2_grem_gallery_01.jpg" />
+		<img id="grem_gallery2" location="grem/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_05.jpg" src="images/galleries/movies/cars_2/cars2_gallery_05.jpg" />
+		<img id="grem_gallery3" location="grem/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_06.jpg" src="images/galleries/movies/cars_2/cars2_gallery_06.jpg" />
+		<img id="shu_gallery1" location="shu/gallery" thumb="images/galleries/characters/thumbs/cars2_shu_gallerythumb_01.jpg" src="images/galleries/characters/cars2_shu_gallery_01.jpg" />
+		<img id="francesco_gallery1" location="francesco/gallery" thumb="images/galleries/characters/thumbs/cars2_francesco_gallerythumb_01.jpg" src="images/galleries/characters/cars2_francesco_gallery_01.jpg" />
+		<img id="francesco_gallery2" location="francesco/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_21.jpg" src="images/galleries/movies/cars_2/cars2_gallery_21.jpg" />
+		<img id="francesco_gallery3" location="francesco/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_23.jpg" src="images/galleries/movies/cars_2/cars2_gallery_23.jpg" />
+		<img id="mama_gallery1" location="mama/gallery" thumb="images/galleries/characters/thumbs/cars2_mama_gallerythumb_01.jpg" src="images/galleries/characters/cars2_mama_gallery_01.jpg" />
+		<img id="uncle_gallery1" location="uncle/gallery" thumb="images/galleries/characters/thumbs/cars2_uncle_gallerythumb_01.jpg" src="images/galleries/characters/cars2_uncle_gallery_01.jpg" />
+		<img id="miles_gallery1" location="miles/gallery" thumb="images/galleries/characters/thumbs/cars2_miles_gallerythumb_01.jpg" src="images/galleries/characters/cars2_miles_gallery_01.jpg" />
+		<img id="nigel_gallery1" location="nigel/gallery" thumb="images/galleries/characters/thumbs/cars2_nigel_gallerythumb_01.jpg" src="images/galleries/characters/cars2_nigel_gallery_01.jpg" />
+		<img id="siddeley_gallery1" location="siddeley/gallery" thumb="images/galleries/characters/thumbs/cars2_siddeley_gallerythumb_01.jpg" src="images/galleries/characters/cars2_siddeley_gallery_01.jpg" />
+		<img id="siddeley_gallery2" location="siddeley/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_13.jpg" src="images/galleries/movies/cars_2/cars2_gallery_13.jpg" />
+		<img id="rod_gallery1" location="rod/gallery" thumb="images/galleries/characters/thumbs/cars2_rod_gallerythumb_01.jpg" src="images/galleries/characters/cars2_rod_gallery_01.jpg" />
+		<img id="professor_gallery1" location="professor/gallery" thumb="images/galleries/characters/thumbs/cars2_professor_gallerythumb_01.jpg" src="images/galleries/characters/cars2_professor_gallery_01.jpg" />
+		<img id="professor_gallery2" location="professor/gallery" thumb="images/galleries/movies/cars_2/thumbs/cars2_gallerythumb_06.jpg" src="images/galleries/movies/cars_2/cars2_gallery_06.jpg" />
+		<img id="tomber_gallery1" location="tomber/gallery" thumb="images/galleries/characters/thumbs/cars2_tomber_gallerythumb_01.jpg" src="images/galleries/characters/cars2_tomber_gallery_01.jpg" />
+		<img id="clutchgoneski_gallery1" location="clutchgoneski/gallery" thumb="images/galleries/characters/thumbs/cars2_clutchgoneski_gallerythumb_01.jpg" src="images/galleries/characters/cars2_clutchgoneski_gallery_01.jpg" />
+		<img id="jeff_gallery1" location="jeff/gallery" thumb="images/galleries/characters/thumbs/cars2_jeff_gallerythumb_01.jpg" src="images/galleries/characters/cars2_jeff_gallery_01.jpg" />
+		<img id="darrell_gallery1" location="darrell/gallery" thumb="images/galleries/characters/thumbs/cars2_darrell_gallerythumb_01.jpg" src="images/galleries/characters/cars2_darrell_gallery_01.jpg" />
+		<img id="lewis_gallery1" location="lewis/gallery" thumb="images/galleries/characters/thumbs/cars2_lewis_gallerythumb_01.jpg" src="images/galleries/characters/cars2_lewis_gallery_01.jpg" />
+		<img id="david_gallery1" location="david/gallery" thumb="images/galleries/characters/thumbs/cars2_david_gallerythumb_01.jpg" src="images/galleries/characters/cars2_david_gallery_01.jpg" />
+		<img id="max_gallery1" location="max/gallery" thumb="images/galleries/characters/thumbs/cars2_max_gallerythumb_01.jpg" src="images/galleries/characters/cars2_max_gallery_01.jpg" />
+		<img id="miguel_gallery1" location="miguel/gallery" thumb="images/galleries/characters/thumbs/cars2_miguel_gallerythumb_01.jpg" src="images/galleries/characters/cars2_miguel_gallery_01.jpg" />
+		<img id="okuni_gallery1" location="okuni/gallery" thumb="images/galleries/characters/thumbs/cars2_okuni_gallerythumb_01.jpg" src="images/galleries/characters/cars2_okuni_gallery_01.jpg" />
+		<img id="kingpin_gallery1" location="kingpin/gallery" thumb="images/galleries/characters/thumbs/cars2_kingpin_gallerythumb_01.jpg" src="images/galleries/characters/cars2_kingpin_gallery_01.jpg" />
+		<img id="pinion_gallery1" location="pinion/gallery" thumb="images/galleries/characters/thumbs/cars2_pinion_gallerythumb_01.jpg" src="images/galleries/characters/cars2_pinion_gallery_01.jpg" />
+		<img id="zen_gallery1" location="zen/gallery" thumb="images/galleries/characters/thumbs/cars2_zen_gallerythumb_01.jpg" src="images/galleries/characters/cars2_zen_gallery_01.jpg" />
+		<img id="queen_gallery1" location="queen/gallery" thumb="images/galleries/characters/thumbs/cars2_queen_gallerythumb_01.jpg" src="images/galleries/characters/cars2_queen_gallery_01.jpg" />
+		<img id="topper_gallery1" location="topper/gallery" thumb="images/galleries/characters/thumbs/cars2_topper_gallerythumb_01.jpg" src="images/galleries/characters/cars2_topper_gallery_01.jpg" />
+		<img id="chauncy_gallery1" location="chauncy/gallery" thumb="images/galleries/characters/thumbs/cars2_chanucy_gallerythumb_01.jpg" src="images/galleries/characters/cars2_chauncy_gallery_01.jpg" />
+		<img id="highgear_gallery1" location="highgear/gallery" thumb="images/galleries/characters/thumbs/cars2_highgear_gallerythumb_01.jpg" src="images/galleries/characters/cars2_highgear_gallery_01.jpg" />
+		<img id="prince_gallery1" location="prince/gallery" thumb="images/galleries/characters/thumbs/cars2_prince_gallerythumb_01.jpg" src="images/galleries/characters/cars2_prince_gallery_01.jpg" />
+		
+		
+		<img id="facebook_icon" location="share_btns" src="images/share_btn_icon_facebook.png" />
+		<img id="twitter_icon" location="share_btns" src="images/share_btn_icon_twitter.png" />
+		<img id="3d_footer" location="main" src="images/cars2_legal_3d_logos.png" />
+		
+	</images>
+	<games>
+		<game id="matermemory">
+			<swfUrl>1_0/swfs/games/mater_game/mater_game.swf</swfUrl>
+			<assetPath></assetPath>
+			<gameConfigUrl>1_0/swfs/games/mater_game/assets/xml/assets.xml</gameConfigUrl>
+			<apiUrl></apiUrl>
+			<apiConfigUrl></apiConfigUrl>
+			<width>402</width>
+			<height>343</height>
+		</game>
+		<game id="worldgrandprix">
+			<swfUrl>http://a.dolimg.com/media/en-US/games/car_2_spl_rac_worldgrandprixraces/car_2_spl_rac_worldgrandprixraces.swf</swfUrl>
+			<assetPath>http://a.dolimg.com/media/en-US/games/car_2_spl_rac_worldgrandprixraces/car_2_spl_rac_worldgrandprixraces.swf</assetPath>
+			<gameConfigUrl>http://home.disney.go.com/dxd/dynamic/item?id=1826323</gameConfigUrl>
+			<!--<gameConfigUrl>1_0/swfs/games/world_grand_prix/1826323.xml</gameConfigUrl>-->
+			<apiUrl>http://a.dolimg.com/media/en-US/dxd/code/minigame_api/MinigameAPI_2_2.swf</apiUrl>
+			<apiConfigUrl>http://a.dolimg.com/media/en-US/dxd/data/minigameAPIConfig.xml</apiConfigUrl>
+			<!--<apiConfigUrl>http://a.dolimg.com/media/en-US/games/car_2_spl_rac_worldgrandprixraces/game_config.xml</apiConfigUrl>-->
+			<width>750</width>
+			<height>500</height>
+		</game>
+		<game id="chrome">
+			<swfUrl>http://a.dolimg.com/media/en-US/games/car_2_spl_arc_chromemissions/car_2_spl_arc_chromemissions.swf</swfUrl>
+			<assetPath>http://a.dolimg.com/media/en-US/games/car_2_spl_arc_chromemissions/car_2_spl_arc_chromemissions.swf</assetPath>
+			<gameConfigUrl>http://home.disney.go.com/dxd/dynamic/item?id=1864912</gameConfigUrl>
+			<apiUrl>http://a.dolimg.com/media/en-US/dxd/code/minigame_api/MinigameAPI_2_2.swf</apiUrl>
+			<apiConfigUrl>http://a.dolimg.com/media/en-US/dxd/data/minigameAPIConfig.xml</apiConfigUrl>
+			<width>750</width>
+			<height>500</height>
+		</game>
+		<game id="spyaerial">
+			<swfUrl>1_0/swfs/games/aerial_game/Aerial.swf</swfUrl>
+			<assetPath>1_0/swfs/games/aerial_game/</assetPath>
+			<gameConfigUrl>1_0/swfs/games/aerial_game/assets/xml/config.xml</gameConfigUrl>
+			<apiUrl></apiUrl>
+			<apiConfigUrl></apiConfigUrl>
+			<width>402</width>
+			<height>343</height>
+		</game>
+		<game id="megaposter">
+			<swfUrl>http://a.dolimg.com/franchise/cars/content/swfs/games/gigapixel/preload.swf</swfUrl>
+			<assetPath></assetPath>
+			<gameConfigUrl></gameConfigUrl>
+			<apiUrl></apiUrl>
+			<apiConfigUrl></apiConfigUrl>
+			<width>600</width>
+			<height>600</height>
+			<locale>en_US</locale>
+		</game>
+		<game id="juggle_game">
+			<swfUrl>http://a.dolimg.com/franchise/cars/content/swfs/games/juggle_game/preload.swf</swfUrl>
+			<assetPath></assetPath>
+			<gameConfigUrl></gameConfigUrl>
+			<apiUrl></apiUrl>
+			<apiConfigUrl></apiConfigUrl>
+			<width>600</width>
+			<height>600</height>
+			<locale>en_GB</locale>
+		</game>
+		<game id="carchinko">
+			<swfUrl>http://a.dolimg.com/franchise/cars/content/swfs/games/carchinko/preload.swf</swfUrl>
+			<assetPath></assetPath>
+			<gameConfigUrl></gameConfigUrl>
+			<apiUrl></apiUrl>
+			<apiConfigUrl></apiConfigUrl>
+			<width>600</width>
+			<height>670</height>
+			<locale>en_GB</locale>
+		</game>
+		<game id="music_maker">
+			<swfUrl>http://a.dolimg.com/franchise/cars/content/swfs/games/music_maker/preload.swf</swfUrl>
+			<assetPath></assetPath>
+			<gameConfigUrl></gameConfigUrl>
+			<apiUrl></apiUrl>
+			<apiConfigUrl></apiConfigUrl>
+			<width>600</width>
+			<height>600</height>
+			<locale>en_GB</locale>
+		</game>
+	</games>
+   
+	
+</data>

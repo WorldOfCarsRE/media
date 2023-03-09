@@ -1,0 +1,29 @@
+<config>
+	<levels start="1">
+		<level>levels/level1.swf</level>
+		<level>levels/level2.swf</level>
+		<level>levels/level3.swf</level>
+		<level>levels/level4.swf</level>
+		<level>levels/level5.swf</level>
+		<level>levels/level6.swf</level>
+		<level>levels/level7.swf</level>
+		<level>levels/level8.swf</level>
+		<level>levels/level9.swf</level>
+		<level>levels/level10.swf</level>
+		<level>levels/level11.swf</level>
+		<level>levels/level12.swf</level>
+		<level>levels/level13.swf</level>
+		<level>levels/level14.swf</level>
+		<level>levels/level15.swf</level>
+		<level>levels/level16.swf</level>
+		<level>levels/level17.swf</level>
+		<level>levels/level18.swf</level>
+		<level>levels/level19.swf</level>
+		<level>levels/level20.swf</level>
+	</levels>
+	<console>console.swf</console>
+	<ship>
+		<image>mater.swf</image>
+		<thruster>thruster.png</thruster>
+	</ship>
+</config>

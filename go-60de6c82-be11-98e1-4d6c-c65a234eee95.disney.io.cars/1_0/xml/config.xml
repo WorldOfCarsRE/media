@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cars_config>
+	<data src="xml/data.xml" />
+	<fbdata src="xml/fbconnect.xml" />
+	<swf id="main" src="swfs/main.swf" />
+	<swf id="splash" src="swfs/splash.swf" xml="xml/splash.xml" />
+	<swf id="videos" src="" xml="xml/videos.xml" />
+	<swf id="characters" src="swfs/character_selector.swf" />
+	<swf id="location_loader" src="swfs/location_loader.swf" />
+	<swf id="promos" src="swfs/promos.swf" />
+	
+	<swf id="games" src="" template="com.disney.cars2.templates.GamesTemplate" xml="xml/games.xml" />
+	<swf id="activities" src="" template="com.disney.cars2.templates.ProductsTemplate" xml="xml/activities.xml" />
+	<swf id="downloads" src="" template="com.disney.cars2.templates.DownloadTemplate" xml="xml/downloads.xml" />
+	<swf id="movies" src="" template="com.disney.cars2.templates.ProductsTemplate" xml="xml/movies.xml" />
+	<swf id="products" src="" template="com.disney.cars2.templates.ProductsTemplate" xml="xml/products.xml" />
+	<swf id="events" src="" template="com.disney.cars2.templates.ProductsTemplate" xml="xml/live_events.xml" />
+	<swf id="parks" src="" template="com.disney.cars2.templates.ProductsTemplate" xml="xml/parks.xml" />
+	<swf id="tickets" src="" template="com.disney.cars2.templates.ProductsTemplate" xml="xml/tickets.xml" />
+	<swf id="sweepstakes" src="" template="com.disney.cars2.templates.ProductsTemplate" xml="xml/sweepstakes.xml" />
+	<swf id="registration" src="" template="com.disney.cars2.reg.RegistrationComponent" />
+	
+	<reg src="xml/DiamondConfig.xml" />
+	<sweeps_post_url><![CDATA[http://disney.promo.eprize.com/cars2/]]></sweeps_post_url> 
+	
+	
+	<!-- sponsorship -->
+	<ad_data>
+		<sponsor id="state-farm">
+			<data page_id="games" src="ads/games.xml"/>
+			<data page_id="activities" src="ads/activities.xml"/>
+			<data page_id="characters" src="ads/characters.xml"/>
+			<data page_id="downloads" src="ads/downloads.xml"/>
+			<data page_id="videos" src="ads/videos.xml"/>
+			<data page_id="products" src="ads/products.xml"/>
+		</sponsor>
+		<sponsor id="target">
+			<data page_id="games" src="ads/games.xml"/>
+			<data page_id="activities" src="ads/activities.xml"/>
+			<data page_id="characters" src="ads/characters.xml"/>
+			<data page_id="downloads" src="ads/downloads.xml"/>
+			<data page_id="videos" src="ads/videos.xml"/>
+			<data page_id="products" src="ads/products.xml"/>
+			<data page_id="sponsor" src="ads/sponsor-target.xml"/>
+		</sponsor>
+	</ad_data>
+	<!-- -->
+	
+	<urls>
+		<url id="characters" val="characters" />
+		<url id="videos" val="videos" />
+		<url id="gallery" val="gallery" />
+		<url id="home" val="home" />
+		<url id="bio" val="bio" />
+		<url id="downloads" val="downloads" />
+		<url id="products" val="products" />
+		<url id="sponsor" val="sponsor" />
+		<url id="games" val="games" />
+		<url id="sweepstakes" val="sweepstakes" />
+		<url id="registration" val="registration" />
+		<url id="tickets" val="tickets" />
+		<url id="music" val="music" />
+		<url id="360" val="360" />
+	</urls>
+	
+	<tracking src="http://disney.go.com/stat/flash/analyticReportingAS3.swf" classname="com.disney.WebAnalytics.WebAnalyticsManager" xml="xml/tracking.xml" />
+	
+	<fonts src="swfs/fonts.swf">
+		<font id="eurostile_oblique" name="EurostileOblique" />
+		<font id="eurostile_bold" name="EurostileBold" />
+		<font id="liberation" name="Liberation" />
+		<font id="myriad_bold_condensed" name="MyriadBoldCondensed" />
+		<font id="myriad_bold" name="MyriadBold" />
+	</fonts>
+</cars_config>

@@ -1,0 +1,100 @@
+/* Common ------------------------------------------------*/
+#frame_footer { /* Red side bars extend beyond footer. This can be integrated to base css. */
+	font-size: 1px;
+	line-height: 1px;
+}
+/* -------------------------------------------------------*/
+
+/* / -----------------------------------------------------*/
+#homepage #dashboard {
+	position: absolute;
+	z-index: 10;
+}
+
+#homepage .dash_left, #homepage .dash_right {
+	z-index: 9;
+}
+/* -------------------------------------------------------*/
+
+/* /community/ -------------------------------------------*/
+#community .community_promo { /* ie6 bug doubles margin on floated block elements. */
+	display: inline; 
+	/*margin-right: 45px;*/
+}
+.community_promo a {
+	margin:0px!important;
+}
+
+#community #poll {
+	padding:40px 0px 6px 0px!important;
+}
+
+#community .read_more { /* ie6 bug doubles margin on floated block elements. */
+	display: inline;
+}
+/* -------------------------------------------------------*/
+
+/* /community/downloads/ ---------------------------------*/
+#downloads .mod, #downloads .mod ul, #downloads .mod li { /* ie6 bug doubles margin on floated block elements. */
+	position: relative;
+
+	display: inline;
+}
+/* -------------------------------------------------------*/
+
+/* /sponsorship/ -----------------------------------------*/
+#sponsorship #page_content { /* ie6 bug doubles margin on floated block elements. */
+	display: inline; 
+}
+/* -------------------------------------------------------*/
+
+
+/* /help/frequently-asked-questions/ ---------------------*/
+#faq .emb_right {
+	right: 5px;
+}
+
+#faq .faq_count {
+	margin-bottom: 0px;
+}
+
+#faq .faq_mod .top_right, #faq .faq_mod .bottom_right {
+	right: -1px !important;
+	background-position: top left;
+}
+
+#faq .faq_nav {
+	display: inline;
+}
+
+#faq .stretch_holder {
+	display: inline;
+}
+
+#faq .stretch_holder .stretch_wrap {
+	padding-bottom: 3px;
+}
+/* -------------------------------------------------------*/
+
+/* /help/contact-us/* ------------------------------------*/
+.form_contact textarea { /* ie6 scrolls background image when text box fills. This can be integrated into base css */
+	background-attachment: fixed;
+}
+/* -------------------------------------------------------*/
+
+/* /help/contact-us/report-a-bug/ ------------------------*/
+#report_a_bug .col_left, #report_a_bug .col_right {
+	position: relative;
+}
+
+#report_a_bug .form_contact #submit_btn {
+	display: inline;
+}
+/* -------------------------------------------------------*/
+
+/* /about_game/ ------------------------------------------*/
+#about_game #sub_content {
+	width: auto; /* width 100% makes sub_content too wide and misplacing page title */
+	clear: none; /* clear both makes child modules not stack horizontally */
+}
+/* -------------------------------------------------------*/

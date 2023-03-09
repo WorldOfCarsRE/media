@@ -1,0 +1,129 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title>Cars Account Management</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	
+	<script src="js/swfobject.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		/* !!!!!!!!!!!!!!!!!! */
+		//var regWidgetURL = "http://disney.go.com/fairies/pixiehollow/registration/";
+		var regWidgetCallback = "goToReg()";
+		var purchaseURL = "https://disney.go.com/fairies/pixiehollow/purchase/";
+		var widgetURL = "http://disney.go.com/fairies/pixiehollow/accountmanagement.html";
+		var cancelCompleteOkURL = "http://pixiehollow.go.com/membershiphub.html";
+		var playURL = "http://pixiehollow.go.com/live.html";
+		var cancelCompleteOkURL = "http://pixiehollow.go.com/membershiphub.html";
+		/* !!!!!!!!!!!!!!!!!! */
+		
+		var promotionName = "World_Of_Cars_Online_Virtual_World";
+		var dontModifyCloseButton = true;
+		var locale = "en_US";
+		var regConfig = "registration.xml";
+		var parentGuide = "http://home.disney.go.com/guestservices/parentsguide";
+		var statesURL = "states.xml";
+		var countriesURL = "countries.xml";
+		var loadingAnimationURL = "http://carsdev.online.disney.com/assets/flash/gui/loader/car_f_gui_ldr_loader.swf";
+		var skinPath = "car_f_gui_reg_accountManager.swf";
+		var login = "http://apps.dxd.go.com/dxd/flashAPI/login";
+		var gameLogin = "http://carsdev.online.disney.com:6322/carsds/api/AccountLoginRequest";
+		var logout = "http://carsdev.online.disney.com:6322/carsds/api/AccountLogoutRequest";
+		var parentGuide = "http://home.disney.go.com/guestservices/parentsguide";
+		var stringtable = "stringtables/" + locale + "/global.json";
+		var trackingManagerConfig = "tracker.xml";
+		var forgotIDURL = "https://register.go.com/global/cars/recoverMemberNames?affiliateName=Disney_Cars&appRedirect=http%3A%2F%2Fworldofcars.go.com";
+		var forgotPasswordURL = "https://register.go.com/global/cars/recoverPassword?affiliateName=Disney_Cars&appRedirect=http%3A%2F%2Fworldofcars.go.com";
+		var membershipCardURL = purchaseURL + "?forcePaymentChoice=GameCard";
+		var IPDetectPath = "http://tredir.go.com/capmon/GetDE";
+		
+		var flashvars = {};
+		
+		flashvars["regConfig"] = regConfig;
+		flashvars["parentGuide"] = parentGuide;
+		flashvars["statesURL"] = statesURL;
+		flashvars["countriesURL"] = countriesURL;
+		flashvars["loadingAnimationURL"] = loadingAnimationURL;
+		flashvars["locale"] = locale;
+		flashvars["skinPath"] = skinPath;
+		flashvars["login"] = login;
+		flashvars["gameLogin"] = gameLogin;
+		flashvars["logout"] = logout;
+		flashvars["parentGuide"] = parentGuide;
+		flashvars["purchaseURL"] = purchaseURL;
+		flashvars["stringtable"] = stringtable;
+		flashvars["trackingManagerConfig"] = trackingManagerConfig;
+		flashvars["widgetURL"] = widgetURL;
+		flashvars["forgotIDURL"] = forgotIDURL;
+		flashvars["forgotPasswordURL"] = forgotPasswordURL;
+		//flashvars["regWidgetURL"] = regWidgetURL;
+		flashvars["regWidgetCallback"] = regWidgetCallback;
+		flashvars["playURL"] = playURL;
+		flashvars["cancelCompleteOkURL"] = cancelCompleteOkURL;
+		flashvars["membershipCardURL"] = membershipCardURL;
+		//flashvars["height"] = 580;
+		//flashvars["width"] = 717;
+		flashvars["widthUsedByLoginDialog"] = 870;
+		flashvars["heightUsedByLoginDialog"] = 580;
+		flashvars["IPDetectPath"] = IPDetectPath;
+		flashvars["dontModifyCloseButton"] = dontModifyCloseButton;
+		flashvars["promotionName"] = promotionName;
+		
+		//add URL params
+		var questionMark = window.location.href.indexOf("?");
+		if (questionMark > 0)
+		{
+			var paramsStr = window.location.href.substr(questionMark+1);
+			var params = paramsStr.split("&");
+			var aParam;
+			for (i=0; i<params.length; i++)
+			{
+				aParam = params[i].split("=");
+				flashvars[aParam[0]] = aParam[1];
+			}
+		}
+								
+		var params = {
+			menu: "false",
+			scale: "noScale",
+			allowFullscreen: "true",
+			allowScriptAccess: "always",
+			bgcolor: "#FFFFFF"
+		};
+		
+		var attributes = {
+			id:"CarsAcctMgmt"
+		};
+		
+		swfobject.embedSWF("DVC_OS.swf", "altContent", "100%", "100%", "9.0.0", "", flashvars, params, attributes);
+		
+		function exitMod(){
+			window.location.href="https://disney.go.com/fairies/pixiehollow/purchase/";
+		}
+		
+		function goToReg(){
+			window.location=exitMod();//"https://disney.go.com/fairies/pixiehollow/registration/";
+		}
+		
+		function purchaseComplete(){
+			window.location.href="http://pixiehollow.go.com/membershipcongrats.html";
+		}
+	</script>
+	
+	<style>
+		html, body { height:100%; }
+		body { margin:0; }
+	</style>
+</head>
+<body>
+	<div id="altContent">
+		<h1>Cars_Purchasing</h1>
+		<p>Alternative content</p>
+		<p><a href="http://www.adobe.com/go/getflashplayer"><img
+			src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif"
+			alt="Get Adobe Flash player" /></a></p>
+	</div>
+</body>
+</html>

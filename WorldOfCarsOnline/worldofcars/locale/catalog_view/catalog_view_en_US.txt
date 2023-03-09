@@ -1,0 +1,23 @@
+Try on
+Buy Now
+Price: ${price} points
+LOCKED
+unlocked
+OWNED
+Do you want to add this item to your car now?
+Congrats!
+Yes
+No
+That item does not exist.
+Sorry. You do not have enough points to purchase that item.
+Sorry. You already own that item.
+Sorry that item is locked.
+Error
+View Item
+Remove All
+${numOfPoints} Points
+1 Point
+STATUS
+PRICE
+MY POINTS
+Back to Garage

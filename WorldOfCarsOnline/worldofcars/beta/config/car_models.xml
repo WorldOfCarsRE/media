@@ -1,0 +1,5 @@
+<chassisTypes>
+	<chassisType id="1" url="assets/rig/character/avatar/car_r_chr_avt_sports.smod" />
+	<chassisType id="2" url="assets/rig/character/avatar/car_r_chr_avt_stock.smod" />
+	<chassisType id="3" url="assets/rig/character/avatar/car_r_chr_avt_mini.smod" />
+</chassisTypes>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fbdata>
+    <settings>
+		<url><![CDATA[http://disney.go.com/cars/]]></url>
+		<picture>http://disney.go.com/cars/1_0/promos/main_nav/cars2_logo.png</picture>
+		<caption>The latest Cars 2 movie clips, character biographies, games, photos, toys and downloads from the Disney/Pixar movie Cars 2. Also find Cars Toons, Cars on Blu-Ray, DVD and Movie Download. <!--Star racecar Lightning McQueen (voice of Owen Wilson) and the incomparable tow truck Mater (voice of Larry the Cable Guy) take their friendship to exciting new places in "Cars 2" when they head overseas to compete in the first-ever World Grand Prix to determine the world's fastest car.  But the road to the championship is filled with plenty of potholes, detours and hilarious surprises when Mater gets caught up in an intriguing adventure of his own: international espionage.  Torn between assisting Lightning McQueen in the high-profile race and towing the line in a top-secret spy mission, Mater's action-packed journey leads him on an explosive chase through the streets of Japan and Europe, trailed by his friends and watched by the whole world.  Adding to the fast-paced fun is a colorful new all-car cast that includes secret agents, menacing villains and international racing competitors.--></caption>
+		<default_link>index.html</default_link>
+    </settings>
+
+	<pages>
+		<page id="characters" link="characters.html" />
+		<page id="characters/mater" link="mater.html" />
+		<page id="characters/lightning" link="lightning.html" /> 
+		<page id="characters/finn" link="finn.html" /> 
+		<page id="characters/holley" link="holley.html" /> 
+		<page id="characters/queen" link="queen.html" />
+		<page id="characters/highgear" link="highgear.html" />
+		<page id="characters/chauncy" link="chauncy.html" /> 
+		<page id="characters/topper" link="topper.html" />   
+		<page id="characters/okuni" link="okuni.html" />
+		<page id="characters/kingpin" link="kingpin.html" />  
+		<page id="characters/pinion" link="pinion.html" /> 
+		<page id="characters/zen" link="zen.html" /> 
+		<page id="characters/max" link="max.html" /> 
+		<page id="characters/miguel" link="miguel.html" /> 
+		<page id="characters/david" link="david.html" /> 
+		<page id="characters/lewis" link="lewis.html" /> 
+		<page id="characters/jeff" link="jeff.html" />  
+		<page id="characters/clutchgoneski" link="clutchgoneski.html" />
+		<page id="characters/darrell" link="darrell.html" />  		
+		<page id="characters/professor" link="professor.html" />
+		<page id="characters/tomber" link="tomber.html" />
+		<page id="characters/rod" link="rod.html" />
+		<page id="characters/nigel" link="nigel.html" />
+		<page id="characters/miles" link="miles.html" />
+		<page id="characters/francesco" link="francesco.html" />
+		<page id="characters/mama" link="mama.html" />
+		<page id="characters/uncle" link="uncle.html" />
+		<page id="characters/acer" link="acer.html" />
+		<page id="characters/grem" link="grem.html" />
+		<page id="characters/carla" link="carla.html" />
+		<page id="characters/shu" link="shu.html" />
+		<page id="characters/raoul" link="raoul.html" />
+		<page id="characters/siddeley" link="siddeley.html" />
+		<page id="characters/luigi" link="luigi.html" />
+		<page id="characters/guido" link="guido.html" />
+		<page id="characters/sarge" link="sarge.html" />
+		<page id="characters/fillmore" link="fillmore.html" />
+		<page id="characters/mack" link="mack.html" />
+		<page id="characters/sally" link="sally.html" />
+		<page id="characters/sheriff" link="sheriff.html" />
+		<page id="characters/lizzie" link="lizzie.html" />
+		<page id="characters/flo" link="flo.html" />
+		<page id="characters/ramone" link="ramone.html" />
+		  
+		<page id="activities" link="activities.html" /> 
+		<page id="downloads" link="downloads.html" /> 
+		<page id="events" link="events.html" /> 
+		<page id="games" link="games.html" />    
+		 
+		<page id="movies" link="movies.html" /> 
+		<page id="movies/cars" link="movies-cars.html" />
+		<page id="movies/cars2" link="movies-cars2.html" /> 
+		<page id="movies/cars_toons" link="movies-cars_toons.html" />     
+		
+		<page id="parks" link="parks.html" /> 
+		<page id="parks/disneyland" link="parks-disneyland.html" /> 
+		<page id="parks/disney-world" link="parks-disney-world.html" /> 
+		
+		<page id="products" link="products.html" />  
+		<page id="products/shopping" link="products-shopping.html" />  
+		<page id="products/homevideos" link="products-homevideos.html" />  
+		<page id="products/videogames" link="products-videogames.html" />  
+		<page id="products/music" link="products-music.html" />
+		  
+		<page id="sweepstakes" link="sweepstakes.html" />
+		<page id="sweepstakes/rules" link="sweepstakes-rules.html" />
+		<page id="sweepstakes/prizes" link="sweepstakes-prizes.html" />
+		<page id="sweepstakes/briefing" link="sweepstakes-briefing.html" /> 
+		<page id="sweepstakes/statefarm" link="sweepstakes-statefarm.html" />
+		
+		<page id="videos" link="videos.html" />  
+		
+		
+		
+	</pages>
+</fbdata>

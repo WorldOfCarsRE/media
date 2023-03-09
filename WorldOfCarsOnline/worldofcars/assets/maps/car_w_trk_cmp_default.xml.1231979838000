@@ -1,0 +1,31 @@
+<map width="10" height="20">
+  <assets>
+    <asset id="151"/>
+  </assets>
+  <layers>
+    <layer name="ground" tileWidth="200" tileHeight="100">
+      <tile asset="151" x="0" y="0" flags=""/>
+      <tile asset="151" x="1" y="0" flags=""/>
+      <tile asset="151" x="2" y="0" flags=""/>
+      <tile asset="151" x="3" y="0" flags=""/>
+      <tile asset="151" x="4" y="0" flags=""/>
+      <tile asset="151" x="5" y="0" flags=""/>
+      <tile asset="151" x="6" y="0" flags=""/>
+      <tile asset="151" x="7" y="0" flags=""/>
+      <tile asset="151" x="8" y="0" flags=""/>
+      <tile asset="151" x="9" y="0" flags=""/>
+      <tile asset="151" x="0" y="1" flags=""/>
+      <tile asset="151" x="1" y="1" flags=""/>
+      <tile asset="151" x="2" y="1" flags=""/>
+      <tile asset="151" x="3" y="1" flags=""/>
+      <tile asset="151" x="4" y="1" flags=""/>
+      <tile asset="151" x="5" y="1" flags=""/>
+      <tile asset="151" x="6" y="1" flags=""/>
+      <tile asset="151" x="7" y="1" flags=""/>
+      <tile asset="151" x="8" y="1" flags=""/>
+      <tile asset="151" x="9" y="1" flags=""/>
+    </layer>
+    <layer name="road" tileWidth="200" tileHeight="100"/>
+    <layer name="object" tileWidth="50" tileHeight="25"/>
+  </layers>
+</map>

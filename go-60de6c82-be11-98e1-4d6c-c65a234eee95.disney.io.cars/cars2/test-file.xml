@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cars2>
+	<videos>
+		<logoPath>flv/cars2Logo.flv</logoPath>
+	</videos>
+	<links>
+		<site>http://disney.go.com/cars/index-cars.html</site>>
+		<facebook>http://www.facebook.com/PixarCars</facebook>>
+		<twitter>http://twitter.com/disneypixar</twitter>
+		<youtube>http://www.youtube.com/disneypixar</youtube>
+	</links>
+	<gallery>
+		<image>assets/gallery/cars2_image1.jpg</image>
+		<image>assets/gallery/cars2_image2.jpg</image>
+		<image>assets/gallery/cars2_image3.jpg</image>
+		<image>assets/gallery/cars2_image4.jpg</image>
+	</gallery>
+	<synopsis>
+		<main></main>
+	</synopsis>
+</cars2>

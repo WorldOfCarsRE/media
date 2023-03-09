@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<speedchat>
+	<tier name="Hello">
+		<entry>Hello!</entry>
+		<entry>Hello?</entry>
+		<entry>Hey</entry>
+		<entry>Hi everybody</entry>
+		<entry>How are you doing?</entry>
+		<entry>What's up?</entry>
+		<entry>I only have a few minutes</entry>
+		<entry>Let's be Friends!</entry>
+	</tier>	
+	
+	<tier name="Goodbye">
+		<entry>Goodbye!</entry>
+		<entry>Gotta go</entry>
+		<entry>See you later!</entry>
+		<entry>I'll be right back!</entry>
+		<entry>Have fun!</entry>
+		<entry>Keep coolant!</entry>
+		<entry>Gears lookin' at you!</entry>
+	</tier>
+	
+	<tier name="Questions">
+		<tier name="Have you seen">
+			<entry>Have you seen Lightning?</entry>
+			<entry>Have you seen Mater?</entry>
+			<entry>Have you seen Sally?</entry>
+			<entry>Have you seen Fillmore?</entry>
+			<entry>Have you seen Ramone?</entry>
+			<entry>Have you seen Flo?</entry>
+			<entry>Have you seen Luigi?</entry>
+			<entry>Have you seen Guido?</entry>
+			<entry>Have you seen Doc?</entry>
+			<entry>Have you seen Lizzie?</entry>
+			<entry>Have you seen Sarge?</entry>
+			<entry>Have you seen Red?</entry>
+			<entry>Have you seen Sheriff?</entry>
+			<entry>Have you seen Snot Rod?</entry>
+			<entry>Have you seen DJ?</entry>
+			<entry>Have you seen Wingo?</entry>
+			<entry>Have you seen Boost?</entry>
+		</tier>
+		<entry>Who's your favorite Car?</entry>
+		<entry>Do you need help?</entry>
+		<entry>Can I help you?</entry>
+	</tier>	
+	
+	<tier name="Answers">	
+		<entry>Yes</entry>
+		<entry>No</entry>
+		<entry>I don't know</entry>
+		<entry>Ok</entry>
+		<entry>Not much</entry>
+		<entry>Just cruisin'</entry>
+		<entry>I already did that</entry>
+		<entry>Thanks</entry>
+		<entry>Follow me</entry>
+		<entry>Sorry!</entry>
+		<tier name="Cars">
+			<entry>Lightning</entry>
+			<entry>Mater</entry>
+			<entry>Sally</entry>
+			<entry>Fillmore</entry>
+			<entry>Ramone</entry>
+			<entry>Flo</entry>
+			<entry>Luigi</entry>
+			<entry>Guido</entry>
+			<entry>Doc</entry>
+			<entry>Lizzie</entry>
+			<entry>Sarge</entry>
+			<entry>Red</entry>
+			<entry>Sheriff</entry>
+			<entry>Snot Rod</entry>
+			<entry>DJ</entry>
+			<entry>Wingo</entry>
+			<entry>Boost</entry>
+		</tier>
+	</tier>
+	
+	<tier name="I Like...">
+		<entry>I like your custom frame!</entry>
+		<entry>I like your paint!</entry>
+		<entry>I like your pin-striping!</entry>
+		<entry>I like your wheels!</entry>
+		<entry>I like your spoilers!</entry>
+		<entry>I like your decals!</entry>
+		<entry>I like your hood ornaments!</entry>
+		<entry>I like your Sponsor!</entry>
+	</tier>
+	
+	<tier name="Fun">
+		<entry>Ha Ha!</entry>
+		<entry>Awesome!</entry>
+		<entry>Whee!</entry>
+		<entry>Yay!</entry>
+		<entry>This is fun!</entry>
+		<entry>That's cool!</entry>
+		<entry>You're fast!</entry>
+		<entry>Good moves!</entry>
+		<entry>Gear-tastic!</entry>
+		<entry>Here I go!</entry>
+		<entry>You look funny!</entry>
+		<entry>Liar, liar, tires on fire!</entry>
+		<entry>Road hog!</entry>
+		<entry>Outta the way!</entry>
+		<entry>Stop!</entry>
+		<entry>That really grinds my gears!</entry>
+		<entry>Leave me alone</entry>
+		<entry>I don't like that</entry>
+		<entry>Don't let Sheriff see you do that!</entry>
+		<entry>Don't get your pistons in a twist!</entry>
+	</tier>
+	
+	<tier name="Play">
+		<entry>Let's do Fizzy Fuels!</entry>
+		<entry>Let's go Tractor Tipping!</entry>
+		<entry>Let's hang out at the Cozy Cone!</entry>
+		<entry>Let's hang out at Flo's V8 Cafe!</entry>
+		<entry>Let's jump in the geysers!</entry>
+		<entry>Let's spin in the dust devils!</entry>
+		<entry>Let's slide in the mud pit!</entry>
+		<entry>Let's race through the hay maze!</entry>
+		<entry>Let's go tease Frank!</entry>
+		<entry>Let's do donuts!</entry>
+		<entry>Let's play hide and seek!</entry>
+		<entry>I'll count to ten and you hide.</entry>
+		<entry>Let's play tag. You're IT!</entry>
+		<entry>Let's be the same color</entry>
+		<entry>Everybody honk!</entry>
+	</tier>
+	
+	<tier name="Racing">
+		<tier name="Let's go race at">
+			<entry>Let's go race at Carburetor County Speedway</entry>
+			<entry>Let's go race at Fillmore's Fields Rally</entry>
+			<entry>Let's go race at Willys Butte Rally</entry>
+		</tier>
+		<tier name="Wait for me at">
+			<entry>Wait for me at Carburetor County Speedway</entry>
+			<entry>Wait for me at Fillmore's Fields Rally</entry>
+			<entry>Wait for me at Willys Butte Rally</entry>
+		</tier>
+		<tier name="I got 1st place on">
+			<entry>I got 1st place on Carburetor County Speedway</entry>
+			<entry>I got 1st place on Fillmore's Fields Rally</entry>
+			<entry>I got 1st place on Willys Butte Rally</entry>
+		</tier>
+		<tier name="I got 2nd place on">
+			<entry>I got 2nd place on Carburetor County Speedway</entry>
+			<entry>I got 2nd place on Fillmore's Fields Rally</entry>
+			<entry>I got 2nd place on Willys Butte Rally</entry>
+		</tier>
+		<tier name="Tips">
+			<entry>Use boosts to speed up!</entry>
+			<entry>Use hazards to slow down other racers</entry>
+			<entry>Slow down on the turns</entry>
+			<entry>Speed up on the straightaway</entry>
+			<entry>I got stuck!</entry>
+			<entry>I missed the turn!</entry>
+			<entry>I missed the shortcut!</entry>
+		</tier>
+		<entry>Let's race!</entry>
+		<entry>Let's race again!</entry>
+		<entry>I got first place!</entry>
+		<entry>I got second place!</entry>
+		<entry>I got third place</entry>
+		<entry>I got fourth place</entry>
+		<entry>Good race!</entry>
+		<entry>You slipped on my oil slick!</entry>
+		<entry>You got lost in my smoke screen!</entry>
+		<entry>You bounced on my hay bale!</entry>
+		<entry>I passed you with my boost!</entry>
+		<entry>I got a photo finish!</entry>
+	</tier>
+	
+	<tier name="Quests">
+		<tier name="I can't find">
+			<entry>I can't find the Blue Cactus Flower</entry>
+			<entry>I can't find Carburetor County Racetrack</entry>
+			<entry>I can't find a Rusty Drum</entry>
+			<entry>I can't find an Oil Can</entry>
+			<entry>I can't find a Broken Fan</entry>
+			<entry>I can't find Tailgator Speedway</entry>
+		</tier>
+		<tier name="I'm doing">
+			<entry>I'm doing Fillmore's Blue Cactus Flower Mystery</entry>
+			<entry>I'm doing Lightning's Hit the Road Challenge</entry>
+			<entry>I'm doing Mater's Lookin' for Junk</entry>
+		</tier>
+	</tier>
+	
+	<tier name="Collecting">
+		<entry>Help me find a Blue Cactus Flower</entry>
+		<entry>Help me find an Orange Cactus Flower</entry>
+		<entry>Help me find a Pink Cactus Flower</entry>
+		<entry>Help me find a Golden Cactus Flower</entry>
+		<entry>Help me find Corn</entry>
+		<entry>Help me find a Busted Spring</entry>
+		<entry>Help me find an Oil Can</entry>
+		<entry>Help me find an Old Road Cone</entry>
+		<entry>Help me find a Rusty Drum</entry>
+		<entry>Help me find a Broken Fan</entry>
+	</tier>
+
+	<tier name="Shopping">
+		<tier name="Where do you get">
+			<entry>Where do you get Fizzy Fuels?</entry>
+			<entry>Where do you get Hazards?</entry>
+			<entry>Where do you get Boosts?</entry>
+			<entry>Where do you get custom body work?</entry>
+			<entry>Where do you get paint?</entry>
+			<entry>Where do you get pin-striping?</entry>
+			<entry>Where do you get tires?</entry>
+			<entry>Where do you get rims?</entry>
+			<entry>Where do you get spoilers?</entry>
+			<entry>Where do you get decals?</entry>
+			<entry>Where do you get hood ornaments?</entry>
+		</tier>
+		<tier name="Let's go get">
+			<entry>Let's go get Fizzy Fuels at Fillmore's</entry>
+			<entry>Let's go get Hazards at Sarge's Surplus Hut</entry>
+			<entry>Let's go get Boosts at Lightning's Pro-Race Shop</entry>
+		</tier>
+	</tier>
+	
+	<tier name="Sponsors">
+		<entry>Who's your Sponsor?</entry>
+		<entry>My Sponsor is Sputter Stop</entry>
+		<entry>My Sponsor is Shiny Wax</entry>
+		<entry>My Sponsor is Spare Mint</entry>
+		<entry>My Sponsor is Trunk Fresh</entry>
+		<entry>My Sponsor is Leak Less</entry>
+		<entry>My Sponsor is Lil' Torquey Pistons</entry>
+		<entry>My Sponsor is Gask-its</entry>
+	</tier>
+	
+	<tier name="Home">
+		<entry>Check out my Home!</entry>
+		<entry>Come to my Home</entry>
+		<entry>Click on my Profile to get to my Home.</entry>
+		<entry>I'm coming to your Home</entry>
+	</tier>
+	
+	<tier name="Places">
+		<tier name="Let's go to">
+			<entry>Let's go to Carburetor County Speedway</entry>
+			<entry>Let's go to Fillmore's Fields Rally</entry>
+			<entry>Let's go to Willys Butte Rally</entry>
+			<entry>Let's go to Tailgator Speedway</entry>
+			<entry>Let's go to Downtown Radiator Springs</entry>
+			<entry>Let's go to Fillmore's Fields</entry>
+			<entry>Let's go to Willys Butte</entry>
+			<entry>Let's go to Lightning McQueen's Racing Headquarters</entry>
+			<entry>Let's go to Lightning McQueen's Pro-Race Shop</entry>
+			<entry>Let's go to Mater's Junk Yard</entry>
+			<entry>Let's go to Fillmore's Organic Fuels</entry>
+			<entry>Let's go to The Cozy Cone Motel</entry>
+			<entry>Let's go to Sarge's Surplus Hut</entry>
+			<entry>Let's go to Flo's V8 Cafe</entry>
+			<entry>Let's go to Ramone's House of Body Art</entry>
+			<entry>Let's go to Doc's Clinic</entry>
+			<entry>Let's go to Luigi's Casa Della Tires</entry>
+			<entry>Let's go to The Great Outdoors Store</entry>
+			<entry>Let's go to The Courthouse</entry>
+		</tier>
+		<entry>Downtown Radiator Springs</entry>
+		<entry>Fillmore's Fields</entry>
+		<entry>Willys Butte</entry>
+		<entry>Lightning McQueen's Racing Headquarters</entry>
+		<entry>Lightning McQueen's Pro-Race Shop</entry>
+		<entry>Mater's Junk Yard</entry>
+		<entry>Fillmore's Organic Fuels</entry>
+		<entry>The Cozy Cone Motel</entry>
+		<entry>Sarge's Surplus Hut</entry>
+		<entry>Flo's V8 Cafe</entry>
+		<entry>Ramone's House of Body Art</entry>
+		<entry>Doc's Clinic</entry>
+		<entry>Luigi's Casa Della Tires</entry>
+		<entry>Great Outdoors Store</entry>
+		<entry>The Courthouse</entry>
+	</tier>
+	
+	<tier name="Directions">
+			<entry>Where are you going?</entry>
+			<entry>Use your map</entry>
+			<entry>Wait here</entry>
+			<entry>Meet here</entry>
+			<entry>Over here</entry>
+			<entry>This way</entry>
+			<entry>Turn left</entry>
+			<entry>Turn right</entry>
+			<entry>Drive to me</entry>
+			<entry>Let's drive!</entry>
+			<entry>Let's wait for my friend</entry>
+	</tier>
+	
+	<tier name="Help">
+		<entry>Do you need help?</entry>
+		<entry>Can I help you?</entry>
+		<entry>Use your map</entry>
+		<entry>Look on the dashboard</entry>
+		<entry>I can only see SpeedChat</entry>
+		<entry>Please use SpeedChat</entry>
+		<entry>You should report that problem</entry>
+		<entry>Check out Tips and Tricks on the website</entry>
+	</tier>
+	
+
+</speedchat>

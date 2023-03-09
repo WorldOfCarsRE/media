@@ -1,0 +1,113 @@
+<area xOffset="0" yOffset="0" width="5" height="10" defaultTile="ground_tile">
+  <assets>
+    <asset id="320"/>
+    <asset id="290"/>
+    <asset id="291"/>
+    <asset id="292"/>
+    <asset id="263"/>
+    <asset id="328"/>
+    <asset id="73"/>
+    <asset id="330"/>
+    <asset id="75"/>
+    <asset id="329"/>
+    <asset id="74"/>
+    <asset id="312"/>
+    <asset id="319"/>
+  </assets>
+  <layers>
+    <layer name="ground" sort="false" type="diamond" tileWidth="200" tileHeight="100" maxTileLayers="4">
+      <tile asset="290,,," x="0" y="0" flags=""/>
+      <tile asset="320,,," x="0" y="1" flags=""/>
+      <tile asset="320,,," x="0" y="2" flags=""/>
+      <tile asset="290,,," x="0" y="3" flags=""/>
+      <tile asset="263,,," x="0" y="4" flags=""/>
+      <tile asset="328,,," x="0" y="5" flags=""/>
+      <tile asset="320,,," x="0" y="6" flags=""/>
+      <tile asset="292,,," x="0" y="7" flags=""/>
+      <tile asset="319,,," x="0" y="8" flags=""/>
+      <tile asset="263,,," x="0" y="9" flags=""/>
+      <tile asset="330,,," x="1" y="0" flags=""/>
+      <tile asset="263,,," x="1" y="1" flags=""/>
+      <tile asset="319,,," x="1" y="2" flags=""/>
+      <tile asset="290,,," x="1" y="3" flags=""/>
+      <tile asset="328,,," x="1" y="4" flags=""/>
+      <tile asset="329,,," x="1" y="5" flags=""/>
+      <tile asset="291,,," x="1" y="6" flags=""/>
+      <tile asset="263,,," x="1" y="7" flags=""/>
+      <tile asset="292,,," x="1" y="8" flags=""/>
+      <tile asset="330,,," x="1" y="9" flags=""/>
+      <tile asset="263,,," x="2" y="0" flags=""/>
+      <tile asset="320,,," x="2" y="1" flags=""/>
+      <tile asset="291,,," x="2" y="2" flags=""/>
+      <tile asset="320,,," x="2" y="3" flags=""/>
+      <tile asset="328,,," x="2" y="4" flags=""/>
+      <tile asset="290,,," x="2" y="5" flags=""/>
+      <tile asset="330,,," x="2" y="6" flags=""/>
+      <tile asset="329,,," x="2" y="7" flags=""/>
+      <tile asset="319,,," x="2" y="8" flags=""/>
+      <tile asset="320,,," x="2" y="9" flags=""/>
+      <tile asset="320,,," x="3" y="0" flags=""/>
+      <tile asset="328,,," x="3" y="1" flags=""/>
+      <tile asset="290,,," x="3" y="2" flags=""/>
+      <tile asset="319,,," x="3" y="3" flags=""/>
+      <tile asset="330,,," x="3" y="4" flags=""/>
+      <tile asset="263,,," x="3" y="5" flags=""/>
+      <tile asset="290,,," x="3" y="6" flags=""/>
+      <tile asset="320,,," x="3" y="7" flags=""/>
+      <tile asset="291,,," x="3" y="8" flags=""/>
+      <tile asset="291,,," x="3" y="9" flags=""/>
+      <tile asset="329,,," x="4" y="0" flags=""/>
+      <tile asset="291,,," x="4" y="1" flags=""/>
+      <tile asset="290,,," x="4" y="2" flags=""/>
+      <tile asset="320,,," x="4" y="3" flags=""/>
+      <tile asset="329,,," x="4" y="4" flags=""/>
+      <tile asset="330,,," x="4" y="5" flags=""/>
+      <tile asset="330,,," x="4" y="6" flags=""/>
+      <tile asset="328,,," x="4" y="7" flags=""/>
+      <tile asset="263,,," x="4" y="8" flags=""/>
+      <tile asset="291,,," x="4" y="9" flags=""/>
+    </layer>
+    <layer name="road" sort="false" type="diamond" tileWidth="200" tileHeight="100" maxTileLayers="1">
+      <tile asset="74" x="0" y="4" flags=""/>
+      <tile asset="73" x="2" y="6" flags=""/>
+      <tile asset="73" x="1" y="6" flags="vF"/>
+      <tile asset="73" x="2" y="3" flags="vF"/>
+      <tile asset="74" x="3" y="4" flags="hF"/>
+      <tile asset="73" x="1" y="2" flags=""/>
+      <tile asset="75" x="1" y="1" flags=""/>
+      <tile asset="75" x="1" y="7" flags="vF"/>
+      <tile asset="73" x="2" y="2" flags="vF"/>
+      <tile asset="73" x="0" y="3" flags=""/>
+      <tile asset="73" x="2" y="5" flags=""/>
+      <tile asset="73" x="0" y="5" flags="vF"/>
+    </layer>
+    <layer name="object" sort="false" type="diamond" tileWidth="50" tileHeight="25" maxTileLayers="1">
+      <tile asset="312" x="7" y="23" flags=""/>
+    </layer>
+  </layers>
+  <collisionGroups>
+    <group color="16711680" pointSize="10" lineSize="1">
+      <p x="200" y="248.05"/>
+      <p x="387.1" y="156.05"/>
+      <p x="592.0500000000001" y="249.05"/>
+      <p x="398.1" y="349.05"/>
+      <p x="200" y="248.05"/>
+    </group>
+    <group color="16711680" pointSize="10" lineSize="1">
+      <p x="304.1" y="400.05"/>
+      <p x="390.1" y="419.05"/>
+      <p x="492.05" y="400.05"/>
+      <p x="698.0500000000001" y="299.05"/>
+      <p x="736.0500000000001" y="251.05"/>
+      <p x="698.0500000000001" y="201.05"/>
+      <p x="498.05" y="103.05000000000001"/>
+      <p x="403.1" y="78.05000000000001"/>
+      <p x="301.1" y="100.05000000000001"/>
+      <p x="98" y="199.05"/>
+      <p x="61" y="256.05"/>
+      <p x="99" y="297.05"/>
+      <p x="304.1" y="400.05"/>
+    </group>
+    <group color="16711680" pointSize="10" lineSize="1"/>
+  </collisionGroups>
+</area>

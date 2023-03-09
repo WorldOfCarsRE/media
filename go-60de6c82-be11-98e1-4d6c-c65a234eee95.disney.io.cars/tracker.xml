@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- omniture-101214 update 101214 -->
+<config>
+	<libPath url="http://disney.go.com/stat/flash/analyticReportingAS3.swf" />
+	<defaultInfo>
+		<account value='cars,disneypictures' />
+		<site value='fran_car' />
+		<property value='car' />
+		<category value='dcore' />
+	</defaultInfo>
+</config>

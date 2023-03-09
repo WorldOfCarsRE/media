@@ -1,0 +1,263 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+		<title>Disney Pixar The World of Cars Online - Test Track</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="description" content="Create, race and play in the World of Cars Online, the new online game from Disney & Pixar where you can create your own race car and meet thousands of other players on the ride of a lifetime." />
+		<meta name="author" content="Disney Interactive Media Group" />
+		<meta name="keywords" content="Cars, Pixar, Disney, Lightning McQueen, games, racing, MMO" />
+		<meta name="facet1" content="" /> 
+		
+        <link rel="stylesheet" media="all" href="styles.css" type="text/css" />
+        <script type="text/javascript" src="js/chromeSettings.js"></script>
+        <script type="text/javascript" src="js/swfobject.js"></script>
+        <script type="text/javascript" src="js/flash_detect_min.js"></script>
+		<script src="http://aglobal.go.com/stat/dolWebAnalytics.js" language="JavaScript"></script>
+
+        <script type="text/javascript">
+			//##################################################################################
+			//									begin environment vars
+			//##################################################################################
+			/*var login = "http://apps.worldofcars.go.com/carsds/api/AccountLoginRequest";
+			var logout = "http://carsdev.online.disney.com/carsds/api/AccountLogoutRequest";
+			var gateway = "http://carsdev.online.disney.com/carsds/messagebroker/amf";
+			var catalog = "http://carsdev.online.disney.com/carsds/catalog?local=";
+			var track = "http://carsdev.online.disney.com/carsds/track?trackId=";
+			//"$#$" == "&"
+			var autolog = "http://apps.dxd.go.com/dxd/dcom3_flash_api/login?loginType=swid$#$cacheBust=true"
+			var promoBonusItems = "http://carsdev.online.disney.com/carsds/catalog?type=promoBonusItem";
+			var isoAssetsRoot = "http://carsdev.online.disney.com/assets/";
+			var isoAssetsDPack = "http://carsdev.online.disney.com/carsds/dpack";
+			var regConfig = "registration.xml";*/
+			
+			var login = "http://carsdev.online.disney.com/carsds/api/AccountLoginRequest";
+			var logout = "http://carsdev.online.disney.com/carsds/api/AccountLogoutRequest";
+			var gateway = "http://carsdev.online.disney.com/carsds/messagebroker/amf";
+			var catalog = "http://carsdev.online.disney.com/carsds/catalog?local=";
+			var track = "http://carsdev.online.disney.com/carsds/track?trackId=";
+			//"$#$" == "&"
+			var autolog = "http://apps.dxd.go.com/dxd/dcom3_flash_api/login?loginType=swid$#$cacheBust=true"
+			var promoBonusItems = "http://carsdev.online.disney.com/carsds/catalog?type=promoBonusItem";
+			var isoAssetsRoot = "http://carsdev.online.disney.com/assets/";
+			var isoAssetsDPack = "http://carsdev.online.disney.com/carsds/dpack";
+			var whoAmI = "http://carsdev.online.disney.com/carsds/api/WhoAmIRequest";
+			var regConfig = "registration.xml";
+			var showBlogButton = "false";
+			var newsletterID = "22419";// QA - Live newsletter ID is "32502"
+			
+			//var basePath = "http://carsdev.online.disney.com/preview/"; // Trailing slash is important!!
+			
+			// QA Recovery URLS
+			var recoveryPasswordURL = "https://registerqa.go.com/global/cars/recoverPassword?appRedirect=http://www.qa.worldofcars.go.com";
+			var recoveryUsernameURL = "https://registerqa.go.com/global/cars/recoverMemberNames?appRedirect=http://www.qa.worldofcars.go.com";
+			// Live Recovery URLS
+			//var recoveryPasswordURL = "https://register.go.com/global/cars/recoverPassword?appRedirect=http://worldofcars.go.com";
+			//var recoveryUsernameURL = "https://register.go.com/global/cars/recoverMemberNames?appRedirect=http://worldofcars.go.com";
+			
+			//##################################################################################
+			//									end environment vars
+			//##################################################################################
+            function hideChrome(){
+                document.getElementById("flashDiv").className = 'withoutChrome';
+                document.getElementById("chromeDiv").style.display = 'none';
+                document.getElementById("flashDiv").focus();
+            }
+
+            function showChrome(){
+                document.getElementById("flashDiv").className = 'withChrome';
+                document.getElementById("chromeDiv").style.display = 'block';
+                document.getElementById("flashDiv").focus();
+            }
+            var params = {
+                bgcolor: "#0c171b",
+                quality: "high",
+                allowscriptaccess : "always",
+				base: "."
+            }
+            var flashvars = {};
+            flashvars["login"] = login;
+            flashvars["logout"] = logout;
+            flashvars["gateway"] = gateway;
+            flashvars["catalog"] = catalog;
+            flashvars["track"] = track;
+            flashvars["promoBonusItems"] = promoBonusItems;
+            flashvars["isoAssetsRoot"] = isoAssetsRoot;
+            flashvars["isoAssetsDPack"] = isoAssetsDPack;
+            flashvars["whoAmI"] = whoAmI;
+            flashvars["regConfig"] = regConfig;
+            //flashvars["basePath"] = basePath;
+            flashvars["autolog"] = autolog;
+            flashvars["showBlogButton"] = showBlogButton;
+			flashvars["newsletterID"] = newsletterID;
+			flashvars["recoveryPasswordURL"] = recoveryPasswordURL;
+			flashvars["recoveryUsernameURL"] = recoveryUsernameURL;
+			
+            var questionMark = window.location.href.indexOf("?");
+            var flashVars = questionMark < 0 ? "" : window.location.href.substr(questionMark+1);
+            var splitFlashVars = flashVars.split("&");
+            for( var i in splitFlashVars )
+            {
+                var myVar = splitFlashVars[i].split("=");
+                flashvars[myVar[0]] = myVar[1];
+            }
+            
+			function redirect(){
+				window.location.href="underconstruction.html";
+			}
+			
+			function showBanner(message, show){
+				if( document.getElementById ){
+					if( show ){
+						document.getElementById('banner').style.display = 'block';
+						document.getElementById('banner_message').innerHTML = message;
+					}
+					else{
+						document.getElementById('banner').style.display = 'none';
+					}
+				}
+				else{
+					if( document.layers ){
+						document.banner.visibility = show;
+						document.banner_message.innerHTML = message;
+					}
+					else{
+						if( show ){
+							document.all.banner.style.display = 'block';
+							document.all.banner_message.innerHTML = message;
+						}
+						else{
+							document.all.banner.style.display = 'none';
+						}
+					}
+				}
+			}
+			
+			
+            var attributes = {};
+            attributes["id"] = "flash";
+            
+            swfobject.embedSWF("DVC_OS.swf", "flashDivContent", "100%", "670", "9.0.124", "", flashvars, params, attributes);
+			
+        </script>
+	</head>
+	<body>
+		<div id="chromeDiv" style="display:none">
+			<script src="//disney.go.com/globalmedia/chrome/chrome.js" type="text/javascript"></script>
+		</div>
+		
+    <!-- Change this HTML to suit your desired display, but leave the IDs as-is -->
+		<div id="banner" style="display: block;">
+			<div id="banner_message" align="center" ></div>
+		</div>
+		
+		<div id="flashDiv" class="withoutChrome">
+            <!--Create, race and play in the World of Cars Online, the new online game from Disney & Pixar 
+			where you can create your own race car and meet thousands of other players on the ride of a lifetime. -->
+            
+			<div id="flashDivContent"><noscript>
+										<!-- begin non-flash copy -->			
+										<h1>The World of Cars Online</h1>
+										<h2>Action, Adventure, Suspension!</h2>
+										<p>Coming 2009...until then, race of the Test Track!</p>
+										<h2>About the game</h2>
+										<h3>Create, Race and Play in the World of Cars - Coming 2009!</h3>
+										<p>Join us in The World of Cars, an online game where you create your own car and play with thousands of others in a world full of action.</p>
+										<div><h3>In The World of Cars, you'll be able to:</h3>
+											<ul>
+												<li>Create a Car</li>
+												<li>Race</li>
+												<li>Build Your Own Racetrack and Garage</li>
+												<li>Explore the Open Road</li>
+												<li>Play Fun Mini-games</li>
+												<li>Customize Your Car</li>
+												<li>Make New Friends</li>
+												<li>Play as Other Vehicles</li>
+												<li>Build a Race Team</li>
+												<li>Become a Legend</li>
+											</ul></div>
+										<p>Quick Quiz:<br />
+										Question:  What has four wheels, a big smile, is ready for the ride of a lifetime and backfires occasionally?<br /><br />
+										Answer: You, as you join thousands of other players in The World of Cars, coming in 2009!</p>
+										<div>
+											<ul>
+												<li><strong>Create a Car:</strong> From slick 'n' quick to down 'n' dirty: choose from millions of options to create your own Car.  You pick the body style, color, wheels, name and lots more to make it totally your own!</li>
+												<li><strong>Race:</strong> Feel the thrill as your work your way up from local dirt tracks to the national circuit.  Race one on one or against a fleet of other players to become the new Piston Cup Champ.  Please Note:  Whole pursuing a racing career it is important to stop and smell the oil cans every once and a while.</li>
+												<li><strong>Build Your Own Racetrack and Garage:</strong> Just like every racing legend, you can build your own garage and headquarters to showcase all of your trophies and mementoes from your racing career.  Expand and decorate it more over time - even build your own tracks and invite other Cars over to race (and to also admire your fancy lawn ornaments)</li>
+												<li><strong>Explore the Open Road:</strong> Start off in Radiator Springs, explore all of Carburetor County, and then head out on the open road to check out new towns around the country.  Each city will have totally different tracks, a few new crazy characters (watch out for the corvettes) and new types of races to test your skills, slide around in the snow, jump sand dunes in the desert, and do wheelies on the beach!</li>
+												<li><strong>Play Fun Mini-Games:</strong> Hold on tight and join Mater and others players for tons of fun mini-games including: backwards tow truck driving (a Mater specialty), tractor games, Car jump and stunt shows, tumbleweed soccer, Car checkers, tag, and more!</li>
+												<li><strong>Add on to Your Car:</strong> Throughout the game you can continue to customize, personalize and optimize your Car with new paint colors, spoilers, rims, fins, engines, shocks, brakes, and tons of other unique items.</li>
+												<li><strong>Make New Friends:</strong> Meet Lightning, Mater, Doc, Ramone and tons of other offbeat characters form the film as well as thousands of others players.  Make friends, form a crew, hangout, chat, interact, and race with all the Cars!</li>
+												<li><strong>Play as Other Vehicles:</strong> There's more than just chasing your racing dreams. How about being a fire truck and putting out the flames at the old Gas and Match factory?  Catching speeders as a police cruiser? Rescuing broken down Cars as a tow truck?  Or spotting trouble as a helicopter?  You can volunteer to play these and many other vehicles while on your journey!</li>
+												<li><strong>Build a Race Team:</strong> As you keep winning, you'll be able to expand your crew to include extra Cars, support vehicles and more!</li>
+										<li><strong>Become a Legend:</strong> Join the ranks of Lightning McQueen by not only winning races, but also by helping your fellow Cars, the towns you visit and by being an VIP (not Very Important Pinto) of the community.</li>
+											</ul></div>
+
+
+										<p>Please enable JavaScript in your browser to enjoy The World of Cars Online.</p>
+
+
+										<div>
+											<h3>Browse Disney Online</h3>
+											<ul>
+												<li><a href="http://disney.go.com/">HOME</a></li>
+												<li><a href="http://disney.go.com/games/">Games</a></li>
+												<li><a href="http://disney.go.com/videos/">Videos</a></li>
+												<li><a href="http://disney.go.com/mypage/">My Page</a></li>
+												<li><a href="http://disney.go.com/characters/">Characters</a></li>
+												<li><a href="http://home.disney.go.com/movies/">Movies</a></li>
+												<li><a href="http://home.disney.go.com/tv/">TV</a></li>
+												<li><a href="http://home.disney.go.com/music/">Music</a></li>
+												<li><a href="http://home.disney.go.com/liveevents/">Live Events</a></li>
+												<li><a href="http://home.disney.go.com/parks/">Parks</a></li>
+												<li><a href="http://home.disney.go.com/shopping/?CMP=OTL-DcomMicro&att=MicroChrmShpTb">Shop</a></li>
+												<li><a href="http://home.disney.go.com/foryou/">For You</a></li>
+												<li><a href="http://disney.go.com/search/">Search Disney.com</a></li>
+											</ul>
+										</div>	
+
+												
+										<div style="text-align:center;margin-top:30px;">
+											<p><small>&copy; Disney. All rights reserved.</small></p>
+										</div>
+										<!-- end non-flash copy -->
+									</noscript></div>
+            
+            <script type="text/javascript">
+            if (!FlashDetect.majorAtLeast(9) || (FlashDetect.major == 9 && FlashDetect.revision < 124))
+            {
+                document.getElementById("flashDivContent").innerHTML = '<div id="errorMessage">'
+                    +'    <img src="assets/graphic/gui/previewsite/car_g_gui_pvs_bkgLeft01.jpg" style="width:176px;height:198px" alt="background">'
+                    +'    <img src="assets/graphic/gui/previewsite/car_g_gui_pvs_topLeftCorner.jpg" style="width:150px;height:198px;margin:0 0 0 176px;" alt="background">'
+                    +'    <img src="assets/graphic/gui/previewsite/car_g_gui_pvs_logo.jpg" style="width:338px;height:198px;margin:0 0 0 326px;" alt="Disney Pixar The World of Cars Online">'
+                    +'    <img src="assets/graphic/gui/previewsite/car_g_gui_pvs_topRightCorner.jpg" style="width:163px;height:198px;margin:0 0 0 664px;" alt="background">'
+                    +'    <img src="assets/graphic/gui/previewsite/car_g_gui_pvs_bkgRight01.gif" style="width:167px;height:198px;margin:0 0 0 827px;" alt="background">'
+                    +'    <img src="assets/graphic/gui/previewsite/car_g_gui_pvs_bkgLeft02.jpg" style="width:176px;height:304px;margin:198px 0 0 0;" alt="background">'
+                    +'    <img src="assets/graphic/gui/previewsite/car_g_gui_pvs_signTop_noFlash.jpg" style="width:150px;height:83px;margin:198px 0 0 176px" alt="background">'
+                    +'    <img src="assets/graphic/gui/previewsite/car_g_gui_pvs_errorMessage_noFlash.jpg" style="width:338px;height:83px;margin:198px 0 0 326px;" alt="It looks like you do not have the latest version of the Adobe Flash Player. Click the button below to install the player">'
+                    +'    <img src="assets/graphic/gui/previewsite/car_g_gui_pvs_tapeRight.jpg" style="width:163px;height:83px;margin:198px 0 0 664px;" alt="background">'
+                    +'    <img src="assets/graphic/gui/previewsite/car_g_gui_pvs_bkgRight02.jpg" style="width:167px;height:304px;margin:198px 0 0 827px;"  alt="background">'
+                    +'    <img src="assets/graphic/gui/previewsite/car_g_gui_pvs_signMiddle_noFlash.jpg" style="width:250px;height:39px;margin:281px 0 0 176px;" alt="Flash Not Detected">'
+                    +'    <a href="http://www.adobe.com/go/getflashplayer"><img src="assets/graphic/gui/previewsite/car_g_gui_pvs_button.jpg" style="width:162px;height:39px;margin:281px 0 0 426px;" alt="Download"></a>'
+                    +'    <img src="assets/graphic/gui/previewsite/car_g_gui_pvs_buttonMarginRight.jpg" style="width:239px;height:39px;margin:281px 0 0 588px;" alt="background">'
+                    +'    <img src="assets/graphic/gui/previewsite/car_g_gui_pvs_signBottom_noFlash.jpg" style="width:173px;height:117px;margin:320px 0 0 176px;" alt="background">'
+                    +'    <img src="assets/graphic/gui/previewsite/car_g_gui_pvs_bottomFrame.jpg" style="width:478px;height:117px;margin:320px 0 0 349px;" alt="background">'
+                    +'    <img src="assets/graphic/gui/previewsite/car_g_gui_pvs_bottomBkg.jpg" style="width:651px;height:65px;margin:437px 0 0 176px;" alt="background">'
+                    +'</div>';
+            }
+            
+            cto=new CTO();   
+			cto.account='worldofcars';   
+			cto.category='dgame';   
+			cto.site='woc';
+			cto.siteSection='publishing';   
+			cto.pageName='html_wrapper';  
+			cto.contentType='regular';   
+			cto.property='car';   
+			cto.track();
+            </script>
+		</div>
+		<div id="footerDiv">
+		    <script src="//disney.go.com/globalmedia/legal_footer/legalfooter.js" type="text/javascript"></script>
+        </div>
+	</body>
+</html>

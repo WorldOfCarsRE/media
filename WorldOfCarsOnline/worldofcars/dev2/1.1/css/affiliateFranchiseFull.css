@@ -1,0 +1,85 @@
+html {
+	background: #000000 url(../img/affiliate/bg.affiliateFranchiseFull.jpg) top center no-repeat;
+	font: 12px/15px 'Verdana', 'Geneva', sans-serif;
+}
+
+a {
+	outline: none;
+	text-decoration: none;
+}
+
+.spl-splashWrapper {
+	width: 996px;
+	height: 687px;
+	margin: auto;
+	position: relative;
+}
+
+.spl-navContainer {
+	position: absolute;
+		left: 675px;
+		top: 5px;
+}
+
+.spl-navContainer li {
+	float: left;
+	display: inline;
+}
+
+.spl-navContainer a {
+	background: url(../img/affiliate/bg.affiliateNav.gif) no-repeat;
+	height: 15px;
+	display: block;
+	float: left;
+	color: #607989;
+	font-weight: bold;
+	padding-left: 20px;
+}
+
+.spl-navContainer a:hover {
+	color: #FCCC5E;
+}
+
+.spl-navContainer .spl-navAbout {
+	background-position: 0px 0px;
+	width: 80px;
+	margin-right: 20px;
+}
+
+.spl-navContainer .spl-navAbout:hover {
+	background-position: 0px -45px;
+}
+
+.spl-navContainer .spl-navWhatsNew {
+	background-position: 0px -15px;
+	width: 80px;
+	margin-right: 20px;
+}
+
+.spl-navContainer .spl-navWhatsNew:hover {
+	background-position: 0px -60px;
+}
+
+.spl-navContainer .spl-navParents {
+	background-position: 0px -30px;
+	width: 45px;
+}
+
+.spl-navContainer .spl-navParents:hover {
+	background-position: 0px -75px;
+}
+
+.spl-playButton {
+	background: url(../img/affiliate/bg.playButton.png) no-repeat;
+	display: block;
+	width: 310px;
+	height: 105px;
+	position: absolute;
+		left: 343px;
+		top: 290px;
+	text-indent: -9999px;
+}
+
+.spl-playButton:hover {
+	background-position: 0px -105px;
+}

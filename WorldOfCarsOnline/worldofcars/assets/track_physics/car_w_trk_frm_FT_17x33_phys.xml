@@ -1,0 +1,223 @@
+<track>
+	<segments>
+		<segment id='1' type='5' parents='73' children='2' px='407,553,479,335' py='370,443,476,406' mx='426,536,470,343' my='379,434,471,410' racingPoint='480,406' mergingRacingPoint='' >
+			<properties name='tart' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='3102.624,3000.000,3102.624' />
+		</segment>
+		<segment id='2' type='5' parents='1' children='3' px='335,479,309,169' py='406,476,575,499' mx='343,470,299,177' my='410,471,569,503' racingPoint='406,440' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='3102.624,3000.000,3102.624' />
+		</segment>
+		<segment id='3' type='5' parents='2' children='4' px='169,309,284,116' py='499,575,622,534' mx='177,299,275,125' my='503,569,617,539' racingPoint='239,537' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='3102.624,3000.000,3102.624' />
+		</segment>
+		<segment id='4' type='5' parents='3' children='5' px='116,284,318,31' py='534,622,690,565' mx='125,275,267,94' my='539,617,668,593' racingPoint='200,578' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='5' type='5' parents='4' children='6' px='31,318,304,6' py='565,690,774,755' mx='94,267,257,69' my='593,668,770,759' racingPoint='175,628' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='6' type='5' parents='5' children='7' px='6,304,300,3' py='755,774,972,954' mx='69,257,249,68' my='759,770,969,958' racingPoint='155,764' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='7' type='5' parents='6' children='8' px='3,300,328,20' py='954,972,1166,1154' mx='68,249,271,82' my='958,969,1163,1156' racingPoint='152,963' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='8' type='5' parents='7' children='9' px='20,328,455,96' py='1154,1166,1236,1340' mx='82,271,386,170' my='1156,1163,1256,1319' racingPoint='174,1160' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='9' type='5' parents='8' children='10' px='96,455,541,292' py='1340,1236,1242,1431' mx='170,386,491,351' my='1319,1256,1280,1386' racingPoint='275,1288' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='10' type='5' parents='9' children='11' px='292,541,589,482' py='1431,1242,1245,1453' mx='351,491,573,510' my='1386,1280,1277,1398' racingPoint='416,1337' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='11' type='5' parents='10' children='12' px='482,589,636,695' py='1453,1245,1219,1433' mx='510,573,644,680' my='1398,1277,1250,1380' racingPoint='536,1349' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='12' type='5' parents='11' children='13' px='695,636,646,864' py='1433,1219,1201,1353' mx='680,644,674,820' my='1380,1250,1221,1323' racingPoint='665,1326' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='13' type='5' parents='12' children='14' px='864,646,642,922' py='1353,1201,1191,1249' mx='820,674,687,867' my='1323,1221,1200,1237' racingPoint='755,1277' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='14' type='5' parents='13' children='15' px='922,642,631,905' py='1249,1191,1168,1139' mx='867,687,668,855' my='1237,1200,1164,1144' racingPoint='782,1220' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='15' type='5' parents='14' children='16' px='905,631,602,852' py='1139,1168,1150,1067' mx='855,668,631,802' my='1144,1164,1140,1083' racingPoint='768,1153' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='16' type='5' parents='15' children='17' px='852,602,497,789' py='1067,1150,1097,1003' mx='802,631,545,734' my='1083,1140,1081,1021' racingPoint='727,1108' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='17' type='5' parents='16' children='18' px='789,497,447,738' py='1003,1097,1021,952' mx='734,545,503,683' my='1021,1081,1007,965' racingPoint='643,1050' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='18' type='5' parents='17' children='19' px='738,447,417,708' py='952,1021,899,845' mx='683,503,474,656' my='965,1007,889,855' racingPoint='593,986' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='19' type='5' parents='18' children='20' px='708,417,416,701' py='845,899,801,757' mx='656,474,482,647' my='855,889,791,766' racingPoint='563,872' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='20' type='5' parents='19' children='21' px='701,416,417,720' py='757,801,664,725' mx='647,482,501,668' my='766,791,681,714' racingPoint='558,779' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='21' type='5' parents='20' children='22' px='720,417,546,769' py='725,664,527,689' mx='668,501,603,732' my='714,681,569,662' racingPoint='569,694' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='22' type='5' parents='21' children='23' px='769,546,710,840' py='689,527,460,660' mx='732,603,745,811' my='662,569,515,616' racingPoint='657,608' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='23' type='5' parents='22' children='24' px='840,710,867,923' py='660,460,431,644' mx='811,745,881,912' my='616,515,484,602' racingPoint='775,560' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='24' type='5' parents='23' children='25' px='923,867,1064,1091' py='644,431,415,626' mx='912,881,1071,1086' my='602,484,468,584' racingPoint='895,537' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='25' type='5' parents='24' children='26' px='1091,1064,1263,1269' py='626,415,407,626' mx='1086,1071,1264,1267' my='584,468,463,580' racingPoint='1078,520' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='26' type='5' parents='25' children='27' px='1269,1263,1462,1468' py='626,407,414,632' mx='1267,1264,1464,1467' my='580,463,465,585' racingPoint='1266,517' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='27' type='5' parents='26' children='28' px='1468,1462,1662,1665' py='632,414,413,633' mx='1467,1464,1663,1664' my='585,465,465,583' racingPoint='1465,523' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='28' type='5' parents='27' children='29' px='1665,1662,1862,1864' py='633,413,410,634' mx='1664,1663,1863,1864' my='583,465,466,584' racingPoint='1663,523' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='29' type='5' parents='28' children='30' px='1864,1862,2062,2064' py='634,410,408,632' mx='1864,1863,2063,2064' my='584,466,466,583' racingPoint='1863,522' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='30' type='5' parents='29' children='31' px='2064,2062,2262,2264' py='632,408,408,636' mx='2064,2063,2263,2264' my='583,466,467,585' racingPoint='2063,520' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='31' type='5' parents='30' children='32' px='2264,2262,2461,2401' py='636,408,502,653' mx='2264,2263,2457,2405' my='585,467,511,642' racingPoint='2263,522' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='32' type='5' parents='31' children='33' px='2401,2461,2881,2707' py='653,502,711,802' mx='2405,2457,2865,2719' my='642,511,720,796' racingPoint='2431,577' mergingRacingPoint='' >
+			<properties name='jump' type='2' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='3102.624,3000.000,3102.624' />
+		</segment>
+		<segment id='33' type='5' parents='32' children='34' px='2707,2881,2988,2683' py='802,711,777,875' mx='2719,2865,2929,2742' my='796,720,796,856' racingPoint='2794,757' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='34' type='5' parents='33' children='35' px='2683,2988,3003,2681' py='875,777,965,958' mx='2742,2929,2936,2741' my='856,796,963,959' racingPoint='2835,826' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='35' type='5' parents='34' children='36' px='2681,3003,2994,2664' py='958,965,1115,1049' mx='2741,2936,2918,2731' my='959,963,1100,1062' racingPoint='2842,961' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='36' type='5' parents='35' children='37' px='2664,2994,2912,2592' py='1049,1115,1222,1123' mx='2731,2918,2840,2648' my='1062,1100,1199,1140' racingPoint='2829,1082' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='37' type='5' parents='36' children='38' px='2592,2912,2721,2530' py='1123,1222,1379,1182' mx='2648,2840,2679,2566' my='1140,1199,1335,1219' racingPoint='2751,1172' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='38' type='5' parents='37' children='39' px='2530,2721,2242,2333' py='1182,1379,1495,1231' mx='2566,2679,2264,2322' my='1219,1335,1431,1262' racingPoint='2625,1280' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='39' type='5' parents='38' children='41,40' px='2333,2242,1609,1990' py='1231,1495,1443,1156' mx='2322,2264,1652,1981' my='1262,1431,1410,1162' racingPoint='2287,1363' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='40' type='1' parents='39' children='42' px='1850,1609,1544,1680' py='1261,1443,1460,1259' mx='1808,1652,1575,1640' my='1292,1410,1413,1317' racingPoint='1715,1362' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='41' type='2' parents='39' children='52' px='1990,1850,1538,1818' py='1156,1261,1067,1031' mx='1981,1892,1583,1787' my='1162,1229,1061,1034' racingPoint='1918,1209' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='3102.624,3000.000,3102.624' />
+		</segment>
+		<segment id='42' type='5' parents='40' children='43' px='1680,1544,1449,1493' py='1259,1460,1474,1268' mx='1640,1575,1458,1482' my='1317,1413,1433,1317' racingPoint='1612,1359' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='43' type='5' parents='42' children='44' px='1493,1449,1366,1400' py='1268,1474,1481,1287' mx='1482,1458,1373,1394' my='1317,1433,1441,1322' racingPoint='1471,1371' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='44' type='5' parents='43' children='45' px='1400,1366,1241,1372' py='1287,1481,1469,1290' mx='1394,1373,1272,1349' my='1322,1441,1427,1321' racingPoint='1383,1384' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='45' type='5' parents='44' children='46' px='1372,1241,1151,1327' py='1290,1469,1439,1315' mx='1349,1272,1195,1292' my='1321,1427,1408,1340' racingPoint='1306,1380' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='46' type='5' parents='45' children='47' px='1327,1151,1018,1246' py='1315,1439,1385,1281' mx='1292,1195,1079,1218' my='1340,1408,1357,1294' racingPoint='1239,1377' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='47' type='5' parents='46' children='48' px='1246,1018,960,1246' py='1281,1385,1273,1254' mx='1218,1079,1030,1218' my='1294,1357,1269,1256' racingPoint='1132,1333' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='48' type='5' parents='47' children='49' px='1246,960,989,1270' py='1254,1273,1177,1242' mx='1218,1030,1052,1239' my='1256,1269,1191,1234' racingPoint='1103,1264' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='49' type='5' parents='48' children='50' px='1270,989,1108,1349' py='1242,1177,1064,1190' mx='1239,1052,1176,1313' my='1234,1191,1100,1171' racingPoint='1130,1209' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='50' type='5' parents='49' children='51' px='1349,1108,1259,1521' py='1190,1064,989,1070' mx='1313,1176,1328,1477' my='1171,1100,1010,1056' racingPoint='1229,1127' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='51' type='3' parents='50' children='53' px='1521,1259,1403,1630' py='1070,989,941,994' mx='1477,1328,1469,1589' my='1056,1010,952,984' racingPoint='1390,1029' mergingRacingPoint='1507,965' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='52' type='4' parents='41' children='53' px='1818,1538,1630,1814' py='1031,1067,994,1011' mx='1787,1583,1648,1798' my='1034,1061,998,1008' racingPoint='1685,1048' mergingRacingPoint='1694,1009' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='53' type='5' parents='52,51' children='54' px='1814,1403,1696,1852' py='1011,941,818,968' mx='1798,1469,1729,1825' my='1008,952,850,942' racingPoint='' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='54' type='5' parents='53' children='55' px='1852,1696,1926,1962' py='968,818,775,959' mx='1825,1729,1934,1955' my='942,850,817,923' racingPoint='1783,902' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='55' type='5' parents='54' children='56' px='1962,1926,2126,2122' py='959,775,771,972' mx='1955,1934,2125,2123' my='923,817,818,929' racingPoint='1944,867' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='56' type='5' parents='55' children='57' px='2122,2126,2319,2329' py='972,771,751,962' mx='2123,2125,2322,2327' my='929,818,802,920' racingPoint='2124,871' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='57' type='5' parents='56' children='58' px='2329,2319,2397,2502' py='962,751,730,936' mx='2327,2322,2415,2478' my='920,802,766,891' racingPoint='2324,857' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='58' type='5' parents='57' children='59' px='2502,2397,2444,2677' py='936,730,700,822' mx='2478,2415,2492,2642' my='891,766,725,803' racingPoint='2449,833' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='59' type='5' parents='58' children='60' px='2677,2444,2573,2837' py='822,700,521,663' mx='2642,2492,2630,2777' my='803,725,551,630' racingPoint='2561,761' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='60' type='5' parents='59' children='61' px='2837,2573,2598,2908' py='663,521,450,487' mx='2777,2630,2653,2824' my='630,551,457,477' racingPoint='2705,592' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='61' type='5' parents='60' children='62' px='2908,2598,2584,2895' py='487,450,396,304' mx='2824,2653,2627,2820' my='477,457,383,326' racingPoint='2753,468' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='62' type='5' parents='61' children='63' px='2895,2584,2522,2789' py='304,396,334,166' mx='2820,2627,2556,2716' my='326,383,313,212' racingPoint='2739,350' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='63' type='5' parents='62' children='64' px='2789,2522,2444,2511' py='166,334,321,47' mx='2716,2556,2455,2490' my='212,313,274,131' racingPoint='2656,250' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='64' type='5' parents='63' children='65' px='2511,2444,2289,2289' py='47,321,299,41' mx='2490,2455,2289,2289' my='131,274,247,111' racingPoint='2477,184' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='65' type='5' parents='64' children='66' px='2289,2289,2089,2089' py='41,299,301,41' mx='2289,2289,2089,2089' my='111,247,240,107' racingPoint='2289,170' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='66' type='5' parents='65' children='67' px='2089,2089,1889,1805' py='41,301,294,50' mx='2089,2089,1867,1827' my='107,240,229,114' racingPoint='2089,171' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='67' type='5' parents='66' children='68' px='1805,1889,1288,1279' py='50,294,290,64' mx='1827,1867,1285,1281' my='114,229,229,115' racingPoint='1847,172' mergingRacingPoint='' >
+			<properties name='' type='2' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='68' type='5' parents='67' children='69' px='1279,1288,1092,1079' py='64,290,295,73' mx='1281,1285,1088,1082' my='115,229,238,123' racingPoint='1283,177' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='69' type='5' parents='68' children='70' px='1079,1092,920,879' py='73,295,318,95' mx='1082,1088,911,889' my='123,238,269,148' racingPoint='1085,184' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='70' type='5' parents='69' children='71' px='879,920,861,705' py='95,318,332,144' mx='889,911,832,740' my='148,269,298,187' racingPoint='900,206' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='71' type='5' parents='70' children='72' px='705,861,799,643' py='144,332,322,262' mx='740,832,784,652' my='187,298,316,266' racingPoint='783,238' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+		<segment id='72' type='5' parents='71' children='73' px='643,799,641,545' py='262,322,386,308' mx='652,784,634,558' my='266,316,380,319' racingPoint='721,292' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='3102.624,3000.000,3102.624' />
+		</segment>
+		<segment id='73' type='5' parents='72' children='1' px='545,641,553,407' py='308,386,443,370' mx='558,634,536,426' my='319,380,434,379' racingPoint='593,347' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='5067.182,3000.000,5067.182' />
+		</segment>
+	</segments>
+</track>

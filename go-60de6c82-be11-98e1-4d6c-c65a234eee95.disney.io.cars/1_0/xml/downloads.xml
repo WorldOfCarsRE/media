@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<downloads>
+	<page id="downloads" default="wallpapers" preload="downloads">
+		<title>DOWNLOADS</title>
+		<nav id="wallpapers" href="downloads/wallpapers">WALLPAPERS</nav>
+		<nav id="icons" href="downloads/icons">ICONS</nav>
+		
+		<page id="wallpapers" preload="downloads">
+			<title>WALLPAPERS</title>
+			<!-- to use the com.disney.cars2.downloads.WallPapers template, the <nav> items below act as the options for each thumb. -->
+			<nav id="ws" target="popup" tracking_id="wp1920" options="width=800,height=600,scrollbars=1,resizable=true" href="downloads/wallpapers.html?url=wallpapers/widescreen/{src}_1920x1200.jpg">Widescreen</nav>
+			<nav id="fs" target="popup" tracking_id="wp1600" options="width=800,height=600,scrollbars=1,resizable=true" href="downloads/wallpapers.html?url=wallpapers/fullscreen/{src}_1600x1200.jpg">Fullscreen</nav>
+			<nav id="iphone" target="popup" tracking_id="wp320" options="width=800,height=600,scrollbars=1,resizable=1" href="downloads/wallpapers_iphone.html?url=wallpapers/iphone/{src}_960x640.jpg">iPhone</nav>
+			
+			<!-- the <promo> items below represent individual thumbs. in order to avoid redundancy, the <nav> items above provide the "template" and full url to the wallpapers with exception of the {id} which gets replaced.
+				the <promo id=""> must match an image id. 
+				the <promo location=""> is the character id... for putting downloads on the chracter pages.
+				the <promo src=""> value replaces {id} the <nav href=""> url above. 
+			-->
+			<promo id="queen_wall_1" tracking_id="car_char_thequeen_downloads_" location="queen" src="wp_c2_queen" />
+			<promo id="prince_wall_1" tracking_id="car_char_theprince_downloads_" location="prince" src="wp_c2_prince" />
+			<promo id="chauncy_wall_1" tracking_id="car_char_uktaxi_downloads_" location="chauncy" src="wp_c2_chauncy" />
+			<promo id="highgear_wall_1" tracking_id="car_char_highgear_downloads_" location="highgear" src="wp_c2_highgear" />
+			<promo id="topper_wall_1" tracking_id="car_char_classicbus_downloads_" location="topper" src="wp_c2_topper" />
+			<promo id="okuni_wall_1" tracking_id="car_char_okuni_downloads_" location="okuni" src="wp_c2_okuni" />
+			<promo id="kingpin_wall_1" tracking_id="car_char_kingpin_downloads_" location="kingpin" src="wp_c2_kingpin" />
+			<promo id="pinion_wall_1" tracking_id="car_char_pinion_downloads_" location="pinion" src="wp_c2_pinion" />
+			<promo id="zen_wall_1" tracking_id="car_char_zen_downloads_" location="zen" src="wp_c2_zen" />
+			<promo id="max_wall_1" tracking_id="car_char_max_downloads_" location="max" src="wp_c2_max" />
+			<promo id="miguel_wall_1" tracking_id="car_char_miguel_downloads_" location="miguel" src="wp_c2_miguel" />
+			<promo id="david_wall_1" tracking_id="car_char_david_downloads_" location="david" src="wp_c2_david" />
+			<promo id="lewis_wall_1" tracking_id="car_char_lewis_downloads_" location="lewis" src="wp_c2_lewis" />
+			<promo id="jeff_wall_1" tracking_id="car_char_jeff_downloads_" location="jeff" src="wp_c2_jeff" />
+			<promo id="darrell_wall_1" tracking_id="car_char_darrell_downloads_" location="darrell" src="wp_c2_darrell" />
+			<promo id="clutchgoneski_wall_1" tracking_id="car_char_clutchgoneski_downloads_" location="clutchgoneski" src="wp_c2_clutchgoneski" />
+			<promo id="professor_wall_1" tracking_id="car_char_professor_downloads_" location="professor" src="wp_c2_professor" />
+			<promo id="tomber_wall_1" tracking_id="car_char_tomber_downloads_" location="tomber" src="wp_c2_tomber" />
+			<promo id="rod_wall_1" tracking_id="car_char_rod_downloads_" location="rod" src="wp_c2_rod" />
+			<promo id="siddeley_wall_1" tracking_id="car_char_siddeley_downloads_" location="siddeley" src="wp_c2_siddeley" />
+			<promo id="nigel_wall_1" tracking_id="car_char_nigel_downloads_" location="nigel" src="wp_c2_nigel" />
+			<promo id="miles_wall_1" tracking_id="car_char_miles_downloads_" location="miles" src="wp_c2_miles" />
+			<promo id="francesco_wall_1" tracking_id="car_char_francesco_downloads_" location="francesco" src="wp_c2_francesco" />
+			<promo id="mama_wall_1" tracking_id="car_char_mama_downloads_" location="mama" src="wp_c2_mama" />
+			<promo id="uncle_wall_1" tracking_id="car_char_uncle_downloads_" location="uncle" src="wp_c2_uncle" />
+			<promo id="acer_wall_1" tracking_id="car_char_acer_downloads_" location="acer" src="wp_c2_acer" />
+			<promo id="grem_wall_1" tracking_id="car_char_grem_downloads_" location="grem" src="wp_c2_grem" />
+			<promo id="shu_wall_1" tracking_id="car_char_shu_downloads_" location="shu" src="wp_c2_shu" />
+			<promo id="carla_wall_1" tracking_id="car_char_carla_downloads_" location="carla" src="wp_c2_carla" />
+			<promo id="raoul_wall_1" tracking_id="car_char_raoul_downloads_" location="raoul" src="wp_c2_raoul" />
+			<promo id="holley_wall_1" tracking_id="car_char_holley_downloads_" location="holley" src="wp_c2_holley" />
+			<promo id="finn_wall_1" tracking_id="car_char_finn_downloads_" location="finn" src="wp_c2_finn" />
+			<promo id="lightning_wall_1" tracking_id="car_lightning_grem_downloads_" location="lightning" src="wp_c2_lightning" />
+			<promo id="mater_wall_1" tracking_id="car_char_mater_downloads_" location="mater" src="wp_c2_mater" />
+			<promo id="flo_wall_1" tracking_id="car_char_flo_downloads_" location="flo" src="wp_c2_flo" />
+			<promo id="guido_wall_1" tracking_id="car_char_guido_downloads_" location="guido" src="wp_c2_guido" />
+			<promo id="fillmore_wall_1" tracking_id="car_char_fillmore_downloads_" location="fillmore" src="wp_c2_fillmore" />
+			<promo id="lizzie_wall_1" tracking_id="car_char_lizzie_downloads_" location="lizzie" src="wp_c2_lizzie" />
+			<promo id="luigi_wall_1" tracking_id="car_char_luigi_downloads_" location="luigi" src="wp_c2_luigi" />
+			<promo id="mack_wall_1" tracking_id="car_char_mack_downloads_" location="mack" src="wp_c2_mack" />
+			<promo id="ramone_wall_1" tracking_id="car_char_ramone_downloads_" location="ramone" src="wp_c2_ramone" />
+			<promo id="sally_wall_1" tracking_id="car_char_sally_downloads_" location="sally" src="wp_c2_sally" />
+			<promo id="sarge_wall_1" tracking_id="car_char_sarge_downloads_" location="sarge" src="wp_c2_sarge" />
+			<promo id="sheriff_wall_1" tracking_id="car_char_sheriff_downloads_" location="sheriff" src="wp_c2_sheriff" />
+			
+		</page>
+		
+		<page id="icons" preload="downloads">
+			<title>ICONS</title>
+			<nav id="icon" tracking_id="buddyicon" target="popup" options="width=500,height=250,scrollbars=0,resizable=1" href="downloads/icons.html?url=icons/{src}" />	
+			<promo id="queen_icon_1" tracking_id="car_char_thequeen_downloads_" location="queen" src="icons_queen.gif" />
+			<promo id="prince_icon_1" tracking_id="car_char_theprince_downloads_" location="prince" src="icons_prince.gif" />
+			<promo id="chauncy_icon_1" tracking_id="car_char_uktaxi_downloads_" location="chauncy" src="icons_chauncy.gif" />
+			<promo id="highgear_icon_1" tracking_id="car_char_palaceguard_downloads_" location="highgear" src="icons_highgear.gif" />
+			<promo id="topper_icon_1" tracking_id="car_char_classicbus_downloads_" location="topper" src="icons_topper.gif" />
+			<promo id="okuni_icon_1" tracking_id="car_char_okuni_downloads_" location="okuni" src="icons_okuni.gif" />
+			<promo id="kingpin_icon_1" tracking_id="car_char_kingpin_downloads_" location="kingpin" src="icons_kingpin.gif" />
+			<promo id="pinion_icon_1" tracking_id="car_char_pinion_downloads_" location="pinion" src="icons_pinion.gif" />
+			<promo id="zen_icon_1" tracking_id="car_char_zen_downloads_" location="zen" src="icons_zen.gif" />
+			<promo id="max_icon_1" tracking_id="car_char_max_downloads_" location="max" src="icons_max.gif" />
+			<promo id="miguel_icon_1" tracking_id="car_char_miguel_downloads_" location="miguel" src="icons_miguel.gif" />
+			<promo id="david_icon_1" tracking_id="car_char_david_downloads_" location="david" src="icons_david.gif" />
+			<promo id="lewis_icon_1" tracking_id="car_char_lewis_downloads_" location="lewis" src="icons_lewis.gif" />
+			<promo id="jeff_icon_1" tracking_id="car_char_jeff_downloads_" location="jeff" src="icons_jeff.gif" />
+			<promo id="darrell_icon_1" tracking_id="car_char_darrell_downloads_" location="darrell" src="icons_darrell.gif" />
+			<promo id="clutchgoneski_icon_1" tracking_id="car_char_clutchgoneski_downloads_" location="clutchgoneski" src="icons_clutchgoneski.gif" />
+			<promo id="professor_icon_1" tracking_id="car_char_professor_downloads_" location="professor" src="icons_professor.gif" />
+			<promo id="tomber_icon_1" tracking_id="car_char_tomber_downloads_" location="tomber" src="icons_tomber.gif" />
+			<promo id="rod_icon_1" tracking_id="car_char_rod_downloads_" location="rod" src="icons_rod.gif" />
+			<promo id="siddeley_icon_1" tracking_id="car_char_siddeley_downloads_" location="siddeley" src="icons_siddeley.gif" />
+			<promo id="nigel_icon_1" tracking_id="car_char_nigel_downloads_" location="nigel" src="icons_nigel.gif" />
+			<promo id="miles_icon_1" tracking_id="car_char_miles_downloads_" location="miles" src="icons_miles.gif" />
+			<promo id="francesco_icon_1" tracking_id="car_char_francesco_downloads_" location="francesco" src="icons_francesco.gif" />
+			<promo id="mama_icon_1" tracking_id="car_char_mama_downloads_" location="mama" src="icons_mama.gif" />
+			<promo id="uncle_icon_1" tracking_id="car_char_uncle_downloads_" location="uncle" src="icons_uncle.gif" />
+			<promo id="acer_icon_1" tracking_id="car_char_acer_downloads_" location="acer" src="icons_acer.gif" />
+			<promo id="grem_icon_1" tracking_id="car_char_grem_downloads_" location="grem" src="icons_grem.gif" />
+			<promo id="shu_icon_1" tracking_id="car_char_shu_downloads_" location="shu" src="icons_shu.gif" />
+			<promo id="carla_icon_1" tracking_id="car_char_carla_downloads_" location="carla" src="icons_carla.gif" />
+			<promo id="raoul_icon_1" tracking_id="car_char_raoul_downloads_" location="raoul" src="icons_raoul.gif" />
+			<promo id="holley_icon_1" tracking_id="car_char_holley_downloads_" location="holley" src="icons_holley.gif" />
+			<promo id="finn_icon_1" tracking_id="car_char_finn_downloads_" location="finn" src="icons_finn.gif" />
+			<promo id="lightning_icon_1" tracking_id="car_char_lightning_downloads_" location="lightning" src="icons_lightning.gif" />
+			<promo id="mater_icon_1" tracking_id="car_char_mater_downloads_" location="mater" src="icons_mater.gif" />
+			<promo id="fillmore_icon_1" tracking_id="car_char_fillmore_downloads_" location="fillmore" src="icons_fillmore.gif" />
+			<promo id="flo_icon_1" tracking_id="car_char_flo_downloads_" location="flo" src="icons_flo.gif" />
+			<promo id="guido_icon_1" tracking_id="car_char_guido_downloads_" location="guido" src="icons_guido.gif" />
+			<promo id="lizzie_icon_1" tracking_id="car_char_lizzie_downloads_" location="lizzie" src="icons_lizzie.gif" />
+			<promo id="luigi_icon_1" tracking_id="car_char_luigi_downloads_" location="luigi" src="icons_luigi.gif" />
+			<promo id="mack_icon_1" tracking_id="car_char_mack_downloads_" location="mack" src="icons_mack.gif" />
+			<promo id="ramone_icon_1" tracking_id="car_char_ramone_downloads_" location="ramone" src="icons_ramone.gif" />
+			<promo id="sally_icon_1" tracking_id="car_char_sally_downloads_" location="sally" src="icons_sally.gif" />
+			<promo id="sarge_icon_1" tracking_id="car_char_sarge_downloads_" location="sarge" src="icons_sarge.gif" />
+			<promo id="sheriff_icon_1" tracking_id="car_char_sheriff_downloads_" location="sheriff" src="icons_sheriff.gif" />
+			
+		</page>
+	</page>
+	
+	<images>
+		<img id="jeff_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_jeff.jpg" />
+		<img id="darrell_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_darrell.jpg" />
+		<img id="clutchgoneski_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_clutchgoneski.jpg" />
+		<img id="professor_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_professor.jpg" />
+		<img id="tomber_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_tomber.jpg" />
+		<img id="rod_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_rod.jpg" />
+		<img id="siddeley_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_siddeley.jpg" />
+		<img id="nigel_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_nigel.jpg" />
+		<img id="miles_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_miles.jpg" />
+		<img id="francesco_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_francesco.jpg" />
+		<img id="mama_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_mama.jpg" />
+		<img id="uncle_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_uncle.jpg" />
+		<img id="acer_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_acer.jpg" />
+		<img id="grem_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_grem.jpg" />
+		<img id="shu_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_shu.jpg" />
+		<img id="carla_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_carla.jpg" />
+		<img id="raoul_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_raoul.jpg" />
+		<img id="lizzie_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_lizzie.jpg" />
+		<img id="fillmore_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_fillmore.jpg" />
+		<img id="finn_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_finn.jpg" />
+		<img id="flo_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_flo.jpg" />
+		<img id="guido_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_guido.jpg" />
+		<img id="holley_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_holley.jpg" />
+		<img id="lightning_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_lightning.jpg" />
+		<img id="luigi_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_luigi.jpg" />
+		<img id="mack_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_mack.jpg" />
+		<img id="mater_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_mater.jpg" />
+		<img id="ramone_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_ramone.jpg" />
+		<img id="sally_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_sally.jpg" />
+		<img id="sarge_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_sarge.jpg" />
+		<img id="sheriff_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_sheriff.jpg" />
+		<img id="david_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_david.jpg" />
+		<img id="lewis_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_lewis.jpg" />
+		<img id="max_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_max.jpg" />
+		<img id="miguel_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_miguel.jpg" />
+		<img id="okuni_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_okuni.jpg" />
+		<img id="kingpin_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_kingpin.jpg" />
+		<img id="pinion_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_pinion.jpg" />
+		<img id="zen_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_zen.jpg" />
+		<img id="queen_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_queen.jpg" />
+		<img id="prince_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_prince.jpg" />
+		<img id="chauncy_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_chauncy.jpg" />
+		<img id="highgear_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_highgear.jpg" />
+		<img id="topper_wall_1" location="downloads" src="promos/downloads/wall_thumbs/cars2_wallpaper_thumb_topper.jpg" />
+		
+		<img id="jeff_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_jeff.jpg" />
+		<img id="darrell_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_darrell.jpg" />
+		<img id="clutchgoneski_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_clutchgoneski.jpg" />
+		<img id="professor_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_professor.jpg" />
+		<img id="tomber_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_tomber.jpg" />
+		<img id="rod_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_rod.jpg" />
+		<img id="siddeley_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_siddeley.jpg" />
+		<img id="nigel_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_nigel.jpg" />
+		<img id="miles_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_miles.jpg" />
+		<img id="francesco_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_francesco.jpg" />
+		<img id="mama_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_mama.jpg" />
+		<img id="uncle_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_uncle.jpg" />
+		<img id="acer_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_acer.jpg" />
+		<img id="grem_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_grem.jpg" />
+		<img id="shu_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_shu.jpg" />
+		<img id="carla_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_carla.jpg" />
+		<img id="raoul_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_raoul.jpg" />
+		<img id="lizzie_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_lizzie.jpg" />
+		<img id="fillmore_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_fillmore.jpg" />
+		<img id="finn_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_finn.jpg" />
+		<img id="flo_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_flo.jpg" />
+		<img id="guido_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_guido.jpg" />
+		<img id="holley_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_holley.jpg" />
+		<img id="lightning_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_lightning.jpg" />
+		<img id="luigi_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_luigi.jpg" />
+		<img id="mack_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_mack.jpg" />
+		<img id="mater_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_mater.jpg" />
+		<img id="ramone_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_ramone.jpg" />
+		<img id="sally_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_sally.jpg" />
+		<img id="sarge_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_sarge.jpg" />
+		<img id="sheriff_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_sheriff.jpg" />
+		<img id="david_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_david.jpg" />
+		<img id="lewis_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_lewis.jpg" />
+		<img id="max_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_max.jpg" />
+		<img id="miguel_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_miguel.jpg" />
+		<img id="okuni_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_okuni.jpg" />
+		<img id="kingpin_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_kingpin.jpg" />
+		<img id="pinion_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_pinion.jpg" />
+		<img id="zen_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_zen.jpg" />
+		<img id="queen_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_queen.jpg" />
+		<img id="prince_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_prince.jpg" />
+		<img id="chauncy_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_chauncy.jpg" />
+		<img id="highgear_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_highgear.jpg" />
+		<img id="topper_icon_1" location="downloads" src="promos/downloads/icon_thumbs/icons_topper.jpg" />
+	</images>
+</downloads>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cafe>
+	<introduction title="The Problem">
+		<para>Flo's fuel is the finest in all fifty states. Help Flo serve gas to the fine folks of Radiator Springs.</para>
+		<para>Move your gas can under the flowing gas pump to fill your can.</para>
+        <para>Move your gas can over the empty tank to add the gas you have collected to the tank.</para>
+	</introduction>
+	<instruction button="Play">
+		<para>Fill up the gas tank before time runs out to keep Radiator Springs running.</para>
+		<para></para>
+		<para>Hurry up, cars are waiting!</para>
+	</instruction>
+	<win button="Play Again">
+		<para>Great Job!</para>
+		<para></para>
+		<para>You filled up the tank and helped Flo serve the finest gas to the people of Radiator Springs.</para>
+	</win>
+	<lose button="Play Again">
+		<para>Sorry, Your time is up!</para>
+		<para></para>
+		<para>Throw it into a high gear and try again.</para>
+	</lose>
+</cafe>

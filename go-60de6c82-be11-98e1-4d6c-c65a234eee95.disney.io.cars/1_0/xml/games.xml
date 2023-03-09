@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<games>
+	<page id="games" template="com.disney.cars2.templates.LandingPageTemplate">
+		<title>GAMES</title>
+		
+		<promo id="top1" image_id="top1" target="_blank" href="http://worldofcars.go.com/?source=PpWCWocDol00011%26cmp=woc_BAC_Cars_FHome_170x270_Launch_ML_Extl">
+			<title>PLAY WORLD OF CARS ONLINE</title>
+		</promo>
+		
+		<promo id="top2" image_id="top2" href="games/chrome" location="_self" >
+			<title>C.H.R.O.M.E.  MISSIONS</title>
+		</promo>
+		<promo id="top3" image_id="top3" href="games/spyaerial" location="_self" >
+			<title>SPY AERIAL SUPPORT</title>
+		</promo>
+		<!-- <promo id="top2" image_id="top2" href="games/worldgrandprix" location="_self" >
+			<title>WORLD GRAND PRIX RACES</title>
+			</promo>
+			<promo id="top3" image_id="top3" href="games/matermemory" location="_self" >
+			<title>MATER MEMORY GAME</title>
+		</promo>->
+
+		
+		<!-- games carousel info-->  
+		<promo id="carousel15" image_id="carousel15" href="games/megaposter" location="_self" >
+			<title>MEGA POSTER</title>
+		</promo>
+
+		<promo id="carousel16" image_id="carousel16" href="games/juggle_game" location="_self" >
+			<title>JUGGLE GAME</title>
+		</promo>
+		<promo id="carousel17" image_id="carousel17" href="games/carchinko" location="_self" >
+			<title>CARCHINKO</title>
+		</promo>    
+		<promo id="carousel19" image_id="carousel19" options="width=605,height=385,scrollbars=0,resizable=0,location=0" target="popup" href="games/spy_trainer/site.html">
+			<title>SPY TRAINER</title>
+		</promo>
+		<promo id="carousel18" image_id="carousel18" href="games/music_maker" location="_self" >
+			<title>MUSIC MAKER</title>
+		</promo>
+		<promo id="carousel12" image_id="carousel12" href="games/worldgrandprix" location="_self" >
+			<title>WORLD GRAND PRIX RACES</title>
+		</promo>
+		<promo id="carousel11" image_id="carousel11" href="games/matermemory" location="_self" >
+			<title>MATER MEMORY GAME</title>
+		</promo>
+		<promo id="carousel1" image_id="carousel1" target="_blank" href="http://disney.go.com/games/#/games/play/%26content=10564">
+			<title>CARS BUBBLE JUMBLE</title>
+		</promo>
+		<promo id="carousel2" image_id="carousel2" href="products/videogames/mater_tall_tales">
+			<title>CARS TOON Wii</title>
+		</promo>
+		<promo id="carousel3" image_id="carousel3" options="width=728,height=540,scrollbars=0,resizable=0,location=0" target="popup" href="http://disney.go.com/cars/games/luigi/games-luigi.html">
+			<title>GUIDO'S TIRE STACKING</title>
+		</promo>
+		<promo id="carousel4" image_id="carousel4" options="width=600,height=450,scrollbars=0,resizable=0,location=0" target="popup" href="http://disney.go.com/cars/games/desert-dash/games-desert-dash.html">
+			<title>DESERT DASH</title>
+		</promo>
+		<promo id="carousel5" image_id="carousel5" options="width=600,height=460,scrollbars=0,resizable=0,location=0" target="popup" href="http://disney.go.com/cars/games/drag-race/games-drag-race.html">
+			<title>DOC'S DRAG RACE</title>
+		</promo>
+		<promo id="carousel6" image_id="carousel6" options="width=728,height=540,scrollbars=0,resizable=0,location=0" target="popup" href="http://disney.go.com/cars/games/flos/games-flo.html">
+			<title>FLO'S V8 GAME</title>
+		</promo>
+		<promo id="carousel8" image_id="carousel8" options="width=600,height=460,scrollbars=0,resizable=0,location=0" target="popup" href="http://disney.go.com/cars/games/mater-rescue/games-mater-rescue.html">
+			<title>MATER'S RESCUE</title>
+		</promo>
+		<promo id="carousel9" image_id="carousel9" options="width=590,height=440,scrollbars=0,resizable=0,location=0" target="popup" href="http://disney.go.com/cars/games/tractor-tip/games-tractor-tip.html">
+			<title>TRACTOR TIPPING</title>
+		</promo>
+		<promo id="carousel10" image_id="carousel10" target="_blank" href="http://worldofcars.go.com/?source=PpWCWocDol00011%26cmp=woc_BAC_Cars_FHome_170x270_Launch_ML_Extl">
+			<title>PLAY WORLD OF CARS ONLINE</title>
+		</promo>
+		<promo id="carousel13" image_id="carousel13" href="games/chrome" location="_self" >
+			<title>C.H.R.O.M.E.  MISSIONS</title>
+		</promo>
+		<promo id="carousel14" image_id="carousel14" href="games/spyaerial" location="_self" >
+			<title>SPY AERIAL SUPPORT</title>
+		</promo>
+	</page>
+	
+	<images>
+	    <!-- games home page images -->
+		<img id="top1" location="games" src="promos/games/3_up_games_woc.jpg" />
+		<img id="top2" location="games" src="promos/games/3_up_games_chrome.jpg" />
+		<img id="top3" location="games" src="promos/games/3_up_games_spy_aerial.jpg" />
+		    <!--
+			<img id="top2" location="games" src="promos/games/3_up_games_wgp.jpg" />
+			<img id="top3" location="games" src="promos/games/3_up_games_mater_memory.jpg" />
+		<img id="top2" location="games" src="promos/games/games_mater_memory_lg.jpg" />
+		    -->
+		
+		<!-- games carousel -->	
+		<img id="carousel1" location="games" src="promos/games/games_thumb_bubble_jumble.jpg" /> 
+		<img id="carousel2" location="games" src="promos/games/games_thumb_cars_wii.jpg" />
+		<img id="carousel3" location="games" src="promos/games/games_thumb_casa_tires.jpg" />
+		<img id="carousel4" location="games" src="promos/games/games_thumb_desert_dash.jpg" />
+		<img id="carousel5" location="games" src="promos/games/games_thumb_drag_race.jpg" />
+		<img id="carousel6" location="games" src="promos/games/games_thumb_flo.jpg" />
+		<img id="carousel8" location="games" src="promos/games/games_thumb_mater_rescue.jpg" />
+		<img id="carousel9" location="games" src="promos/games/games_thumb_tractor_tipping.jpg" />
+		<img id="carousel10" location="games" src="promos/games/games_thumb_woc.jpg" />
+		<img id="carousel11" location="games" src="promos/games/games_mater_memory.jpg" />
+		<img id="carousel12" location="games" src="promos/games/games_WGP.jpg" />
+		<img id="carousel13" location="games" src="promos/games/games_chrome.jpg" />
+		<img id="carousel14" location="games" src="promos/games/games_spy_aerial.jpg" />   
+		<img id="carousel15" location="games" src="promos/games/games_mega_poster.jpg" /> 
+		<img id="carousel16" location="games" src="promos/games/games_juggle.jpg" />
+		<img id="carousel17" location="games" src="promos/games/games_carchinko.jpg" />
+		<img id="carousel18" location="games" src="promos/games/games_music_maker.jpg" /> 
+		<img id="carousel19" location="games" src="promos/games/games_thumb_spy_trainer.jpg" />       
+		
+		
+	</images>
+	
+</games>

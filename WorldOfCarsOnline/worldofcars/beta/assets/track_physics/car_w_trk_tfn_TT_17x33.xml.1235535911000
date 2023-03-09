@@ -1,0 +1,28 @@
+<track>
+	<segments>
+		<segment id='1' type='5' parents='' children='2' px='498,370,562,624' py='302,168,114,264' mx='455,413,583,603' my='257,213,165,214' racingPoint='434,235' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='3000.000,3000.000,3000.000' />
+		</segment>
+		<segment id='2' type='5' parents='1' children='3' px='624,562,814,808' py='264,114,95,251' mx='603,583,812,810' my='214,165,148,200' racingPoint='593,189' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='3000.000,3000.000,3000.000' />
+		</segment>
+		<segment id='3' type='5' parents='2' children='4' px='808,814,1014,1008' py='251,95,103,251' mx='810,812,1012,1010' my='200,148,153,202' racingPoint='811,173' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='3000.000,3000.000,3000.000' />
+		</segment>
+		<segment id='4' type='5' parents='3' children='5' px='1008,1014,1214,1212' py='251,103,96,250' mx='1010,1012,1213,1213' my='202,153,149,200' racingPoint='1011,177' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='3000.000,3000.000,3000.000' />
+		</segment>
+		<segment id='5' type='5' parents='4' children='6' px='1212,1214,1414,1414' py='250,96,98,248' mx='1213,1213,1414,1414' my='200,149,149,199' racingPoint='1213,173' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='3000.000,3000.000,3000.000' />
+		</segment>
+		<segment id='6' type='5' parents='5' children='7' px='1414,1414,1614,1624' py='248,98,102,250' mx='1414,1414,1617,1620' my='199,149,152,201' racingPoint='1414,173' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='3000.000,3000.000,3000.000' />
+		</segment>
+		<segment id='7' type='5' parents='6' children='8' px='1624,1614,1851,1823' py='250,102,94,250' mx='1620,1617,1842,1832' my='201,152,147,199' racingPoint='1619,176' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='3000.000,3000.000,3000.000' />
+		</segment>
+		<segment id='8' type='5' parents='7' children='' px='1823,1851,2048,2020' py='250,94,130,286' mx='1832,1842,2039,2029' my='199,147,183,234' racingPoint='1837,172' mergingRacingPoint='' >
+			<properties name='' type='1' friction='0.000' bounce='0.000' drift='0.700,0.700,0.700' drag='3000.000,3000.000,3000.000' />
+		</segment>
+	</segments>
+</track>

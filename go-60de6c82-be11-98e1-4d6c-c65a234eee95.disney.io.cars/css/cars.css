@@ -1,0 +1,49 @@
+
+/***  ADS  ***/
+
+#content {
+	  margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	width: 996px;
+}
+#adServe
+{
+	z-index:99;
+	/*position:absolute;*/
+	top:0px;
+	/*left:50%;*/
+	/*margin-left:-458px;*/
+	
+	background-color: #ffcc33;
+	opacity: .7;
+}
+#adSponsor,
+#adSponsorTargeted
+{
+	/*position:absolute;*/
+	width:120px;
+	height:60px;
+	/*top:-60px;
+	left:0px;*/
+	display:none;
+}
+#adSuper,
+#adSuperTargeted
+{
+	/*position:absolute;
+	left:89px;
+	top:704px;*/
+	width:738px;
+	height:90px;
+	display:none;
+}
+#adSuper
+{
+	background-image:url(../media/images/ad/ad_sample_728.gif);
+	background-repeat:no-repeat;
+	background-position:top left;
+}
+#adSuperTargeted
+{
+}

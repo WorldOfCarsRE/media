@@ -1,0 +1,41 @@
+<fsp>
+	<playlist>
+		<channel name="" prettyName="" id="">
+			<chapter logo="" title="Cars 2 TV Spot: New Trip" prettyName="newtrip" thumbnail="images/video_thumbs/cars2_tvnewtrip.jpg" type="single" description="Mater meets Finn and Holley" id="newtrip">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10234_wdpm_car_2_tv_spot_new_trip_hi" progurl_low="xd10234_wdpm_car_2_tv_spot_new_trip_hi" id="newtrip" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_35|xd10234_wdpm_car_2_tv_spot_new_trip_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			             
+			<chapter logo="" title="Cars 2 TV Spot: Pedigree" prettyName="pedigree" thumbnail="images/video_thumbs/cars2_tvpedigree.jpg" type="single" description="Don't miss the action in Cars 2" id="pedigree">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10235_wdpm_car_2_tv_spot_pedigree_hi" progurl_low="xd10235_wdpm_car_2_tv_spot_pedigree_hi" id="pedigree" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_35|xd10235_wdpm_car_2_tv_spot_pedigree_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>	
+			
+			<chapter logo="" title="Trailer 3" prettyName="trailer-3" type="single" description="Rev up at the World Grand Prix" id="trailer-3">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd10057_wdpm_car_2_trailer_4_hi" progurl_low="xd10057_wdpm_car_2_trailer_4_hi" id="trailer-3" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd10057_wdpm_car_2_trailer_4_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>
+			
+			<!--<chapter logo="" title="Trailer 2" prettyName="trailer-2" thumbnail="images/video_thumbs/cars_trailer.jpg" type="single" description="Ka-chow! Check out the international action in Cars 2." id="trailer-2">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09777_wdpm_car_2_trailer_2_hi" progurl_low="xd09777_wdpm_car_2_trailer_2_hi" id="trailer-2" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd09777_wdpm_car_2_trailer_2_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>-->
+			
+			<!--<chapter logo="" title="Trailer" thumbnail="" type="single" description="Get revved with a first look at Cars 2!" id="09174">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd09174_wdpm_car_2_cars_2_trailer_hi" progurl_low="xd09174_wdpm_car_2_cars_2_trailer_sw" id="09174" length="35" start="" reportingAccount="wdgdoldpic,wdgdolcar,wdgdsec" reportingAssetName="vid:wdpm|car_2_87|xd09174_wdpm_car_2_cars_2_splash_trailer_hi" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>-->
+			
+			<!--<chapter logo="" title="Teaser" thumbnail="" type="single" description="Mater and Lightning McQueen return in Cars 2." id="08994">
+				<clip local="false" adcat="" audioart="">
+					<video streamurl="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" streamurl_low="rtmp://wdig.fcod.llnwd.net/a339/o2/disneyextreme/disneypictures/" progurl="xd08992_wdpm_car_2_teaser_trailer_hi" progurl_low="xd08992_wdpm_car_2_teaser_trailer_sw" id="08994" length="35" start="" reportingAccount="disneypictures,disneycom" reportingAssetName="dol|fran-car_35|sneak_peek" mediaformat="flv" mediarating="off" aspectRatio=""/>
+				</clip>
+			</chapter>-->
+		</channel>
+	</playlist>
+</fsp>

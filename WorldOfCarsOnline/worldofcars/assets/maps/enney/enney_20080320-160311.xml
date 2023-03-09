@@ -1,0 +1,76 @@
+<area xOffset="0" yOffset="0" width="4" height="10" defaultTile="dirt_tile">
+  <assets>
+    <asset id="294"/>
+    <asset id="311"/>
+    <asset id="73"/>
+    <asset id="90"/>
+    <asset id="75"/>
+    <asset id="237"/>
+  </assets>
+  <layers>
+    <layer name="ground" sort="false" type="diamond" tileWidth="200" tileHeight="100" maxTileLayers="4">
+      <tile asset="237,,," x="0" y="0" flags=""/>
+      <tile asset="237,,," x="0" y="1" flags=""/>
+      <tile asset="237,,," x="0" y="2" flags=""/>
+      <tile asset="237,,," x="0" y="3" flags=""/>
+      <tile asset="237,,," x="0" y="4" flags=""/>
+      <tile asset="237,,," x="0" y="5" flags=""/>
+      <tile asset="237,,," x="0" y="6" flags=""/>
+      <tile asset="237,,," x="0" y="7" flags=""/>
+      <tile asset="237,,," x="0" y="8" flags=""/>
+      <tile asset="237,,," x="0" y="9" flags=""/>
+      <tile asset="237,,," x="1" y="0" flags=""/>
+      <tile asset="237,,," x="1" y="1" flags=""/>
+      <tile asset="237,,," x="1" y="2" flags=""/>
+      <tile asset="237,,," x="1" y="3" flags=""/>
+      <tile asset="237,,," x="1" y="4" flags=""/>
+      <tile asset="237,,," x="1" y="5" flags=""/>
+      <tile asset="237,,," x="1" y="6" flags=""/>
+      <tile asset="237,,," x="1" y="7" flags=""/>
+      <tile asset="237,,," x="1" y="8" flags=""/>
+      <tile asset="237,,," x="1" y="9" flags=""/>
+      <tile asset="237,,," x="2" y="0" flags=""/>
+      <tile asset="237,,," x="2" y="1" flags=""/>
+      <tile asset="237,,," x="2" y="2" flags=""/>
+      <tile asset="237,,," x="2" y="3" flags=""/>
+      <tile asset="237,,," x="2" y="4" flags=""/>
+      <tile asset="237,,," x="2" y="5" flags=""/>
+      <tile asset="237,,," x="2" y="6" flags=""/>
+      <tile asset="237,,," x="2" y="7" flags=""/>
+      <tile asset="237,,," x="2" y="8" flags=""/>
+      <tile asset="237,,," x="2" y="9" flags=""/>
+      <tile asset="237,,," x="3" y="0" flags=""/>
+      <tile asset="237,,," x="3" y="1" flags=""/>
+      <tile asset="237,,," x="3" y="2" flags=""/>
+      <tile asset="237,,," x="3" y="3" flags=""/>
+      <tile asset="237,,," x="3" y="4" flags=""/>
+      <tile asset="237,,," x="3" y="5" flags=""/>
+      <tile asset="237,,," x="3" y="6" flags=""/>
+      <tile asset="237,,," x="3" y="7" flags=""/>
+      <tile asset="237,,," x="3" y="8" flags=""/>
+      <tile asset="237,,," x="3" y="9" flags=""/>
+    </layer>
+    <layer name="road" sort="false" type="diamond" tileWidth="200" tileHeight="100" maxTileLayers="1">
+      <tile asset="73" x="2" y="4" flags="hF"/>
+      <tile asset="73" x="0" y="3" flags=""/>
+      <tile asset="294" x="7" y="16" flags="hF"/>
+      <tile asset="90" x="4" y="10" flags="vF"/>
+      <tile asset="294" x="6" y="14" flags="hF"/>
+      <tile asset="73" x="2" y="5" flags="hF"/>
+      <tile asset="75" x="1" y="2" flags=""/>
+      <tile asset="294" x="5" y="12" flags="hF"/>
+      <tile asset="73" x="1" y="3" flags="hF"/>
+      <tile asset="294" x="8" y="18" flags="hF"/>
+      <tile asset="73" x="3" y="7" flags="hF"/>
+      <tile asset="73" x="3" y="6" flags="hF"/>
+      <tile asset="73" x="0" y="4" flags=""/>
+    </layer>
+    <layer name="object" sort="false" type="diamond" tileWidth="100" tileHeight="50" maxTileLayers="1">
+      <tile asset="311" x="9" y="25" flags="r|vF|hF"/>
+      <tile asset="311" x="7" y="19" flags="r|vF|hF"/>
+      <tile asset="311" x="5" y="13" flags="r|vF|hF"/>
+      <tile asset="311" x="11" y="16" flags="vF|hF"/>
+      <tile asset="311" x="3" y="5" flags="r|vF|hF"/>
+    </layer>
+  </layers>
+</area>

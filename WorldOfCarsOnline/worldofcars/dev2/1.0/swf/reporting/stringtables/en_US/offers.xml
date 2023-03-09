@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<offer name="CARS1M" description="Monthly recurring" />
+	<offer name="CARS6M" description="6 months recurring" />
+	<offer name="CARS1Y" description="Annual recurring" />
+</data>

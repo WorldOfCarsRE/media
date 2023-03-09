@@ -1,0 +1,10 @@
+Redima su código por favor
+Introduzca su código aquí
+Redima
+Usted ha redimido ${codeNum}/152 códigos.
+¡Enhorabuena!
+Usted ha recibido un ${collectibleName} cobrable.
+Usted también ha abierto ${itemName} de ${storeName}.
+Cierre
+Usted remeemed ya ese código. Si usted tiene otro código ese usted haven' t incorporado con todo intento que uno.
+El código que usted introdujo es inválido. Cerciórese de le para incorporar cada número cuidadosamente.

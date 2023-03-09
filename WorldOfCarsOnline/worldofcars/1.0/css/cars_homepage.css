@@ -1,0 +1,226 @@
+@import 'cars_common.css';
+#homepage #subnav{
+	display:none;
+}
+/*
+.slide{
+	position:absolute;
+	left:6px;
+	top:60px;
+}
+*/
+
+.dash_left,.dash_right{
+	position:absolute;
+	top:37px;
+	z-index:5;
+}
+.dash_left{
+	left:43px;
+}
+.dash_right{
+	right:44px;
+}
+#dashboard{
+}
+#dashboard,#ds_frame{
+	position:relative;
+	float:left;
+	width:998px;
+	height:238px;
+	background: transparent url(../images/backgrounds/dashboard.png);
+	z-index:7;
+}
+
+#ds_frame{
+	background: transparent url(../images/backgrounds/home_frame_btm.gif);
+}
+
+.link_scrn{
+	/*position:absolute;*/
+	float:left;
+	width:988px;
+	height:350px;
+	margin:-70px 0 -20px;
+	/*top:70px;
+	left:4px;*/
+	display:block;
+	z-index:14;
+	/*border:1px solid red;*/
+}
+
+
+.mainslide_container {
+	position: absolute;
+	top: 90px;
+	left: 50%;
+	margin-left: -493px;
+	width: 986px;
+	height: 397px;
+	z-index: 2;
+}
+
+.mainslide_container .slide_group {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 986px;
+	height: 397px;
+	z-index: 0;
+}
+
+
+.promote{
+	float:left;
+	position:relative;
+	margin-top:10px;
+}
+
+#promote_1{
+	width:246px;
+	height:184px;
+	margin:38px 0 0 45px;
+	_margin-left:22px;
+}
+#promote_2{
+	width:403px;
+	height:185px;
+	margin:25px 0 0 6px;
+	z-index:500;
+	background: url(../images/backgrounds/whats-new-bg.gif) top left no-repeat;
+}
+#whats_new_header{
+	position:relative;
+	padding-top:15px;
+	width:403px;
+	float:left;
+}
+#whats_new{
+	width:206px;
+	height:27px;
+	position: absolute;
+	top: 16px;
+	left: 101px;
+	background: url(../images/headers/whats-new-home.png) top left no-repeat;
+	text-indent:-9999em;
+}
+.page_arrow,.next_arrow{
+	float:left;
+	display:inline;
+	width:27px;
+	height:28px;
+	margin:1px 0 0 30px;
+	/**margin:5px 0 0 60px;
+	_margin-left:15px;*/
+	text-indent:-9999em;
+	overflow:hidden;
+	position:relative;
+	z-index:10;
+	background: url(../images/ui/homepage-arrows.gif) left top no-repeat;
+}
+.next_arrow{
+	float:right;
+	margin-right:30px;
+
+	background-position: -27px -0px;
+}
+.next_arrow:hover{
+	background-position: -27px -28px;
+}
+.prev_arrow:hover{
+	background-position: 0px -28px;
+}
+#promote_3{
+	width:270px;
+	height:184px;
+	margin:38px 0 0 10px;
+}
+
+.promote_slide{
+	float:left;
+	padding:10px 20px 0 50px;
+	/*position:absolute;
+	*top:60px;
+	padding:20px 40px;*/
+	color:#fff;
+	font-size:90%;
+	font-family:Verdana, Geneva, sans-serif;
+	margin-top: 12px;
+	height: 105px;
+	overflow: hidden;
+}
+.promote_slide .slide_scrn{
+	position:absolute;
+	width:300px;
+	height:105px;
+	display:block;
+	background:transparent url(../images/blank.gif) repeat scroll left top;
+	z-index: 20;
+}
+
+.promote_slide h3{
+	width:300px;
+	color:#00ceff;
+	padding:5px 0;
+}
+.promote_slide p{
+	font-size:80%;
+	width:320px;
+	line-height:1.5em;
+}
+
+.timestamp{
+	display:none;
+	color:#838383;
+}
+
+.promote_desc{
+	line-height:1.2em;
+	color:#c1c1c1;
+}
+
+.learn_more{
+	position:absolute;
+	height:173px;
+	width:246px;
+	text-indent:-9999em;
+	display:block;
+	left:0;
+	top:0;
+	overflow:hidden;
+	z-index:501;
+}
+
+
+.whatsNewCarousel {
+	width: 360px;
+	margin: 20px 0px 0px 22px;
+	overflow: hidden;
+	position: relative;
+	height: 110px;
+	float: left;
+	display: inline;
+}
+
+.whatsNewCarousel .whatsNewSlide {
+	width: 360px;
+	height: 110px;
+	overflow: hidden;
+	background: #000;
+	display: none;
+	position: absolute;
+		top: 0px;
+		left: 0px;
+	cursor: pointer;
+}
+
+.whatsNewCarousel .whatsNewSlide h3{
+	width: 340px;
+	color: #00ceff;
+	padding: 5px 0px;
+}
+.whatsNewCarousel .whatsNewSlide .whatsNewPreview{
+	font-size: .8em;
+	line-height: 1.5em;
+	color: #fff;
+}

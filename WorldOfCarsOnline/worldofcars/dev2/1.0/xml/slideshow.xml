@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+	<slide>
+		<url>#1</url>
+		<image>http://a.dolimg.com/worldofcars/1.0/images/slider/slider_1.jpg</image>
+	</slide>
+	<slide>
+		<url>#2</url>
+		<image>http://a.dolimg.com/worldofcars/1.0/images/slider/slider_2.jpg</image>
+	</slide>
+	<slide>
+		<url>#3</url>
+		<image>http://a.dolimg.com/worldofcars/1.0/images/slider/slider_3.jpg</image>
+	</slide>
+	<slide>
+		<url>#4</url>
+		<image>http://a.dolimg.com/worldofcars/1.0/images/slider/slider_4.jpg</image>
+	</slide>
+	<slide>
+		<url>#5</url>
+		<image>http://a.dolimg.com/worldofcars/1.0/images/slider/slider_5.jpg</image>
+	</slide>
+</slideshow>

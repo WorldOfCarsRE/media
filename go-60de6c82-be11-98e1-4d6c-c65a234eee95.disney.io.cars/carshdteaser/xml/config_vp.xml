@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fsp>
+	<custom>
+		<!-- allows you to turn fullscreen off default is on -->
+		<allowFullScreen>true</allowFullScreen>
+		
+		<!-- this allows paging for the playlist adding a page after 10 items in the list -->
+		<allowArchive>false</allowArchive>
+		
+		<!-- for which playlist direction we want default is vertical use "horizontal" if you want a horizontal playlist -->
+		<playlistDir> vertical </playlistDir>
+		
+		<!-- if you only have one video and do not plan on having more we can set the playlist not to show. -->
+		<showPlaylist>true</showPlaylist>
+		
+		<!-- Display and conrol the playlist with buttons. -->
+		<showPlaylistButtons>true</showPlaylistButtons>
+		
+		<!-- Display the playlist Scrollbar. -->
+		<showPlaylistScrollBar>true</showPlaylistScrollBar>
+		
+		<!-- set to false to keep the playlist UI visible at all times. -->
+		<hidePlayListUI>true</hidePlayListUI>
+		
+		<!-- Thsi will allow the ability to show a playlist Item information similar to Jupiter -->
+		<showPlayItemInfo>false</showPlayItemInfo>
+		
+		<!-- set to true to so Player controls will hide and appear on mouse move. -->
+		<hidePlayerControls>false</hidePlayerControls>
+		
+		<!-- set to false to keep the playlist UI visible at all times. -->
+		<autoScrollPlaylist>true</autoScrollPlaylist>
+		
+		<!-- use the relative path to the skin (relative to the file the player is embedded in)-->
+		<skinFile>videoplayerSkin_MPF.swf</skinFile>
+		
+		<!-- use the relative path to the xml file for the playlist  xml/chapter_videoplayist.xml -->
+		<!-- <playlistXML>http://home.disney.go.com/disneyxd_tv/dynamic/videoPlaylist?id=1754465</playlistXML> -->
+		<playlistXML>xml/carsHD.xml</playlistXML>
+		
+		<!-- !!!!DO NOT REMOVE THIS IS REQUIRED!!!  -->
+		<ropePlaylistXML>xml/ropeplayist.xml</ropePlaylistXML>
+		
+		<!-- Use to set the width of the player area (the black screen area NOT the entire FLA -->
+		<playerWidth>512</playerWidth>
+		
+		<!-- Use to set the height of the player area (the black screen area NOT the entire FLA -->
+		<playerHeight>288</playerHeight>
+		
+		<!-- Use to set the play list to loop -->
+		<playlistLoop>true</playlistLoop>
+		
+		<!-- Use to autostart the player after setup -->
+		<autoStart>true</autoStart>
+		
+		<!-- Use to autoAdvance the play list -->
+		<autoAdvance>true</autoAdvance>
+		
+		<!-- Use to set the number of pagination buttons (arrows display when there are more pages than buttons)  -->
+		<maxButtons>2</maxButtons>
+		
+		<yourwatching fontname="FontRegular">YOU'RE WATCHING</yourwatching>
+		
+		<!-- this is the offset of the videoPlayer to the main swf. -->
+		<fsXoffSet>200</fsXoffSet>
+		<fsYoffSet>50</fsYoffSet>
+		
+		<!-- buffering time for the video. The Higher the longer to the stream. default is 4 should be no lower than that -->
+		<buffer>4</buffer>
+	</custom>
+	<ad>
+		<serviceURL>http://dol.vad.go.com/DynamicVideoAd</serviceURL>
+		<service>dis</service>
+		<contextualPath>/?test=richmediaone/</contextualPath> 
+		<!-- <contextualPath>/disney/partners/getinspired</contextualPath>-->
+		<adStategy>CC</adStategy>
+		<adTitle>Advertisement</adTitle>
+		<adFormat>DVAS</adFormat>
+		<overlayX>20</overlayX>
+		<overlayY>0</overlayY>
+		<overlayDelay>2</overlayDelay>
+		<leaveBehindX>670</leaveBehindX>
+		<leaveBehindY>0</leaveBehindY>
+		<removeLeaveBehind>true</removeLeaveBehind>
+	</ad>
+	<fonts load="false">
+		<fontSwf name="FontBold" path="media/fonts/FontBold.swf"></fontSwf>
+		<fontSwf name="FontRegular" path="media/fonts/FontRegular.swf"></fontSwf>
+	</fonts>
+</fsp>

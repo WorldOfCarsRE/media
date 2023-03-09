@@ -1,0 +1,81 @@
+body {
+	color:#ffffff;
+	background:#000000; 
+	background-color: #000000;
+	margin:0;padding:0;
+}
+
+#content {
+	color:#ffffff;
+	margin:0 auto;padding:0;
+	min-width:994px;
+	width: 994px;
+	width: auto !important;
+}
+
+#background_main {
+	background: #000000;	
+	width: 994px;
+	height: 700px; 
+	margin:0 auto;padding:0;
+}
+
+#main {
+	position: relative;
+	width: 994px;
+	height: 700px; 
+	margin:0 auto;
+	padding:0;
+}
+
+#flashcontent {
+	position: absolute;
+	color:#000000;
+	width: 994px;
+	height: 700px;
+	padding: 0;
+	margin: 0;
+	outline: 0;
+}
+
+#fb-like {
+	display: none;
+}
+
+object {
+	display: block;
+}
+    
+img {
+	border: 0px;
+}
+
+#footer {
+	position: relative;
+	color:#ffffff;	
+	text-align:center;
+	margin:0;padding:0;
+}
+
+#ratingsInfo,#ratingsInfo a,#ratingsInfo a:hover{color:#555555;font:10px verdana,arial,helvetica,sans-serif;}
+
+#disclaimer {
+   position: absolute;
+   width:300px;
+   margin: 0 auto;
+   padding:5px;
+   top: -5px;
+   left: 560px;
+   color:#555555;
+   text-align:center;
+   font-family:Arial, Helvetica, "sans serif";
+   font-size:11px;
+   background:#000000;
+   border:1px solid #555555;
+   display:none;
+}
+
+#footer a.dolFooterLnk {
+	color:#ffffff !important;
+	font-size:11px !important;
+}

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<activities>
+	<page id="activities" template="com.disney.cars2.templates.LandingPageTemplate">
+		<title>ACTIVITIES</title>
+		
+		<promo id="top1" image_id="top1" target="_blank" href="http://family.go.com/disney/pkg-disney-recipes/recipe-873553-tow-mater-cookie-treats-t/?cmp=SYN-DIS_Dcom_Cars_Activities_TowMaterCookieTreats_Fcom">
+			<title>TOW MATER COOKIE TREATS</title>
+		</promo>
+		<promo id="top2" image_id="top2" target="_blank" href="http://family.go.com/disney/pkg-disney-crafts/craft-872947-cozy-cone-motel-t/?cmp=SYN-DIS_Dcom_Cars_Activities_CozyConeMotel_Fcom">
+			<title>COZY CONE MOTEL</title>
+		</promo>
+		<!--
+		<promo id="top3" image_id="top3" target="popup" href="http://family.go.com/disney/pkg-disney-crafts/craft-865531-lightning-bolt-keychain-t/?cmp=SYN-DIS_Dcom_Cars_GamesMain_LighteningBoltKeychain_Fcom">
+			<title>LIGHTNING BOLT KEYCHAIN</title>
+		</promo>
+		-->
+		
+		<!-- activities carousel info-->
+	   <promo id="carousel12" image_id="carousel12" target="_blank" href="http://a.dolimg.com/franchise/cars/downloads/Cars_ActivityPack.pdf">
+			<title>ACTIVITIES PACK</title>
+		</promo>
+		<promo id="carousel1" image_id="carousel1" target="_blank" href="http://family.go.com/disney/pkg-disney-recipes/recipe-bakerella-903493-tow-mater-cupcakes-t/?cmp=SYN-DIS_Dcom_Cars_Activities_MaterCupcakes_Fcom">
+			<title>TOW MATER CUPCAKES</title>
+		</promo>
+		<promo id="carousel2" image_id="carousel2" target="_blank" href="http://family.go.com/disney/pkg-disney-crafts/craft-865533-lightning-mcqueen-car-air-freshener-t/?cmp=SYN-DIS_Dcom_Cars_Activities_McQueenAirFreshener_Fcom">
+			<title>LIGHTNING MCQUEEN CAR AIR FRESHENER</title>
+		</promo>
+		<promo id="carousel3" image_id="carousel3" target="_blank" href="http://family.go.com/disney/pkg-disney-recipes/recipe-873542-whitewall-tire-cookies-t/?cmp=SYN-DIS_Dcom_Cars_Activities_WhitewallTireCookies_Fcom">
+			<title>WHITEWALL TIRE COOKIES</title>
+		</promo>
+		<promo id="carousel4" image_id="carousel4" target="_blank" href="http://family.go.com/disney/pkg-disney-crafts/craft-864722-toy-gas-pump-t/?cmp=SYN-DIS_Dcom_Cars_GamesMain_ToyGasPump_Fcom">
+			<title>TOY GAS PUMP</title>
+		</promo>
+		<promo id="carousel5" image_id="carousel5" target="_blank" href="http://family.go.com/disney/pkg-disney-printables/article-759396-disney-preschool-printable-cars-radiator-springs-playset-t/?cmp=SYN-DIS_Dcom_Cars_Activities_RadiatorSpringsPlayset_Fcom">
+			<title>CARS RADIATOR SPRINGS PLAYSET</title>
+		</promo>
+		<promo id="carousel6" image_id="carousel6" target="_blank" href="http://family.go.com/disney/pkg-disney-recipes/recipe-873553-tow-mater-cookie-treats-t/?cmp=SYN-DIS_Dcom_Cars_Activities_TowMaterCookieTreats_Fcom">
+			<title>TOW MATER COOKIE TREATS</title>
+		</promo>
+		<promo id="carousel7" image_id="carousel7" target="_blank" href="http://family.go.com/disney/pkg-disney-crafts/craft-872947-cozy-cone-motel-t/?cmp=SYN-DIS_Dcom_Cars_Activities_CozyConeMotel_Fcom">
+			<title>COZY CONE MOTEL</title>
+		</promo>
+		<promo id="carousel8" image_id="carousel8" target="_blank" href="http://family.go.com/disney/pkg-disney-crafts/craft-874462-oil-can-holders-t/?cmp=SYN-DIS_Dcom_Cars_Activities_OilCanHolders_Fcom">
+			<title>OIL CAN HOLDERS</title>
+		</promo>
+		<promo id="carousel9" image_id="carousel9" target="_blank" href="http://family.go.com/disney/pkg-disney-crafts/craft-873558-guido-bookend-t/?cmp=SYN-DIS_Dcom_Cars_Games_LuigiBookend_Fcom">
+			<title>GUIDO BOOKEND</title>
+		</promo>
+		<promo id="carousel10" image_id="carousel10" target="_blank" href="http://family.go.com/disney/pkg-disney-crafts/craft-874467-tippy-cardboard-tractor-t/?cmp=SYN-DIS_Dcom_Cars_Activities_TippyCardboardTractors_Fcom">
+			<title>TIPPY CARDBOARD TRACTOR</title>
+		</promo>
+		<promo id="carousel11" image_id="carousel11" target="_blank" href="http://family.go.com/disney/pkg-disney-crafts/craft-865531-lightning-bolt-keychain-t/?cmp=SYN-DIS_Dcom_Cars_GamesMain_LighteningBoltKeychain_Fcom">
+			<title>LIGHTNING BOLT KEYCHAIN</title>
+		</promo>
+	</page>
+	
+	<images>
+	    <!-- activities home page images -->
+		<img id="top1" location="activities" src="promos/activities/activities_tow_mater_cookie_lg.jpg" />
+		<img id="top2" location="activities" src="promos/activities/activities_cozy_cone_motel_lg.jpg" />
+		<!--
+		<img id="top3" location="activities" src="promos/activities/activities_main02_keychain.jpg" />
+		-->
+		<!-- activities carousel -->
+		<img id="carousel1" location="activities" src="promos/activities/activities_tow_mater_cupcakes.jpg" />
+		<img id="carousel2" location="activities" src="promos/activities/activities_lightning_air_fresh.jpg" />
+		<img id="carousel3" location="activities" src="promos/activities/activities_whitewall_tire.jpg" />
+		<img id="carousel4" location="activities" src="promos/activities/activities_gas_pump.jpg" />
+		<img id="carousel5" location="activities" src="promos/activities/activities_radiator_springs_playset.jpg" />
+		<img id="carousel6" location="activities" src="promos/activities/activities_tow_mater_cookie.jpg" />
+		<img id="carousel7" location="activities" src="promos/activities/activities_cozy_cone_motel.jpg" />
+		<img id="carousel8" location="activities" src="promos/activities/activities_oil_can.jpg" />
+		<img id="carousel9" location="activities" src="promos/activities/activities_thumb_bookend.jpg" />
+		<img id="carousel10" location="activities" src="promos/activities/activities_tippy_tractor.jpg" />
+		<img id="carousel11" location="activities" src="promos/activities/activities_thumb_keychain.jpg" />
+		<img id="carousel12" location="activities" src="promos/activities/activities_thumb_pack.jpg" />
+		
+		
+	</images>
+</activities>

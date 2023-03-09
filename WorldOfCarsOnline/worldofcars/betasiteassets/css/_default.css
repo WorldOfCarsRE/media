@@ -1,0 +1,29 @@
+
+
+body {
+text-align: center;
+background: #0D1E25;
+}
+
+#background{
+text-align: -moz-center;
+}
+
+#chome{
+	height:35px;
+}
+
+#heading{
+	height:210px;
+}
+
+#mainform{
+	width:475px;
+	font-family:arial, helvetica, verdana, sans-serif;
+	font-size: 10pt;
+	color: #FFFFFF;
+}
+
+#footer{
+	height:110px;
+}

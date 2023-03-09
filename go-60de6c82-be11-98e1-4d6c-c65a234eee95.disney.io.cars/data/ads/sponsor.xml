@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- local delivery test 100415 --> 
+
+<page>
+	<promo>
+        <sponsor_asset id="Super" src="images/sponsors/cars-sponsor-test-internal-728x90.jpg" href="http://www.mattel.com/boys?banner" />
+        <sponsor_asset id="SponsorLogo" src="images/sponsors/cars-sponsor-test-logo-160x80.png" href="http://www.mattel.com/boys?SponsorLogo" />
+        <data>
+             <left_promo id="left" src="images/sponsors/cars-product-logo-280x120.jpg">
+                <title>Logo Header</title>
+                <nav id="left_side" href="http://www.mattel.com/boys?Logo">
+                    <title>LOGO LINK</title>
+                </nav>
+            </left_promo>
+
+            <right_promo id="right" src="images/sponsors/cars-product-logo2-280x120.jpg">
+                <title>Logo2 Header</title>
+                <nav id="right_side" href="http://www.mattel.com/boys?Logo2">
+                    <title>LOGO2 LINK</title>
+                </nav>
+            </right_promo>
+
+            <featured>
+                <title>Featured</title>
+
+                <product src="images/sponsors/cars-product-logo3-130x100.png" href="http://www.mattel.com/boys?Logo3">
+	                <title>LOGO3 PRODUCT</title>
+	                <nav id="book">
+	                	<title>LOGO3 INFO</title>
+	                </nav>
+                </product>
+                <product src="images/sponsors/cars-product-logo4-130x100.png" href="http://www.mattel.com/boys?Logo4">
+	                <title>LOGO4 PRODUCT</title>
+	                <nav id="book">
+	                	<title>LOGO4 INFO</title>
+	                </nav>
+                </product>
+                <product src="images/sponsors/cars-product-logo5-130x100.png" href="http://www.mattel.com/boys?Logo5">
+	                <title>LOGO5 PRODUCT</title>
+	                <nav id="book">
+	                	<title>LOGO5 INFO</title>
+	                </nav>
+                </product>
+                
+                <product src="images/sponsors/cars-product-logo6-130x100.png" href="http://www.mattel.com/boys?Logo6">
+	                <title>LOGO6 PRODUCT</title>
+	                <nav id="book">
+	               		<title>LOGO6 INFO</title>
+	                </nav>
+                </product>
+                <product src="images/sponsors/cars-product-logo7-130x100.png" href="http://www.mattel.com/boys?Logo7">
+	                <title>LOGO7 PRODUCT</title>
+	                <nav id="book">
+	                	<title>LOGO7 INFO</title>
+	                </nav>
+                </product>
+                
+                <product src="images/sponsors/cars-product-logo8-130x100.png" href="http://www.mattel.com/boys?Logo8">
+	                <title>LOGO8 PRODUCT</title>
+	                <nav id="book">
+	                	<title>LOGO8 INFO</title>
+	                </nav>
+                </product>
+
+                
+                <product src="images/sponsors/cars-product-logo9-130x100.png" href="http://www.mattel.com/boys?Logo9">
+	                <title>LOGO9 PRODUCT</title>
+	                <nav id="book">
+	                	<title>LOGO9 INFO</title>
+	                </nav>
+                </product>
+                <product src="images/sponsors/cars-product-logo10-130x100.png" href="http://www.mattel.com/boys?Logo10">
+	                <title>LOGO10 PRODUCT</title>
+	                <nav id="book">
+	                	<title>LOGO10 INFO</title>
+	                </nav>
+                </product>
+            </featured>
+        </data>
+	</promo>
+</page>

@@ -1,0 +1,138 @@
+html {
+	background: #000000 url(../img/affiliate/bg.affiliateDrift.jpg) top center no-repeat;
+	font: 12px/15px 'Verdana', 'Geneva', sans-serif;
+}
+
+a {
+	outline: none;
+	text-decoration: none;
+}
+
+.spl-splashWrapper {
+	width: 996px;
+	height: 687px;
+	margin: auto;
+	position: relative;
+}
+
+.spl-navContainer {
+	position: absolute;
+		left: 675px;
+		top: 5px;
+}
+
+.spl-navContainer li {
+	float: left;
+	display: inline;
+}
+
+.spl-navContainer a {
+	background: url(../img/affiliate/bg.affiliateNav.gif) no-repeat;
+	height: 15px;
+	display: block;
+	float: left;
+	color: #607989;
+	font-weight: bold;
+	padding-left: 20px;
+}
+
+.spl-navContainer a:hover {
+	color: #FCCC5E;
+}
+
+.spl-navContainer .spl-navAbout {
+	background-position: 0px 0px;
+	width: 80px;
+	margin-right: 20px;
+}
+
+.spl-navContainer .spl-navAbout:hover {
+	background-position: 0px -45px;
+}
+
+.spl-navContainer .spl-navWhatsNew {
+	background-position: 0px -15px;
+	width: 80px;
+	margin-right: 20px;
+}
+
+.spl-navContainer .spl-navWhatsNew:hover {
+	background-position: 0px -60px;
+}
+
+.spl-navContainer .spl-navParents {
+	background-position: 0px -30px;
+	width: 45px;
+}
+
+.spl-navContainer .spl-navParents:hover {
+	background-position: 0px -75px;
+}
+
+.spl-playButton {
+	background: url(../img/affiliate/bg.playButton.png) no-repeat;
+	display: block;
+	width: 310px;
+	height: 105px;
+	position: absolute;
+		left: 651px;
+		top: 308px;
+	text-indent: -9999px;
+}
+
+.spl-playButton:hover {
+	background-position: 0px -105px;
+}
+
+.spl-galleryContainer {
+	width: 996px;
+	height: 160px;
+	position: absolute;
+		left: 0px;
+		top: 516px;
+}
+
+.spl-galleryContainer .spl-galleryLink {
+	font: 10px/15px 'Verdana', 'Geneva', sans-serif;
+	display: block;
+	float: left;
+	width: 190px;
+	height: 15px;
+	padding-top: 145px;
+	margin-left: 6px;
+	color: #71899E;
+	text-align: center;
+}
+
+.spl-galleryContainer .spl-galleryLink:hover {
+	color: FCCC5E;
+	text-decoration: underline;
+}
+
+/* ColorBox ----------------------------------------------*/
+#colorbox, #cboxOverlay, #cboxWrapper{position:absolute; top:0; left:0; z-index:9999; overflow:hidden;}
+#cboxOverlay{position:fixed; width:100%; height:100%;}
+#cboxMiddleLeft, #cboxBottomLeft{clear:left;}
+#cboxContent{position:relative;}
+#cboxLoadedContent{overflow:auto;}
+#cboxLoadedContent iframe{display:block; width:100%; height:100%; border:0;}
+#cboxTitle{margin:0;}
+#cboxLoadingOverlay, #cboxLoadingGraphic{position:absolute; top:0; left:0; width:100%;}
+#cboxPrevious, #cboxNext, #cboxClose, #cboxSlideshow{cursor:pointer;}
+
+#cboxOverlay{background:#000;}
+
+#colorbox{}
+#cboxContent{/*margin-top:20px;*/}
+#cboxLoadedContent{background:#000; padding:5px;}
+#cboxTitle{position:absolute; top:-20px; left:0; color:#ccc;}
+#cboxCurrent{position:absolute; top:-20px; right:0px; color:#ccc;}
+#cboxSlideshow{position:absolute; top:-20px; right:90px; color:#fff;}
+#cboxPrevious{position:absolute; top:50%; left:5px; margin-top:-32px; background:url(../img/affiliate/controls.png) top left no-repeat; width:28px; height:65px; text-indent:-9999px;}
+#cboxPrevious.hover{background-position:bottom left;}
+#cboxNext{position:absolute; top:50%; right:5px; margin-top:-32px; background:url(../img/affiliate/controls.png) top right no-repeat; width:28px; height:65px; text-indent:-9999px;}
+#cboxNext.hover{background-position:bottom right;}
+#cboxLoadingOverlay{background:#000;}
+#cboxLoadingGraphic{background:url(../img/affiliate/loading.gif) center center no-repeat;}
+#cboxClose{position:absolute; top:5px; right:5px; display:block; background:url(../img/affiliate/controls.png) top center no-repeat; width:18px; height:18px; text-indent:-9999px;}
+/*--------------------------------------------------------*/
